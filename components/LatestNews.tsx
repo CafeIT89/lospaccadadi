@@ -1,26 +1,5 @@
-const news = [
-  {
-    category: "Crowdfunding",
-    title: "Una nuova campagna fantasy entra nel radar",
-    excerpt:
-      "Prime impressioni, punti di forza e aspetti da tenere d'occhio prima del pledge.",
-    gradient: "from-yellow-400/30 via-yellow-300/10 to-transparent",
-  },
-  {
-    category: "Dungeon Crawler",
-    title: "Il ritorno delle campagne narrative lunghe",
-    excerpt:
-      "Perché i giochi cooperativi a campagna continuano a conquistare il pubblico.",
-    gradient: "from-orange-400/25 via-yellow-300/10 to-transparent",
-  },
-  {
-    category: "Miniature",
-    title: "Quando le miniature migliorano davvero il gioco",
-    excerpt:
-      "Produzione spettacolare, ma anche leggibilità, atmosfera e presenza al tavolo.",
-    gradient: "from-amber-300/25 via-yellow-200/10 to-transparent",
-  },
-];
+import Link from "next/link";
+import { articles } from "@/data/articles";
 
 export default function LatestNews() {
   return (
@@ -37,25 +16,21 @@ export default function LatestNews() {
             </h2>
           </div>
 
-          <a
-            href="#"
+          <Link
+            href="/notizie"
             className="font-semibold text-primary transition hover:text-primary-hover"
           >
             Vedi tutte le notizie →
-          </a>
+          </Link>
         </div>
 
         <div className="mt-10 grid gap-6 lg:grid-cols-3">
-          {news.map((item) => (
+          {articles.slice(0, 3).map((item) => (
             <article
-              key={item.title}
-              className="group overflow-hidden rounded-3xl border border-brand-border bg-surface transition hover:-translate-y-1"
+              key={item.slug}
+              className="group overflow-hidden rounded-3xl border border-brand-border bg-surface transition hover:-translate-y-1 hover:border-primary"
             >
-              <div
-                className={`relative aspect-[16/9] overflow-hidden bg-gradient-to-br ${item.gradient}`}
-              >
-                <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(254,236,0,0.35),transparent_45%)]" />
-
+              <div className="relative aspect-[16/9] overflow-hidden bg-[radial-gradient(circle_at_top_right,rgba(254,236,0,0.35),transparent_45%)]">
                 <div className="absolute inset-0 flex items-center justify-center">
                   <span className="font-heading text-7xl text-primary/20">
                     LSD
@@ -76,12 +51,12 @@ export default function LatestNews() {
                   {item.excerpt}
                 </p>
 
-                <a
-                  href="#"
+                <Link
+                  href={`/notizie/${item.slug}`}
                   className="mt-6 inline-flex font-semibold text-primary transition group-hover:text-primary-hover"
                 >
                   Leggi la notizia →
-                </a>
+                </Link>
               </div>
             </article>
           ))}
