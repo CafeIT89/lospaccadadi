@@ -2,9 +2,6 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { articles } from "@/data/articles";
 
-
-const article = articles.find((item) => item.slug === slug);
-
 export default async function ArticlePage({
   params,
 }: {
@@ -22,6 +19,25 @@ export default async function ArticlePage({
       <article>
         <header className="border-b border-brand-border">
           <div className="mx-auto max-w-4xl px-6 py-20">
+            <nav className="mb-8 text-sm text-muted">
+              <Link href="/" className="transition hover:text-primary">
+                Home
+              </Link>
+
+              <span className="mx-2">/</span>
+
+              <Link
+                href="/notizie"
+                className="transition hover:text-primary"
+              >
+                Notizie
+              </Link>
+
+              <span className="mx-2">/</span>
+
+              <span className="text-white">{article.title}</span>
+            </nav>
+
             <span className="text-sm font-bold uppercase tracking-[0.2em] text-primary">
               {article.category}
             </span>
@@ -52,6 +68,38 @@ export default async function ArticlePage({
               <p key={paragraph}>{paragraph}</p>
             ))}
           </div>
+
+          <section className="mt-20 border-t border-brand-border pt-12">
+            <h2 className="font-heading text-3xl uppercase text-white">
+              Potrebbero interessarti
+            </h2>
+
+            <div className="mt-8 grid gap-6 md:grid-cols-2">
+              {articles
+                .filter((item) => item.slug !== article.slug)
+                .slice(0, 2)
+                .map((item) => (
+                  <Link
+                    key={item.slug}
+                    href={`/notizie/${item.slug}`}
+                    className="rounded-2xl border border-brand-border bg-surface p-6 transition hover:-translate-y-1 hover:border-primary"
+                  >
+                    <Link
+  href={`/categoria/${item.categorySlug}`}
+  className="text-sm font-bold uppercase tracking-[0.15em] text-primary transition hover:text-primary-hover"
+>
+  {item.category}
+</Link>
+
+                    <h3 className="mt-4 font-heading text-2xl uppercase text-white">
+                      {item.title}
+                    </h3>
+
+                    <p className="mt-3 text-muted">{item.excerpt}</p>
+                  </Link>
+                ))}
+            </div>
+          </section>
 
           <Link
             href="/notizie"
