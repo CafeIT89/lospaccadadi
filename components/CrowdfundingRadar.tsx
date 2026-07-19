@@ -5,6 +5,8 @@ const campaigns = [
     title: "Dungeon crawler fantasy",
     description:
       "Campagna cooperativa con miniature, progressione degli eroi e scenari narrativi.",
+    gradient: "from-yellow-400/35 via-yellow-300/10 to-transparent",
+    code: "DC",
   },
   {
     platform: "Kickstarter",
@@ -12,6 +14,8 @@ const campaigns = [
     title: "Boss battler oscuro",
     description:
       "Combattimenti contro boss, sviluppo del gruppo e forte componente tattica.",
+    gradient: "from-orange-400/30 via-yellow-300/10 to-transparent",
+    code: "BB",
   },
   {
     platform: "Gamefound",
@@ -19,6 +23,8 @@ const campaigns = [
     title: "Avventura sci-fi a campagna",
     description:
       "Esplorazione, scelte narrative e missioni collegate in un universo fantascientifico.",
+    gradient: "from-amber-300/30 via-yellow-200/10 to-transparent",
+    code: "SF",
   },
 ];
 
@@ -48,32 +54,44 @@ export default function CrowdfundingRadar() {
           {campaigns.map((campaign) => (
             <article
               key={campaign.title}
-              className="rounded-3xl border border-brand-border bg-background p-7 transition hover:-translate-y-1"
+              className="group overflow-hidden rounded-3xl border border-brand-border bg-background transition hover:-translate-y-1 hover:border-primary"
             >
-              <div className="flex items-center justify-between gap-4">
+              <div
+                className={`relative aspect-[16/9] overflow-hidden bg-gradient-to-br ${campaign.gradient}`}
+              >
+                <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(254,236,0,0.35),transparent_45%)]" />
+
+                <span className="absolute left-5 top-5 rounded-full bg-primary px-3 py-1 text-xs font-bold uppercase text-black">
+                  {campaign.status}
+                </span>
+
+                <div className="absolute inset-0 flex items-center justify-center">
+                  <span className="font-heading text-7xl text-primary/20">
+                    {campaign.code}
+                  </span>
+                </div>
+              </div>
+
+              <div className="p-7">
                 <span className="text-sm font-bold uppercase tracking-[0.15em] text-primary">
                   {campaign.platform}
                 </span>
 
-                <span className="rounded-full border border-brand-border px-3 py-1 text-xs font-semibold text-muted">
-                  {campaign.status}
-                </span>
+                <h3 className="mt-5 font-heading text-3xl uppercase leading-tight text-white">
+                  {campaign.title}
+                </h3>
+
+                <p className="mt-4 leading-7 text-muted">
+                  {campaign.description}
+                </p>
+
+                <a
+                  href="#"
+                  className="mt-6 inline-flex font-semibold text-primary transition group-hover:text-primary-hover"
+                >
+                  Scopri la campagna →
+                </a>
               </div>
-
-              <h3 className="mt-6 font-heading text-3xl uppercase leading-tight text-white">
-                {campaign.title}
-              </h3>
-
-              <p className="mt-4 leading-7 text-muted">
-                {campaign.description}
-              </p>
-
-              <a
-                href="#"
-                className="mt-6 inline-flex font-semibold text-primary transition hover:text-primary-hover"
-              >
-                Scopri la campagna →
-              </a>
             </article>
           ))}
         </div>
