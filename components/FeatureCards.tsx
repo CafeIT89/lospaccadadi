@@ -29,9 +29,9 @@ export default function FeatureCards() {
         {features.map((feature) => (
           <article
             key={feature.title}
-            className="rounded-2xl border border-zinc-800 bg-zinc-900 p-6"
+            className="rounded-2xl border border-brand-border bg-surface p-6 transition hover:-translate-y-1 hover:bg-surface-light"
           >
-            <span className="text-sm font-semibold text-orange-400">
+            <span className="text-sm font-semibold text-primary">
               {feature.label}
             </span>
 
@@ -41,7 +41,7 @@ export default function FeatureCards() {
 
             <a
               href="#"
-              className="mt-6 inline-block font-semibold text-orange-400 hover:text-orange-300"
+              className="mt-6 inline-block font-semibold text-primary transition hover:text-primary-hover"
             >
               {feature.link}
             </a>
