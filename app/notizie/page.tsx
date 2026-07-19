@@ -1,28 +1,6 @@
 import Link from "next/link";
-
-const news = [
-  {
-    slug: "nuova-campagna-fantasy",
-    category: "Crowdfunding",
-    title: "Una nuova campagna fantasy entra nel radar",
-    excerpt:
-      "Prime impressioni, punti di forza e aspetti da tenere d'occhio prima del pledge.",
-  },
-  {
-    slug: "campagne-narrative-lunghe",
-    category: "Dungeon Crawler",
-    title: "Il ritorno delle campagne narrative lunghe",
-    excerpt:
-      "Perché i giochi cooperativi a campagna continuano a conquistare il pubblico.",
-  },
-  {
-    slug: "miniature-e-gioco",
-    category: "Miniature",
-    title: "Quando le miniature migliorano davvero il gioco",
-    excerpt:
-      "Produzione spettacolare, ma anche leggibilità, atmosfera e presenza al tavolo.",
-  },
-];
+import CategoryBar from "@/components/CategoryBar";
+import { articles } from "@/data/articles";
 
 export default function NewsPage() {
   return (
@@ -44,16 +22,21 @@ export default function NewsPage() {
         </div>
       </section>
 
+      <CategoryBar />
+
       <section>
         <div className="mx-auto grid max-w-7xl gap-6 px-6 py-20 md:grid-cols-2 lg:grid-cols-3">
-          {news.map((item) => (
+          {articles.map((item) => (
             <article
               key={item.slug}
               className="rounded-3xl border border-brand-border bg-surface p-7 transition hover:-translate-y-1 hover:border-primary"
             >
-              <span className="text-sm font-bold uppercase tracking-[0.15em] text-primary">
+              <Link
+                href={`/categoria/${item.categorySlug}`}
+                className="text-sm font-bold uppercase tracking-[0.15em] text-primary transition hover:text-primary-hover"
+              >
                 {item.category}
-              </span>
+              </Link>
 
               <h2 className="mt-5 font-heading text-3xl uppercase leading-tight">
                 {item.title}

@@ -8,12 +8,11 @@ import Image from "next/image";
 export default function Navbar() {
   const [open, setOpen] = useState(false);
 
-  const links = [
-    { href: "#tg-ludico", label: "TG Ludico" },
-    { href: "#crowdfunding", label: "Crowdfunding" },
-    { href: "/notizie", label: "Notizie" },
-    { href: "#", label: "Recensioni" },
-  ];
+ const links = [
+  { href: "/tg-ludico", label: "TG Ludico" },
+  { href: "/notizie", label: "Notizie" },
+  { href: "/recensioni", label: "Recensioni" },
+];
 
   return (
     <header className="sticky top-0 z-50 border-b border-brand-border bg-background/90 backdrop-blur">
