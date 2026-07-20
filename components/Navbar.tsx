@@ -10,7 +10,7 @@ export default function Navbar() {
 
  const links = [
   { href: "/tg-ludico", label: "TG Ludico" },
-  { href: "/notizie", label: "Notizie" },
+  { href: "/settimanale", label: "Il Settimanale" },
   { href: "/recensioni", label: "Recensioni" },
 ];
 

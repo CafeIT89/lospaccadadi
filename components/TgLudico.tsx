@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function TgLudico() {
   return (
     <section
@@ -41,12 +43,12 @@ export default function TgLudico() {
             dimostrativo; in seguito collegheremo questa sezione ai dati reali.
           </p>
 
-          <a
-            href="#"
-            className="mt-8 inline-flex rounded-xl bg-primary px-6 py-3 font-bold text-black transition hover:bg-primary-hover"
+          <Link
+             href="/tg-ludico"
+              className="inline-flex rounded-xl bg-primary px-6 py-3 font-bold text-black transition hover:bg-primary-hover"
           >
             Leggi il TG Ludico
-          </a>
+          </Link>
         </article>
       </div>
     </section>

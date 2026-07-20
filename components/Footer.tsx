@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function Footer() {
   return (
     <footer className="border-t border-brand-border bg-black">
@@ -13,21 +15,21 @@ export default function Footer() {
         </div>
 
         <nav className="flex flex-wrap gap-5 text-sm text-zinc-300">
-          <a href="#" className="transition hover:text-primary">
+          <Link href="/#tg-ludico" className="transition hover:text-primary">
             TG Ludico
-          </a>
+          </Link>
 
-          <a href="#" className="transition hover:text-primary">
-            Crowdfunding
-          </a>
+          <Link href="/#crowdfunding" className="transition hover:text-primary">
+            Crowdfunding Radar
+          </Link>
 
-          <a href="#" className="transition hover:text-primary">
-            Giochi
-          </a>
+          <Link href="/recensioni" className="transition hover:text-primary">
+            Recensioni
+          </Link>
 
-          <a href="#" className="transition hover:text-primary">
+          <Link href="/chi-sono" className="transition hover:text-primary">
             Chi sono
-          </a>
+          </Link>
         </nav>
       </div>
 
