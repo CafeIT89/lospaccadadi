@@ -111,4 +111,27 @@ export const GAMEFOUND_PROJECTS: GamefoundProject[] = [
     creator: "dark-gate-games",
     slug: "echoes-of-arkham",
   },
+
+  // Nuove campagne
+
+  {
+    name: "Labyrinth",
+    creator: "awaken-realms",
+    slug: "labyrinth",
+  },
+  {
+    name: "Grimcoven",
+    creator: "awaken-realms",
+    slug: "grimcoven",
+  },
+  {
+    name: "Nemesis: Retaliation",
+    creator: "awaken-realms",
+    slug: "nemesis-retaliation",
+  },
+  {
+    name: "20 Strong: Awaken Realms – Nemesis",
+    creator: "chip-theory-games",
+    slug: "20-strong-awaken-realms-nemesis",
+  },
 ];
