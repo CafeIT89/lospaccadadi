@@ -11,8 +11,61 @@ export const metadata: Metadata = {
 
 export const revalidate = 3600;
 
+function formatRelativeDate(dateString: string) {
+  const publishedAt = new Date(dateString);
+  const now = new Date();
+
+  const differenceInMilliseconds =
+    now.getTime() - publishedAt.getTime();
+
+  const differenceInMinutes = Math.floor(
+    differenceInMilliseconds / (1000 * 60)
+  );
+
+  const differenceInHours = Math.floor(
+    differenceInMilliseconds / (1000 * 60 * 60)
+  );
+
+  const differenceInDays = Math.floor(
+    differenceInMilliseconds / (1000 * 60 * 60 * 24)
+  );
+
+  if (differenceInMinutes < 1) {
+    return "Adesso";
+  }
+
+  if (differenceInMinutes < 60) {
+    return `${differenceInMinutes} min fa`;
+  }
+
+  if (differenceInHours < 24) {
+    return `${differenceInHours} ${
+      differenceInHours === 1 ? "ora" : "ore"
+    } fa`;
+  }
+
+  if (differenceInDays === 1) {
+    return "Ieri";
+  }
+
+  if (differenceInDays < 7) {
+    return `${differenceInDays} giorni fa`;
+  }
+
+  return new Intl.DateTimeFormat("it-IT", {
+    day: "numeric",
+    month: "short",
+    year: "numeric",
+  }).format(publishedAt);
+}
+
 export default async function GamefoundPage() {
   const updates = await getLatestGamefoundUpdates(21);
+
+  const latestUpdate =
+    updates.length > 0
+      ? formatRelativeDate(updates[0].publishedAt)
+      : null;
 
   return (
     <main className="min-h-screen bg-[#050505] text-white">
@@ -30,6 +83,12 @@ export default async function GamefoundPage() {
             Gli ultimi aggiornamenti pubblicati dalle campagne Gamefound
             monitorate da Lo Spacca Dadi, ordinati dal più recente.
           </p>
+
+          {latestUpdate ? (
+            <p className="mt-4 text-sm font-semibold text-[#FEEC00]">
+              Ultimo aggiornamento: {latestUpdate}
+            </p>
+          ) : null}
         </div>
 
         {updates.length > 0 ? (

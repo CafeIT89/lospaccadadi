@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 import { GamefoundUpdateCard } from "./GamefoundUpdateCard";
 
 import { getLatestGamefoundUpdates } from "@/lib/gamefound-updates";
@@ -34,14 +36,23 @@ export async function GamefoundUpdatesSection() {
             </p>
           </div>
 
-          <a
-            href="https://gamefound.com"
-            target="_blank"
-            rel="noreferrer"
-            className="w-fit text-sm font-bold text-[#FEEC00] transition hover:text-white"
-          >
-            Visita Gamefound →
-          </a>
+          <div className="flex flex-wrap gap-3">
+            <Link
+              href="/gamefound"
+              className="inline-flex items-center rounded-full bg-[#FEEC00] px-5 py-3 text-sm font-bold text-black transition hover:scale-105 hover:bg-white"
+            >
+              Gli update più interessanti →
+            </Link>
+
+            <a
+              href="https://gamefound.com"
+              target="_blank"
+              rel="noreferrer"
+              className="inline-flex items-center rounded-full border border-[#FEEC00] px-5 py-3 text-sm font-bold text-[#FEEC00] transition hover:border-white hover:text-white"
+            >
+              Visita Gamefound ↗
+            </a>
+          </div>
         </div>
 
         <div className="grid gap-6 sm:grid-cols-2 xl:grid-cols-4">
