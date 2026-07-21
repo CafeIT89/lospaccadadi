@@ -51,28 +51,14 @@ export default function ChiSonoPage() {
 
               <p className="font-semibold text-white">
                 Buon gioco, Giocatori!
+
+                Per richieste commerciali, contattami al lospaccadadi@gmail.com
               </p>
             </div>
           </div>
         </div>
       </section>
 
-      <section>
-        <div className="mx-auto max-w-4xl px-6 py-20">
-          <p className="text-sm font-bold uppercase tracking-[0.2em] text-primary">
-            Contatti
-          </p>
-
-          <h2 className="mt-4 font-heading text-4xl uppercase text-white">
-            Richieste commerciali
-          </h2>
-
-          <p className="mt-4 text-muted">
-            Per collaborazioni, sponsorizzazioni o richieste di contatto,
-            compila il modulo qui sotto.
-          </p>
-        </div>
-      </section>
     </main>
   );
 }
