@@ -1,5 +1,6 @@
 import Hero from "@/components/Hero";
 import TgLudico from "@/components/TgLudico";
+import { GamefoundUpdatesSection } from "@/components/gamefound/GamefoundUpdatesSection";
 import Settimanale from "@/components/Settimanale";
 import CrowdfundingRadar from "@/components/CrowdfundingRadar";
 import Recensioni from "@/components/Recensioni";
@@ -15,6 +16,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-background text-white">
       <Hero />
+      <GamefoundUpdatesSection />
       <TgLudico />
       <Settimanale />
       <CrowdfundingRadar />
