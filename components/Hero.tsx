@@ -8,7 +8,7 @@ export default function Hero() {
       <div className="relative mx-auto grid min-h-[680px] max-w-7xl items-center gap-12 px-6 py-20 lg:grid-cols-2 lg:px-8">
         <div>
           <span className="inline-flex rounded-full border border-brand-border bg-primary/10 px-4 py-2 text-sm font-semibold uppercase tracking-[0.2em] text-primary">
-            IA per i giochi da tavolo
+            Al servizio dei giocatori
           </span>
 
           <h1 className="mt-8 max-w-3xl font-heading text-6xl uppercase leading-[0.95] tracking-tight text-white sm:text-7xl lg:text-8xl">
