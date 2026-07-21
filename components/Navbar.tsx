@@ -8,25 +8,26 @@ import Image from "next/image";
 export default function Navbar() {
   const [open, setOpen] = useState(false);
 
- const links = [
-  { href: "/tg-ludico", label: "TG Ludico" },
-  { href: "/settimanale", label: "Il Settimanale" },
-  { href: "/recensioni", label: "Recensioni" },
-];
+  const links = [
+    { href: "/tg-ludico", label: "TG Ludico" },
+    { href: "/settimanale", label: "Il Settimanale" },
+    { href: "/gamefound", label: "Gamefound Updates" },
+    { href: "/recensioni", label: "Recensioni" },
+  ];
 
   return (
     <header className="sticky top-0 z-50 border-b border-brand-border bg-background/90 backdrop-blur">
       <div className="mx-auto flex h-20 max-w-7xl items-center justify-between px-6">
         <Link href="/">
-  <Image
-  src="/logo-spaccadadi.png"
-  alt="Lo Spacca Dadi"
-  width={300}
-  height={100}
-  className="h-14 w-auto"
-  priority
-/>
-</Link>
+          <Image
+            src="/logo-spaccadadi.png"
+            alt="Lo Spacca Dadi"
+            width={300}
+            height={100}
+            className="h-14 w-auto"
+            priority
+          />
+        </Link>
 
         <nav className="hidden items-center gap-8 md:flex">
           {links.map((link) => (

@@ -1,14 +1,15 @@
 import Image from "next/image";
 import Link from "next/link";
+
 import { getRecensioni } from "@/lib/recensioni";
 
 export default async function Recensioni() {
   const videos = await getRecensioni();
-  const latestVideos = videos.slice(0, 3);
+  const latestVideos = videos.slice(0, 4);
 
   return (
     <section className="border-t border-brand-border bg-background">
-      <div className="mx-auto max-w-7xl px-6 py-20">
+      <div className="mx-auto max-w-7xl px-6 py-20 lg:px-8">
         <div className="flex flex-col gap-6 md:flex-row md:items-end md:justify-between">
           <div>
             <p className="text-sm font-bold uppercase tracking-[0.2em] text-primary">
@@ -26,7 +27,7 @@ export default async function Recensioni() {
 
           <Link
             href="/recensioni"
-            className="inline-flex w-fit items-center justify-center rounded-full bg-primary px-6 py-3 text-sm font-bold uppercase tracking-wide text-black transition hover:opacity-80"
+            className="inline-flex w-fit rounded-xl bg-primary px-6 py-3 font-bold text-black transition hover:bg-primary-hover"
           >
             Guarda tutte le recensioni
           </Link>
@@ -37,49 +38,45 @@ export default async function Recensioni() {
             Nessuna recensione disponibile.
           </p>
         ) : (
-          <div className="mt-12 grid gap-8 md:grid-cols-2 lg:grid-cols-3">
+          <div className="mt-12 grid gap-6 sm:grid-cols-2 xl:grid-cols-4">
             {latestVideos.map((video) => (
-              <article
+              <a
                 key={video.videoId}
-                className="overflow-hidden rounded-3xl border border-brand-border bg-surface"
+                href={video.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="group overflow-hidden rounded-3xl border border-brand-border bg-surface transition duration-300 hover:-translate-y-1 hover:border-primary"
               >
-                <a
-                  href={video.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
+                <div className="relative aspect-video overflow-hidden bg-black">
                   <Image
                     src={video.thumbnail}
                     alt={video.title}
-                    width={480}
-                    height={360}
-                    className="aspect-video w-full object-cover"
+                    fill
+                    sizes="(max-width: 640px) 100vw, (max-width: 1280px) 50vw, 25vw"
+                    className="object-cover transition duration-500 group-hover:scale-105"
                   />
-                </a>
 
-                <div className="p-6">
-                  <p className="text-sm font-bold uppercase tracking-[0.15em] text-primary">
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent opacity-0 transition group-hover:opacity-100" />
+                </div>
+
+                <div className="flex min-h-44 flex-col p-5">
+                  <p className="text-xs font-bold uppercase tracking-[0.18em] text-primary">
                     Recensione
                   </p>
 
-                  <h3 className="mt-4 font-heading text-2xl uppercase">
-                    <a
-                      href={video.url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="transition hover:text-primary"
-                    >
-                      {video.title}
-                    </a>
+                  <h3 className="mt-3 line-clamp-3 font-heading text-xl uppercase leading-tight text-white">
+                    {video.title}
                   </h3>
 
-                  {video.publishedAt && (
-                    <p className="mt-5 text-sm text-muted">
-                      {new Date(video.publishedAt).toLocaleDateString("it-IT")}
-                    </p>
-                  )}
+                  <p className="mt-auto pt-5 text-sm text-muted">
+                    {new Date(video.publishedAt).toLocaleDateString("it-IT", {
+                      day: "numeric",
+                      month: "long",
+                      year: "numeric",
+                    })}
+                  </p>
                 </div>
-              </article>
+              </a>
             ))}
           </div>
         )}
