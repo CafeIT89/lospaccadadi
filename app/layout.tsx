@@ -16,10 +16,74 @@ const inter = Inter({
   variable: "--font-body",
 });
 
+const siteUrl =
+  process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
+
 export const metadata: Metadata = {
-  title: "Lo Spacca Dadi",
+  metadataBase: new URL(siteUrl),
+
+  title: {
+    default: "Lo Spacca Dadi | Giochi da tavolo",
+    template: "%s | Lo Spacca Dadi",
+  },
+
   description:
-    "News, crowdfunding e intelligenza artificiale per il mondo dei giochi da tavolo.",
+    "Recensioni, tutorial, unboxing, notizie e campagne crowdfunding dedicate al mondo dei giochi da tavolo.",
+
+  keywords: [
+    "giochi da tavolo",
+    "recensioni giochi da tavolo",
+    "tutorial giochi da tavolo",
+    "unboxing giochi da tavolo",
+    "notizie giochi da tavolo",
+    "crowdfunding giochi da tavolo",
+    "board game",
+    "Lo Spacca Dadi",
+  ],
+
+  authors: [
+    {
+      name: "Lo Spacca Dadi",
+    },
+  ],
+
+  creator: "Lo Spacca Dadi",
+  publisher: "Lo Spacca Dadi",
+
+  alternates: {
+    canonical: "/",
+  },
+
+  openGraph: {
+    type: "website",
+    locale: "it_IT",
+    url: "/",
+    siteName: "Lo Spacca Dadi",
+    title: "Lo Spacca Dadi | Giochi da tavolo",
+    description:
+      "Recensioni, tutorial, unboxing, notizie e campagne crowdfunding dedicate al mondo dei giochi da tavolo.",
+    images: [
+      {
+        url: "/images/banner-youtube.png",
+        width: 2560,
+        height: 1440,
+        alt: "Lo Spacca Dadi",
+      },
+    ],
+  },
+
+  twitter: {
+    card: "summary_large_image",
+    title: "Lo Spacca Dadi | Giochi da tavolo",
+    description:
+      "Recensioni, tutorial, unboxing, notizie e crowdfunding sui giochi da tavolo.",
+    images: ["/images/banner-youtube.png"],
+  },
+
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export default function RootLayout({
@@ -28,14 +92,14 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html 
+    <html
       lang="it"
       className={`${anton.variable} ${inter.variable} h-full antialiased`}
     >
       <body className="min-h-full bg-black text-white font-[family-name:var(--font-body)]">
-         <Navbar />
+        <Navbar />
         {children}
-          <Footer />
+        <Footer />
       </body>
     </html>
   );

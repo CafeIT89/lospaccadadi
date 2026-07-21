@@ -3,7 +3,13 @@ import TgLudico from "@/components/TgLudico";
 import Settimanale from "@/components/Settimanale";
 import CrowdfundingRadar from "@/components/CrowdfundingRadar";
 import Recensioni from "@/components/Recensioni";
-import FeatureCards from "@/components/FeatureCards";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Home",
+  description:
+    "Lo Spacca Dadi: recensioni, tutorial, unboxing, TG Ludico e Crowdfunding Radar dedicati al mondo dei giochi da tavolo.",
+};
 
 export default function Home() {
   return (
@@ -13,7 +19,7 @@ export default function Home() {
       <Settimanale />
       <CrowdfundingRadar />
       <Recensioni />
-      <FeatureCards />
+     {/* <FeatureCards /> */}
     </main>
   );
 }

@@ -1,5 +1,12 @@
 import Image from "next/image";
 import { getSettimanaleVideos } from "@/lib/settimanale";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Il Settimanale",
+  description:
+    "Video settimanali dedicati ai giochi da tavolo, con approfondimenti, novità e consigli.",
+};
 
 export const revalidate = 3600;
 

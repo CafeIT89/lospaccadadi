@@ -1,34 +1,9 @@
-const campaigns = [
-  {
-    platform: "Gamefound",
-    status: "Live",
-    title: "Dungeon crawler fantasy",
-    description:
-      "Campagna cooperativa con miniature, progressione degli eroi e scenari narrativi.",
-    gradient: "from-yellow-400/35 via-yellow-300/10 to-transparent",
-    code: "DC",
-  },
-  {
-    platform: "Kickstarter",
-    status: "In arrivo",
-    title: "Boss battler oscuro",
-    description:
-      "Combattimenti contro boss, sviluppo del gruppo e forte componente tattica.",
-    gradient: "from-orange-400/30 via-yellow-300/10 to-transparent",
-    code: "BB",
-  },
-  {
-    platform: "Gamefound",
-    status: "Da seguire",
-    title: "Avventura sci-fi a campagna",
-    description:
-      "Esplorazione, scelte narrative e missioni collegate in un universo fantascientifico.",
-    gradient: "from-amber-300/30 via-yellow-200/10 to-transparent",
-    code: "SF",
-  },
-];
+import Image from "next/image";
+import { getGamefoundProjects } from "@/lib/gamefound";
 
-export default function CrowdfundingRadar() {
+export default async function CrowdfundingRadar() {
+  const campaigns = await getGamefoundProjects();
+
   return (
     <section
       id="crowdfunding"
@@ -45,56 +20,75 @@ export default function CrowdfundingRadar() {
           </h2>
 
           <p className="mt-6 text-lg leading-8 text-muted">
-            Una selezione dedicata a Gamefound e Kickstarter, con priorità a
-            dungeon crawler, boss battler, miniature e giochi narrativi.
+            Le campagne Gamefound più interessanti del momento, aggiornate
+            automaticamente.
           </p>
         </div>
 
-        <div className="mt-10 grid gap-6 lg:grid-cols-3">
-          {campaigns.map((campaign) => (
-            <article
-              key={campaign.title}
-              className="group overflow-hidden rounded-3xl border border-brand-border bg-background transition hover:-translate-y-1 hover:border-primary"
-            >
-              <div
-                className={`relative aspect-[16/9] overflow-hidden bg-gradient-to-br ${campaign.gradient}`}
+        {campaigns.length === 0 ? (
+          <p className="mt-10 text-lg text-muted">
+            Nessuna campagna disponibile.
+          </p>
+        ) : (
+          <div className="mt-10 grid gap-6 md:grid-cols-2 xl:grid-cols-4">
+            {campaigns.map((campaign) => (
+              <article
+                key={campaign.url}
+                className="group overflow-hidden rounded-3xl border border-brand-border bg-background transition hover:-translate-y-1 hover:border-primary"
               >
-                <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(254,236,0,0.35),transparent_45%)]" />
-
-                <span className="absolute left-5 top-5 rounded-full bg-primary px-3 py-1 text-xs font-bold uppercase text-black">
-                  {campaign.status}
-                </span>
-
-                <div className="absolute inset-0 flex items-center justify-center">
-                  <span className="font-heading text-7xl text-primary/20">
-                    {campaign.code}
-                  </span>
-                </div>
-              </div>
-
-              <div className="p-7">
-                <span className="text-sm font-bold uppercase tracking-[0.15em] text-primary">
-                  {campaign.platform}
-                </span>
-
-                <h3 className="mt-5 font-heading text-3xl uppercase leading-tight text-white">
-                  {campaign.title}
-                </h3>
-
-                <p className="mt-4 leading-7 text-muted">
-                  {campaign.description}
-                </p>
-
                 <a
-                  href="#"
-                  className="mt-6 inline-flex font-semibold text-primary transition group-hover:text-primary-hover"
+                  href={campaign.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
                 >
-                  Scopri la campagna →
+                  <Image
+                    src={campaign.image}
+                    alt={campaign.title}
+                    width={800}
+                    height={450}
+                    className="aspect-video w-full object-cover transition duration-300 group-hover:scale-105"
+                  />
                 </a>
-              </div>
-            </article>
-          ))}
-        </div>
+
+                <div className="p-6">
+                  <span className="text-sm font-bold uppercase tracking-[0.15em] text-primary">
+                    Gamefound
+                  </span>
+
+                  <h3 className="mt-4 font-heading text-2xl uppercase leading-tight text-white">
+                    {campaign.title}
+                  </h3>
+
+                  <p className="mt-4 line-clamp-4 text-sm leading-6 text-muted">
+                    {campaign.description}
+                  </p>
+
+                  <div className="mt-5 space-y-1 text-sm text-muted">
+                    <p>
+                      <strong>Raccolti:</strong>{" "}
+                      {campaign.raised.toLocaleString("it-IT")}{" "}
+                      {campaign.currency}
+                    </p>
+
+                    <p>
+                      <strong>Sostenitori:</strong>{" "}
+                      {campaign.backers.toLocaleString("it-IT")}
+                    </p>
+                  </div>
+
+                  <a
+                    href={campaign.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="mt-6 inline-flex font-semibold text-primary transition hover:text-primary-hover"
+                  >
+                    Vai alla campagna →
+                  </a>
+                </div>
+              </article>
+            ))}
+          </div>
+        )}
       </div>
     </section>
   );

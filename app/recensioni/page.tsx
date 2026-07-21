@@ -1,5 +1,12 @@
 import Image from "next/image";
 import { getRecensioni } from "@/lib/recensioni";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Recensioni",
+  description:
+    "Recensioni complete di giochi da tavolo, con impressioni, pro e contro e considerazioni finali.",
+};
 
 export const revalidate = 3600;
 

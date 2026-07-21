@@ -1,99 +1,222 @@
 import Parser from "rss-parser";
 
-const parser = new Parser();
+const parser = new Parser({
+  customFields: {
+    item: [
+      ["media:content", "mediaContent"],
+      ["media:thumbnail", "mediaThumbnail"],
+      ["content:encoded", "contentEncoded"],
+    ],
+  },
+});
 
-const sources = [
+type RawFeedItem = {
+  title?: string;
+  link?: string;
+  pubDate?: string;
+  isoDate?: string;
+  contentSnippet?: string;
+  content?: string;
+  contentEncoded?: string;
+  enclosure?: {
+    url?: string;
+  };
+  mediaContent?: {
+    $?: {
+      url?: string;
+    };
+  };
+  mediaThumbnail?: {
+    $?: {
+      url?: string;
+    };
+  };
+};
+
+export type TgLudicoItem = {
+  title: string;
+  link: string;
+  description: string;
+  date: string;
+  source: string;
+  image: string | null;
+};
+
+const FEEDS = [
   {
     name: "BoardGameWire",
     url: "https://boardgamewire.com/index.php/feed/",
   },
-];
+  {
+    name: "BoardGameGeek",
+    url: "https://boardgamegeek.com/rss/blog/1",
+  },
+  {
+    name: "Meeple Mountain",
+    url: "https://www.meeplemountain.com/feed/",
+  },
+] as const;
 
-export type TgNewsItem = {
-  title: string;
-  excerpt: string;
-  url: string;
-  source: string;
-  publishedAt: string;
-  score: number;
-};
-
-const importantKeywords = [
-  "kickstarter",
-  "gamefound",
-  "crowdfunding",
-  "asmodee",
-  "awards",
-  "announcement",
-  "release",
-  "expansion",
+const KEYWORDS = [
   "board game",
+  "boardgame",
+  "tabletop",
+  "gamefound",
+  "kickstarter",
+  "crowdfunding",
+  "publisher",
+  "designer",
+  "expansion",
+  "release",
+  "spiel des jahres",
+  "asmodee",
+  "game",
 ];
 
-function calculateScore(title: string, publishedAt?: string) {
-  const normalizedTitle = title.toLowerCase();
+function stripHtml(value = "") {
+  return value
+    .replace(/<[^>]*>/g, " ")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&amp;/g, "&")
+    .replace(/&#8217;/g, "’")
+    .replace(/&#8216;/g, "‘")
+    .replace(/&#8220;/g, "“")
+    .replace(/&#8221;/g, "”")
+    .replace(/\s+/g, " ")
+    .trim();
+}
 
-  const keywordScore = importantKeywords.reduce((score, keyword) => {
-    return normalizedTitle.includes(keyword) ? score + 10 : score;
+function getImage(item: RawFeedItem): string | null {
+  if (item.enclosure?.url) {
+    return item.enclosure.url;
+  }
+
+  if (item.mediaContent?.$?.url) {
+    return item.mediaContent.$.url;
+  }
+
+  if (item.mediaThumbnail?.$?.url) {
+    return item.mediaThumbnail.$.url;
+  }
+
+  const html = item.contentEncoded ?? item.content ?? "";
+  const match = html.match(/<img[^>]+src=["']([^"']+)["']/i);
+
+  return match?.[1] ?? null;
+}
+
+function getTimestamp(item: RawFeedItem) {
+  const value = item.isoDate ?? item.pubDate;
+
+  if (!value) {
+    return 0;
+  }
+
+  const timestamp = new Date(value).getTime();
+
+  return Number.isNaN(timestamp) ? 0 : timestamp;
+}
+
+function getScore(item: RawFeedItem) {
+  const text = `${item.title ?? ""} ${item.contentSnippet ?? ""}`.toLowerCase();
+
+  const keywordScore = KEYWORDS.reduce((score, keyword) => {
+    return text.includes(keyword) ? score + 2 : score;
   }, 0);
 
-  const publishedTime = publishedAt
-    ? new Date(publishedAt).getTime()
-    : 0;
+  const timestamp = getTimestamp(item);
+  const ageInHours = timestamp
+    ? (Date.now() - timestamp) / (1000 * 60 * 60)
+    : 9999;
 
-  const ageInHours =
-    (Date.now() - publishedTime) / (1000 * 60 * 60);
+  let freshnessScore = 0;
 
-  const freshnessScore = Math.max(0, 100 - ageInHours);
+  if (ageInHours <= 24) freshnessScore = 10;
+  else if (ageInHours <= 72) freshnessScore = 7;
+  else if (ageInHours <= 168) freshnessScore = 4;
+  else if (ageInHours <= 336) freshnessScore = 2;
 
   return keywordScore + freshnessScore;
 }
 
-export async function getTgLudicoNews(): Promise<TgNewsItem[]> {
-  const results = await Promise.allSettled(
-    sources.map(async (source) => {
-      const response = await fetch(source.url, {
-  next: { revalidate: 3600 },
-});
-
-if (!response.ok) {
-  throw new Error(`Errore nel caricamento di ${source.name}`);
+function normalizeTitle(title: string) {
+  return title
+    .toLowerCase()
+    .replace(/[^a-z0-9à-ÿ]+/gi, " ")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
-const xml = await response.text();
-const feed = await parser.parseString(xml);
+function removeDuplicates(items: TgLudicoItem[]) {
+  const seenLinks = new Set<string>();
+  const seenTitles = new Set<string>();
 
-      return feed.items.map((item) => {
-        const title = item.title ?? "Notizia senza titolo";
-        const publishedAt =
-          item.isoDate ??
-          item.pubDate ??
-          new Date().toISOString();
+  return items.filter((item) => {
+    const normalizedTitle = normalizeTitle(item.title);
+    const normalizedLink = item.link.split("?")[0].replace(/\/$/, "");
 
-        return {
-          title,
-          excerpt:
+    if (
+      seenLinks.has(normalizedLink) ||
+      seenTitles.has(normalizedTitle)
+    ) {
+      return false;
+    }
+
+    seenLinks.add(normalizedLink);
+    seenTitles.add(normalizedTitle);
+
+    return true;
+  });
+}
+
+async function readFeed(feed: (typeof FEEDS)[number]) {
+  try {
+    const result = await parser.parseURL(feed.url);
+
+    return (result.items as RawFeedItem[])
+      .filter((item) => item.title && item.link)
+      .map((item) => ({
+        raw: item,
+        article: {
+          title: stripHtml(item.title),
+          link: item.link as string,
+          description: stripHtml(
             item.contentSnippet ??
-            item.content ??
-            "Apri la notizia per leggere tutti i dettagli.",
-          url: item.link ?? "#",
-          source: source.name,
-          publishedAt,
-          score: calculateScore(title, publishedAt),
-        };
-      });
-    }),
-  );
+              item.content ??
+              item.contentEncoded ??
+              ""
+          ).slice(0, 240),
+          date:
+            item.isoDate ??
+            item.pubDate ??
+            new Date(0).toISOString(),
+          source: feed.name,
+          image: getImage(item),
+        } satisfies TgLudicoItem,
+      }));
+  } catch (error) {
+    console.error(`Errore nel feed ${feed.name}:`, error);
+    return [];
+  }
+}
 
-  const news = results.flatMap((result) =>
-    result.status === "fulfilled" ? result.value : [],
-  );
+export async function getTgLudicoNews(
+  limit = 5
+): Promise<TgLudicoItem[]> {
+  const feedResults = await Promise.all(FEEDS.map(readFeed));
 
-  const uniqueNews = Array.from(
-    new Map(news.map((item) => [item.url, item])).values(),
-  );
+  const rankedItems = feedResults
+    .flat()
+    .sort((a, b) => {
+      const scoreDifference = getScore(b.raw) - getScore(a.raw);
 
-  return uniqueNews
-    .sort((a, b) => b.score - a.score)
-    .slice(0, 5);
+      if (scoreDifference !== 0) {
+        return scoreDifference;
+      }
+
+      return getTimestamp(b.raw) - getTimestamp(a.raw);
+    })
+    .map((entry) => entry.article);
+
+  return removeDuplicates(rankedItems).slice(0, limit);
 }
