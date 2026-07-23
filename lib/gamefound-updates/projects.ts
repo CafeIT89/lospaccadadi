@@ -144,4 +144,9 @@ export const GAMEFOUND_PROJECTS: GamefoundProject[] = [
   creator: "awaken-realms",
   slug: "below-asylum",
 },
+{
+  name: "Blood",
+  creator: "lms",
+  slug: "blood_lms",
+},
 ];
