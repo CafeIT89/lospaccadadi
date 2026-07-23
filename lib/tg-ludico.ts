@@ -2,7 +2,10 @@ import "server-only";
 
 import OpenAI from "openai";
 import Parser from "rss-parser";
-import { unstable_noStore as noStore } from "next/cache";
+import { createHash } from "node:crypto";
+import { unstable_cache } from "next/cache";
+
+import { redis } from "@/lib/redis";
 
 const parser = new Parser({
   customFields: {
@@ -81,6 +84,9 @@ const KEYWORDS = [
   "asmodee",
   "game",
 ];
+
+const CACHE_DURATION_SECONDS = 60 * 30;
+const TRANSLATION_CACHE_VERSION = "v1";
 
 function stripHtml(value = "") {
   return value
@@ -252,21 +258,83 @@ function parseTranslatedArticle(
   }
 }
 
-async function translateArticle(
+function getTranslationCacheKey(link: string) {
+  const normalizedLink = link.split("?")[0].replace(/\/$/, "");
+
+  const hash = createHash("sha256")
+    .update(normalizedLink)
+    .digest("hex");
+
+  return `tg-ludico:translation:${TRANSLATION_CACHE_VERSION}:${hash}`;
+}
+
+async function getStoredTranslation(
+  link: string
+): Promise<TranslatedArticle | null> {
+  const key = getTranslationCacheKey(link);
+
+  try {
+    const storedTranslation =
+      await redis.get<TranslatedArticle>(key);
+
+    if (
+      storedTranslation &&
+      typeof storedTranslation.title === "string" &&
+      typeof storedTranslation.description === "string"
+    ) {
+      console.log(
+        `[TG Ludico] Traduzione recuperata da Redis: ${link}`
+      );
+
+      return storedTranslation;
+    }
+
+    return null;
+  } catch (error) {
+    console.error(
+      `[TG Ludico] Errore durante la lettura da Redis: ${link}`,
+      error
+    );
+
+    return null;
+  }
+}
+
+async function saveTranslation(
+  link: string,
+  originalTitle: string,
+  translation: Pick<TranslatedArticle, "title" | "description">
+) {
+  const key = getTranslationCacheKey(link);
+
+  const storedTranslation = {
+    version: 1,
+    model: "gpt-5-mini",
+    translatedAt: new Date().toISOString(),
+    originalTitle,
+    title: translation.title,
+    description: translation.description,
+  };
+
+  try {
+    await redis.set(key, storedTranslation);
+
+    console.log(
+      `[TG Ludico] Traduzione salvata su Redis: ${link}`
+    );
+  } catch (error) {
+    console.error(
+      `[TG Ludico] Errore durante il salvataggio su Redis: ${link}`,
+      error
+    );
+  }
+}
+
+async function requestTranslationFromOpenAI(
   title: string,
   description: string
 ): Promise<TranslatedArticle> {
-  if (!title.trim() && !description.trim()) {
-    return {
-      title,
-      description,
-    };
-  }
-
   const apiKey = process.env.OPENAI_API_KEY;
-
-  console.log("[TG Ludico] Traduzione richiesta:", title);
-  console.log("[TG Ludico] Chiave OpenAI presente:", Boolean(apiKey));
 
   if (!apiKey) {
     console.error(
@@ -283,6 +351,8 @@ async function translateArticle(
     const openai = new OpenAI({
       apiKey,
     });
+
+    console.log(`[TG Ludico] Chiamata OpenAI: ${title}`);
 
     const response = await openai.responses.create({
       model: "gpt-5-mini",
@@ -332,9 +402,6 @@ ${description}
       `.trim(),
     });
 
-    console.log("[TG Ludico] Stato OpenAI:", response.status);
-    console.log("[TG Ludico] Risposta ricevuta:", response.output_text);
-
     if (!response.output_text.trim()) {
       console.error(
         `[TG Ludico] OpenAI non ha prodotto testo per "${title}".`,
@@ -369,22 +436,55 @@ ${description}
   }
 }
 
+async function translateArticle(
+  article: TgLudicoItem
+): Promise<TgLudicoItem> {
+  const storedTranslation = await getStoredTranslation(article.link);
+
+  if (storedTranslation) {
+    return {
+      ...article,
+      title: storedTranslation.title,
+      description: storedTranslation.description,
+    };
+  }
+
+  const translation = await requestTranslationFromOpenAI(
+    article.title,
+    article.description
+  );
+
+  const translationWasSuccessful =
+    translation.title !== article.title ||
+    translation.description !== article.description;
+
+ if (translationWasSuccessful) {
+  await saveTranslation(
+    article.link,
+    article.title,
+    translation
+  );
+} else {
+    console.warn(
+      `[TG Ludico] Traduzione non salvata perché coincide con il testo originale: ${article.link}`
+    );
+  }
+
+  return {
+    ...article,
+    title: translation.title,
+    description: translation.description,
+  };
+}
+
 async function translateArticles(
   articles: TgLudicoItem[]
 ): Promise<TgLudicoItem[]> {
   const translatedArticles: TgLudicoItem[] = [];
 
   for (const article of articles) {
-    const translation = await translateArticle(
-      article.title,
-      article.description
-    );
-
-    translatedArticles.push({
-      ...article,
-      title: translation.title,
-      description: translation.description,
-    });
+    const translatedArticle = await translateArticle(article);
+    translatedArticles.push(translatedArticle);
   }
 
   return translatedArticles;
@@ -422,12 +522,12 @@ async function readFeed(feed: (typeof FEEDS)[number]) {
   }
 }
 
-export async function getTgLudicoNews(
-  limit = 5
+async function buildTgLudicoNews(
+  limit: number
 ): Promise<TgLudicoItem[]> {
-  noStore();
-
-  console.log("[TG Ludico] Recupero delle notizie iniziato.");
+  console.log(
+    "[TG Ludico] Cache Next.js scaduta: controllo dei feed avviato."
+  );
 
   const feedResults = await Promise.all(FEEDS.map(readFeed));
 
@@ -453,5 +553,26 @@ export async function getTgLudicoNews(
     `[TG Ludico] Notizie selezionate: ${selectedArticles.length}`
   );
 
-  return translateArticles(selectedArticles);
+  const translatedArticles = await translateArticles(selectedArticles);
+
+  console.log(
+    "[TG Ludico] Aggiornamento completato e salvato nella cache Next.js."
+  );
+
+  return translatedArticles;
+}
+
+const getCachedTgLudicoNews = unstable_cache(
+  async (limit: number) => buildTgLudicoNews(limit),
+  ["tg-ludico-news-v2"],
+  {
+    revalidate: CACHE_DURATION_SECONDS,
+    tags: ["tg-ludico-news"],
+  }
+);
+
+export async function getTgLudicoNews(
+  limit = 5
+): Promise<TgLudicoItem[]> {
+  return getCachedTgLudicoNews(limit);
 }
