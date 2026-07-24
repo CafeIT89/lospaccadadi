@@ -1,8 +1,49 @@
 import Link from "next/link";
 import { getTgLudicoNews } from "@/lib/tg-ludico";
 
+const TITLE_MAX_LENGTH = 72;
+
+function slugify(value: string): string {
+  return value
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .trim()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
+function truncateTitle(
+  value: string,
+  maxLength = TITLE_MAX_LENGTH
+): string {
+  const normalizedValue = value
+    .replace(/\s+/g, " ")
+    .trim();
+
+  if (normalizedValue.length <= maxLength) {
+    return normalizedValue;
+  }
+
+  const availableLength = maxLength - 1;
+  const shortenedValue = normalizedValue.slice(
+    0,
+    availableLength
+  );
+
+  const lastSpaceIndex =
+    shortenedValue.lastIndexOf(" ");
+
+  const cleanValue =
+    lastSpaceIndex > 0
+      ? shortenedValue.slice(0, lastSpaceIndex)
+      : shortenedValue;
+
+  return `${cleanValue.replace(/[,:;.!?–—-]+$/g, "")}…`;
+}
+
 export default async function TgLudico() {
-  const news = await getTgLudicoNews(4);
+  const news = await getTgLudicoNews(5);
 
   return (
     <section
@@ -17,12 +58,16 @@ export default async function TgLudico() {
 
           <h2 className="mt-4 font-heading text-4xl uppercase leading-tight text-white md:text-6xl">
             Le notizie più importanti,
-            <span className="text-primary"> senza rumore.</span>
+            <span className="text-primary">
+              {" "}
+              senza rumore.
+            </span>
           </h2>
 
           <p className="mt-6 text-lg leading-8 text-muted">
-            Le ultime notizie dal mondo dei giochi da tavolo, selezionate e
-            aggiornate automaticamente da più fonti.
+            Le ultime notizie dal mondo dei giochi da
+            tavolo, selezionate e aggiornate
+            automaticamente da più fonti.
           </p>
         </div>
 
@@ -31,51 +76,63 @@ export default async function TgLudico() {
             Nessuna notizia disponibile.
           </p>
         ) : (
-          <div className="mt-10 grid gap-6 md:grid-cols-2 xl:grid-cols-4">
-            {news.map((item) => (
-              <article
-                key={item.link}
-                className="group flex flex-col rounded-3xl border border-brand-border bg-surface p-6 transition hover:-translate-y-1 hover:border-primary"
-              >
-                <div className="flex items-center justify-between gap-3">
-                  <span className="text-sm font-bold uppercase tracking-[0.15em] text-primary">
-                    {item.source}
-                  </span>
+          <div className="mt-10 grid gap-6 md:grid-cols-2 xl:grid-cols-5">
+            {news.map((item) => {
+              const articleId = slugify(item.title);
+              const displayedTitle =
+                truncateTitle(item.title);
 
-                  <time dateTime={item.date} className="text-xs text-muted">
-                    {new Date(item.date).toLocaleDateString("it-IT", {
-                      day: "2-digit",
-                      month: "short",
-                    })}
-                  </time>
-                </div>
-
-                <h3 className="mt-5 font-heading text-2xl uppercase leading-tight text-white">
-                  {item.title}
-                </h3>
-
-                {item.description && (
-                  <p className="mt-4 line-clamp-5 text-sm leading-6 text-muted">
-                    {item.description}
-                  </p>
-                )}
-
-                <a
-                  href={item.link}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="mt-auto inline-flex pt-6 font-semibold text-primary transition hover:text-primary-hover"
+              return (
+                <article
+                  key={item.link}
+                  className="group flex flex-col rounded-3xl border border-brand-border bg-surface p-6 transition hover:-translate-y-1 hover:border-primary"
                 >
-                  Leggi la notizia →
-                </a>
-              </article>
-            ))}
+                  <div className="flex items-center justify-between gap-3">
+                    <span className="text-sm font-bold uppercase tracking-[0.15em] text-primary">
+                      {item.source}
+                    </span>
+
+                    <time
+                      dateTime={item.date}
+                      className="text-xs text-muted"
+                    >
+                      {new Date(
+                        item.date
+                      ).toLocaleDateString("it-IT", {
+                        day: "2-digit",
+                        month: "short",
+                      })}
+                    </time>
+                  </div>
+
+                  <h3
+                    className="mt-5 min-h-[5.75rem] font-heading text-2xl uppercase leading-tight text-white"
+                    title={item.title}
+                  >
+                    {displayedTitle}
+                  </h3>
+
+                  {item.description ? (
+                    <p className="mt-4 line-clamp-5 text-sm leading-6 text-muted">
+                      {item.description}
+                    </p>
+                  ) : null}
+
+                  <Link
+                    href={`/tg-ludico-preview#${articleId}`}
+                    className="mt-auto inline-flex pt-6 font-semibold text-primary transition hover:text-primary-hover"
+                  >
+                    Leggi la notizia →
+                  </Link>
+                </article>
+              );
+            })}
           </div>
         )}
 
         <div className="mt-10">
           <Link
-            href="/tg-ludico"
+            href="/tg-ludico-preview"
             className="inline-flex rounded-xl bg-primary px-6 py-3 font-bold text-black transition hover:bg-primary-hover"
           >
             Leggi tutto il TG Ludico

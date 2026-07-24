@@ -5,7 +5,19 @@ import Parser from "rss-parser";
 import { createHash } from "node:crypto";
 import { unstable_cache } from "next/cache";
 
+import {
+  getTgLudicoCategory,
+  getTgLudicoCategoryWeight,
+  type TgLudicoCategory,
+} from "@/lib/tg-ludico-categories";
 import { redis } from "@/lib/redis";
+import type {
+  RawFeedItem,
+  TgLudicoItem,
+  TranslatedArticle,
+} from "@/lib/tg-ludico-types";
+
+export type { TgLudicoItem } from "@/lib/tg-ludico-types";
 
 const parser = new Parser({
   customFields: {
@@ -16,43 +28,6 @@ const parser = new Parser({
     ],
   },
 });
-
-type RawFeedItem = {
-  title?: string;
-  link?: string;
-  pubDate?: string;
-  isoDate?: string;
-  contentSnippet?: string;
-  content?: string;
-  contentEncoded?: string;
-  enclosure?: {
-    url?: string;
-  };
-  mediaContent?: {
-    $?: {
-      url?: string;
-    };
-  };
-  mediaThumbnail?: {
-    $?: {
-      url?: string;
-    };
-  };
-};
-
-export type TgLudicoItem = {
-  title: string;
-  link: string;
-  description: string;
-  date: string;
-  source: string;
-  image: string | null;
-};
-
-type TranslatedArticle = {
-  title: string;
-  description: string;
-};
 
 const FEEDS = [
   {
@@ -66,6 +41,14 @@ const FEEDS = [
   {
     name: "Meeple Mountain",
     url: "https://www.meeplemountain.com/feed/",
+  },
+  {
+    name: "Board Game Quest",
+    url: "https://www.boardgamequest.com/feed/",
+  },
+  {
+    name: "Board Game Beat",
+    url: "https://www.wericmartin.com/rss/",
   },
 ] as const;
 
@@ -125,7 +108,10 @@ function getImage(item: RawFeedItem): string | null {
   }
 
   const html = item.contentEncoded ?? item.content ?? "";
-  const match = html.match(/<img[^>]+src=["']([^"']+)["']/i);
+
+  const match = html.match(
+    /<img[^>]+src=["']([^"']+)["']/i
+  );
 
   return match?.[1] ?? null;
 }
@@ -142,7 +128,10 @@ function getTimestamp(item: RawFeedItem) {
   return Number.isNaN(timestamp) ? 0 : timestamp;
 }
 
-function getScore(item: RawFeedItem) {
+function getScore(
+  item: RawFeedItem,
+  category: TgLudicoCategory
+) {
   const text = `${item.title ?? ""} ${
     item.contentSnippet ?? ""
   }`.toLowerCase();
@@ -164,7 +153,10 @@ function getScore(item: RawFeedItem) {
   else if (ageInHours <= 168) freshnessScore = 4;
   else if (ageInHours <= 336) freshnessScore = 2;
 
-  return keywordScore + freshnessScore;
+  const categoryScore =
+    getTgLudicoCategoryWeight(category);
+
+  return keywordScore + freshnessScore + categoryScore;
 }
 
 function normalizeTitle(title: string) {
@@ -181,7 +173,10 @@ function removeDuplicates(items: TgLudicoItem[]) {
 
   return items.filter((item) => {
     const normalizedTitle = normalizeTitle(item.title);
-    const normalizedLink = item.link.split("?")[0].replace(/\/$/, "");
+
+    const normalizedLink = item.link
+      .split("?")[0]
+      .replace(/\/$/, "");
 
     if (
       seenLinks.has(normalizedLink) ||
@@ -197,99 +192,66 @@ function removeDuplicates(items: TgLudicoItem[]) {
   });
 }
 
-function extractJsonObject(value: string): string | null {
-  const cleaned = value
-    .replace(/^```json\s*/i, "")
-    .replace(/^```\s*/i, "")
-    .replace(/\s*```$/i, "")
-    .trim();
-
-  const firstBrace = cleaned.indexOf("{");
-  const lastBrace = cleaned.lastIndexOf("}");
-
-  if (firstBrace === -1 || lastBrace === -1) {
-    return null;
-  }
-
-  return cleaned.slice(firstBrace, lastBrace + 1);
-}
-
-function parseTranslatedArticle(
-  value: string,
-  fallbackTitle: string,
-  fallbackDescription: string
-): TranslatedArticle {
-  const jsonObject = extractJsonObject(value);
-
-  if (!jsonObject) {
-    return {
-      title: fallbackTitle,
-      description: fallbackDescription,
-    };
-  }
-
-  try {
-    const parsed = JSON.parse(jsonObject) as Partial<TranslatedArticle>;
-
-    const title =
-      typeof parsed.title === "string"
-        ? cleanText(parsed.title, 180)
-        : "";
-
-    const description =
-      typeof parsed.description === "string"
-        ? cleanText(parsed.description, 360)
-        : "";
-
-    return {
-      title: title || fallbackTitle,
-      description: description || fallbackDescription,
-    };
-  } catch (error) {
-    console.error(
-      "[TG Ludico] Impossibile interpretare il JSON di OpenAI:",
-      error
-    );
-
-    return {
-      title: fallbackTitle,
-      description: fallbackDescription,
-    };
-  }
-}
-
 function getTranslationCacheKey(link: string) {
-  const normalizedLink = link.split("?")[0].replace(/\/$/, "");
-
   const hash = createHash("sha256")
-    .update(normalizedLink)
+    .update(link)
     .digest("hex");
 
   return `tg-ludico:translation:${TRANSLATION_CACHE_VERSION}:${hash}`;
 }
 
+function parseTranslatedArticle(
+  value: unknown
+): TranslatedArticle | null {
+  if (!value || typeof value !== "object") {
+    return null;
+  }
+
+  const candidate = value as Record<string, unknown>;
+
+  if (
+    typeof candidate.title !== "string" ||
+    typeof candidate.description !== "string"
+  ) {
+    return null;
+  }
+
+  const title = cleanText(candidate.title, 220);
+  const description = cleanText(
+    candidate.description,
+    700
+  );
+
+  if (!title || !description) {
+    return null;
+  }
+
+  return {
+    title,
+    description,
+  };
+}
+
 async function getStoredTranslation(
   link: string
 ): Promise<TranslatedArticle | null> {
-  const key = getTranslationCacheKey(link);
-
   try {
-    const storedTranslation =
-      await redis.get<TranslatedArticle>(key);
+    const cacheKey = getTranslationCacheKey(link);
 
-    if (
-      storedTranslation &&
-      typeof storedTranslation.title === "string" &&
-      typeof storedTranslation.description === "string"
-    ) {
+    const storedValue = await redis.get<unknown>(
+      cacheKey
+    );
+
+    const translation =
+      parseTranslatedArticle(storedValue);
+
+    if (translation) {
       console.log(
         `[TG Ludico] Traduzione recuperata da Redis: ${link}`
       );
-
-      return storedTranslation;
     }
 
-    return null;
+    return translation;
   } catch (error) {
     console.error(
       `[TG Ludico] Errore durante la lettura da Redis: ${link}`,
@@ -303,28 +265,24 @@ async function getStoredTranslation(
 async function saveTranslation(
   link: string,
   originalTitle: string,
-  translation: Pick<TranslatedArticle, "title" | "description">
+  translation: TranslatedArticle
 ) {
-  const key = getTranslationCacheKey(link);
-
-  const storedTranslation = {
-    version: 1,
-    model: "gpt-5-mini",
-    translatedAt: new Date().toISOString(),
-    originalTitle,
-    title: translation.title,
-    description: translation.description,
-  };
-
   try {
-    await redis.set(key, storedTranslation);
+    const cacheKey = getTranslationCacheKey(link);
+
+    await redis.set(cacheKey, {
+      title: translation.title,
+      description: translation.description,
+      originalTitle,
+      translatedAt: new Date().toISOString(),
+    });
 
     console.log(
-      `[TG Ludico] Traduzione salvata su Redis: ${link}`
+      `[TG Ludico] Traduzione salvata in Redis: ${link}`
     );
   } catch (error) {
     console.error(
-      `[TG Ludico] Errore durante il salvataggio su Redis: ${link}`,
+      `[TG Ludico] Errore durante il salvataggio in Redis: ${link}`,
       error
     );
   }
@@ -337,8 +295,8 @@ async function requestTranslationFromOpenAI(
   const apiKey = process.env.OPENAI_API_KEY;
 
   if (!apiKey) {
-    console.error(
-      "[TG Ludico] OPENAI_API_KEY non è disponibile nell'ambiente server."
+    console.warn(
+      "[TG Ludico] OPENAI_API_KEY non configurata. Uso il testo originale."
     );
 
     return {
@@ -347,85 +305,56 @@ async function requestTranslationFromOpenAI(
     };
   }
 
+  const openai = new OpenAI({
+    apiKey,
+  });
+
   try {
-    const openai = new OpenAI({
-      apiKey,
-    });
-
-    console.log(`[TG Ludico] Chiamata OpenAI: ${title}`);
-
-    const response = await openai.responses.create({
+    const response = await openai.chat.completions.create({
       model: "gpt-5-mini",
-      reasoning: {
-        effort: "minimal",
+      messages: [
+        {
+          role: "system",
+          content:
+            "Traduci notizie sui giochi da tavolo dall'inglese all'italiano. Mantieni nomi propri, titoli dei giochi, aziende e termini ufficiali invariati. Scrivi in italiano naturale e giornalistico. Non aggiungere informazioni. Rispondi esclusivamente con un oggetto JSON contenente le proprietà title e description.",
+        },
+        {
+          role: "user",
+          content: JSON.stringify({
+            title,
+            description,
+          }),
+        },
+      ],
+      response_format: {
+        type: "json_object",
       },
-      store: false,
-      max_output_tokens: 500,
-      instructions: `
-Sei il redattore del TG Ludico, una sezione italiana dedicata
-alle notizie sui giochi da tavolo.
-
-Devi tradurre in italiano il titolo e tradurre e riassumere
-la descrizione ricevuta.
-
-Regole obbligatorie:
-- restituisci esclusivamente un oggetto JSON valido;
-- il JSON deve contenere soltanto le proprietà "title" e "description";
-- non usare Markdown;
-- non aggiungere testo prima o dopo il JSON;
-- scrivi titolo e descrizione esclusivamente in italiano;
-- mantieni invariati i nomi propri;
-- mantieni invariati i titoli ufficiali dei giochi;
-- mantieni invariati i nomi di aziende, autori e piattaforme;
-- traduci le parole descrittive presenti nel titolo;
-- rendi il titolo naturale, chiaro e giornalistico;
-- non creare un titolo sensazionalistico;
-- la descrizione deve essere composta da una o due frasi;
-- la descrizione non deve superare indicativamente 320 caratteri;
-- non inventare informazioni;
-- non aggiungere commenti o valutazioni;
-- non iniziare la descrizione con "L'articolo parla di",
-  "La notizia riguarda" o formule simili.
-
-Formato obbligatorio:
-{
-  "title": "Titolo italiano",
-  "description": "Descrizione italiana"
-}
-      `.trim(),
-      input: `
-Titolo originale:
-${title}
-
-Descrizione originale:
-${description}
-      `.trim(),
     });
 
-    if (!response.output_text.trim()) {
-      console.error(
-        `[TG Ludico] OpenAI non ha prodotto testo per "${title}".`,
-        {
-          status: response.status,
-          usage: response.usage,
-          output: response.output,
-        }
-      );
+    const content =
+      response.choices[0]?.message?.content;
 
-      return {
-        title,
-        description,
-      };
+    if (!content) {
+      throw new Error(
+        "OpenAI non ha restituito alcun contenuto."
+      );
     }
 
-    return parseTranslatedArticle(
-      response.output_text,
-      title,
-      description
-    );
+    const parsedValue: unknown = JSON.parse(content);
+
+    const translation =
+      parseTranslatedArticle(parsedValue);
+
+    if (!translation) {
+      throw new Error(
+        "La risposta di OpenAI non contiene title e description validi."
+      );
+    }
+
+    return translation;
   } catch (error) {
     console.error(
-      `[TG Ludico] Errore OpenAI durante la traduzione di "${title}":`,
+      `[TG Ludico] Errore durante la traduzione OpenAI: ${title}`,
       error
     );
 
@@ -436,45 +365,56 @@ ${description}
   }
 }
 
-async function translateArticle(
-  article: TgLudicoItem
-): Promise<TgLudicoItem> {
-  const storedTranslation = await getStoredTranslation(article.link);
+async function readFeed(feed: (typeof FEEDS)[number]) {
+  try {
+    const result = await parser.parseURL(feed.url);
 
-  if (storedTranslation) {
-    return {
-      ...article,
-      title: storedTranslation.title,
-      description: storedTranslation.description,
-    };
-  }
+    return (result.items as RawFeedItem[])
+      .filter((item) => item.title && item.link)
+      .map((item) => {
+        const title = stripHtml(item.title);
 
-  const translation = await requestTranslationFromOpenAI(
-    article.title,
-    article.description
-  );
+        const description = stripHtml(
+          item.contentSnippet ??
+            item.content ??
+            item.contentEncoded ??
+            ""
+        ).slice(0, 500);
+        const sourceText = stripHtml(
+  item.contentEncoded ??
+    item.content ??
+    item.contentSnippet ??
+    ""
+).slice(0, 5000);
 
-  const translationWasSuccessful =
-    translation.title !== article.title ||
-    translation.description !== article.description;
-
- if (translationWasSuccessful) {
-  await saveTranslation(
-    article.link,
-    article.title,
-    translation
-  );
-} else {
-    console.warn(
-      `[TG Ludico] Traduzione non salvata perché coincide con il testo originale: ${article.link}`
+        return {
+          raw: item,
+          article: {
+            title,
+            link: item.link as string,
+            description,
+            sourceText,
+            date:
+              item.isoDate ??
+              item.pubDate ??
+              new Date(0).toISOString(),
+            source: feed.name,
+            image: getImage(item),
+            category: getTgLudicoCategory(
+              title,
+              description
+            ),
+          } satisfies TgLudicoItem,
+        };
+      });
+  } catch (error) {
+    console.error(
+      `[TG Ludico] Errore nel feed ${feed.name}:`,
+      error
     );
-  }
 
-  return {
-    ...article,
-    title: translation.title,
-    description: translation.description,
-  };
+    return [];
+  }
 }
 
 async function translateArticles(
@@ -483,43 +423,49 @@ async function translateArticles(
   const translatedArticles: TgLudicoItem[] = [];
 
   for (const article of articles) {
-    const translatedArticle = await translateArticle(article);
-    translatedArticles.push(translatedArticle);
+    const storedTranslation =
+      await getStoredTranslation(article.link);
+
+    if (storedTranslation) {
+      translatedArticles.push({
+        ...article,
+        title: storedTranslation.title,
+        description: storedTranslation.description,
+      });
+
+      continue;
+    }
+
+    const translation =
+      await requestTranslationFromOpenAI(
+        article.title,
+        article.description
+      );
+
+    const translationWasSuccessful =
+      translation.title !== article.title ||
+      translation.description !== article.description;
+
+    if (translationWasSuccessful) {
+      await saveTranslation(
+        article.link,
+        article.title,
+        translation
+      );
+    } else {
+      console.warn(
+        `[TG Ludico] Traduzione non salvata perché coincide con il testo originale: ${article.link}`
+      );
+    }
+
+    translatedArticles.push({
+      ...article,
+      title: translation.title,
+      description: translation.description,
+    });
   }
 
   return translatedArticles;
-}
-
-async function readFeed(feed: (typeof FEEDS)[number]) {
-  try {
-    const result = await parser.parseURL(feed.url);
-
-    return (result.items as RawFeedItem[])
-      .filter((item) => item.title && item.link)
-      .map((item) => ({
-        raw: item,
-        article: {
-          title: stripHtml(item.title),
-          link: item.link as string,
-          description: stripHtml(
-            item.contentSnippet ??
-              item.content ??
-              item.contentEncoded ??
-              ""
-          ).slice(0, 500),
-          date:
-            item.isoDate ??
-            item.pubDate ??
-            new Date(0).toISOString(),
-          source: feed.name,
-          image: getImage(item),
-        } satisfies TgLudicoItem,
-      }));
-  } catch (error) {
-    console.error(`[TG Ludico] Errore nel feed ${feed.name}:`, error);
-
-    return [];
-  }
 }
 
 async function buildTgLudicoNews(
@@ -529,12 +475,24 @@ async function buildTgLudicoNews(
     "[TG Ludico] Cache Next.js scaduta: controllo dei feed avviato."
   );
 
-  const feedResults = await Promise.all(FEEDS.map(readFeed));
+  const feedResults = await Promise.all(
+    FEEDS.map(readFeed)
+  );
 
   const rankedItems = feedResults
     .flat()
     .sort((a, b) => {
-      const scoreDifference = getScore(b.raw) - getScore(a.raw);
+      const scoreA = getScore(
+        a.raw,
+        a.article.category
+      );
+
+      const scoreB = getScore(
+        b.raw,
+        b.article.category
+      );
+
+      const scoreDifference = scoreB - scoreA;
 
       if (scoreDifference !== 0) {
         return scoreDifference;
@@ -544,16 +502,22 @@ async function buildTgLudicoNews(
     })
     .map((entry) => entry.article);
 
-  const selectedArticles = removeDuplicates(rankedItems).slice(
-    0,
-    limit
-  );
+  const selectedArticles = removeDuplicates(
+    rankedItems
+  ).slice(0, limit);
 
   console.log(
     `[TG Ludico] Notizie selezionate: ${selectedArticles.length}`
   );
 
-  const translatedArticles = await translateArticles(selectedArticles);
+  selectedArticles.forEach((article) => {
+    console.log(
+      `[TG Ludico] Categoria assegnata: ${article.category} — ${article.title}`
+    );
+  });
+
+  const translatedArticles =
+    await translateArticles(selectedArticles);
 
   console.log(
     "[TG Ludico] Aggiornamento completato e salvato nella cache Next.js."
@@ -563,8 +527,9 @@ async function buildTgLudicoNews(
 }
 
 const getCachedTgLudicoNews = unstable_cache(
-  async (limit: number) => buildTgLudicoNews(limit),
-  ["tg-ludico-news-v2"],
+  async (limit: number) =>
+    buildTgLudicoNews(limit),
+  ["tg-ludico-news-v4"],
   {
     revalidate: CACHE_DURATION_SECONDS,
     tags: ["tg-ludico-news"],
