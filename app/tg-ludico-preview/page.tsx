@@ -1,6 +1,6 @@
 import { getWeeklyEditionPreview } from "@/lib/tg-ludico-weekly-preview";
 
-export const revalidate = 1800;
+export const dynamic = "force-dynamic";
 
 function slugify(value: string): string {
   return value
@@ -40,8 +40,8 @@ export default async function TgLudicoPreviewPage() {
         <div className="space-y-12">
           {edition.articles.map((article) => {
             const articleId = slugify(
-  article.originalTitle || article.title
-);
+              article.originalTitle || article.title
+            );
 
             return (
               <article
