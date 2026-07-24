@@ -20,7 +20,65 @@ type GeneratedEditionResponse = {
   articles: GeneratedArticle[];
 };
 
-function cleanText(value: string, maxLength: number): string {
+const RESPONSE_FORMAT = {
+  type: "json_schema" as const,
+  json_schema: {
+    name: "tg_ludico_weekly_edition",
+    strict: true,
+    schema: {
+      type: "object",
+      additionalProperties: false,
+      properties: {
+        articles: {
+          type: "array",
+          items: {
+            type: "object",
+            additionalProperties: false,
+            properties: {
+              originalUrl: {
+                type: "string",
+              },
+              title: {
+                type: "string",
+              },
+              subtitle: {
+                type: "string",
+              },
+              summary: {
+                type: "string",
+              },
+              article: {
+                type: "string",
+              },
+              keyPoints: {
+                type: "array",
+                minItems: 3,
+                maxItems: 5,
+                items: {
+                  type: "string",
+                },
+              },
+            },
+            required: [
+              "originalUrl",
+              "title",
+              "subtitle",
+              "summary",
+              "article",
+              "keyPoints",
+            ],
+          },
+        },
+      },
+      required: ["articles"],
+    },
+  },
+};
+
+function cleanText(
+  value: string,
+  maxLength: number
+): string {
   return value
     .replace(/\s+/g, " ")
     .trim()
@@ -52,7 +110,8 @@ function parseGeneratedArticle(
     return null;
   }
 
-  const candidate = value as Record<string, unknown>;
+  const candidate =
+    value as Record<string, unknown>;
 
   if (
     typeof candidate.originalUrl !== "string" ||
@@ -65,16 +124,35 @@ function parseGeneratedArticle(
     return null;
   }
 
-  const originalUrl = candidate.originalUrl.trim();
+  const originalUrl =
+    candidate.originalUrl.trim();
 
-  const title = cleanText(candidate.title, 220);
-  const subtitle = cleanText(candidate.subtitle, 400);
-  const summary = cleanText(candidate.summary, 1_000);
-  const article = candidate.article.trim().slice(0, 12_000);
+  const title = cleanText(
+    candidate.title,
+    220
+  );
+
+  const subtitle = cleanText(
+    candidate.subtitle,
+    400
+  );
+
+  const summary = cleanText(
+    candidate.summary,
+    1_000
+  );
+
+  const article =
+    candidate.article.trim().slice(0, 12_000);
 
   const keyPoints = candidate.keyPoints
-    .filter((point): point is string => typeof point === "string")
-    .map((point) => cleanText(point, 300))
+    .filter(
+      (point): point is string =>
+        typeof point === "string"
+    )
+    .map((point) =>
+      cleanText(point, 300)
+    )
     .filter(Boolean)
     .slice(0, 5);
 
@@ -106,7 +184,8 @@ function parseGeneratedEdition(
     return null;
   }
 
-  const candidate = value as Record<string, unknown>;
+  const candidate =
+    value as Record<string, unknown>;
 
   if (!Array.isArray(candidate.articles)) {
     return null;
@@ -115,7 +194,9 @@ function parseGeneratedEdition(
   const articles = candidate.articles
     .map(parseGeneratedArticle)
     .filter(
-      (article): article is GeneratedArticle =>
+      (
+        article
+      ): article is GeneratedArticle =>
         article !== null
     );
 
@@ -147,14 +228,154 @@ function buildPromptArticles(
     publishedAt: source.date,
     description: source.description,
     sourceText:
-      source.sourceText?.trim().slice(0, 5_000) ||
-      source.description.trim().slice(0, 5_000),
+      source.sourceText
+        ?.trim()
+        .slice(0, 5_000) ||
+      source.description
+        .trim()
+        .slice(0, 5_000),
   }));
 }
 
+function buildSystemPrompt(
+  expectedCount: number
+): string {
+  return [
+    "Sei il redattore di un magazine italiano dedicato ai giochi da tavolo.",
+    "Devi scrivere articoli giornalistici originali usando esclusivamente le informazioni fornite.",
+    "Non tradurre letteralmente i testi sorgente.",
+    "Non inventare fatti, dichiarazioni, prezzi, date, caratteristiche, nomi o dettagli.",
+    "Mantieni invariati i nomi ufficiali di giochi, aziende, persone, prodotti ed eventi.",
+    "Usa un tono giornalistico neutrale, chiaro e professionale.",
+    "Ogni articolo deve essere autonomo e comprensibile senza consultare la fonte.",
+    "Non ripetere continuamente le stesse formule tra un articolo e l'altro.",
+    "Non aggiungere opinioni personali o giudizi non presenti nelle fonti.",
+    `Devi produrre esattamente ${expectedCount} articoli, uno per ciascuna notizia ricevuta.`,
+    "Non saltare nessuna notizia.",
+    "Mantieni in ogni articolo esattamente lo stesso originalUrl ricevuto nell'input.",
+    "title deve essere un titolo editoriale completo.",
+    "subtitle deve aggiungere contesto senza ripetere il titolo.",
+    "summary deve essere un breve riassunto editoriale.",
+    "article deve essere il testo completo dell'articolo, composto da più paragrafi.",
+    "Ogni articolo deve terminare con una frase completa.",
+    "keyPoints deve contenere da 3 a 5 punti.",
+  ].join(" ");
+}
+
+async function requestGeneratedArticles(
+  openai: OpenAI,
+  sources: TgLudicoItem[],
+  requestLabel: string
+): Promise<GeneratedArticle[]> {
+  if (sources.length === 0) {
+    return [];
+  }
+
+  console.log(
+    `[TG Ludico Weekly] ${requestLabel}: invio di ${sources.length} notizie a OpenAI...`
+  );
+
+  const response =
+    await openai.chat.completions.create({
+      model: "gpt-5-mini",
+
+      messages: [
+        {
+          role: "system",
+          content: buildSystemPrompt(
+            sources.length
+          ),
+        },
+        {
+          role: "user",
+          content: JSON.stringify({
+            articles:
+              buildPromptArticles(sources),
+          }),
+        },
+      ],
+
+      response_format: RESPONSE_FORMAT,
+
+      max_completion_tokens: 20_000,
+    });
+
+  const choice = response.choices[0];
+
+  if (!choice) {
+    throw new Error(
+      "OpenAI non ha restituito alcuna scelta."
+    );
+  }
+
+  if (
+    choice.finish_reason &&
+    choice.finish_reason !== "stop"
+  ) {
+    console.warn(
+      `[TG Ludico Weekly] ${requestLabel}: finish_reason=${choice.finish_reason}`
+    );
+  }
+
+  const content =
+    choice.message?.content;
+
+  if (!content) {
+    throw new Error(
+      "OpenAI non ha restituito alcun contenuto."
+    );
+  }
+
+  const parsedValue: unknown =
+    JSON.parse(content);
+
+  const generatedEdition =
+    parseGeneratedEdition(parsedValue);
+
+  if (!generatedEdition) {
+    console.error(
+      `[TG Ludico Weekly] ${requestLabel}: risposta JSON non valida.`
+    );
+
+    console.dir(parsedValue, {
+      depth: null,
+    });
+
+    throw new Error(
+      "La risposta OpenAI non rispetta il formato richiesto."
+    );
+  }
+
+  return generatedEdition.articles;
+}
+
+function mergeGeneratedArticles(
+  target: Map<string, GeneratedArticle>,
+  articles: GeneratedArticle[],
+  allowedUrls: Set<string>
+): void {
+  for (const article of articles) {
+    if (!allowedUrls.has(article.originalUrl)) {
+      console.warn(
+        `[TG Ludico Weekly] originalUrl inatteso ignorato: ${article.originalUrl}`
+      );
+
+      continue;
+    }
+
+    target.set(
+      article.originalUrl,
+      article
+    );
+  }
+}
+
 /**
- * Genera tutti gli articoli dell'edizione settimanale
- * utilizzando una sola richiesta a OpenAI.
+ * Genera tutti gli articoli dell'edizione settimanale.
+ *
+ * Prima prova a generarli in una sola richiesta.
+ * Se alcuni articoli mancano o non sono validi,
+ * effettua una seconda richiesta soltanto per quelli mancanti.
  */
 export async function writeWeeklyEditionArticles(
   sources: TgLudicoItem[]
@@ -163,128 +384,126 @@ export async function writeWeeklyEditionArticles(
     return [];
   }
 
-  const apiKey = process.env.OPENAI_API_KEY;
+  const apiKey =
+    process.env.OPENAI_API_KEY;
 
   if (!apiKey) {
     console.warn(
       "[TG Ludico Weekly] OPENAI_API_KEY non configurata. Uso del fallback."
     );
 
-    return sources.map(createFallbackArticle);
+    return sources.map(
+      createFallbackArticle
+    );
   }
 
-  const validSources = sources.filter((source) => {
-    const sourceText =
-      source.sourceText?.trim() ||
-      source.description.trim();
+  const validSources = sources.filter(
+    (source) => {
+      const sourceText =
+        source.sourceText?.trim() ||
+        source.description.trim();
 
-    return Boolean(source.link && sourceText);
-  });
+      return Boolean(
+        source.link && sourceText
+      );
+    }
+  );
 
   if (validSources.length === 0) {
     console.warn(
       "[TG Ludico Weekly] Nessuna fonte contiene testo sufficiente."
     );
 
-    return sources.map(createFallbackArticle);
+    return sources.map(
+      createFallbackArticle
+    );
   }
 
   const openai = new OpenAI({
     apiKey,
   });
 
+  const allowedUrls = new Set(
+    validSources.map(
+      (source) => source.link
+    )
+  );
+
+  const generatedByUrl =
+    new Map<
+      string,
+      GeneratedArticle
+    >();
+
   try {
-    console.log(
-      `[TG Ludico Weekly] Invio di ${validSources.length} notizie in una sola richiesta OpenAI...`
+    const firstAttempt =
+      await requestGeneratedArticles(
+        openai,
+        validSources,
+        "Prima generazione"
+      );
+
+    mergeGeneratedArticles(
+      generatedByUrl,
+      firstAttempt,
+      allowedUrls
     );
 
-    const response =
-      await openai.chat.completions.create({
-        model: "gpt-5-mini",
+    const missingAfterFirstAttempt =
+      validSources.filter(
+        (source) =>
+          !generatedByUrl.has(
+            source.link
+          )
+      );
 
-        messages: [
-          {
-            role: "system",
-            content: [
-              "Sei il redattore di un magazine italiano dedicato ai giochi da tavolo.",
-              "Devi scrivere una serie di articoli giornalistici originali usando esclusivamente le informazioni fornite.",
-              "Non tradurre letteralmente i testi sorgente.",
-              "Non inventare fatti, dichiarazioni, prezzi, date, caratteristiche, nomi o dettagli.",
-              "Mantieni invariati i nomi ufficiali di giochi, aziende, persone, prodotti ed eventi.",
-              "Usa un tono giornalistico neutrale, chiaro e professionale.",
-              "Ogni articolo deve essere autonomo e comprensibile senza consultare la fonte.",
-              "Non ripetere continuamente le stesse formule tra un articolo e l'altro.",
-              "Non aggiungere opinioni personali o giudizi non presenti nelle fonti.",
-              "Devi produrre esattamente un articolo per ciascuna notizia ricevuta.",
-              "Mantieni in ogni articolo lo stesso originalUrl ricevuto nell'input.",
-              "Restituisci esclusivamente un oggetto JSON.",
-              "L'oggetto deve contenere la proprietà articles.",
-              "articles deve essere un array di oggetti con le proprietà originalUrl, title, subtitle, summary, article e keyPoints.",
-              "keyPoints deve contenere da 3 a 5 punti.",
-              "summary deve essere un breve riassunto editoriale.",
-              "article deve essere il testo completo dell'articolo.",
-            ].join(" "),
-          },
+    if (
+      missingAfterFirstAttempt.length > 0
+    ) {
+      console.warn(
+        `[TG Ludico Weekly] Prima generazione incompleta: ${generatedByUrl.size}/${validSources.length}.`
+      );
 
-          {
-            role: "user",
-            content: JSON.stringify({
-              articles: buildPromptArticles(validSources),
-            }),
-          },
-        ],
+      console.log(
+        `[TG Ludico Weekly] Secondo tentativo per ${missingAfterFirstAttempt.length} articoli mancanti...`
+      );
 
-        response_format: {
-          type: "json_object",
-        },
-      });
+      const retryArticles =
+        await requestGeneratedArticles(
+          openai,
+          missingAfterFirstAttempt,
+          "Recupero articoli mancanti"
+        );
 
-    const content =
-      response.choices[0]?.message?.content;
-
-    if (!content) {
-      throw new Error(
-        "OpenAI non ha restituito alcun contenuto."
+      mergeGeneratedArticles(
+        generatedByUrl,
+        retryArticles,
+        allowedUrls
       );
     }
-
-    const parsedValue: unknown =
-      JSON.parse(content);
-
-    const generatedEdition =
-      parseGeneratedEdition(parsedValue);
-
-    if (!generatedEdition) {
-      console.error(
-        "[TG Ludico Weekly] Risposta JSON non valida:"
-      );
-
-      console.dir(parsedValue, {
-        depth: null,
-      });
-
-      throw new Error(
-        "La risposta OpenAI non rispetta il formato richiesto."
-      );
-    }
-
-    const generatedByUrl = new Map(
-      generatedEdition.articles.map((article) => [
-        article.originalUrl,
-        article,
-      ])
+  } catch (error) {
+    console.error(
+      "[TG Ludico Weekly] Errore durante la generazione dell'edizione."
     );
 
-    const finalArticles = sources.map((source) => {
+    console.error(error);
+  }
+
+  const finalArticles = sources.map(
+    (source) => {
       const generated =
-        generatedByUrl.get(source.link);
+        generatedByUrl.get(
+          source.link
+        );
 
       if (!generated) {
         console.warn(
-          `[TG Ludico Weekly] Articolo non generato, uso del fallback: ${source.title}`
+          `[TG Ludico Weekly] Articolo non generato dopo due tentativi, uso del fallback: ${source.title}`
         );
 
-        return createFallbackArticle(source);
+        return createFallbackArticle(
+          source
+        );
       }
 
       return {
@@ -300,25 +519,26 @@ export async function writeWeeklyEditionArticles(
         image: source.image,
         publishedAt: source.date,
       };
-    });
+    }
+  );
 
-    const generatedCount =
-      finalArticles.filter(
-        (article) => article.article.length > 0
-      ).length;
+  const generatedCount =
+    finalArticles.filter(
+      (article) =>
+        article.article.length > 0
+    ).length;
 
-    console.log(
-      `[TG Ludico Weekly] Generazione completata: ${generatedCount}/${sources.length} articoli prodotti con una sola richiesta.`
+  console.log(
+    `[TG Ludico Weekly] Generazione completata: ${generatedCount}/${sources.length} articoli disponibili.`
+  );
+
+  if (
+    generatedCount < sources.length
+  ) {
+    console.warn(
+      `[TG Ludico Weekly] Edizione incompleta: ${sources.length - generatedCount} articoli sono ancora in fallback.`
     );
-
-    return finalArticles;
-  } catch (error) {
-    console.error(
-      "[TG Ludico Weekly] Errore durante la generazione dell'edizione."
-    );
-
-    console.error(error);
-
-    return sources.map(createFallbackArticle);
   }
+
+  return finalArticles;
 }
