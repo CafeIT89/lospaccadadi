@@ -134,19 +134,24 @@ export const GAMEFOUND_PROJECTS: GamefoundProject[] = [
     creator: "chip-theory-games",
     slug: "20-strong-awaken-realms-nemesis",
   },
- {
-  name: "Dead by Daylight: The Board Game",
-  creator: "level-99-games",
-  slug: "dbd",
-},
-{
-  name: "B.E.L.O.W.: The Asylum",
-  creator: "awaken-realms",
-  slug: "below-asylum",
-},
-{
-  name: "Blood",
-  creator: "lms",
-  slug: "blood_lms",
-},
+  {
+    name: "Dead by Daylight: The Board Game",
+    creator: "level-99-games",
+    slug: "dbd",
+  },
+  {
+    name: "B.E.L.O.W.: The Asylum",
+    creator: "awaken-realms",
+    slug: "below-asylum",
+  },
+  {
+    name: "Blood",
+    creator: "lms",
+    slug: "blood_lms",
+  },
+  {
+    name: "Scoundrels",
+    creator: "awaken-realms",
+    slug: "scoundrels",
+  },
 ];
