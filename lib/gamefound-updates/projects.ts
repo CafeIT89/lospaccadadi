@@ -154,4 +154,19 @@ export const GAMEFOUND_PROJECTS: GamefoundProject[] = [
     creator: "awaken-realms",
     slug: "scoundrels",
   },
+    {
+    name: "Quake: The Board Game",
+    creator: "archon-studio",
+    slug: "quake-the-board-game",
+  },
+  {
+    name: "Blasphemous: The Board Game",
+    creator: "lms",
+    slug: "blasphemous-the-boardgame",
+  },
+  {
+    name: "The Lord of the Rings: Ascension",
+    creator: "stoneblade",
+    slug: "the-lord-of-the-rings-ascension",
+  },
 ];
