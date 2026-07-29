@@ -17,11 +17,11 @@ export default function Home() {
     <main className="min-h-screen bg-background text-white">
       <Hero />
       <GamefoundUpdatesSection />
+      <CrowdfundingRadar />
       <TgLudico />
       <Settimanale />
-      <CrowdfundingRadar />
       <Recensioni />
-     {/* <FeatureCards /> */}
+      {/* <FeatureCards /> */}
     </main>
   );
 }
