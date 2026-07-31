@@ -3,8 +3,21 @@ import Link from "next/link";
 
 import { getRecensioni } from "@/lib/recensioni";
 
+async function getSafeRecensioni() {
+  try {
+    return await getRecensioni();
+  } catch (error) {
+    console.error(
+      "[Recensioni] Impossibile recuperare i video. La homepage continuerà senza recensioni.",
+      error
+    );
+
+    return [];
+  }
+}
+
 export default async function Recensioni() {
-  const videos = await getRecensioni();
+  const videos = await getSafeRecensioni();
   const latestVideos = videos.slice(0, 4);
 
   return (
@@ -35,7 +48,7 @@ export default async function Recensioni() {
 
         {latestVideos.length === 0 ? (
           <p className="mt-12 text-lg text-muted">
-            Nessuna recensione disponibile.
+            Le recensioni non sono momentaneamente disponibili.
           </p>
         ) : (
           <div className="mt-12 grid gap-6 sm:grid-cols-2 xl:grid-cols-4">

@@ -169,4 +169,14 @@ export const GAMEFOUND_PROJECTS: GamefoundProject[] = [
     creator: "stoneblade",
     slug: "the-lord-of-the-rings-ascension",
   },
+  {
+  name: "Black Rose Wars: Rebirth",
+  creator: "lms",
+  slug: "blackrosewars-re",
+},
+{
+  name: "Here to Slay DUNGEONS",
+  creator: "unstable-games",
+  slug: "here-to-slay-dungeons",
+},
 ];
