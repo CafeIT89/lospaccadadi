@@ -18,22 +18,59 @@ export type SettimanaleVideo = {
   publishedAt: string;
   thumbnail: string;
 };
+const FETCH_ATTEMPTS = 3;
+const RETRY_DELAY_MS = 1_500;
 
+function sleep(milliseconds: number): Promise<void> {
+  return new Promise((resolve) => {
+    setTimeout(resolve, milliseconds);
+  });
+}
+
+async function fetchYouTubeFeed(
+  feedUrl: string
+): Promise<Response> {
+  let lastError: unknown;
+
+  for (
+    let attempt = 1;
+    attempt <= FETCH_ATTEMPTS;
+    attempt += 1
+  ) {
+    try {
+      const response = await fetch(feedUrl, {
+        next: {
+          revalidate: 3600,
+        },
+      });
+
+      if (!response.ok) {
+        throw new Error(
+          `YouTube ha restituito lo stato ${response.status}`
+        );
+      }
+
+      return response;
+    } catch (error) {
+      lastError = error;
+
+      console.warn(
+        `[Settimanale] Tentativo ${attempt}/${FETCH_ATTEMPTS} fallito.`
+      );
+
+      if (attempt < FETCH_ATTEMPTS) {
+        await sleep(RETRY_DELAY_MS);
+      }
+    }
+  }
+
+  throw lastError;
+}
 export async function getSettimanaleVideos(): Promise<SettimanaleVideo[]> {
   const feedUrl = `https://www.youtube.com/feeds/videos.xml?playlist_id=${PLAYLIST_ID}`;
 
   try {
-    const response = await fetch(feedUrl, {
-      next: {
-        revalidate: 3600,
-      },
-    });
-
-    if (!response.ok) {
-      throw new Error(
-        `Errore YouTube: risposta ${response.status}`
-      );
-    }
+    const response = await fetchYouTubeFeed(feedUrl);
 
     const xml = await response.text();
     const feed = await parser.parseString(xml);
