@@ -1,10 +1,10 @@
 import Image from "next/image";
 import Link from "next/link";
 
-import { getSettimanaleVideos } from "@/lib/settimanale";
+import { getCachedSettimanaleVideos } from "@/lib/youtube-service";
 
 export default async function Settimanale() {
-  const videos = await getSettimanaleVideos();
+  const videos = await getCachedSettimanaleVideos();
   const latestVideos = videos.slice(0, 4);
 
   return (
@@ -37,47 +37,53 @@ export default async function Settimanale() {
           </Link>
         </div>
 
-        <div className="mt-12 grid gap-6 sm:grid-cols-2 xl:grid-cols-4">
-          {latestVideos.map((video) => (
-            <a
-              key={video.videoId}
-              href={video.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="group overflow-hidden rounded-3xl border border-brand-border bg-surface transition duration-300 hover:-translate-y-1 hover:border-primary"
-            >
-              <div className="relative aspect-video overflow-hidden bg-black">
-                <Image
-                  src={video.thumbnail}
-                  alt={video.title}
-                  fill
-                  sizes="(max-width: 640px) 100vw, (max-width: 1280px) 50vw, 25vw"
-                  className="object-cover transition duration-500 group-hover:scale-105"
-                />
+        {latestVideos.length === 0 ? (
+          <p className="mt-12 text-lg text-muted">
+            Gli episodi non sono momentaneamente disponibili.
+          </p>
+        ) : (
+          <div className="mt-12 grid gap-6 sm:grid-cols-2 xl:grid-cols-4">
+            {latestVideos.map((video) => (
+              <a
+                key={video.videoId}
+                href={video.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="group overflow-hidden rounded-3xl border border-brand-border bg-surface transition duration-300 hover:-translate-y-1 hover:border-primary"
+              >
+                <div className="relative aspect-video overflow-hidden bg-black">
+                  <Image
+                    src={video.thumbnail}
+                    alt={video.title}
+                    fill
+                    sizes="(max-width: 640px) 100vw, (max-width: 1280px) 50vw, 25vw"
+                    className="object-cover transition duration-500 group-hover:scale-105"
+                  />
 
-                <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent opacity-0 transition group-hover:opacity-100" />
-              </div>
+                  <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent opacity-0 transition group-hover:opacity-100" />
+                </div>
 
-              <div className="flex min-h-44 flex-col p-5">
-                <p className="text-xs font-bold uppercase tracking-[0.18em] text-primary">
-                  Il Settimanale
-                </p>
+                <div className="flex min-h-44 flex-col p-5">
+                  <p className="text-xs font-bold uppercase tracking-[0.18em] text-primary">
+                    Il Settimanale
+                  </p>
 
-                <h3 className="mt-3 line-clamp-3 font-heading text-xl uppercase leading-tight text-white">
-                  {video.title}
-                </h3>
+                  <h3 className="mt-3 line-clamp-3 font-heading text-xl uppercase leading-tight text-white">
+                    {video.title}
+                  </h3>
 
-                <p className="mt-auto pt-5 text-sm text-muted">
-                  {new Date(video.publishedAt).toLocaleDateString("it-IT", {
-                    day: "numeric",
-                    month: "long",
-                    year: "numeric",
-                  })}
-                </p>
-              </div>
-            </a>
-          ))}
-        </div>
+                  <p className="mt-auto pt-5 text-sm text-muted">
+                    {new Date(video.publishedAt).toLocaleDateString("it-IT", {
+                      day: "numeric",
+                      month: "long",
+                      year: "numeric",
+                    })}
+                  </p>
+                </div>
+              </a>
+            ))}
+          </div>
+        )}
       </div>
     </section>
   );

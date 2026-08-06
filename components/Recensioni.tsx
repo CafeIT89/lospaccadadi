@@ -1,23 +1,10 @@
 import Image from "next/image";
 import Link from "next/link";
 
-import { getRecensioni } from "@/lib/recensioni";
-
-async function getSafeRecensioni() {
-  try {
-    return await getRecensioni();
-  } catch (error) {
-    console.error(
-      "[Recensioni] Impossibile recuperare i video. La homepage continuerà senza recensioni.",
-      error
-    );
-
-    return [];
-  }
-}
+import { getCachedRecensioni } from "@/lib/youtube-service";
 
 export default async function Recensioni() {
-  const videos = await getSafeRecensioni();
+  const videos = await getCachedRecensioni();
   const latestVideos = videos.slice(0, 4);
 
   return (

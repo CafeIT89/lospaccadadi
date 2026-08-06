@@ -1,6 +1,7 @@
 import Image from "next/image";
-import { getSettimanaleVideos } from "@/lib/settimanale";
 import type { Metadata } from "next";
+
+import { getCachedSettimanaleVideos } from "@/lib/youtube-service";
 
 export const metadata: Metadata = {
   title: "Il Settimanale",
@@ -11,7 +12,7 @@ export const metadata: Metadata = {
 export const revalidate = 3600;
 
 export default async function SettimanalePage() {
-  const videos = await getSettimanaleVideos();
+  const videos = await getCachedSettimanaleVideos();
 
   return (
     <main className="min-h-screen bg-background text-white">
@@ -31,34 +32,42 @@ export default async function SettimanalePage() {
         </div>
       </header>
 
-      <section className="mx-auto grid max-w-7xl gap-8 px-6 py-16 md:grid-cols-2 xl:grid-cols-3">
-        {videos.map((video) => (
-          <a
-            key={video.videoId}
-            href={video.url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="overflow-hidden rounded-3xl border border-brand-border bg-surface transition hover:border-primary"
-          >
-            <Image
-              src={video.thumbnail}
-              alt={video.title}
-              width={480}
-              height={270}
-              className="w-full"
-            />
+      <section className="mx-auto max-w-7xl px-6 py-16">
+        {videos.length === 0 ? (
+          <p className="text-lg text-muted">
+            Gli episodi non sono momentaneamente disponibili.
+          </p>
+        ) : (
+          <div className="grid gap-8 md:grid-cols-2 xl:grid-cols-3">
+            {videos.map((video) => (
+              <a
+                key={video.videoId}
+                href={video.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="overflow-hidden rounded-3xl border border-brand-border bg-surface transition hover:border-primary"
+              >
+                <Image
+                  src={video.thumbnail}
+                  alt={video.title}
+                  width={480}
+                  height={270}
+                  className="w-full"
+                />
 
-            <div className="p-6">
-              <h2 className="font-heading text-2xl uppercase">
-                {video.title}
-              </h2>
+                <div className="p-6">
+                  <h2 className="font-heading text-2xl uppercase">
+                    {video.title}
+                  </h2>
 
-              <p className="mt-4 text-sm text-muted">
-                {new Date(video.publishedAt).toLocaleDateString("it-IT")}
-              </p>
-            </div>
-          </a>
-        ))}
+                  <p className="mt-4 text-sm text-muted">
+                    {new Date(video.publishedAt).toLocaleDateString("it-IT")}
+                  </p>
+                </div>
+              </a>
+            ))}
+          </div>
+        )}
       </section>
     </main>
   );

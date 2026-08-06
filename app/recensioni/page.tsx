@@ -1,6 +1,7 @@
 import Image from "next/image";
-import { getRecensioni } from "@/lib/recensioni";
 import type { Metadata } from "next";
+
+import { getCachedRecensioni } from "@/lib/youtube-service";
 
 export const metadata: Metadata = {
   title: "Recensioni",
@@ -11,7 +12,7 @@ export const metadata: Metadata = {
 export const revalidate = 3600;
 
 export default async function RecensioniPage() {
-  const videos = await getRecensioni();
+  const videos = await getCachedRecensioni();
 
   return (
     <main className="min-h-screen bg-background text-white">
@@ -35,7 +36,7 @@ export default async function RecensioniPage() {
       <section className="mx-auto max-w-7xl px-6 py-16">
         {videos.length === 0 ? (
           <p className="text-lg text-muted">
-            Nessuna recensione disponibile.
+            Le recensioni non sono momentaneamente disponibili.
           </p>
         ) : (
           <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
@@ -74,11 +75,11 @@ export default async function RecensioniPage() {
                     </a>
                   </h2>
 
-                  {video.publishedAt && (
+                  {video.publishedAt ? (
                     <p className="mt-5 text-sm text-muted">
                       {new Date(video.publishedAt).toLocaleDateString("it-IT")}
                     </p>
-                  )}
+                  ) : null}
                 </div>
               </article>
             ))}

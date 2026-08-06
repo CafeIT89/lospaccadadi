@@ -3,6 +3,10 @@
     {
       "path": "/api/tg-ludico/refresh",
       "schedule": "0 6 * * 6"
+    },
+    {
+      "path": "/api/youtube/refresh",
+      "schedule": "0 6 * * *"
     }
   ]
 }
