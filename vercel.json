@@ -7,6 +7,10 @@
     {
       "path": "/api/youtube/refresh",
       "schedule": "0 6 * * *"
+    },
+    {
+      "path": "/api/kickstarter/refresh",
+      "schedule": "0 */6 * * *"
     }
   ]
 }
