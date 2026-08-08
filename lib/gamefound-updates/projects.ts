@@ -179,4 +179,54 @@ export const GAMEFOUND_PROJECTS: GamefoundProject[] = [
   creator: "unstable-games",
   slug: "here-to-slay-dungeons",
 },
+{
+  name: "Arkham Horror",
+  creator: "asmodee",
+  slug: "arkham-horror",
+},
+{
+  name: "Call of Cthulhu: Old Ones Origins",
+  creator: "chaosium",
+  slug: "call-of-cthulhu-old-ones-origins",
+},
+{
+  name: "Metal Slug",
+  creator: "synergic-games",
+  slug: "metal-slug",
+},
+{
+  name: "Aberration: Oblivion's Embrace",
+  creator: "ghostfire-gaming",
+  slug: "aberration-oblivions-embrace-expansion-and-reprint",
+},
+{
+  name: "Dungeon of Tanares",
+  creator: "dragori-games",
+  slug: "dungeon-of-tanares",
+},
+{
+  name: "Steadfast",
+  creator: "skykingdomgames",
+  slug: "steadfast",
+},
+{
+  name: "Fable Quest",
+  creator: "tabletop-tycoon",
+  slug: "fable-quest",
+},
+{
+  name: "Grimdark Future: Jade Claw",
+  creator: "onepagerules",
+  slug: "grimdark-future-jade-claw",
+},
+{
+  name: "Eldfall Chronicles: Apocrypha",
+  creator: "eldfall-chronicles",
+  slug: "eldfall-chronicles-apocrypha",
+},
+{
+  name: "Dino Battle",
+  creator: "rebellionunplugged",
+  slug: "dino-battle",
+},
 ];

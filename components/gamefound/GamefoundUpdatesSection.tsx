@@ -44,14 +44,7 @@ export async function GamefoundUpdatesSection() {
               Gli update più interessanti →
             </Link>
 
-            <a
-              href="https://gamefound.com"
-              target="_blank"
-              rel="noreferrer"
-              className="inline-flex items-center rounded-full border border-[#FEEC00] px-5 py-3 text-sm font-bold text-[#FEEC00] transition hover:border-white hover:text-white"
-            >
-              Visita Gamefound ↗
-            </a>
+            
           </div>
         </div>
 
