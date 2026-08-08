@@ -18,8 +18,10 @@ const inter = Inter({
   variable: "--font-body",
 });
 
-const siteUrl =
-  process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
+const siteUrl = (
+  process.env.NEXT_PUBLIC_SITE_URL ||
+  "https://www.lospaccadadi.it"
+).replace(/\/$/, "");
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -52,14 +54,9 @@ export const metadata: Metadata = {
   creator: "Lo Spacca Dadi",
   publisher: "Lo Spacca Dadi",
 
-  alternates: {
-    canonical: "/",
-  },
-
   openGraph: {
     type: "website",
     locale: "it_IT",
-    url: "/",
     siteName: "Lo Spacca Dadi",
     title: "Lo Spacca Dadi | Giochi da tavolo",
     description:
@@ -98,9 +95,11 @@ export default function RootLayout({
       lang="it"
       className={`${anton.variable} ${inter.variable} h-full antialiased`}
     >
-      <body className="min-h-full bg-black text-white font-[family-name:var(--font-body)]">
+      <body>
         <Navbar />
+
         {children}
+
         <Footer />
         <ScrollToTop />
       </body>

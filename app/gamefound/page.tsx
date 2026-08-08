@@ -7,6 +7,9 @@ export const metadata: Metadata = {
   title: "Gamefound Updates | Lo Spacca Dadi",
   description:
     "Gli ultimi aggiornamenti delle campagne di giochi da tavolo monitorate su Gamefound.",
+    alternates: {
+  canonical: "/gamefound",
+}
 };
 
 export const revalidate = 3600;

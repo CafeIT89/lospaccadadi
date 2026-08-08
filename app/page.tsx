@@ -10,6 +10,14 @@ export const metadata: Metadata = {
   title: "Home",
   description:
     "Lo Spacca Dadi: recensioni, tutorial, unboxing, TG Ludico e Crowdfunding Radar dedicati al mondo dei giochi da tavolo.",
+
+  alternates: {
+    canonical: "/",
+  },
+
+  openGraph: {
+    url: "/",
+  },
 };
 
 export default function Home() {

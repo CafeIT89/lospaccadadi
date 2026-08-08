@@ -7,6 +7,14 @@ export const metadata: Metadata = {
   title: "Il Settimanale",
   description:
     "Video settimanali dedicati ai giochi da tavolo, con approfondimenti, novità e consigli.",
+
+  alternates: {
+    canonical: "/settimanale",
+  },
+
+  openGraph: {
+    url: "/settimanale",
+  },
 };
 
 export const revalidate = 3600;

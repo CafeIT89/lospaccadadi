@@ -1,8 +1,10 @@
 import type { MetadataRoute } from "next";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl =
-    process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
+  const baseUrl = (
+    process.env.NEXT_PUBLIC_SITE_URL ||
+    "https://www.lospaccadadi.it"
+  ).replace(/\/$/, "");
 
   return [
     {
@@ -15,6 +17,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       url: `${baseUrl}/tg-ludico`,
       lastModified: new Date(),
       changeFrequency: "hourly",
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/gamefound`,
+      lastModified: new Date(),
+      changeFrequency: "daily",
       priority: 0.9,
     },
     {
@@ -35,11 +43,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly",
       priority: 0.5,
     },
-    {
-  url: `${baseUrl}/gamefound`,
-  lastModified: new Date(),
-  changeFrequency: "daily",
-  priority: 0.9,
-},
   ];
 }

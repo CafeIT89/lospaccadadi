@@ -7,6 +7,14 @@ export const metadata: Metadata = {
   title: "Recensioni",
   description:
     "Recensioni complete di giochi da tavolo, con impressioni, pro e contro e considerazioni finali.",
+
+  alternates: {
+    canonical: "/recensioni",
+  },
+
+  openGraph: {
+    url: "/recensioni",
+  },
 };
 
 export const revalidate = 3600;

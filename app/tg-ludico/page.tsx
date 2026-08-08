@@ -5,6 +5,9 @@ export const metadata: Metadata = {
   title: "TG Ludico",
   description:
     "Le principali notizie dal mondo dei giochi da tavolo selezionate ogni giorno da Lo Spacca Dadi.",
+    alternates: {
+  canonical: "/tg-ludico",
+}
 };
 
 function formatDate(date: string) {
