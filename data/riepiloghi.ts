@@ -6,6 +6,14 @@ export type RiepilogoRegole = {
 };
 
 export const RIEPILOGHI: RiepilogoRegole[] = [
+   {
+    name: "Cloudspire",
+    slug: "cloudspire",
+    description:
+      "Riepilogo delle regole di Cloudspire.",
+    file:
+      "/pdf/riepiloghi/cloudspire-riepilogo-regole.pdf",
+  },
   {
     name: "Dragons of Etchinstone",
     slug: "dragons-of-etchinstone",

@@ -94,14 +94,7 @@ export default function SchedeRegolePage() {
           })}
         </div>
 
-        <div className="mt-12 rounded-3xl border border-brand-border bg-surface p-6">
-          <p className="text-sm text-muted">
-            Schede Regole attualmente disponibili:{" "}
-            <strong className="text-white">
-              {riepiloghi.length}
-            </strong>
-          </p>
-        </div>
+       
       </section>
 
       <section className="mx-auto max-w-7xl px-6 pb-16">

@@ -210,6 +210,86 @@ export const STAMPE_3D_GAMES: Stampa3DGame[] = [
     },
   ],
 },
+{
+  name: "Marvel Zombies",
+  slug: "marvel-zombies",
+  coverImage: "/images/stampe-3d/games/marvel-zombies.png",
+
+  projects: [
+    {
+      title: "Inserto Token",
+      description:
+        "Inserto dedicato all'organizzazione dei token di Marvel Zombies.",
+      url:
+        "https://makerworld.com/it/models/213023-marvel-zombicide-insert#profileId-838675",
+      platform: "MakerWorld",
+      category: "Inserto",
+    },
+    {
+      title: "Tutte le miniature in una scatola",
+      description:
+        "Soluzione per conservare tutte le miniature di Marvel Zombies in un'unica scatola.",
+      url:
+        "https://makerworld.com/it/models/1296660-marvel-zombies-all-minis-one-box-solution#profileId-1328200",
+      platform: "MakerWorld",
+      category: "Organizer",
+    },
+    {
+      title: "Casse obiettivo",
+      description:
+        "Casse tridimensionali utilizzabili come obiettivi durante le partite.",
+      url:
+        "https://makerworld.com/it/models/2362550-marvel-zombies-objective-crates#profileId-2585094",
+      platform: "MakerWorld",
+      category: "Terreno",
+    },
+    {
+      title: "Contenitore 3D per casse",
+      description:
+        "Contenitore stampabile per conservare le casse obiettivo.",
+      url:
+        "https://makerworld.com/it/models/2766490-marvel-zombies-3d-crate-storage#profileId-3072151",
+      platform: "MakerWorld",
+      category: "Organizer",
+    },
+    {
+      title: "7 Porte per Zombicide",
+      description:
+        "Set di sette porte stampabili compatibili con Marvel Zombies e Zombicide.",
+      url:
+        "https://makerworld.com/it/models/1884078-7-doors-for-zombicide-print-in-place#profileId-2017688",
+      platform: "MakerWorld",
+      category: "Terreno",
+    },
+    {
+      title: "Organizer Marvel Zombies",
+      description:
+        "Organizer per riporre miniature e componenti di Marvel Zombies.",
+      url:
+        "https://makerworld.com/it/models/1417278-rangement-figurines-marvel-zombies#profileId-1472013",
+      platform: "MakerWorld",
+      category: "Organizer",
+    },
+    {
+      title: "Organizer X-Men Resistance",
+      description:
+        "Organizer dedicato all'espansione Marvel Zombies: X-Men Resistance.",
+      url:
+        "https://makerworld.com/it/models/1443808-rangement-zombicide-marvel-zombies-xmen-resistance#profileId-1503179",
+      platform: "MakerWorld",
+      category: "Organizer",
+    },
+    {
+      title: "Ascensore",
+      description:
+        "Token ascensore tridimensionale per Marvel Zombies e X-Men Resistance.",
+      url:
+        "https://makerworld.com/it/models/1831906-elevator-token-marvel-zombies-x-men-resistance#profileId-1956314",
+      platform: "MakerWorld",
+      category: "Accessorio",
+    },
+  ],
+},
 ];
 
 /**
