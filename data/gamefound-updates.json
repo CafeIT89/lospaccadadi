@@ -1,5 +1,57 @@
 [
   {
+    "id": 41636,
+    "projectId": 10157,
+    "projectName": "Aeon's End: System Overload",
+    "projectCreator": "indie-boards-and-cards",
+    "projectSlug": "aeons-end-system-overload",
+    "title": "Pledge Manager Opening + Bad news for Xaxos and our T-shirts",
+    "excerpt": "You can now add rewards, give us your shipping address and pay for shipping & taxes.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/noimage.jpg",
+    "publishedAt": "2026-08-27T19:28:37.107Z",
+    "url": "https://gamefound.com/en/projects/indie-boards-and-cards/aeons-end-system-overload/updates/16",
+    "sequenceNumber": 16
+  },
+  {
+    "id": 41601,
+    "projectId": 3917,
+    "projectName": "Blood",
+    "projectCreator": "lms",
+    "projectSlug": "blood_lms",
+    "title": "Blood Checks!",
+    "excerpt": "Production Update!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3917/f58c61a7-f7fd-41ca-a857-77f9b4738a15.jpg",
+    "publishedAt": "2026-08-27T15:28:12.633Z",
+    "url": "https://gamefound.com/en/projects/lms/blood_lms/updates/54",
+    "sequenceNumber": 54
+  },
+  {
+    "id": 41543,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "What is Arkham Horror Remastered?",
+    "excerpt": "More about this classic game remastered for the modern era.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/74333ec4-8817-4fa0-b64d-f18dc8c8993a.png",
+    "publishedAt": "2026-08-27T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/1",
+    "sequenceNumber": 1
+  },
+  {
+    "id": 41609,
+    "projectId": 3809,
+    "projectName": "Cyberpunk 2077: The Board Game",
+    "projectCreator": "go-on-board",
+    "projectSlug": "cyberpunk-2077-the-board-game",
+    "title": "One Box at a Time",
+    "excerpt": "Production status / Dive into Terrain Pack / Stretch Goal rules now available",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3809/a46e1da7-faf8-4586-a97b-ab1967715ec7.png",
+    "publishedAt": "2026-08-27T11:57:26.403Z",
+    "url": "https://gamefound.com/en/projects/go-on-board/cyberpunk-2077-the-board-game/updates/61",
+    "sequenceNumber": 61
+  },
+  {
     "id": 41595,
     "projectId": 11765,
     "projectName": "Dungeon of Tanares",
@@ -260,19 +312,6 @@
     "sequenceNumber": 94
   },
   {
-    "id": 41171,
-    "projectId": 10157,
-    "projectName": "Aeon's End: System Overload",
-    "projectCreator": "indie-boards-and-cards",
-    "projectSlug": "aeons-end-system-overload",
-    "title": "White Copy and Color Proofs have Arrived!",
-    "excerpt": "Our first round of proofs from the factory have arrived.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10157/5dd1c21f-dc4f-415b-8161-d6d505cd112d.jpg",
-    "publishedAt": "2026-08-12T16:27:25.437Z",
-    "url": "https://gamefound.com/en/projects/indie-boards-and-cards/aeons-end-system-overload/updates/15",
-    "sequenceNumber": 15
-  },
-  {
     "id": 41050,
     "projectId": 5386,
     "projectName": "This War of Mine: Second Edition",
@@ -414,32 +453,6 @@
     "publishedAt": "2026-07-24T16:10:20.677Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/scoundrels/updates/3",
     "sequenceNumber": 3
-  },
-  {
-    "id": 40364,
-    "projectId": 3917,
-    "projectName": "Blood",
-    "projectCreator": "lms",
-    "projectSlug": "blood_lms",
-    "title": "Plastic Tray Show!",
-    "excerpt": "July Production Update!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3917/f71897a8-a072-4d76-b828-7335825d95a0.jpg",
-    "publishedAt": "2026-07-23T12:22:51.607Z",
-    "url": "https://gamefound.com/en/projects/lms/blood_lms/updates/53",
-    "sequenceNumber": 53
-  },
-  {
-    "id": 40335,
-    "projectId": 3809,
-    "projectName": "Cyberpunk 2077: The Board Game",
-    "projectCreator": "go-on-board",
-    "projectSlug": "cyberpunk-2077-the-board-game",
-    "title": "THANK YOU!",
-    "excerpt": "Thank You! / What's Next?",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3809/66c78347-a27f-4140-8e20-602fc54d94dc.png",
-    "publishedAt": "2026-07-20T14:12:10.123Z",
-    "url": "https://gamefound.com/en/projects/go-on-board/cyberpunk-2077-the-board-game/updates/60",
-    "sequenceNumber": 60
   },
   {
     "id": 40324,
