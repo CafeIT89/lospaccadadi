@@ -10,21 +10,25 @@ export const GAMEFOUND_PROJECTS: GamefoundProject[] = [
     name: "Nemesis Legacy",
     creator: "awaken-realms",
     slug: "nemesis-legacy",
+      projectId: 8524,
   },
   {
     name: "Primal HEX",
     creator: "smart-flamingo",
     slug: "primal-hex",
+    projectId: 4287,
   },
   {
     name: "Dead Men Tales",
     creator: "asmodee",
     slug: "dead-men-tales",
+     projectId: 8203,
   },
   {
     name: "Bloodwork: The Reckoning",
     creator: "i-demo-games",
     slug: "bloodwork-the-reckoning",
+     projectId: 8094,
   },
   {
     name: "DMD: Forbidden Reaches",
@@ -42,6 +46,7 @@ export const GAMEFOUND_PROJECTS: GamefoundProject[] = [
     name: "Chronicles of Drunagor: Aftermath",
     creator: "wearecgs",
     slug: "chronicles-of-drunagor-aftermath",
+     projectId: 6846,
   },
   {
     name: "Nemesis TTRPG",
@@ -53,6 +58,7 @@ export const GAMEFOUND_PROJECTS: GamefoundProject[] = [
     name: "Tekken: The Board Game",
     creator: "go-on-board",
     slug: "tekken-the-board-game",
+     projectId: 4948,
   },
   {
     name: "The Witcher: Legacy",
@@ -76,16 +82,19 @@ export const GAMEFOUND_PROJECTS: GamefoundProject[] = [
     name: "Claustrophobia 1692",
     creator: "devir",
     slug: "claustrophobia-1692",
+     projectId: 6571,
   },
   {
     name: "Aeon's End: System Overload",
     creator: "indie-boards-and-cards",
     slug: "aeons-end-system-overload",
+     projectId: 10157,
   },
   {
     name: "This War of Mine: Second Edition",
     creator: "awaken-realms",
     slug: "this-war-of-mine-second-edition",
+     projectId: 5386,
   },
   {
     name: "The Elder Scrolls: Heroes of Tamriel",
@@ -208,6 +217,7 @@ export const GAMEFOUND_PROJECTS: GamefoundProject[] = [
     name: "Arkham Horror",
     creator: "asmodee",
     slug: "arkham-horror",
+     projectId: 11582,
   },
   {
     name: "Call of Cthulhu: Old Ones Origins",
@@ -219,6 +229,7 @@ export const GAMEFOUND_PROJECTS: GamefoundProject[] = [
     name: "Metal Slug",
     creator: "synergic-games",
     slug: "metal-slug",
+     projectId: 11740,
   },
   {
     name: "Aberration: Oblivion's Embrace",
@@ -230,11 +241,13 @@ export const GAMEFOUND_PROJECTS: GamefoundProject[] = [
     name: "Dungeon of Tanares",
     creator: "dragori-games",
     slug: "dungeon-of-tanares",
+     projectId: 11765,
   },
   {
     name: "Steadfast",
     creator: "skykingdomgames",
     slug: "steadfast",
+     projectId: 11759,
   },
   {
     name: "Fable Quest",
@@ -252,10 +265,12 @@ export const GAMEFOUND_PROJECTS: GamefoundProject[] = [
     name: "Eldfall Chronicles: Apocrypha",
     creator: "eldfall-chronicles",
     slug: "eldfall-chronicles-apocrypha",
+     projectId: 10066,
   },
   {
     name: "Dino Battle",
     creator: "rebellionunplugged",
     slug: "dino-battle",
+     projectId: 11736,
   },
 ];
