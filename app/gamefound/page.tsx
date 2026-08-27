@@ -1,18 +1,17 @@
 import type { Metadata } from "next";
 
 import { GamefoundUpdateCard } from "@/components/gamefound/GamefoundUpdateCard";
-import { getLatestGamefoundUpdates } from "@/lib/gamefound-updates";
+import type { GamefoundUpdate } from "@/lib/gamefound-updates/api";
+import gamefoundUpdatesData from "@/data/gamefound-updates.json";
 
 export const metadata: Metadata = {
   title: "Gamefound Updates | Lo Spacca Dadi",
   description:
     "Gli ultimi aggiornamenti delle campagne di giochi da tavolo monitorate su Gamefound.",
-    alternates: {
-  canonical: "/gamefound",
-}
+  alternates: {
+    canonical: "/gamefound",
+  },
 };
-
-export const revalidate = 3600;
 
 function formatRelativeDate(dateString: string) {
   const publishedAt = new Date(dateString);
@@ -62,8 +61,16 @@ function formatRelativeDate(dateString: string) {
   }).format(publishedAt);
 }
 
-export default async function GamefoundPage() {
-  const updates = await getLatestGamefoundUpdates(21);
+export default function GamefoundPage() {
+  const updates = (
+    gamefoundUpdatesData as GamefoundUpdate[]
+  )
+    .sort(
+      (a, b) =>
+        new Date(b.publishedAt).getTime() -
+        new Date(a.publishedAt).getTime()
+    )
+    .slice(0, 21);
 
   const latestUpdate =
     updates.length > 0
@@ -110,8 +117,7 @@ export default async function GamefoundPage() {
             </p>
 
             <p className="mt-2 text-sm leading-6 text-white/60">
-              Al momento non è stato possibile recuperare gli aggiornamenti da
-              Gamefound. Riprova più tardi.
+              Al momento non sono disponibili aggiornamenti Gamefound.
             </p>
           </div>
         )}
