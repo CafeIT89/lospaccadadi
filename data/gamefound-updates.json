@@ -1,5 +1,44 @@
 [
   {
+    "id": 41684,
+    "projectId": 11645,
+    "projectName": "Grimdark Future: Jade Claw",
+    "projectCreator": "onepagerules",
+    "projectSlug": "grimdark-future-jade-claw",
+    "title": "Assault Grunts Preview & What's in the Box?",
+    "excerpt": "Time to look at another unit inside the box as well as a full list of which models you can expect in the main Jade & Claw Two-Player Battle Box",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/f1932081-d534-4965-ac56-5f1b3e3d132d.jpg",
+    "publishedAt": "2026-08-28T18:43:28.137Z",
+    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/4",
+    "sequenceNumber": 4
+  },
+  {
+    "id": 41675,
+    "projectId": 5354,
+    "projectName": "Labyrinth",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "labyrinth",
+    "title": "Wave 2 (ENG & LANG) SHIPPING update #8",
+    "excerpt": "We're back with the latest Wave 2 shipping news for Labyrinth Chronicles. Check out the recent fulfillment progress update!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5354/90f5da8a-7a50-4682-81a9-1feaa981f668.png",
+    "publishedAt": "2026-08-28T15:59:01.137Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/labyrinth/updates/24",
+    "sequenceNumber": 24
+  },
+  {
+    "id": 41650,
+    "projectId": 4792,
+    "projectName": "DMD: Forbidden Reaches",
+    "projectCreator": "asmodee",
+    "projectSlug": "dmd-forbidden-reaches",
+    "title": "Production Update",
+    "excerpt": "All non-giant DMD plastics are now fully approved. Graphic revisions continue across the project. Meanwhile, Giant Godzilla continues through molding and tooling with new resins for review.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4792/3613db17-e697-4ea6-a488-67bd6152e4fe.png",
+    "publishedAt": "2026-08-28T13:23:26.46Z",
+    "url": "https://gamefound.com/en/projects/asmodee/dmd-forbidden-reaches/updates/95",
+    "sequenceNumber": 95
+  },
+  {
     "id": 41644,
     "projectId": 5297,
     "projectName": "Dead by Daylight: The Board Game",
@@ -127,32 +166,6 @@
     "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/f122173e-4b9c-4380-8193-79d159b21b80.jpg",
     "publishedAt": "2026-08-25T17:52:17.8Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/3",
-    "sequenceNumber": 3
-  },
-  {
-    "id": 41427,
-    "projectId": 5354,
-    "projectName": "Labyrinth",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "labyrinth",
-    "title": "Wave 2 (ENG & LANG) SHIPPING update #7",
-    "excerpt": "Welcome back! With shipping progressing smoothly, we invite you to check out the latest update on Wave 2 fulfillment progress for destinations worldwide today!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5354/fcd122a7-23c1-485a-a839-8d95350e7df7.png",
-    "publishedAt": "2026-08-25T17:24:09.62Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/labyrinth/updates/23",
-    "sequenceNumber": 23
-  },
-  {
-    "id": 41503,
-    "projectId": 11645,
-    "projectName": "Grimdark Future: Jade Claw",
-    "projectCreator": "onepagerules",
-    "projectSlug": "grimdark-future-jade-claw",
-    "title": "Poll: Statue or Bust",
-    "excerpt": "Broken Truth had a Giant Gator: Which Giant Collectible Should we Include with Jade & Claw?",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/7e0f2b0c-6db6-4f06-b648-204430c4899e.png",
-    "publishedAt": "2026-08-24T19:24:42.283Z",
-    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/3",
     "sequenceNumber": 3
   },
   {
@@ -297,19 +310,6 @@
     "publishedAt": "2026-08-14T15:27:46.187Z",
     "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/3",
     "sequenceNumber": 3
-  },
-  {
-    "id": 41225,
-    "projectId": 4792,
-    "projectName": "DMD: Forbidden Reaches",
-    "projectCreator": "asmodee",
-    "projectSlug": "dmd-forbidden-reaches",
-    "title": "Production Update",
-    "excerpt": "Plastic, Wax, and Sacrifices",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4792/714fbd37-dd66-467a-83e4-bb2ed305db53.png",
-    "publishedAt": "2026-08-14T14:38:02.9Z",
-    "url": "https://gamefound.com/en/projects/asmodee/dmd-forbidden-reaches/updates/94",
-    "sequenceNumber": 94
   },
   {
     "id": 41050,
