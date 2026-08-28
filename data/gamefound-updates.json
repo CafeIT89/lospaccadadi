@@ -1,5 +1,18 @@
 [
   {
+    "id": 41644,
+    "projectId": 5297,
+    "projectName": "Dead by Daylight: The Board Game",
+    "projectCreator": "level-99-games",
+    "projectSlug": "dbd",
+    "title": "New Maps Spotlight",
+    "excerpt": "Marco here! I’m the lead developer for Dead by Daylight™: The Board Game! In this update, I’ll tell you about the two new maps coming in this project and the interesting changes they present to the players!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5297/60bef261-e2fd-4029-b298-53a9deed8fed.png",
+    "publishedAt": "2026-08-28T03:37:54.673Z",
+    "url": "https://gamefound.com/en/projects/level-99-games/dbd/updates/14",
+    "sequenceNumber": 14
+  },
+  {
     "id": 41636,
     "projectId": 10157,
     "projectName": "Aeon's End: System Overload",
@@ -141,19 +154,6 @@
     "publishedAt": "2026-08-24T19:24:42.283Z",
     "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/3",
     "sequenceNumber": 3
-  },
-  {
-    "id": 41498,
-    "projectId": 5297,
-    "projectName": "Dead by Daylight: The Board Game",
-    "projectCreator": "level-99-games",
-    "projectSlug": "dbd",
-    "title": "Join our Live Stream with Penny Arcade!",
-    "excerpt": "This afternoon, Brad will be streaming a round of Dead by Daylight™: The Board Game with Penny Arcade!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5297/b8fc4e40-a054-4269-bb23-1c104d0ee399.png",
-    "publishedAt": "2026-08-24T15:52:11.187Z",
-    "url": "https://gamefound.com/en/projects/level-99-games/dbd/updates/13",
-    "sequenceNumber": 13
   },
   {
     "id": 41182,
