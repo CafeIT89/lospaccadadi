@@ -1,5 +1,31 @@
 [
   {
+    "id": 41645,
+    "projectId": 8203,
+    "projectName": "Dead Men Tales",
+    "projectCreator": "asmodee",
+    "projectSlug": "dead-men-tales",
+    "title": "Pledge Manager Closing 31st August! Confirm Your Pledges!",
+    "excerpt": "Reminder that the Pledge Manager closes soon, plus, a production update: The Kraken adds a 9th Quest, token samples, and vacuum tray, and white samples!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8203/72782e59-6e21-4298-85ad-2b15aece1c7e.png",
+    "publishedAt": "2026-08-29T01:42:38.733Z",
+    "url": "https://gamefound.com/en/projects/asmodee/dead-men-tales/updates/114",
+    "sequenceNumber": 114
+  },
+  {
+    "id": 41649,
+    "projectId": 11418,
+    "projectName": "Aberration: Oblivion's Embrace",
+    "projectCreator": "ghostfire-gaming",
+    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
+    "title": "What We've Updated",
+    "excerpt": "What's been updated in Aberration? And some small updates to this campaign.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/76934891-e3db-4666-b7dd-9ad3809fa7d6.png",
+    "publishedAt": "2026-08-28T23:41:36.79Z",
+    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/7",
+    "sequenceNumber": 7
+  },
+  {
     "id": 41684,
     "projectId": 11645,
     "projectName": "Grimdark Future: Jade Claw",
@@ -128,19 +154,6 @@
     "publishedAt": "2026-08-26T15:26:46.773Z",
     "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/1",
     "sequenceNumber": 1
-  },
-  {
-    "id": 41557,
-    "projectId": 11418,
-    "projectName": "Aberration: Oblivion's Embrace",
-    "projectCreator": "ghostfire-gaming",
-    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
-    "title": "We’ve Funded! 🎉",
-    "excerpt": "We did it!!! Aberration: Oblivion’s Embrace is officially funded!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/8858505d-edc9-4217-a722-43cfa92edbda.png",
-    "publishedAt": "2026-08-26T13:55:04.21Z",
-    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/6",
-    "sequenceNumber": 6
   },
   {
     "id": 41561,
@@ -284,19 +297,6 @@
     "publishedAt": "2026-08-15T19:42:38.427Z",
     "url": "https://gamefound.com/en/projects/stoneblade/the-lord-of-the-rings-ascension/updates/42",
     "sequenceNumber": 42
-  },
-  {
-    "id": 41224,
-    "projectId": 8203,
-    "projectName": "Dead Men Tales",
-    "projectCreator": "asmodee",
-    "projectSlug": "dead-men-tales",
-    "title": "Gen Con Recap and a Production Update",
-    "excerpt": "In this update, we share a little about our booth and experience at Gen Con, and take a look at some 3D printed samples from the Orc Reefreavers expansion!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8203/85e21f78-a76f-4e05-b419-9a68fab774c9.png",
-    "publishedAt": "2026-08-15T02:36:52.457Z",
-    "url": "https://gamefound.com/en/projects/asmodee/dead-men-tales/updates/113",
-    "sequenceNumber": 113
   },
   {
     "id": 41249,
