@@ -1,5 +1,18 @@
 [
   {
+    "id": 42718,
+    "projectId": 5297,
+    "projectName": "Dead by Daylight: The Board Game",
+    "projectCreator": "level-99-games",
+    "projectSlug": "dbd",
+    "title": "Final Hours to Pledge",
+    "excerpt": "We’re down to the final 72 hours of Dead by Daylight™: The Board Game Auris Box! This is the moment to tell a friend or to back the project yourself!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5297/da35b525-2c7c-4e15-b1e7-75583ce0c03c.png",
+    "publishedAt": "2026-08-29T14:33:28.253Z",
+    "url": "https://gamefound.com/en/projects/level-99-games/dbd/updates/15",
+    "sequenceNumber": 15
+  },
+  {
     "id": 41645,
     "projectId": 8203,
     "projectName": "Dead Men Tales",
@@ -63,19 +76,6 @@
     "publishedAt": "2026-08-28T13:23:26.46Z",
     "url": "https://gamefound.com/en/projects/asmodee/dmd-forbidden-reaches/updates/95",
     "sequenceNumber": 95
-  },
-  {
-    "id": 41644,
-    "projectId": 5297,
-    "projectName": "Dead by Daylight: The Board Game",
-    "projectCreator": "level-99-games",
-    "projectSlug": "dbd",
-    "title": "New Maps Spotlight",
-    "excerpt": "Marco here! I’m the lead developer for Dead by Daylight™: The Board Game! In this update, I’ll tell you about the two new maps coming in this project and the interesting changes they present to the players!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5297/60bef261-e2fd-4029-b298-53a9deed8fed.png",
-    "publishedAt": "2026-08-28T03:37:54.673Z",
-    "url": "https://gamefound.com/en/projects/level-99-games/dbd/updates/14",
-    "sequenceNumber": 14
   },
   {
     "id": 41636,
