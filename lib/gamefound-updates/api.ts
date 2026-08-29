@@ -75,7 +75,16 @@ function normalizeImageUrl(imageUrl: string | null | undefined) {
   }
 
   try {
-    return new URL(cleanedUrl, GAMEFOUND_BASE_URL).toString();
+    const normalizedUrl = new URL(cleanedUrl, GAMEFOUND_BASE_URL);
+
+    if (
+      normalizedUrl.pathname.toLowerCase().endsWith("/noimage.jpg") ||
+      normalizedUrl.pathname.toLowerCase().endsWith("/noimage.png")
+    ) {
+      return null;
+    }
+
+    return normalizedUrl.toString();
   } catch {
     return null;
   }
@@ -322,9 +331,17 @@ export async function fetchLatestProjectUpdate(
   const hasUnusableUpdateImage =
     UPDATES_WITH_UNUSABLE_IMAGE.has(updateUrl);
 
-  const image = hasUnusableUpdateImage
-    ? projectImage ?? contentImage ?? updateImage
-    : updateImage ?? contentImage ?? projectImage;
+ const image = hasUnusableUpdateImage
+  ? projectImage ??
+    contentImage ??
+    project.fallbackImage ??
+    updateImage ??
+    null
+  : updateImage ??
+    contentImage ??
+    projectImage ??
+    project.fallbackImage ??
+    null;
 
   return {
     id: latestUpdate.projectUpdateID,

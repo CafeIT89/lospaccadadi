@@ -3,6 +3,7 @@ export type GamefoundProject = {
   slug: string;
   creator: string;
   projectId?: number;
+  fallbackImage?: string;
 };
 
 export const GAMEFOUND_PROJECTS: GamefoundProject[] = [
@@ -85,11 +86,12 @@ export const GAMEFOUND_PROJECTS: GamefoundProject[] = [
      projectId: 6571,
   },
   {
-    name: "Aeon's End: System Overload",
-    creator: "indie-boards-and-cards",
-    slug: "aeons-end-system-overload",
-     projectId: 10157,
-  },
+  name: "Aeon's End: System Overload",
+  creator: "indie-boards-and-cards",
+  slug: "aeons-end-system-overload",
+  projectId: 10157,
+  fallbackImage: "/gamefound/aeons-end-system-overload.jpg",
+},
   {
     name: "This War of Mine: Second Edition",
     creator: "awaken-realms",
