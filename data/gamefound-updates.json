@@ -1,5 +1,18 @@
 [
   {
+    "id": 42726,
+    "projectId": 11418,
+    "projectName": "Aberration: Oblivion's Embrace",
+    "projectCreator": "ghostfire-gaming",
+    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
+    "title": "Unlocked & Future Stretch Goals",
+    "excerpt": "Take a closer look at the stretch goals we've unlocked and the ones that are coming up next!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/5d21bc51-faa8-4515-be3f-5199c457edaa.png",
+    "publishedAt": "2026-08-30T13:00:00Z",
+    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/8",
+    "sequenceNumber": 8
+  },
+  {
     "id": 42730,
     "projectId": 5297,
     "projectName": "Dead by Daylight: The Board Game",
@@ -24,19 +37,6 @@
     "publishedAt": "2026-08-29T01:42:38.733Z",
     "url": "https://gamefound.com/en/projects/asmodee/dead-men-tales/updates/114",
     "sequenceNumber": 114
-  },
-  {
-    "id": 41649,
-    "projectId": 11418,
-    "projectName": "Aberration: Oblivion's Embrace",
-    "projectCreator": "ghostfire-gaming",
-    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
-    "title": "What We've Updated",
-    "excerpt": "What's been updated in Aberration? And some small updates to this campaign.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/76934891-e3db-4666-b7dd-9ad3809fa7d6.png",
-    "publishedAt": "2026-08-28T23:41:36.79Z",
-    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/7",
-    "sequenceNumber": 7
   },
   {
     "id": 41684,
