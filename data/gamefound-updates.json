@@ -1,5 +1,44 @@
 [
   {
+    "id": 42748,
+    "projectId": 8203,
+    "projectName": "Dead Men Tales",
+    "projectCreator": "asmodee",
+    "projectSlug": "dead-men-tales",
+    "title": "Pledge Manager Deadline Extended to 21st September",
+    "excerpt": "Good news, you've got a few more weeks to complete your pledges!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8203/23e4017f-4031-4103-91c7-a29572963c23.png",
+    "publishedAt": "2026-08-31T12:23:18.307Z",
+    "url": "https://gamefound.com/en/projects/asmodee/dead-men-tales/updates/115",
+    "sequenceNumber": 115
+  },
+  {
+    "id": 42753,
+    "projectId": 4693,
+    "projectName": "Black Rose Wars: Rebirth",
+    "projectCreator": "lms",
+    "projectSlug": "blackrosewars-re",
+    "title": "Development and Playtesting",
+    "excerpt": "A look at where development stands and the next steps for the Revised Edition",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4693/7704159f-407c-4791-9459-aa3eccbb3b07.png",
+    "publishedAt": "2026-08-31T10:19:42.78Z",
+    "url": "https://gamefound.com/en/projects/lms/blackrosewars-re/updates/43",
+    "sequenceNumber": 43
+  },
+  {
+    "id": 41513,
+    "projectId": 5586,
+    "projectName": "Terrorscape 2",
+    "projectCreator": "ice-makes",
+    "projectSlug": "terrorscape-2",
+    "title": "S1 Deluxe Storage Boxes Replacement Plan",
+    "excerpt": "Production on the S1 Deluxe Storage Boxes inserts is wrapping up. We are sending a mass address confirmation email to affected backers.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5586/594a0e26-d2d7-4411-a5d4-112da8f39dec.jpg",
+    "publishedAt": "2026-08-31T07:23:41.663Z",
+    "url": "https://gamefound.com/en/projects/ice-makes/terrorscape-2/updates/58",
+    "sequenceNumber": 58
+  },
+  {
     "id": 42726,
     "projectId": 11418,
     "projectName": "Aberration: Oblivion's Embrace",
@@ -24,19 +63,6 @@
     "publishedAt": "2026-08-30T10:38:11.423Z",
     "url": "https://gamefound.com/en/projects/level-99-games/dbd/updates/16",
     "sequenceNumber": 16
-  },
-  {
-    "id": 41645,
-    "projectId": 8203,
-    "projectName": "Dead Men Tales",
-    "projectCreator": "asmodee",
-    "projectSlug": "dead-men-tales",
-    "title": "Pledge Manager Closing 31st August! Confirm Your Pledges!",
-    "excerpt": "Reminder that the Pledge Manager closes soon, plus, a production update: The Kraken adds a 9th Quest, token samples, and vacuum tray, and white samples!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8203/72782e59-6e21-4298-85ad-2b15aece1c7e.png",
-    "publishedAt": "2026-08-29T01:42:38.733Z",
-    "url": "https://gamefound.com/en/projects/asmodee/dead-men-tales/updates/114",
-    "sequenceNumber": 114
   },
   {
     "id": 41684,
@@ -180,19 +206,6 @@
     "publishedAt": "2026-08-25T17:52:17.8Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/3",
     "sequenceNumber": 3
-  },
-  {
-    "id": 41182,
-    "projectId": 5586,
-    "projectName": "Terrorscape 2",
-    "projectCreator": "ice-makes",
-    "projectSlug": "terrorscape-2",
-    "title": "Terrorscape 2 Deluxe All-in Digital Sample Received!",
-    "excerpt": "Today, we’re excited to share a first look at some fresh samples for Terrorscape 2, featuring the Deluxe storage boxes and the latest Sundrop miniatures!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5586/16731526-ef6f-4945-b2e6-efadb9169bd0.jpg",
-    "publishedAt": "2026-08-21T17:52:20.263Z",
-    "url": "https://gamefound.com/en/projects/ice-makes/terrorscape-2/updates/57",
-    "sequenceNumber": 57
   },
   {
     "id": 41424,
@@ -388,19 +401,6 @@
     "publishedAt": "2026-08-05T13:04:19.44Z",
     "url": "https://gamefound.com/en/projects/fox-troll-games/boktor-a-cooperative-dungeon-quest/updates/39",
     "sequenceNumber": 39
-  },
-  {
-    "id": 40719,
-    "projectId": 4693,
-    "projectName": "Black Rose Wars: Rebirth",
-    "projectCreator": "lms",
-    "projectSlug": "blackrosewars-re",
-    "title": "A New Battleground",
-    "excerpt": "The new playmat is here!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4693/bc5c849a-c1c0-4b70-bfd1-33be9691ddd7.jpg",
-    "publishedAt": "2026-07-31T14:39:32.03Z",
-    "url": "https://gamefound.com/en/projects/lms/blackrosewars-re/updates/42",
-    "sequenceNumber": 42
   },
   {
     "id": 40433,
