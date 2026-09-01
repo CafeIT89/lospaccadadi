@@ -1,5 +1,31 @@
 [
   {
+    "id": 42808,
+    "projectId": 11418,
+    "projectName": "Aberration: Oblivion's Embrace",
+    "projectCreator": "ghostfire-gaming",
+    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
+    "title": "Deep Dive: Oblivion's Embrace",
+    "excerpt": "A closer look at Aberration's largest expansion",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/c6bfaadb-321e-4367-be17-a7e7266866ef.png",
+    "publishedAt": "2026-09-01T13:34:32.443Z",
+    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/9",
+    "sequenceNumber": 9
+  },
+  {
+    "id": 42767,
+    "projectId": 5384,
+    "projectName": "B.E.L.O.W.: The Asylum",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "below-asylum",
+    "title": "Agents of the B.E.L.O.W.: Let's talk about Bloodshot & Calamity",
+    "excerpt": "Welcome back to the Bureau! Today, we'd like to further discuss two of the Core Box Agents that you will be able to choose from the pool.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5384/bb5b11c4-3f7c-459e-aef1-f4b78d937501.png",
+    "publishedAt": "2026-09-01T12:05:34.18Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/below-asylum/updates/25",
+    "sequenceNumber": 25
+  },
+  {
     "id": 42748,
     "projectId": 8203,
     "projectName": "Dead Men Tales",
@@ -37,19 +63,6 @@
     "publishedAt": "2026-08-31T07:23:41.663Z",
     "url": "https://gamefound.com/en/projects/ice-makes/terrorscape-2/updates/58",
     "sequenceNumber": 58
-  },
-  {
-    "id": 42726,
-    "projectId": 11418,
-    "projectName": "Aberration: Oblivion's Embrace",
-    "projectCreator": "ghostfire-gaming",
-    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
-    "title": "Unlocked & Future Stretch Goals",
-    "excerpt": "Take a closer look at the stretch goals we've unlocked and the ones that are coming up next!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/5d21bc51-faa8-4515-be3f-5199c457edaa.png",
-    "publishedAt": "2026-08-30T13:00:00Z",
-    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/8",
-    "sequenceNumber": 8
   },
   {
     "id": 42730,
@@ -427,19 +440,6 @@
     "publishedAt": "2026-07-29T09:52:53.527Z",
     "url": "https://gamefound.com/en/projects/lms/blasphemous-the-boardgame/updates/51",
     "sequenceNumber": 51
-  },
-  {
-    "id": 40584,
-    "projectId": 5384,
-    "projectName": "B.E.L.O.W.: The Asylum",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "below-asylum",
-    "title": "WiP Rulebook & TTS version of the B.E.L.O.W. coming SOON | NEW Art samples",
-    "excerpt": "Welcome, Agents! Today, we're sharing the latest news on the upcoming WiP Rulebook and TTS version of the game, both of which are now in the making. Also, we're giving you another glimpse into the latest visuals straight from the Below!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5384/b0d1c819-db9c-43c4-97e2-0038eab5bd5e.png",
-    "publishedAt": "2026-07-28T08:40:11.653Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/below-asylum/updates/24",
-    "sequenceNumber": 24
   },
   {
     "id": 40452,
