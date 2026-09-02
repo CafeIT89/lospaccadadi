@@ -1,5 +1,31 @@
 [
   {
+    "id": 42880,
+    "projectId": 5522,
+    "projectName": "Boktor",
+    "projectCreator": "fox-troll-games",
+    "projectSlug": "boktor-a-cooperative-dungeon-quest",
+    "title": "Freight Has Started & More Good News",
+    "excerpt": "Production is almost finished, and freight has started! We also have news about Essen, faster shipping, a packing video, and more.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5522/4b0a25b9-8f4c-4d81-8103-f90fb73970e0.png",
+    "publishedAt": "2026-09-02T14:59:21.833Z",
+    "url": "https://gamefound.com/en/projects/fox-troll-games/boktor-a-cooperative-dungeon-quest/updates/40",
+    "sequenceNumber": 40
+  },
+  {
+    "id": 42779,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "Choosing Your Next Nightmare",
+    "excerpt": "For the first time ever, players will have the opportunity to collect the entire Arkham Horror experience in one campaign.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/f099fb1a-17d3-435a-b625-2f6362faa452.png",
+    "publishedAt": "2026-09-02T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/2",
+    "sequenceNumber": 2
+  },
+  {
     "id": 42866,
     "projectId": 8333,
     "projectName": "20 Strong: Awaken Realms – Nemesis",
@@ -167,19 +193,6 @@
     "publishedAt": "2026-08-27T15:28:12.633Z",
     "url": "https://gamefound.com/en/projects/lms/blood_lms/updates/54",
     "sequenceNumber": 54
-  },
-  {
-    "id": 41543,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "What is Arkham Horror Remastered?",
-    "excerpt": "More about this classic game remastered for the modern era.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/74333ec4-8817-4fa0-b64d-f18dc8c8993a.png",
-    "publishedAt": "2026-08-27T14:00:00Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/1",
-    "sequenceNumber": 1
   },
   {
     "id": 41609,
@@ -427,19 +440,6 @@
     "publishedAt": "2026-08-06T19:45:00Z",
     "url": "https://gamefound.com/en/projects/chip-theory-games/wroth-reprint--wreck-expansion/updates/12",
     "sequenceNumber": 12
-  },
-  {
-    "id": 40887,
-    "projectId": 5522,
-    "projectName": "Boktor",
-    "projectCreator": "fox-troll-games",
-    "projectSlug": "boktor-a-cooperative-dungeon-quest",
-    "title": "Last Chance: Add-Ons & Collector Pledges Are Almost Out of Stock",
-    "excerpt": "Many add-ons are already sold out in some regions, and almost gone in others. Complete your Pledge Manager now to secure your games.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5522/faa490c4-f24d-46d0-97f9-767b03851722.jpeg",
-    "publishedAt": "2026-08-05T13:04:19.44Z",
-    "url": "https://gamefound.com/en/projects/fox-troll-games/boktor-a-cooperative-dungeon-quest/updates/39",
-    "sequenceNumber": 39
   },
   {
     "id": 40573,
