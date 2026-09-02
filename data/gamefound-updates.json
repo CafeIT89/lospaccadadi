@@ -1,5 +1,18 @@
 [
   {
+    "id": 42866,
+    "projectId": 8333,
+    "projectName": "20 Strong: Awaken Realms – Nemesis",
+    "projectCreator": "chip-theory-games",
+    "projectSlug": "20-strong-awaken-realms-nemesis",
+    "title": "Fulfillment Update!",
+    "excerpt": "The end of fulfillment fast approaches!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8333/f2288364-8137-4e74-a00c-5e38716dea8f.webp",
+    "publishedAt": "2026-09-01T21:50:02.677Z",
+    "url": "https://gamefound.com/en/projects/chip-theory-games/20-strong-awaken-realms-nemesis/updates/17",
+    "sequenceNumber": 17
+  },
+  {
     "id": 42731,
     "projectId": 5297,
     "projectName": "Dead by Daylight: The Board Game",
@@ -505,18 +518,5 @@
     "publishedAt": "2026-07-02T13:36:04.127Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-retaliation/updates/72",
     "sequenceNumber": 72
-  },
-  {
-    "id": 39634,
-    "projectId": 8333,
-    "projectName": "20 Strong: Awaken Realms – Nemesis",
-    "projectCreator": "chip-theory-games",
-    "projectSlug": "20-strong-awaken-realms-nemesis",
-    "title": "PLEDGE MANAGER CLOSING IN 24 HOURS!",
-    "excerpt": "Escape pods launching at 4:00 PM CDT tomorrow!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8333/6ed948f3-2dca-47b3-8021-389bc6ad0f35.webp",
-    "publishedAt": "2026-06-30T19:42:06.827Z",
-    "url": "https://gamefound.com/en/projects/chip-theory-games/20-strong-awaken-realms-nemesis/updates/16",
-    "sequenceNumber": 16
   }
 ]
