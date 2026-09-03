@@ -1,5 +1,18 @@
 [
   {
+    "id": 42913,
+    "projectId": 11765,
+    "projectName": "Dungeon of Tanares",
+    "projectCreator": "dragori-games",
+    "projectSlug": "dungeon-of-tanares",
+    "title": "The First Real Look at the New Tanares",
+    "excerpt": "Deeper heroes, more dangerous enemies, and choices that reach beyond one Quest.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/65cd4862-e8f2-4333-96f2-e66dcb06364b.png",
+    "publishedAt": "2026-09-03T02:50:02.75Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/2",
+    "sequenceNumber": 2
+  },
+  {
     "id": 42880,
     "projectId": 5522,
     "projectName": "Boktor",
@@ -206,19 +219,6 @@
     "publishedAt": "2026-08-27T11:57:26.403Z",
     "url": "https://gamefound.com/en/projects/go-on-board/cyberpunk-2077-the-board-game/updates/61",
     "sequenceNumber": 61
-  },
-  {
-    "id": 41595,
-    "projectId": 11765,
-    "projectName": "Dungeon of Tanares",
-    "projectCreator": "dragori-games",
-    "projectSlug": "dungeon-of-tanares",
-    "title": "The Final Chapter Begins and the Complete Trilogy Comes With It",
-    "excerpt": "Save the date! We plan to launch the campaign October 20th.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/2d29918f-0da9-4918-b4c1-7b86ffc6c0d1.png",
-    "publishedAt": "2026-08-27T08:06:07.017Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/1",
-    "sequenceNumber": 1
   },
   {
     "id": 41568,
