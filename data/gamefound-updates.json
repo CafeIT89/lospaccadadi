@@ -1,5 +1,31 @@
 [
   {
+    "id": 42875,
+    "projectId": 11418,
+    "projectName": "Aberration: Oblivion's Embrace",
+    "projectCreator": "ghostfire-gaming",
+    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
+    "title": "Lore Drop",
+    "excerpt": "A look into the lore surrounding Aberration",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/6863b05f-86bf-45f3-8619-e5deead2a045.png",
+    "publishedAt": "2026-09-03T15:00:00Z",
+    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/10",
+    "sequenceNumber": 10
+  },
+  {
+    "id": 42934,
+    "projectId": 8534,
+    "projectName": "Call of Cthulhu: Old Ones Origins",
+    "projectCreator": "chaosium",
+    "projectSlug": "call-of-cthulhu-old-ones-origins",
+    "title": "Yithian Archives: Record #04. What do you do in the game?",
+    "excerpt": "In today’s Update, you’ll learn more about how the ancient powers plot their course through the cosmos, and how every decision brings them closer to their ultimate ascendancy.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/e8e0edeb-da5f-4344-8f33-e404d7072c7b.png",
+    "publishedAt": "2026-09-03T14:34:16.15Z",
+    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/4",
+    "sequenceNumber": 4
+  },
+  {
     "id": 42913,
     "projectId": 11765,
     "projectName": "Dungeon of Tanares",
@@ -76,19 +102,6 @@
     "publishedAt": "2026-09-01T17:30:00Z",
     "url": "https://gamefound.com/en/projects/unstable-games/here-to-slay-dungeons/updates/43",
     "sequenceNumber": 43
-  },
-  {
-    "id": 42808,
-    "projectId": 11418,
-    "projectName": "Aberration: Oblivion's Embrace",
-    "projectCreator": "ghostfire-gaming",
-    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
-    "title": "Deep Dive: Oblivion's Embrace",
-    "excerpt": "A closer look at Aberration's largest expansion",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/c6bfaadb-321e-4367-be17-a7e7266866ef.png",
-    "publishedAt": "2026-09-01T13:34:32.443Z",
-    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/9",
-    "sequenceNumber": 9
   },
   {
     "id": 42767,
@@ -362,19 +375,6 @@
     "publishedAt": "2026-08-15T19:42:38.427Z",
     "url": "https://gamefound.com/en/projects/stoneblade/the-lord-of-the-rings-ascension/updates/42",
     "sequenceNumber": 42
-  },
-  {
-    "id": 41249,
-    "projectId": 8534,
-    "projectName": "Call of Cthulhu: Old Ones Origins",
-    "projectCreator": "chaosium",
-    "projectSlug": "call-of-cthulhu-old-ones-origins",
-    "title": "Yithian Archives: Record #03. Four Factions! What to expect from the campaign!",
-    "excerpt": "In this Update, we reveal the four factions available in the game, along with some information about what to expect from this campaign. You can also read a Designer Diary by Samuel Bailey exploring the topic of asymmetry.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/b2acf2eb-ce97-400f-a5d4-29ae375323fe.png",
-    "publishedAt": "2026-08-14T15:27:46.187Z",
-    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/3",
-    "sequenceNumber": 3
   },
   {
     "id": 41050,
