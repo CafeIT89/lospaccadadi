@@ -1,5 +1,18 @@
 [
   {
+    "id": 42947,
+    "projectId": 6571,
+    "projectName": "Claustrophobia 1692",
+    "projectCreator": "devir",
+    "projectSlug": "claustrophobia-1692",
+    "title": "The Pledge Manager Opens Monday",
+    "excerpt": "The Claustrophobia 1692 Pledge Manager goes live Monday. Here is how it works, what to expect, and what you need to know before you complete it.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6571/af905c62-c555-47f4-9639-bf6069d4ec6d.jpg",
+    "publishedAt": "2026-09-03T18:51:04.01Z",
+    "url": "https://gamefound.com/en/projects/devir/claustrophobia-1692/updates/21",
+    "sequenceNumber": 21
+  },
+  {
     "id": 42875,
     "projectId": 11418,
     "projectName": "Aberration: Oblivion's Embrace",
@@ -492,19 +505,6 @@
     "publishedAt": "2026-07-15T12:00:08.213Z",
     "url": "https://gamefound.com/en/projects/go-on-board/tekken-the-board-game/updates/31",
     "sequenceNumber": 31
-  },
-  {
-    "id": 40014,
-    "projectId": 6571,
-    "projectName": "Claustrophobia 1692",
-    "projectCreator": "devir",
-    "projectSlug": "claustrophobia-1692",
-    "title": "Retraction and Apology",
-    "excerpt": "We made a mistake in the previous update, based on faulty information. We know how excited you all were about the French edition, and we are sorry to say that our statement in the previous update was incorrect.",
-    "image": "https://imgcdn.gamefound.com/projectimage/projects/6571/54a23933-85fa-4a1c-8b5e-d8f11ecd1fdf.jpg",
-    "publishedAt": "2026-07-10T21:14:44.817Z",
-    "url": "https://gamefound.com/en/projects/devir/claustrophobia-1692/updates/20",
-    "sequenceNumber": 20
   },
   {
     "id": 39719,
