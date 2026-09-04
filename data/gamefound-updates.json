@@ -1,5 +1,18 @@
 [
   {
+    "id": 42984,
+    "projectId": 6517,
+    "projectName": "Quake: The Board Game",
+    "projectCreator": "archon-studio",
+    "projectSlug": "quake-the-board-game",
+    "title": "PvE Mode Gameplay Video",
+    "excerpt": "Come watch as our team of designers guides you through the main PvE mode!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6517/70cfe822-e8c5-48de-895e-645de3e48ad1.png",
+    "publishedAt": "2026-09-04T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/archon-studio/quake-the-board-game/updates/8",
+    "sequenceNumber": 8
+  },
+  {
     "id": 42947,
     "projectId": 6571,
     "projectName": "Claustrophobia 1692",
@@ -323,19 +336,6 @@
     "publishedAt": "2026-08-20T13:36:42.453Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/dragon-eclipse-the-grand-quest/updates/24",
     "sequenceNumber": 24
-  },
-  {
-    "id": 40856,
-    "projectId": 6517,
-    "projectName": "Quake: The Board Game",
-    "projectCreator": "archon-studio",
-    "projectSlug": "quake-the-board-game",
-    "title": "Early Behind The Scenes of the Gameplay Video & QUAKECON",
-    "excerpt": "Get ready for a showcase of the prototype!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6517/d0510fef-77c7-4fb6-a7bb-c25d7442ee4c.png",
-    "publishedAt": "2026-08-19T14:00:00Z",
-    "url": "https://gamefound.com/en/projects/archon-studio/quake-the-board-game/updates/7",
-    "sequenceNumber": 7
   },
   {
     "id": 41347,
