@@ -1,5 +1,44 @@
 [
   {
+    "id": 43001,
+    "projectId": 5354,
+    "projectName": "Labyrinth",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "labyrinth",
+    "title": "Wave 2 (ENG & LANG) SHIPPING update #9",
+    "excerpt": "As the Wave 2 fulfillment moves forward, we're coming back with the latest shipping update!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5354/0ae29aa0-2ce1-433f-93b4-6ccd11610445.png",
+    "publishedAt": "2026-09-04T19:17:25.51Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/labyrinth/updates/25",
+    "sequenceNumber": 25
+  },
+  {
+    "id": 42997,
+    "projectId": 8524,
+    "projectName": "Nemesis Legacy",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "nemesis-legacy",
+    "title": "Pre-campaign #4: Core Box Prices, Infinity Mode & the Evolved Intruders",
+    "excerpt": "We are back with a new pre-campaign update! This time, we want to focus on three things: the price of the Core Box, a detailed introduction to Infinity Mode, and the first real look at the Evolved Intruders waiting for you in Nemesis: Legacy.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/25d1e1cf-30a8-4b15-9d77-3405e88f1189.jpg",
+    "publishedAt": "2026-09-04T19:16:03.093Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/4",
+    "sequenceNumber": 4
+  },
+  {
+    "id": 42999,
+    "projectId": 3848,
+    "projectName": "Grimcoven",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "grimcoven",
+    "title": "LANG (other than English) versions SHIPPING UPDATE #3",
+    "excerpt": "Welcome back, Hunters! Today, we're coming back with the latest news on the ongoing fulfillment of localized editions.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3848/656d2d51-3b33-4e26-83bf-d17c536a9691.png",
+    "publishedAt": "2026-09-04T18:52:43.88Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/grimcoven/updates/49",
+    "sequenceNumber": 49
+  },
+  {
     "id": 42984,
     "projectId": 6517,
     "projectName": "Quake: The Board Game",
@@ -195,19 +234,6 @@
     "sequenceNumber": 4
   },
   {
-    "id": 41675,
-    "projectId": 5354,
-    "projectName": "Labyrinth",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "labyrinth",
-    "title": "Wave 2 (ENG & LANG) SHIPPING update #8",
-    "excerpt": "We're back with the latest Wave 2 shipping news for Labyrinth Chronicles. Check out the recent fulfillment progress update!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5354/90f5da8a-7a50-4682-81a9-1feaa981f668.png",
-    "publishedAt": "2026-08-28T15:59:01.137Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/labyrinth/updates/24",
-    "sequenceNumber": 24
-  },
-  {
     "id": 41650,
     "projectId": 4792,
     "projectName": "DMD: Forbidden Reaches",
@@ -286,19 +312,6 @@
     "sequenceNumber": 38
   },
   {
-    "id": 41389,
-    "projectId": 8524,
-    "projectName": "Nemesis Legacy",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "nemesis-legacy",
-    "title": "Pre-campaign #3: START date revealed / Meet the Crew!",
-    "excerpt": "Nemesis: Legacy launches October 6th! Today, we address your feedback on the Legacy system, reveal the new Crewmember classes, and share a new Dev Diary with Rob Daviau and Jaime Barriga.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/f122173e-4b9c-4380-8193-79d159b21b80.jpg",
-    "publishedAt": "2026-08-25T17:52:17.8Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/3",
-    "sequenceNumber": 3
-  },
-  {
     "id": 41424,
     "projectId": 5640,
     "projectName": "Ronin's Revenge",
@@ -362,19 +375,6 @@
     "publishedAt": "2026-08-19T11:50:55.46Z",
     "url": "https://gamefound.com/en/projects/i-demo-games/bloodwork-the-reckoning/updates/49",
     "sequenceNumber": 49
-  },
-  {
-    "id": 41283,
-    "projectId": 3848,
-    "projectName": "Grimcoven",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "grimcoven",
-    "title": "LANG (other than English) versions SHIPPING UPDATE #2",
-    "excerpt": "Welcome, Hunters! Check out the latest news on the LANG editions' fulfillment progress!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3848/140c1e39-0ce5-4a3c-b67f-816451fbee52.png",
-    "publishedAt": "2026-08-17T10:55:48.643Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/grimcoven/updates/48",
-    "sequenceNumber": 48
   },
   {
     "id": 41158,
