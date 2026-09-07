@@ -1,16 +1,42 @@
 [
   {
-    "id": 42915,
+    "id": 44061,
+    "projectId": 8499,
+    "projectName": "Nemesis TTRPG",
+    "projectCreator": "studio-agate",
+    "projectSlug": "nemesis-ttrpg",
+    "title": "Dev Diary #7: Project Update and New Launch Date",
+    "excerpt": "In this seventh Dev Diary, we share an important project update, including a new target launch window for January 2027. We also look at the latest progress on the TTRPG dev, what’s coming this autumn and a memory from this summer :)",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8499/ac04e08b-d72e-4d0c-98c1-671dddbd5a84.jpg",
+    "publishedAt": "2026-09-07T15:02:07.62Z",
+    "url": "https://gamefound.com/en/projects/studio-agate/nemesis-ttrpg/updates/7",
+    "sequenceNumber": 7
+  },
+  {
+    "id": 44038,
     "projectId": 11418,
     "projectName": "Aberration: Oblivion's Embrace",
     "projectCreator": "ghostfire-gaming",
     "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
-    "title": "Deep Dive: Monster Packs",
-    "excerpt": "A closer look at the two new Monster Packs!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/1a0475b3-fa29-40e8-a832-5283f3d62398.png",
-    "publishedAt": "2026-09-05T15:00:00Z",
-    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/11",
-    "sequenceNumber": 11
+    "title": "Meet the Designer: Peter Lee",
+    "excerpt": "Meet the mind behind Lords of Waterdeep & Horrified!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/2d3287d1-873c-49e8-9a6d-3cf35eee41f5.png",
+    "publishedAt": "2026-09-07T15:00:00Z",
+    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/12",
+    "sequenceNumber": 12
+  },
+  {
+    "id": 42927,
+    "projectId": 4392,
+    "projectName": "Blasphemous: The Board Game",
+    "projectCreator": "lms",
+    "projectSlug": "blasphemous-the-boardgame",
+    "title": "His Judgment Is Coming",
+    "excerpt": "His Holiness Expansion Spotlight!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4392/3e0e460f-b551-4c79-91bb-42ee15dfac50.jpg",
+    "publishedAt": "2026-09-07T12:35:35.687Z",
+    "url": "https://gamefound.com/en/projects/lms/blasphemous-the-boardgame/updates/52",
+    "sequenceNumber": 52
   },
   {
     "id": 43001,
@@ -325,19 +351,6 @@
     "sequenceNumber": 15
   },
   {
-    "id": 41414,
-    "projectId": 8499,
-    "projectName": "Nemesis TTRPG",
-    "projectCreator": "studio-agate",
-    "projectSlug": "nemesis-ttrpg",
-    "title": "Dev Diary #6: Solo Mode",
-    "excerpt": "In this sixth Dev Diary, we explore how solo play is being built directly into NEMESIS, using the same core rules and content as multiplayer. We also introduce the idea of playing your character’s origin in solo before joining a crew.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8499/4eb89d3e-bdb8-4b74-bf1b-fbfb185da6b5.jpg",
-    "publishedAt": "2026-08-20T21:06:21.413Z",
-    "url": "https://gamefound.com/en/projects/studio-agate/nemesis-ttrpg/updates/6",
-    "sequenceNumber": 6
-  },
-  {
     "id": 41316,
     "projectId": 5385,
     "projectName": "Dragon Eclipse: The Grand Quest",
@@ -453,19 +466,6 @@
     "publishedAt": "2026-08-06T19:45:00Z",
     "url": "https://gamefound.com/en/projects/chip-theory-games/wroth-reprint--wreck-expansion/updates/12",
     "sequenceNumber": 12
-  },
-  {
-    "id": 40573,
-    "projectId": 4392,
-    "projectName": "Blasphemous: The Board Game",
-    "projectCreator": "lms",
-    "projectSlug": "blasphemous-the-boardgame",
-    "title": "There's Something About Crisanta",
-    "excerpt": "Focus on The Anointed Legion Expansion",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4392/9584c2b1-d949-4e2c-9049-927b7be50798.jpg",
-    "publishedAt": "2026-07-29T09:52:53.527Z",
-    "url": "https://gamefound.com/en/projects/lms/blasphemous-the-boardgame/updates/51",
-    "sequenceNumber": 51
   },
   {
     "id": 40452,
