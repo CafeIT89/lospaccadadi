@@ -1,5 +1,18 @@
 [
   {
+    "id": 44088,
+    "projectId": 11418,
+    "projectName": "Aberration: Oblivion's Embrace",
+    "projectCreator": "ghostfire-gaming",
+    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
+    "title": "Stretch Goal Update",
+    "excerpt": "A look at what we've unlocked so far as well as some changes we've made based on your feedback.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/ce865b43-43b8-4917-88ff-2c795d62f60a.png",
+    "publishedAt": "2026-09-08T07:05:42.107Z",
+    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/13",
+    "sequenceNumber": 13
+  },
+  {
     "id": 44061,
     "projectId": 8499,
     "projectName": "Nemesis TTRPG",
@@ -11,19 +24,6 @@
     "publishedAt": "2026-09-07T15:02:07.62Z",
     "url": "https://gamefound.com/en/projects/studio-agate/nemesis-ttrpg/updates/7",
     "sequenceNumber": 7
-  },
-  {
-    "id": 44038,
-    "projectId": 11418,
-    "projectName": "Aberration: Oblivion's Embrace",
-    "projectCreator": "ghostfire-gaming",
-    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
-    "title": "Meet the Designer: Peter Lee",
-    "excerpt": "Meet the mind behind Lords of Waterdeep & Horrified!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/2d3287d1-873c-49e8-9a6d-3cf35eee41f5.png",
-    "publishedAt": "2026-09-07T15:00:00Z",
-    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/12",
-    "sequenceNumber": 12
   },
   {
     "id": 42927,
