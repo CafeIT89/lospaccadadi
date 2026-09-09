@@ -1,5 +1,44 @@
 [
   {
+    "id": 44150,
+    "projectId": 6517,
+    "projectName": "Quake: The Board Game",
+    "projectCreator": "archon-studio",
+    "projectSlug": "quake-the-board-game",
+    "title": "Official How To Play Video",
+    "excerpt": "Learn how to play the game!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6517/8596cbe0-9479-4ee1-8c17-4b15871f9c24.png",
+    "publishedAt": "2026-09-09T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/archon-studio/quake-the-board-game/updates/9",
+    "sequenceNumber": 9
+  },
+  {
+    "id": 42756,
+    "projectId": 4948,
+    "projectName": "Tekken: The Board Game",
+    "projectCreator": "go-on-board",
+    "projectSlug": "tekken-the-board-game",
+    "title": "To All 3,957 Challengers…",
+    "excerpt": "Thank You, Fighters / If This Campaign Was a Tournament… / TEKKEN at the Table / What’s Next",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4948/96abca1b-1e6f-46d6-bff8-77a17b8e2878.png",
+    "publishedAt": "2026-09-09T12:00:34.93Z",
+    "url": "https://gamefound.com/en/projects/go-on-board/tekken-the-board-game/updates/32",
+    "sequenceNumber": 32
+  },
+  {
+    "id": 44098,
+    "projectId": 10066,
+    "projectName": "Eldfall Chronicles: Apocrypha",
+    "projectCreator": "eldfall-chronicles",
+    "projectSlug": "eldfall-chronicles-apocrypha",
+    "title": "THE GRAND LIBRARY OPENS: WELCOME TO APOCRYPHA",
+    "excerpt": "Ready for Lore?\nJourney to the Sand Kingdoms and discover the Grand Library, the Sealed Archives, and the forbidden Apocrypha hidden within. Learn more about the setting of our next Chronicle and what awaits in the XVIIth Prospecting Expedition.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/32e1075c-f242-4d67-b2aa-b424fdf5d64f.jpg",
+    "publishedAt": "2026-09-09T12:00:00Z",
+    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/1",
+    "sequenceNumber": 1
+  },
+  {
     "id": 44130,
     "projectId": 11645,
     "projectName": "Grimdark Future: Jade Claw",
@@ -89,19 +128,6 @@
     "publishedAt": "2026-09-04T18:52:43.88Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/grimcoven/updates/49",
     "sequenceNumber": 49
-  },
-  {
-    "id": 42984,
-    "projectId": 6517,
-    "projectName": "Quake: The Board Game",
-    "projectCreator": "archon-studio",
-    "projectSlug": "quake-the-board-game",
-    "title": "PvE Mode Gameplay Video",
-    "excerpt": "Come watch as our team of designers guides you through the main PvE mode!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6517/70cfe822-e8c5-48de-895e-645de3e48ad1.png",
-    "publishedAt": "2026-09-04T14:00:00Z",
-    "url": "https://gamefound.com/en/projects/archon-studio/quake-the-board-game/updates/8",
-    "sequenceNumber": 8
   },
   {
     "id": 42947,
@@ -492,19 +518,6 @@
     "publishedAt": "2026-07-20T08:56:52.513Z",
     "url": "https://gamefound.com/en/projects/smart-flamingo/primal-hex/updates/24",
     "sequenceNumber": 24
-  },
-  {
-    "id": 40144,
-    "projectId": 4948,
-    "projectName": "Tekken: The Board Game",
-    "projectCreator": "go-on-board",
-    "projectSlug": "tekken-the-board-game",
-    "title": "IT'S TIME TO GO ALL IN!",
-    "excerpt": "Thank You, Challengers / The Complete TEKKEN Roster / Last Hours to Go All In",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4948/ed46d0bf-0f57-4c24-9f3a-76e669a8b68f.png",
-    "publishedAt": "2026-07-15T12:00:08.213Z",
-    "url": "https://gamefound.com/en/projects/go-on-board/tekken-the-board-game/updates/31",
-    "sequenceNumber": 31
   },
   {
     "id": 39719,
