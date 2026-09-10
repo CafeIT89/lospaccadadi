@@ -1,5 +1,18 @@
 [
   {
+    "id": 44039,
+    "projectId": 11418,
+    "projectName": "Aberration: Oblivion's Embrace",
+    "projectCreator": "ghostfire-gaming",
+    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
+    "title": "Deep Dive: Arcanists & Abominations",
+    "excerpt": "A closer look at our re-packaged expansions",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/56e2b96b-59be-4b41-852a-a12e096c83dd.png",
+    "publishedAt": "2026-09-09T21:00:00Z",
+    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/14",
+    "sequenceNumber": 14
+  },
+  {
     "id": 44150,
     "projectId": 6517,
     "projectName": "Quake: The Board Game",
@@ -50,19 +63,6 @@
     "publishedAt": "2026-09-08T20:46:04.607Z",
     "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/5",
     "sequenceNumber": 5
-  },
-  {
-    "id": 44088,
-    "projectId": 11418,
-    "projectName": "Aberration: Oblivion's Embrace",
-    "projectCreator": "ghostfire-gaming",
-    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
-    "title": "Stretch Goal Update",
-    "excerpt": "A look at what we've unlocked so far as well as some changes we've made based on your feedback.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/ce865b43-43b8-4917-88ff-2c795d62f60a.png",
-    "publishedAt": "2026-09-08T07:05:42.107Z",
-    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/13",
-    "sequenceNumber": 13
   },
   {
     "id": 44061,
