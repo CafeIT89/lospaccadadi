@@ -1,5 +1,31 @@
 [
   {
+    "id": 44165,
+    "projectId": 11736,
+    "projectName": "Dino Battle",
+    "projectCreator": "rebellionunplugged",
+    "projectSlug": "dino-battle",
+    "title": "Campaign Update #1 | What is Dino Battle!?",
+    "excerpt": "Dino Battle! is coming to Gamefound! Here’s a look at what we’ve been working on and what’s coming over the next few weeks.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11736/b1268265-bd64-43c1-b0cb-e0f423799328.jpg",
+    "publishedAt": "2026-09-10T10:01:46.963Z",
+    "url": "https://gamefound.com/en/projects/rebellionunplugged/dino-battle/updates/1",
+    "sequenceNumber": 1
+  },
+  {
+    "id": 44185,
+    "projectId": 11765,
+    "projectName": "Dungeon of Tanares",
+    "projectCreator": "dragori-games",
+    "projectSlug": "dungeon-of-tanares",
+    "title": "The Tanares Trilogy, a New Hero, and a Deadly Hive",
+    "excerpt": "Find your starting point, meet Isumi, the Fire Shugenja, discover a villain whose inspiration you will recognize, and see our first completed Community Mission.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/b92e7298-f8a4-4d30-a825-9851e584983b.jpeg",
+    "publishedAt": "2026-09-10T06:25:26.807Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/3",
+    "sequenceNumber": 3
+  },
+  {
     "id": 44039,
     "projectId": 11418,
     "projectName": "Aberration: Oblivion's Embrace",
@@ -154,19 +180,6 @@
     "publishedAt": "2026-09-03T14:34:16.15Z",
     "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/4",
     "sequenceNumber": 4
-  },
-  {
-    "id": 42913,
-    "projectId": 11765,
-    "projectName": "Dungeon of Tanares",
-    "projectCreator": "dragori-games",
-    "projectSlug": "dungeon-of-tanares",
-    "title": "The First Real Look at the New Tanares",
-    "excerpt": "Deeper heroes, more dangerous enemies, and choices that reach beyond one Quest.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/65cd4862-e8f2-4333-96f2-e66dcb06364b.png",
-    "publishedAt": "2026-09-03T02:50:02.75Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/2",
-    "sequenceNumber": 2
   },
   {
     "id": 42880,
