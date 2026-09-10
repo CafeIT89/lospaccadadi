@@ -275,4 +275,10 @@ export const GAMEFOUND_PROJECTS: GamefoundProject[] = [
     slug: "dino-battle",
      projectId: 11736,
   },
+  {
+    name: "Too Little Time",
+    creator: "Chip Theory Games",
+    slug: "too-little-time",
+     projectId: 12995,
+  },
 ];
