@@ -1,5 +1,31 @@
 [
   {
+    "id": 44281,
+    "projectId": 8524,
+    "projectName": "Nemesis Legacy",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "nemesis-legacy",
+    "title": "Pre-campaign #5: FIRST VIDEOS! / THE NEMESIS TRILOGY WILL RETURN!",
+    "excerpt": "Nemesis Legacy videos are available! Also, the trilogy returns in full! Check prices for returning games, first shipping estimates, a new Dev Diary on the Evolved Intruders, plus fresh prototype videos including today’s live first-scenario playthrough.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/7c293743-9353-478c-8f55-a812b6fb59ce.jpg",
+    "publishedAt": "2026-09-11T19:08:45.393Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/5",
+    "sequenceNumber": 5
+  },
+  {
+    "id": 44229,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "A New Look for a New Era",
+    "excerpt": "A peek at the old and the new to see some of what’s being changed.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/16a8a947-b724-4472-9928-59e89b776161.png",
+    "publishedAt": "2026-09-11T16:27:43.143Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/3",
+    "sequenceNumber": 3
+  },
+  {
     "id": 44243,
     "projectId": 8203,
     "projectName": "Dead Men Tales",
@@ -195,19 +221,6 @@
     "sequenceNumber": 25
   },
   {
-    "id": 42997,
-    "projectId": 8524,
-    "projectName": "Nemesis Legacy",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "nemesis-legacy",
-    "title": "Pre-campaign #4: Core Box Prices, Infinity Mode & the Evolved Intruders",
-    "excerpt": "We are back with a new pre-campaign update! This time, we want to focus on three things: the price of the Core Box, a detailed introduction to Infinity Mode, and the first real look at the Evolved Intruders waiting for you in Nemesis: Legacy.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/25d1e1cf-30a8-4b15-9d77-3405e88f1189.jpg",
-    "publishedAt": "2026-09-04T19:16:03.093Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/4",
-    "sequenceNumber": 4
-  },
-  {
     "id": 42999,
     "projectId": 3848,
     "projectName": "Grimcoven",
@@ -258,19 +271,6 @@
     "publishedAt": "2026-09-02T14:59:21.833Z",
     "url": "https://gamefound.com/en/projects/fox-troll-games/boktor-a-cooperative-dungeon-quest/updates/40",
     "sequenceNumber": 40
-  },
-  {
-    "id": 42779,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "Choosing Your Next Nightmare",
-    "excerpt": "For the first time ever, players will have the opportunity to collect the entire Arkham Horror experience in one campaign.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/f099fb1a-17d3-435a-b625-2f6362faa452.png",
-    "publishedAt": "2026-09-02T14:00:00Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/2",
-    "sequenceNumber": 2
   },
   {
     "id": 42866,
