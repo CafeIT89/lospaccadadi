@@ -1,5 +1,44 @@
 [
   {
+    "id": 44243,
+    "projectId": 8203,
+    "projectName": "Dead Men Tales",
+    "projectCreator": "asmodee",
+    "projectSlug": "dead-men-tales",
+    "title": "Reminder: Confirm Your Pledge by 21 September!",
+    "excerpt": "Plus, a first look at new Shipwreck Bay assets and our latest dashboard and dice samples!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8203/67076b18-acbe-4613-ab31-0890b2b6e276.png",
+    "publishedAt": "2026-09-11T14:21:42.653Z",
+    "url": "https://gamefound.com/en/projects/asmodee/dead-men-tales/updates/116",
+    "sequenceNumber": 116
+  },
+  {
+    "id": 44247,
+    "projectId": 4792,
+    "projectName": "DMD: Forbidden Reaches",
+    "projectCreator": "asmodee",
+    "projectSlug": "dmd-forbidden-reaches",
+    "title": "Production Update",
+    "excerpt": "Graphic revisions are complete and typesetting proofs are underway. White samples are being finalized, vac tray work continues, and we’ve also dug up some early concept sketches to share.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4792/1e708537-3ec4-4c94-b9a8-12c211fbe4a4.png",
+    "publishedAt": "2026-09-11T13:32:52.817Z",
+    "url": "https://gamefound.com/en/projects/asmodee/dmd-forbidden-reaches/updates/96",
+    "sequenceNumber": 96
+  },
+  {
+    "id": 44198,
+    "projectId": 5586,
+    "projectName": "Terrorscape 2",
+    "projectCreator": "ice-makes",
+    "projectSlug": "terrorscape-2",
+    "title": "Terrorscape 2 Expansions Digital Samples | Season 1 Fulfillment Update",
+    "excerpt": "This update brings a sneak peek at the digital samples for all 3 expansions! Also, we have some reminders for Season 1 fulfillment.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5586/b995670a-88ec-455a-8bac-628c830fbe9e.jpg",
+    "publishedAt": "2026-09-11T11:58:18.52Z",
+    "url": "https://gamefound.com/en/projects/ice-makes/terrorscape-2/updates/59",
+    "sequenceNumber": 59
+  },
+  {
     "id": 44245,
     "projectId": 5617,
     "projectName": "Spell Rift Legends",
@@ -286,19 +325,6 @@
     "sequenceNumber": 25
   },
   {
-    "id": 42748,
-    "projectId": 8203,
-    "projectName": "Dead Men Tales",
-    "projectCreator": "asmodee",
-    "projectSlug": "dead-men-tales",
-    "title": "Pledge Manager Deadline Extended to 21st September",
-    "excerpt": "Good news, you've got a few more weeks to complete your pledges!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8203/23e4017f-4031-4103-91c7-a29572963c23.png",
-    "publishedAt": "2026-08-31T12:23:18.307Z",
-    "url": "https://gamefound.com/en/projects/asmodee/dead-men-tales/updates/115",
-    "sequenceNumber": 115
-  },
-  {
     "id": 42753,
     "projectId": 4693,
     "projectName": "Black Rose Wars: Rebirth",
@@ -310,32 +336,6 @@
     "publishedAt": "2026-08-31T10:19:42.78Z",
     "url": "https://gamefound.com/en/projects/lms/blackrosewars-re/updates/43",
     "sequenceNumber": 43
-  },
-  {
-    "id": 41513,
-    "projectId": 5586,
-    "projectName": "Terrorscape 2",
-    "projectCreator": "ice-makes",
-    "projectSlug": "terrorscape-2",
-    "title": "S1 Deluxe Storage Boxes Replacement Plan",
-    "excerpt": "Production on the S1 Deluxe Storage Boxes inserts is wrapping up. We are sending a mass address confirmation email to affected backers.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5586/594a0e26-d2d7-4411-a5d4-112da8f39dec.jpg",
-    "publishedAt": "2026-08-31T07:23:41.663Z",
-    "url": "https://gamefound.com/en/projects/ice-makes/terrorscape-2/updates/58",
-    "sequenceNumber": 58
-  },
-  {
-    "id": 41650,
-    "projectId": 4792,
-    "projectName": "DMD: Forbidden Reaches",
-    "projectCreator": "asmodee",
-    "projectSlug": "dmd-forbidden-reaches",
-    "title": "Production Update",
-    "excerpt": "All non-giant DMD plastics are now fully approved. Graphic revisions continue across the project. Meanwhile, Giant Godzilla continues through molding and tooling with new resins for review.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4792/3613db17-e697-4ea6-a488-67bd6152e4fe.png",
-    "publishedAt": "2026-08-28T13:23:26.46Z",
-    "url": "https://gamefound.com/en/projects/asmodee/dmd-forbidden-reaches/updates/95",
-    "sequenceNumber": 95
   },
   {
     "id": 41636,
