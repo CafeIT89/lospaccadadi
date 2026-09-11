@@ -1,5 +1,18 @@
 [
   {
+    "id": 44245,
+    "projectId": 5617,
+    "projectName": "Spell Rift Legends",
+    "projectCreator": "dragori-games",
+    "projectSlug": "spell-rift-legends",
+    "title": "Development Update #4 - A Better Game, One Month Later",
+    "excerpt": "Four gameplay improvements, reworked miniatures, campaign overview, and delivery moves to February.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5617/dd24f0d2-6294-4bff-b2d9-95aeda4445b6.jpg",
+    "publishedAt": "2026-09-11T07:50:06.647Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/spell-rift-legends/updates/20",
+    "sequenceNumber": 20
+  },
+  {
     "id": 44217,
     "projectId": 6846,
     "projectName": "Chronicles of Drunagor: Aftermath",
@@ -466,19 +479,6 @@
     "publishedAt": "2026-08-12T10:55:10.003Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/this-war-of-mine-second-edition/updates/32",
     "sequenceNumber": 32
-  },
-  {
-    "id": 41078,
-    "projectId": 5617,
-    "projectName": "Spell Rift Legends",
-    "projectCreator": "dragori-games",
-    "projectSlug": "spell-rift-legends",
-    "title": "Development Update #3 - Rulebook, Miniatures, and more",
-    "excerpt": "The Rulebook Is Finished, the Campaign Is Complete, and Production Is Moving",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5617/df10f9e9-6d4f-4a0c-b747-e80fab3e9123.png",
-    "publishedAt": "2026-08-11T05:45:13.82Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/spell-rift-legends/updates/19",
-    "sequenceNumber": 19
   },
   {
     "id": 40983,
