@@ -1,5 +1,18 @@
 [
   {
+    "id": 44186,
+    "projectId": 11418,
+    "projectName": "Aberration: Oblivion's Embrace",
+    "projectCreator": "ghostfire-gaming",
+    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
+    "title": "Deep Dive: Aberration",
+    "excerpt": "A close look at the core game of Aberration",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/ec7a4a3b-b7e4-4a51-8891-60c9bc6594f4.png",
+    "publishedAt": "2026-09-11T21:00:00Z",
+    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/15",
+    "sequenceNumber": 15
+  },
+  {
     "id": 44281,
     "projectId": 8524,
     "projectName": "Nemesis Legacy",
@@ -115,19 +128,6 @@
     "publishedAt": "2026-09-10T06:25:26.807Z",
     "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/3",
     "sequenceNumber": 3
-  },
-  {
-    "id": 44039,
-    "projectId": 11418,
-    "projectName": "Aberration: Oblivion's Embrace",
-    "projectCreator": "ghostfire-gaming",
-    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
-    "title": "Deep Dive: Arcanists & Abominations",
-    "excerpt": "A closer look at our re-packaged expansions",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/56e2b96b-59be-4b41-852a-a12e096c83dd.png",
-    "publishedAt": "2026-09-09T21:00:00Z",
-    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/14",
-    "sequenceNumber": 14
   },
   {
     "id": 44150,
