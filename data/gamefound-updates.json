@@ -1,5 +1,18 @@
 [
   {
+    "id": 44315,
+    "projectId": 11645,
+    "projectName": "Grimdark Future: Jade Claw",
+    "projectCreator": "onepagerules",
+    "projectSlug": "grimdark-future-jade-claw",
+    "title": "We Need a Hero... or Twelve!",
+    "excerpt": "Expand your Jade & Claw Purchase with one of our beloved Narrative Campaign: Edge of the Radiance, a selection of Narrative Hero Models, and the two faction books!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/47064f6d-5940-4b2a-9aa0-3eb60cdf497d.jpg",
+    "publishedAt": "2026-09-13T19:56:50.897Z",
+    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/6",
+    "sequenceNumber": 6
+  },
+  {
     "id": 44186,
     "projectId": 11418,
     "projectName": "Aberration: Oblivion's Embrace",
@@ -167,19 +180,6 @@
     "publishedAt": "2026-09-09T12:00:00Z",
     "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/1",
     "sequenceNumber": 1
-  },
-  {
-    "id": 44130,
-    "projectId": 11645,
-    "projectName": "Grimdark Future: Jade Claw",
-    "projectCreator": "onepagerules",
-    "projectSlug": "grimdark-future-jade-claw",
-    "title": "Growing Your Armies: Expansion Box Minis",
-    "excerpt": "Now that we know what’s in the Jade & Claw Battle Box, what’s in the expansions?",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/9c37a85c-26ff-43d7-8709-a2184c44db3e.jpg",
-    "publishedAt": "2026-09-08T20:46:04.607Z",
-    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/5",
-    "sequenceNumber": 5
   },
   {
     "id": 44061,
