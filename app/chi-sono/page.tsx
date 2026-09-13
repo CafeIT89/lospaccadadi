@@ -5,6 +5,9 @@ export const metadata: Metadata = {
   title: "Chi sono",
   description:
     "Scopri chi c'è dietro Lo Spacca Dadi e la passione per il mondo dei giochi da tavolo.",
+    alternates: {
+  canonical: "/chi-sono",
+}
 };
 
 const brands = [

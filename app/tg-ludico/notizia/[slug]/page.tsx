@@ -31,17 +31,10 @@ type PageProps = {
 };
 
 async function getArticle(slug: string) {
-  /*
-   * Le card della homepage mostrano le ultime 5 notizie.
-   * Recuperiamo lo stesso gruppo, che viene già gestito
-   * dalla cache di getTgLudicoNews.
-   */
   const news = await getTgLudicoNews(5);
 
   return (
-    news.find(
-      (item) => slugify(item.title) === slug
-    ) ?? null
+    news.find((item) => slugify(item.title) === slug) ?? null
   );
 }
 
@@ -79,7 +72,7 @@ export default async function TgLudicoArticlePage({
 
   return (
     <main className="min-h-screen bg-background">
-      <article className="mx-auto max-w-4xl px-6 py-16 md:py-24">
+      <article className="mx-auto max-w-5xl px-6 py-16 md:py-24">
         <Link
           href="/tg-ludico"
           className="inline-flex text-sm font-bold uppercase tracking-[0.15em] text-primary transition hover:text-primary-hover"
@@ -88,46 +81,50 @@ export default async function TgLudicoArticlePage({
         </Link>
 
         <header className="mt-10 border-b border-brand-border pb-10">
-          <div className="flex flex-wrap items-center gap-3">
-            <span className="rounded-full bg-primary px-3 py-1 text-xs font-bold uppercase text-black">
-              TG Ludico
-            </span>
+          <div className="flex flex-col gap-8 md:flex-row md:items-center md:justify-between">
+            <div className="min-w-0 flex-1">
+              <div className="flex flex-wrap items-center gap-3">
+                <span className="rounded-full bg-primary px-3 py-1 text-xs font-bold uppercase text-black">
+                  TG Ludico
+                </span>
 
-            <span className="text-sm font-bold uppercase tracking-[0.15em] text-primary">
-              {article.source}
-            </span>
+                <span className="text-sm font-bold uppercase tracking-[0.15em] text-primary">
+                  {article.source}
+                </span>
 
-            <time
-              dateTime={article.date}
-              className="text-sm text-muted"
-            >
-              {formatDate(article.date)}
-            </time>
+                <time
+                  dateTime={article.date}
+                  className="text-sm text-muted"
+                >
+                  {formatDate(article.date)}
+                </time>
+              </div>
+
+              <h1 className="mt-6 font-heading text-4xl uppercase leading-tight text-white md:text-6xl">
+                {article.title}
+              </h1>
+
+              {article.description ? (
+                <p className="mt-6 max-w-3xl text-lg leading-8 text-muted md:text-xl md:leading-9">
+                  {article.description}
+                </p>
+              ) : null}
+            </div>
+
+            {article.image ? (
+              <div className="flex shrink-0 justify-center md:justify-end">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src={article.image}
+                  alt={article.title}
+                  className="h-auto max-h-[220px] w-auto max-w-[220px] rounded-2xl border border-brand-border object-contain"
+                />
+              </div>
+            ) : null}
           </div>
-
-          <h1 className="mt-6 font-heading text-4xl uppercase leading-tight text-white md:text-6xl">
-            {article.title}
-          </h1>
-
-          {article.description ? (
-            <p className="mt-6 text-lg leading-8 text-muted md:text-xl md:leading-9">
-              {article.description}
-            </p>
-          ) : null}
         </header>
 
-        {article.image ? (
-          <div className="mt-10 overflow-hidden rounded-3xl border border-brand-border">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
-              src={article.image}
-              alt={article.title}
-              className="h-auto w-full object-cover"
-            />
-          </div>
-        ) : null}
-
-        <footer className="mt-12 border-t border-brand-border pt-8">
+        <footer className="mt-10">
           <a
             href={article.link}
             target="_blank"
@@ -136,6 +133,19 @@ export default async function TgLudicoArticlePage({
           >
             Leggi la fonte originale ↗
           </a>
+
+          <div className="mt-8 rounded-2xl border border-brand-border bg-surface px-5 py-4">
+            <p className="text-sm leading-6 text-muted">
+              <span className="font-bold text-primary">
+                Nota sulle fonti:
+              </span>{" "}
+              Questa notizia proviene da una fonte editoriale
+              esterna e rimane di proprietà del rispettivo autore
+              o editore. Lo Spacca Dadi seleziona e rielabora il
+              contenuto a scopo informativo. La fonte originale è
+              disponibile tramite il collegamento qui sopra.
+            </p>
+          </div>
         </footer>
       </article>
     </main>

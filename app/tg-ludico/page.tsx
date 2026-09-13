@@ -76,7 +76,18 @@ export default async function TgLudicoPage() {
               selezionati automaticamente.
             </p>
           </div>
-
+<div className="mt-8 rounded-2xl border border-brand-border bg-surface px-5 py-4">
+  <p className="text-sm leading-6 text-muted">
+    <span className="font-bold text-primary">
+      Nota sulle fonti:
+    </span>{" "}
+    Le notizie riportate nel TG Ludico provengono da fonti
+    editoriali esterne e rimangono di proprietà dei rispettivi
+    autori ed editori. Lo Spacca Dadi seleziona e rielabora i
+    contenuti a scopo informativo, indicando la fonte originale
+    quando disponibile.
+  </p>
+</div>
           {!mainNews ? (
             <p className="mt-12 text-lg text-muted">
               Nessuna notizia disponibile.
