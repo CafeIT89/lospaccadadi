@@ -78,7 +78,7 @@ export default async function TgLudico() {
         ) : (
           <div className="mt-10 grid gap-6 md:grid-cols-2 xl:grid-cols-5">
             {news.map((item) => {
-              const articleId = slugify(item.title);
+              const articleSlug = slugify(item.title);
               const displayedTitle =
                 truncateTitle(item.title);
 
@@ -119,7 +119,7 @@ export default async function TgLudico() {
                   ) : null}
 
                   <Link
-                    href={`/tg-ludico-preview#${articleId}`}
+                    href={`/tg-ludico/notizia/${articleSlug}`}
                     className="mt-auto inline-flex pt-6 font-semibold text-primary transition hover:text-primary-hover"
                   >
                     Leggi la notizia →
@@ -132,7 +132,7 @@ export default async function TgLudico() {
 
         <div className="mt-10">
           <Link
-            href="/tg-ludico-preview"
+            href="/tg-ludico"
             className="inline-flex rounded-xl bg-primary px-6 py-3 font-bold text-black transition hover:bg-primary-hover"
           >
             Leggi tutto il TG Ludico
