@@ -1,5 +1,18 @@
 [
   {
+    "id": 44307,
+    "projectId": 11418,
+    "projectName": "Aberration: Oblivion's Embrace",
+    "projectCreator": "ghostfire-gaming",
+    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
+    "title": "Miniature Showcase",
+    "excerpt": "A closer look at some of our monstrous minis",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/8b2c7bd5-935e-441c-8884-24efb2247bfa.png",
+    "publishedAt": "2026-09-13T21:30:00Z",
+    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/16",
+    "sequenceNumber": 16
+  },
+  {
     "id": 44315,
     "projectId": 11645,
     "projectName": "Grimdark Future: Jade Claw",
@@ -11,19 +24,6 @@
     "publishedAt": "2026-09-13T19:56:50.897Z",
     "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/6",
     "sequenceNumber": 6
-  },
-  {
-    "id": 44186,
-    "projectId": 11418,
-    "projectName": "Aberration: Oblivion's Embrace",
-    "projectCreator": "ghostfire-gaming",
-    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
-    "title": "Deep Dive: Aberration",
-    "excerpt": "A close look at the core game of Aberration",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/ec7a4a3b-b7e4-4a51-8891-60c9bc6594f4.png",
-    "publishedAt": "2026-09-11T21:00:00Z",
-    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/15",
-    "sequenceNumber": 15
   },
   {
     "id": 44281,
