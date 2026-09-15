@@ -1,5 +1,18 @@
 [
   {
+    "id": 44421,
+    "projectId": 11645,
+    "projectName": "Grimdark Future: Jade Claw",
+    "projectCreator": "onepagerules",
+    "projectSlug": "grimdark-future-jade-claw",
+    "title": "Jade & Claw Arrives October 20th on Gamefound!",
+    "excerpt": "Get ready to grab your new Jade & Claw box set on October 20th!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/94053d0a-8004-40c6-a734-a1231b12f4c3.png",
+    "publishedAt": "2026-09-15T19:51:03.433Z",
+    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/7",
+    "sequenceNumber": 7
+  },
+  {
     "id": 44376,
     "projectId": 11418,
     "projectName": "Aberration: Oblivion's Embrace",
@@ -37,19 +50,6 @@
     "publishedAt": "2026-09-14T13:55:24.597Z",
     "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/5",
     "sequenceNumber": 5
-  },
-  {
-    "id": 44315,
-    "projectId": 11645,
-    "projectName": "Grimdark Future: Jade Claw",
-    "projectCreator": "onepagerules",
-    "projectSlug": "grimdark-future-jade-claw",
-    "title": "We Need a Hero... or Twelve!",
-    "excerpt": "Expand your Jade & Claw Purchase with one of our beloved Narrative Campaign: Edge of the Radiance, a selection of Narrative Hero Models, and the two faction books!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/47064f6d-5940-4b2a-9aa0-3eb60cdf497d.jpg",
-    "publishedAt": "2026-09-13T19:56:50.897Z",
-    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/6",
-    "sequenceNumber": 6
   },
   {
     "id": 44281,
