@@ -3,6 +3,10 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 
 import { getTgLudicoNews } from "@/lib/tg-ludico";
+import {
+  archiveTgLudicoArticles,
+  getArchivedTgLudicoArticle,
+} from "@/lib/tg-ludico-archive";
 
 export const revalidate = 300;
 
@@ -24,6 +28,50 @@ function formatDate(date: string) {
   });
 }
 
+/**
+ * Se l'estratto termina a metà frase, elimina la parte incompleta
+ * e chiude il testo all'ultima frase completa disponibile.
+ */
+function cleanDescription(description: string): string {
+  let text = description.trim();
+
+  if (!text) {
+    return "";
+  }
+
+  // Rimuove il boilerplate aggiunto automaticamente da alcuni feed RSS.
+  // Esempio:
+  // "L'articolo ... è stato pubblicato per la prima volta su ..."
+  text = text
+    .replace(
+      /\s*L['’]articolo\b[\s\S]*$/i,
+      ""
+    )
+    .trim();
+
+  if (!text) {
+    return "";
+  }
+
+  // Se il testo termina già con una frase completa, non tocchiamo nulla.
+  if (/[.!?]["'»”)]?$/.test(text)) {
+    return text;
+  }
+
+  // Se invece l'estratto termina a metà frase,
+  // torniamo all'ultima frase completa.
+  const matches = [...text.matchAll(/[.!?](?=\s|$)/g)];
+
+  if (matches.length === 0) {
+    return text;
+  }
+
+  const lastMatch = matches[matches.length - 1];
+  const endIndex = (lastMatch.index ?? 0) + 1;
+
+  return text.slice(0, endIndex).trim();
+}
+
 type PageProps = {
   params: Promise<{
     slug: string;
@@ -31,11 +79,27 @@ type PageProps = {
 };
 
 async function getArticle(slug: string) {
+  // Prima cerchiamo direttamente nell'archivio permanente.
+  const archivedArticle = await getArchivedTgLudicoArticle(slug);
+
+  if (archivedArticle) {
+    return archivedArticle;
+  }
+
+  // Fallback per le notizie correnti che eventualmente
+  // non sono ancora state archiviate.
   const news = await getTgLudicoNews(5);
 
-  return (
-    news.find((item) => slugify(item.title) === slug) ?? null
-  );
+  const currentArticle =
+    news.find((item) => slugify(item.title) === slug) ?? null;
+
+  // Se l'abbiamo trovata tra le notizie correnti,
+  // la archiviamo subito per le visite future.
+  if (currentArticle) {
+    await archiveTgLudicoArticles([currentArticle]);
+  }
+
+  return currentArticle;
 }
 
 export async function generateMetadata({
@@ -52,7 +116,7 @@ export async function generateMetadata({
 
   return {
     title: `${article.title} | TG Ludico`,
-    description: article.description,
+    description: cleanDescription(article.description),
     alternates: {
       canonical: `/tg-ludico/notizia/${slug}`,
     },
@@ -63,12 +127,13 @@ export default async function TgLudicoArticlePage({
   params,
 }: PageProps) {
   const { slug } = await params;
-
   const article = await getArticle(slug);
 
   if (!article) {
     notFound();
   }
+
+  const description = cleanDescription(article.description);
 
   return (
     <main className="min-h-screen bg-background">
@@ -104,10 +169,16 @@ export default async function TgLudicoArticlePage({
                 {article.title}
               </h1>
 
-              {article.description ? (
-                <p className="mt-6 max-w-3xl text-lg leading-8 text-muted md:text-xl md:leading-9">
-                  {article.description}
-                </p>
+              {description ? (
+                <div className="mt-6 max-w-3xl">
+                  <p className="text-lg leading-8 text-muted md:text-xl md:leading-9">
+                    {description}
+                  </p>
+
+                  <p className="mt-5 text-sm italic text-muted">
+                    La notizia prosegue sulla fonte originale.
+                  </p>
+                </div>
               ) : null}
             </div>
 
@@ -139,11 +210,11 @@ export default async function TgLudicoArticlePage({
               <span className="font-bold text-primary">
                 Nota sulle fonti:
               </span>{" "}
-              Questa notizia proviene da una fonte editoriale
-              esterna e rimane di proprietà del rispettivo autore
-              o editore. Lo Spacca Dadi seleziona e rielabora il
-              contenuto a scopo informativo. La fonte originale è
-              disponibile tramite il collegamento qui sopra.
+              Questa notizia proviene da una fonte editoriale esterna e
+              rimane di proprietà del rispettivo autore o editore. Lo
+              Spacca Dadi seleziona e rielabora il contenuto a scopo
+              informativo. La fonte originale è disponibile tramite il
+              collegamento qui sopra.
             </p>
           </div>
         </footer>

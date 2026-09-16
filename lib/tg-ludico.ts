@@ -4,6 +4,7 @@ import OpenAI from "openai";
 import Parser from "rss-parser";
 import { createHash } from "node:crypto";
 import { unstable_cache } from "next/cache";
+import { archiveTgLudicoArticles } from "@/lib/tg-ludico-archive";
 
 import {
   getTgLudicoCategory,
@@ -516,8 +517,14 @@ async function buildTgLudicoNews(
     );
   });
 
-  const translatedArticles =
-    await translateArticles(selectedArticles);
+  const translatedArticles = await translateArticles(selectedArticles);
+
+// Conserviamo permanentemente una copia delle notizie elaborate.
+// In questo modo continueranno a essere disponibili anche quando
+// usciranno dalle ultime notizie mostrate dal TG Ludico.
+await archiveTgLudicoArticles(translatedArticles);
+
+return translatedArticles;
 
   console.log(
     "[TG Ludico] Aggiornamento completato e salvato nella cache Next.js."
@@ -541,3 +548,4 @@ export async function getTgLudicoNews(
 ): Promise<TgLudicoItem[]> {
   return getCachedTgLudicoNews(limit);
 }
+

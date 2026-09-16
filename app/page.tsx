@@ -1,6 +1,8 @@
 import Hero from "@/components/Hero";
-import TgLudico from "@/components/TgLudico";
 import { GamefoundUpdatesSection } from "@/components/gamefound/GamefoundUpdatesSection";
+import { GamefoundRankingSidebar } from "@/components/gamefound/GamefoundRankingSidebar";
+import TgLudicoSidebar from "@/components/TgLudicoSidebar";
+import CheCosaGiochiamoSidebar from "@/components/CheCosaGiochiamoSidebar";
 import Settimanale from "@/components/Settimanale";
 import CrowdfundingRadar from "@/components/CrowdfundingRadar";
 import Recensioni from "@/components/Recensioni";
@@ -23,13 +25,31 @@ export const metadata: Metadata = {
 export default function Home() {
   return (
     <main className="min-h-screen bg-background text-white">
-      <Hero />
-      <GamefoundUpdatesSection />
-      <CrowdfundingRadar />
-      <TgLudico />
-      <Settimanale />
-      <Recensioni />
-      {/* <FeatureCards /> */}
+      <div className="mx-auto max-w-[1800px] px-4 sm:px-6">
+        <div className="grid items-start gap-8 xl:grid-cols-[280px_minmax(0,1fr)_280px]">
+
+          {/* SIDEBAR SINISTRA */}
+          <div className="space-y-6 py-8">
+            <TgLudicoSidebar />
+            <CheCosaGiochiamoSidebar />
+          </div>
+
+          {/* CONTENUTO CENTRALE */}
+          <div className="min-w-0">
+            <Hero />
+            <GamefoundUpdatesSection />
+            <CrowdfundingRadar />
+            <Settimanale />
+            <Recensioni />
+          </div>
+
+          {/* SIDEBAR DESTRA */}
+          <div className="py-8">
+            <GamefoundRankingSidebar />
+          </div>
+
+        </div>
+      </div>
     </main>
   );
 }

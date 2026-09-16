@@ -30,12 +30,12 @@ export default async function Hero() {
           </p>
 
           <div className="mt-10 flex flex-col gap-4 sm:flex-row">
-            <a
-              href="#tg-ludico"
-              className="rounded-xl bg-primary px-6 py-3 text-center font-bold text-black transition hover:bg-primary-hover"
-            >
-              Leggi il TG Ludico
-            </a>
+           <a
+  href="/tg-ludico"
+  className="rounded-xl bg-primary px-6 py-3 text-center font-bold text-black transition hover:bg-primary-hover"
+>
+  Leggi il TG Ludico
+</a>
 
             <a
               href="#crowdfunding"

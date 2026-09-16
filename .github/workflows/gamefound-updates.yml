@@ -29,10 +29,13 @@ jobs:
       - name: Fetch Gamefound updates
         run: npx tsx scripts/update-gamefound.ts
 
+      - name: Fetch Gamefound ranking
+        run: npx tsx scripts/update-gamefound-ranking.ts
+
       - name: Check for changes
         id: changes
         run: |
-          if git diff --quiet data/gamefound-updates.json; then
+          if git diff --quiet -- data/gamefound-updates.json data/gamefound-ranking.json; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
@@ -43,6 +46,6 @@ jobs:
         run: |
           git config user.name "Lo Spacca Dadi Bot"
           git config user.email "actions@github.com"
-          git add data/gamefound-updates.json
+          git add data/gamefound-updates.json data/gamefound-ranking.json
           git commit -m "Update Gamefound data"
           git push

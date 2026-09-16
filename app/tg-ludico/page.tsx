@@ -61,15 +61,15 @@ export default async function TgLudicoPage() {
     <main className="min-h-screen bg-background">
       <section className="border-b border-brand-border">
         <div className="mx-auto max-w-7xl px-6 py-16 md:py-20">
-          <div className="max-w-3xl">
+          <div>
             <p className="text-sm font-bold uppercase tracking-[0.2em] text-primary">
               TG Ludico
             </p>
 
-            <h1 className="mt-4 font-heading text-5xl uppercase leading-tight text-white md:text-7xl">
-              Le notizie più importanti,
-              <span className="text-primary"> senza rumore.</span>
-            </h1>
+            <h1 className="mt-4 whitespace-nowrap font-heading text-5xl uppercase leading-tight text-white md:text-7xl">
+  Le notizie più importanti,
+  <span className="text-primary"> senza rumore.</span>
+</h1>
 
             <p className="mt-6 text-lg leading-8 text-muted">
               Notizie, annunci e aggiornamenti dal mondo dei giochi da tavolo,
