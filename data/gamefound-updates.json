@@ -1,5 +1,31 @@
 [
   {
+    "id": 44167,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "The Dunwich Horror lies in wait...",
+    "excerpt": "Will you be able to survive the horror?",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/7d79cf87-099b-416a-8c46-f9322167b345.png",
+    "publishedAt": "2026-09-16T16:32:45.017Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/4",
+    "sequenceNumber": 4
+  },
+  {
+    "id": 44432,
+    "projectId": 11418,
+    "projectName": "Aberration: Oblivion's Embrace",
+    "projectCreator": "ghostfire-gaming",
+    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
+    "title": "24 Hours Remain!",
+    "excerpt": "The village is surrounded, the end is upon us. Will you join the fight?",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/7ba71c43-7ca6-4c42-90a4-2727473ad3ac.png",
+    "publishedAt": "2026-09-16T13:59:00Z",
+    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/19",
+    "sequenceNumber": 19
+  },
+  {
     "id": 44421,
     "projectId": 11645,
     "projectName": "Grimdark Future: Jade Claw",
@@ -11,19 +37,6 @@
     "publishedAt": "2026-09-15T19:51:03.433Z",
     "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/7",
     "sequenceNumber": 7
-  },
-  {
-    "id": 44376,
-    "projectId": 11418,
-    "projectName": "Aberration: Oblivion's Embrace",
-    "projectCreator": "ghostfire-gaming",
-    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
-    "title": "48 Hours Remain!",
-    "excerpt": "Darkness draws near...",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/a017e987-2911-4971-8204-6c8b6ee6195a.png",
-    "publishedAt": "2026-09-15T13:59:00Z",
-    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/18",
-    "sequenceNumber": 18
   },
   {
     "id": 44168,
@@ -63,19 +76,6 @@
     "publishedAt": "2026-09-11T19:08:45.393Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/5",
     "sequenceNumber": 5
-  },
-  {
-    "id": 44229,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "A New Look for a New Era",
-    "excerpt": "A peek at the old and the new to see some of what’s being changed.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/16a8a947-b724-4472-9928-59e89b776161.png",
-    "publishedAt": "2026-09-11T16:27:43.143Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/3",
-    "sequenceNumber": 3
   },
   {
     "id": 44243,
