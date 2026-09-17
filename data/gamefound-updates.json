@@ -1,5 +1,31 @@
 [
   {
+    "id": 44446,
+    "projectId": 3848,
+    "projectName": "Grimcoven",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "grimcoven",
+    "title": "LANG (other than English) versions SHIPPING UPDATE #4 | The Grimcoven Pact & Gameplay Satisfaction Survey",
+    "excerpt": "Learn more about the recent progress of the ongoing LANG editions fulfillment. Also, check out the printable version of The Pact - now available online, and take a moment to fill out the survey and share your thoughts on Grimcoven gameplay!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3848/64846a01-2fad-4884-a541-25f65b04d77e.png",
+    "publishedAt": "2026-09-17T10:00:00Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/grimcoven/updates/50",
+    "sequenceNumber": 50
+  },
+  {
+    "id": 44503,
+    "projectId": 11765,
+    "projectName": "Dungeon of Tanares",
+    "projectCreator": "dragori-games",
+    "projectSlug": "dungeon-of-tanares",
+    "title": "The New Content, New Hero, and Rise of Dragons",
+    "excerpt": "Check details about Rise of Dragons, the new content, Gustigh, the Crime Lord, and the Community missions.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/e1b8051a-e081-42c8-a9ae-f865c31d8a89.jpeg",
+    "publishedAt": "2026-09-17T04:53:23.37Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/4",
+    "sequenceNumber": 4
+  },
+  {
     "id": 44483,
     "projectId": 11418,
     "projectName": "Aberration: Oblivion's Embrace",
@@ -143,19 +169,6 @@
     "sequenceNumber": 27
   },
   {
-    "id": 44185,
-    "projectId": 11765,
-    "projectName": "Dungeon of Tanares",
-    "projectCreator": "dragori-games",
-    "projectSlug": "dungeon-of-tanares",
-    "title": "The Tanares Trilogy, a New Hero, and a Deadly Hive",
-    "excerpt": "Find your starting point, meet Isumi, the Fire Shugenja, discover a villain whose inspiration you will recognize, and see our first completed Community Mission.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/b92e7298-f8a4-4d30-a825-9851e584983b.jpeg",
-    "publishedAt": "2026-09-10T06:25:26.807Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/3",
-    "sequenceNumber": 3
-  },
-  {
     "id": 44150,
     "projectId": 6517,
     "projectName": "Quake: The Board Game",
@@ -232,19 +245,6 @@
     "publishedAt": "2026-09-04T19:17:25.51Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/labyrinth/updates/25",
     "sequenceNumber": 25
-  },
-  {
-    "id": 42999,
-    "projectId": 3848,
-    "projectName": "Grimcoven",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "grimcoven",
-    "title": "LANG (other than English) versions SHIPPING UPDATE #3",
-    "excerpt": "Welcome back, Hunters! Today, we're coming back with the latest news on the ongoing fulfillment of localized editions.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3848/656d2d51-3b33-4e26-83bf-d17c536a9691.png",
-    "publishedAt": "2026-09-04T18:52:43.88Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/grimcoven/updates/49",
-    "sequenceNumber": 49
   },
   {
     "id": 42947,
