@@ -1,5 +1,57 @@
 [
   {
+    "id": 44539,
+    "projectId": 5297,
+    "projectName": "Dead by Daylight: The Board Game",
+    "projectCreator": "level-99-games",
+    "projectSlug": "dbd",
+    "title": "September Update!",
+    "excerpt": "Here’s where we are and what’s next for the Dead by Daylight™: The Board Game Auris Box!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5297/e6421ea2-446d-4717-b948-270897ef5c7f.png",
+    "publishedAt": "2026-09-17T16:33:53.347Z",
+    "url": "https://gamefound.com/en/projects/level-99-games/dbd/updates/18",
+    "sequenceNumber": 18
+  },
+  {
+    "id": 41437,
+    "projectId": 9719,
+    "projectName": "The Lord of the Rings: Ascension",
+    "projectCreator": "stoneblade",
+    "projectSlug": "the-lord-of-the-rings-ascension",
+    "title": "The Pledge Manager for The Lord of the Rings™: Ascension™ is officially open!",
+    "excerpt": "Grab your copy of The Lord of the Rings™: Ascension™, finalize your pledge, add-on more products, or upgrade your pledge today! We've also got updated information for Canada, Australia, and New Zeland.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9719/dbc73002-143e-4c1a-9d4a-9b4913275cc3.png",
+    "publishedAt": "2026-09-17T15:50:41.743Z",
+    "url": "https://gamefound.com/en/projects/stoneblade/the-lord-of-the-rings-ascension/updates/43",
+    "sequenceNumber": 43
+  },
+  {
+    "id": 44484,
+    "projectId": 11418,
+    "projectName": "Aberration: Oblivion's Embrace",
+    "projectCreator": "ghostfire-gaming",
+    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
+    "title": "Thank You!",
+    "excerpt": "Aaaand that's a wrap!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/3b5b2ee2-7b33-4528-b1ef-d91e53c97f3c.png",
+    "publishedAt": "2026-09-17T15:30:53.727Z",
+    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/21",
+    "sequenceNumber": 21
+  },
+  {
+    "id": 41381,
+    "projectId": 8094,
+    "projectName": "Bloodwork: The Reckoning",
+    "projectCreator": "i-demo-games",
+    "projectSlug": "bloodwork-the-reckoning",
+    "title": "Bloodwork: The Pledgeoning and Everything New",
+    "excerpt": "Major Bloodwork update: Production Fully Paid stamp confirmed; Backer Forged Items and Moods revealed; redesigned dashboards and skill systems unveiled; new town, proficiencies, blood cards, Veteran Mode, gameboards, terrain, cosmetic minis, and pledges",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8094/8dc3ff50-6774-428f-9655-f135db9bac4c.jpg",
+    "publishedAt": "2026-09-17T14:05:12.797Z",
+    "url": "https://gamefound.com/en/projects/i-demo-games/bloodwork-the-reckoning/updates/50",
+    "sequenceNumber": 50
+  },
+  {
     "id": 44446,
     "projectId": 3848,
     "projectName": "Grimcoven",
@@ -24,19 +76,6 @@
     "publishedAt": "2026-09-17T04:53:23.37Z",
     "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/4",
     "sequenceNumber": 4
-  },
-  {
-    "id": 44483,
-    "projectId": 11418,
-    "projectName": "Aberration: Oblivion's Embrace",
-    "projectCreator": "ghostfire-gaming",
-    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
-    "title": "12 Hours Remain!",
-    "excerpt": "LAST CHANCE!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/a65720ca-0683-4084-a06f-e038e5faad2c.png",
-    "publishedAt": "2026-09-17T01:59:00Z",
-    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/20",
-    "sequenceNumber": 20
   },
   {
     "id": 44167,
@@ -286,19 +325,6 @@
     "sequenceNumber": 17
   },
   {
-    "id": 42731,
-    "projectId": 5297,
-    "projectName": "Dead by Daylight: The Board Game",
-    "projectCreator": "level-99-games",
-    "projectSlug": "dbd",
-    "title": "Dead by Daylight™: The Board Game Auris Box is complete!",
-    "excerpt": "Thank you for you support!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5297/535ef2b2-0d97-4ee3-b732-c1622d15b5c3.png",
-    "publishedAt": "2026-09-01T20:05:30.73Z",
-    "url": "https://gamefound.com/en/projects/level-99-games/dbd/updates/17",
-    "sequenceNumber": 17
-  },
-  {
     "id": 41506,
     "projectId": 6025,
     "projectName": "Here to Slay DUNGEONS",
@@ -440,32 +466,6 @@
     "publishedAt": "2026-08-19T13:18:37.913Z",
     "url": "https://gamefound.com/en/projects/go-on-board/the-witcher-legacy/updates/43",
     "sequenceNumber": 43
-  },
-  {
-    "id": 41349,
-    "projectId": 8094,
-    "projectName": "Bloodwork: The Reckoning",
-    "projectCreator": "i-demo-games",
-    "projectSlug": "bloodwork-the-reckoning",
-    "title": "A Feast For The Eyes!",
-    "excerpt": "A avalanche of new corrupted artwork arrives as the team returns from a short break. Production remains on track, with Andrew heading to Serbia in September for full in‑person campaign testing as the Pledge Manager nears launch.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8094/45b91921-e5ec-424d-9797-1e4f7332cd18.jpg",
-    "publishedAt": "2026-08-19T11:50:55.46Z",
-    "url": "https://gamefound.com/en/projects/i-demo-games/bloodwork-the-reckoning/updates/49",
-    "sequenceNumber": 49
-  },
-  {
-    "id": 41158,
-    "projectId": 9719,
-    "projectName": "The Lord of the Rings: Ascension",
-    "projectCreator": "stoneblade",
-    "projectSlug": "the-lord-of-the-rings-ascension",
-    "title": "Thank You for an Incredible Campaign! Last Eric Sabee Alternate Art Card Unlocked — Gwaihir!",
-    "excerpt": "The Campaign is over but the Journey has just begun!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9719/770e1fdf-e85f-4ce8-9998-844bf3874ebd.png",
-    "publishedAt": "2026-08-15T19:42:38.427Z",
-    "url": "https://gamefound.com/en/projects/stoneblade/the-lord-of-the-rings-ascension/updates/42",
-    "sequenceNumber": 42
   },
   {
     "id": 41050,
