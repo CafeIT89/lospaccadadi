@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-17T16:56:58.565Z",
+  "updatedAt": "2026-09-17T21:19:09.970Z",
   "projects": [
     {
       "name": "Tend: Hive & Cellar Expansions",
       "creator": "IV Studio",
       "url": "https://gamefound.com/projects/iv-studio/tend-expansions",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11718/343ee917-ecf4-4e7f-b4cc-869430f2c244.png",
-      "fundsGathered": 665778.66,
+      "fundsGathered": 672980.84,
       "currency": "USD",
-      "backerCount": 3545,
+      "backerCount": 3592,
       "campaignEndDate": "2026-10-07T22:00:00Z"
     },
     {
@@ -16,9 +16,9 @@
       "creator": "mjdesigns",
       "url": "https://gamefound.com/projects/hexploreit/side-arcs",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11433/d541c5cf-5630-481b-89d8-a8ec1bc728f1.jpg",
-      "fundsGathered": 444239.46,
+      "fundsGathered": 459094.05,
       "currency": "USD",
-      "backerCount": 2173,
+      "backerCount": 2254,
       "campaignEndDate": "2026-09-18T01:00:00Z"
     },
     {
@@ -26,9 +26,9 @@
       "creator": "TheShopOfManyThings",
       "url": "https://gamefound.com/projects/theshopofmanythings/realm-brew-into-the-depths-production-run-2",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8294/1be28aab-cfc4-4597-aac3-a2bb18ac22d0.jpg",
-      "fundsGathered": 250396.9,
+      "fundsGathered": 251194.9,
       "currency": "USD",
-      "backerCount": 747,
+      "backerCount": 749,
       "campaignEndDate": "2026-10-17T18:00:00Z"
     },
     {
@@ -36,9 +36,9 @@
       "creator": "Sperling Spiele",
       "url": "https://gamefound.com/projects/sperling-spiele/jurassic-crisis",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/5510/75a3b91b-5581-4265-864e-8fe9b8fc5357.webp",
-      "fundsGathered": 233799.82,
+      "fundsGathered": 235104.39,
       "currency": "EUR",
-      "backerCount": 1005,
+      "backerCount": 1011,
       "campaignEndDate": "2026-09-23T16:00:00Z"
     },
     {
@@ -46,9 +46,9 @@
       "creator": "Zain Memon",
       "url": "https://gamefound.com/projects/zainmemon/trialsofmaya",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/6461/ada67982-7dfa-4819-9329-117e45551cc5.jpg",
-      "fundsGathered": 223367.81,
+      "fundsGathered": 224184.61,
       "currency": "USD",
-      "backerCount": 712,
+      "backerCount": 715,
       "campaignEndDate": "2026-10-13T14:00:00Z"
     }
   ]
