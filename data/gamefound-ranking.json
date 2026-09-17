@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-16T21:15:31.916Z",
+  "updatedAt": "2026-09-17T04:48:33.563Z",
   "projects": [
     {
       "name": "Tend: Hive & Cellar Expansions",
       "creator": "IV Studio",
       "url": "https://gamefound.com/projects/iv-studio/tend-expansions",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11718/343ee917-ecf4-4e7f-b4cc-869430f2c244.png",
-      "fundsGathered": 601660.21,
+      "fundsGathered": 636237.22,
       "currency": "USD",
-      "backerCount": 3197,
+      "backerCount": 3387,
       "campaignEndDate": "2026-10-07T22:00:00Z"
     },
     {
@@ -16,9 +16,9 @@
       "creator": "mjdesigns",
       "url": "https://gamefound.com/projects/hexploreit/side-arcs",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11433/d541c5cf-5630-481b-89d8-a8ec1bc728f1.jpg",
-      "fundsGathered": 448919.46,
+      "fundsGathered": 456685.05,
       "currency": "USD",
-      "backerCount": 2041,
+      "backerCount": 2098,
       "campaignEndDate": "2026-09-18T01:00:00Z"
     },
     {
@@ -26,9 +26,9 @@
       "creator": "TheShopOfManyThings",
       "url": "https://gamefound.com/projects/theshopofmanythings/realm-brew-into-the-depths-production-run-2",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8294/1be28aab-cfc4-4597-aac3-a2bb18ac22d0.jpg",
-      "fundsGathered": 276766.55,
+      "fundsGathered": 276841.4,
       "currency": "USD",
-      "backerCount": 741,
+      "backerCount": 742,
       "campaignEndDate": "2026-10-17T18:00:00Z"
     },
     {
@@ -36,9 +36,9 @@
       "creator": "Ghostfire Gaming",
       "url": "https://gamefound.com/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11418/5eb3c0c3-e9c6-44c5-89dc-5390f68aa09f.jpg",
-      "fundsGathered": 267083.07,
+      "fundsGathered": 275265.26,
       "currency": "USD",
-      "backerCount": 1347,
+      "backerCount": 1392,
       "campaignEndDate": "2026-09-17T13:59:00Z"
     },
     {
@@ -46,9 +46,9 @@
       "creator": "Sperling Spiele",
       "url": "https://gamefound.com/projects/sperling-spiele/jurassic-crisis",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/5510/75a3b91b-5581-4265-864e-8fe9b8fc5357.webp",
-      "fundsGathered": 261154.86,
+      "fundsGathered": 262071.86,
       "currency": "EUR",
-      "backerCount": 991,
+      "backerCount": 997,
       "campaignEndDate": "2026-09-23T16:00:00Z"
     }
   ]

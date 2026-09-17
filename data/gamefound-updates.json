@@ -1,5 +1,18 @@
 [
   {
+    "id": 44483,
+    "projectId": 11418,
+    "projectName": "Aberration: Oblivion's Embrace",
+    "projectCreator": "ghostfire-gaming",
+    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
+    "title": "12 Hours Remain!",
+    "excerpt": "LAST CHANCE!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/a65720ca-0683-4084-a06f-e038e5faad2c.png",
+    "publishedAt": "2026-09-17T01:59:00Z",
+    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/20",
+    "sequenceNumber": 20
+  },
+  {
     "id": 44167,
     "projectId": 11582,
     "projectName": "Arkham Horror",
@@ -11,19 +24,6 @@
     "publishedAt": "2026-09-16T16:32:45.017Z",
     "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/4",
     "sequenceNumber": 4
-  },
-  {
-    "id": 44432,
-    "projectId": 11418,
-    "projectName": "Aberration: Oblivion's Embrace",
-    "projectCreator": "ghostfire-gaming",
-    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
-    "title": "24 Hours Remain!",
-    "excerpt": "The village is surrounded, the end is upon us. Will you join the fight?",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/7ba71c43-7ca6-4c42-90a4-2727473ad3ac.png",
-    "publishedAt": "2026-09-16T13:59:00Z",
-    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/19",
-    "sequenceNumber": 19
   },
   {
     "id": 44421,
