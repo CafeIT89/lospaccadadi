@@ -1,5 +1,57 @@
 [
   {
+    "id": 44248,
+    "projectId": 11736,
+    "projectName": "Dino Battle",
+    "projectCreator": "rebellionunplugged",
+    "projectSlug": "dino-battle",
+    "title": "Campaign Update #3 | Play Dino Battle! before launch!",
+    "excerpt": "Want to get your hands on Dino Battle before the campaign launches? You can now play an early prototype of the game in Tabletop Simulator and get a first look at how the combat works.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11736/96c27b86-62e4-4309-b728-6e9ff4b44ba0.jpg",
+    "publishedAt": "2026-09-18T15:30:00Z",
+    "url": "https://gamefound.com/en/projects/rebellionunplugged/dino-battle/updates/3",
+    "sequenceNumber": 3
+  },
+  {
+    "id": 44473,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "What awaits at Kingsport...",
+    "excerpt": "Will luck be on your side?",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/e4a56741-61cf-4f32-9648-c9ee6e7b3123.png",
+    "publishedAt": "2026-09-18T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/5",
+    "sequenceNumber": 5
+  },
+  {
+    "id": 44433,
+    "projectId": 6517,
+    "projectName": "Quake: The Board Game",
+    "projectCreator": "archon-studio",
+    "projectSlug": "quake-the-board-game",
+    "title": "Champion Showcase",
+    "excerpt": "A breakdown of the different playstyles you'll find in the game!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6517/1f400091-3c3c-450d-bbc9-6e6e6709f69b.png",
+    "publishedAt": "2026-09-18T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/archon-studio/quake-the-board-game/updates/10",
+    "sequenceNumber": 10
+  },
+  {
+    "id": 44582,
+    "projectId": 5522,
+    "projectName": "Boktor",
+    "projectCreator": "fox-troll-games",
+    "projectSlug": "boktor-a-cooperative-dungeon-quest",
+    "title": "Don’t ignore this email! 48 Hours Left!",
+    "excerpt": "The Pledge Manager is closing in 48h, and 5% of backers still have an incomplete pledge. Add your shipping information and pay shipping now, or you’ll lose your pledge. Plus, some good and bad news about freight.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5522/1b5ef74f-1aad-44f7-9216-730e841290f6.png",
+    "publishedAt": "2026-09-18T13:27:35.2Z",
+    "url": "https://gamefound.com/en/projects/fox-troll-games/boktor-a-cooperative-dungeon-quest/updates/41",
+    "sequenceNumber": 41
+  },
+  {
     "id": 44539,
     "projectId": 5297,
     "projectName": "Dead by Daylight: The Board Game",
@@ -78,19 +130,6 @@
     "sequenceNumber": 4
   },
   {
-    "id": 44167,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "The Dunwich Horror lies in wait...",
-    "excerpt": "Will you be able to survive the horror?",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/7d79cf87-099b-416a-8c46-f9322167b345.png",
-    "publishedAt": "2026-09-16T16:32:45.017Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/4",
-    "sequenceNumber": 4
-  },
-  {
     "id": 44421,
     "projectId": 11645,
     "projectName": "Grimdark Future: Jade Claw",
@@ -102,19 +141,6 @@
     "publishedAt": "2026-09-15T19:51:03.433Z",
     "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/7",
     "sequenceNumber": 7
-  },
-  {
-    "id": 44168,
-    "projectId": 11736,
-    "projectName": "Dino Battle",
-    "projectCreator": "rebellionunplugged",
-    "projectSlug": "dino-battle",
-    "title": "Campaign Update #2 | How to Play Dino Battle!",
-    "excerpt": "So, how do you actually play Dino Battle!? Here’s a first look at the core ideas, how your dino's move and fight, and what you can expect when you sit down for a game.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11736/8349207e-1ac9-4279-b38e-d4753aadeca5.jpg",
-    "publishedAt": "2026-09-14T15:30:00Z",
-    "url": "https://gamefound.com/en/projects/rebellionunplugged/dino-battle/updates/2",
-    "sequenceNumber": 2
   },
   {
     "id": 44337,
@@ -208,19 +234,6 @@
     "sequenceNumber": 27
   },
   {
-    "id": 44150,
-    "projectId": 6517,
-    "projectName": "Quake: The Board Game",
-    "projectCreator": "archon-studio",
-    "projectSlug": "quake-the-board-game",
-    "title": "Official How To Play Video",
-    "excerpt": "Learn how to play the game!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6517/8596cbe0-9479-4ee1-8c17-4b15871f9c24.png",
-    "publishedAt": "2026-09-09T14:00:00Z",
-    "url": "https://gamefound.com/en/projects/archon-studio/quake-the-board-game/updates/9",
-    "sequenceNumber": 9
-  },
-  {
     "id": 42756,
     "projectId": 4948,
     "projectName": "Tekken: The Board Game",
@@ -297,19 +310,6 @@
     "publishedAt": "2026-09-03T18:51:04.01Z",
     "url": "https://gamefound.com/en/projects/devir/claustrophobia-1692/updates/21",
     "sequenceNumber": 21
-  },
-  {
-    "id": 42880,
-    "projectId": 5522,
-    "projectName": "Boktor",
-    "projectCreator": "fox-troll-games",
-    "projectSlug": "boktor-a-cooperative-dungeon-quest",
-    "title": "Freight Has Started & More Good News",
-    "excerpt": "Production is almost finished, and freight has started! We also have news about Essen, faster shipping, a packing video, and more.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5522/4b0a25b9-8f4c-4d81-8103-f90fb73970e0.png",
-    "publishedAt": "2026-09-02T14:59:21.833Z",
-    "url": "https://gamefound.com/en/projects/fox-troll-games/boktor-a-cooperative-dungeon-quest/updates/40",
-    "sequenceNumber": 40
   },
   {
     "id": 42866,
