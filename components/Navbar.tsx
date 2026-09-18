@@ -16,6 +16,12 @@ export default function Navbar() {
     { href: "/schede-regole", label: "Schede Regole" },
   ];
 
+  const mobileLinks = [
+  ...links,
+  { href: "/che-cosa-giochiamo", label: "Che cosa giochiamo?" },
+  { href: "/gamefound/piu-finanziati", label: "Gamefound - Più finanziati" },
+];
+
   return (
     <header className="sticky top-0 z-50 border-b border-brand-border bg-background/90 backdrop-blur">
       <div className="mx-auto flex h-20 max-w-7xl items-center justify-between px-6">
@@ -30,8 +36,8 @@ export default function Navbar() {
           />
         </Link>
 
-        <nav className="hidden items-center gap-8 md:flex">
-          {links.map((link) => (
+<nav className="hidden items-center gap-8 xl:flex">
+            {links.map((link) => (
             <Link
               key={link.label}
               href={link.href}
@@ -43,23 +49,25 @@ export default function Navbar() {
         </nav>
 
         <button
-          onClick={() => setOpen(!open)}
-          className="rounded-lg p-2 text-primary transition hover:bg-surface md:hidden"
-          aria-label="Apri menu"
+          type="button"
+          onClick={() => setOpen((prev) => !prev)}
+          className="relative z-[60] rounded-lg p-2 text-primary transition hover:bg-surface xl:hidden"
+          aria-label={open ? "Chiudi menu" : "Apri menu"}
+          aria-expanded={open}
         >
           {open ? <X size={28} /> : <Menu size={28} />}
         </button>
       </div>
 
       {open && (
-        <nav className="border-t border-brand-border bg-surface md:hidden">
+        <nav className="border-t border-brand-border bg-surface xl:hidden">
           <div className="flex flex-col p-6">
-            {links.map((link) => (
+            {mobileLinks.map((link) => (
               <Link
                 key={link.label}
                 href={link.href}
                 onClick={() => setOpen(false)}
-                className="py-3"
+                className="py-3 transition hover:text-primary"
               >
                 {link.label}
               </Link>

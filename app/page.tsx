@@ -29,24 +29,27 @@ export default function Home() {
         <div className="grid items-start gap-8 xl:grid-cols-[280px_minmax(0,1fr)_280px]">
 
           {/* SIDEBAR SINISTRA */}
-          <div className="space-y-6 py-8">
-            <TgLudicoSidebar />
-            <CheCosaGiochiamoSidebar />
-          </div>
+        <div className="order-2 hidden space-y-6 py-8 xl:order-1 xl:block">
+  <TgLudicoSidebar />
+  <CheCosaGiochiamoSidebar />
+</div>
 
-          {/* CONTENUTO CENTRALE */}
-          <div className="min-w-0">
-            <Hero />
-            <GamefoundUpdatesSection />
-            <CrowdfundingRadar />
-            <Settimanale />
-            <Recensioni />
-          </div>
+<div className="order-1 min-w-0 xl:order-2">
+  <Hero />
+  <GamefoundUpdatesSection />
+  <CrowdfundingRadar />
+  <Settimanale />
 
-          {/* SIDEBAR DESTRA */}
-          <div className="py-8">
-            <GamefoundRankingSidebar />
-          </div>
+  <div className="px-4 py-8 sm:px-6 xl:hidden">
+    <TgLudicoSidebar />
+  </div>
+
+  <Recensioni />
+</div>
+
+<div className="order-3 hidden py-8 xl:block">
+  <GamefoundRankingSidebar />
+</div>
 
         </div>
       </div>
