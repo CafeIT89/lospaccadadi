@@ -1,34 +1,9 @@
 import Image from "next/image";
-
-const games = [
-  {
-    title: "The Witcher - Il Vecchio Mondo",
-    url: "https://boardgamegeek.com/boardgame/331106/the-witcher-old-world",
-    image: "/games/the-witcher-old-world.png",
-  },
-  {
-    title: "Kinfire Delve - Callous' Lab",
-    url: "https://boardgamegeek.com/boardgame/406174/kinfire-delve-callous-lab",
-    image: "/games/kinfire-delve-callous-lab.png",
-  },
-  {
-    title: "Dragons of Etchinstone",
-    url: "https://boardgamegeek.com/boardgame/367086/dragons-of-etchinstone",
-    image: "/games/dragons-of-etchinstone.png",
-  },
-  {
-    title: "Grimcoven",
-    url: "https://boardgamegeek.com/boardgame/415845/grimcoven",
-    image: "/games/grimcoven.png",
-  },
-  {
-    title: "Too Many Bones",
-    url: "https://boardgamegeek.com/boardgame/192135/too-many-bones",
-    image: "/games/too-many-bones.png",
-  },
-];
+import { getDailyGames } from "@/lib/daily-games";
 
 export default function CheCosaGiochiamoSidebar() {
+ const games = getDailyGames(5);
+
   return (
     <aside className="rounded-3xl border border-brand-border bg-surface p-5">
       <div className="border-b border-brand-border pb-4">
@@ -70,7 +45,7 @@ export default function CheCosaGiochiamoSidebar() {
       </div>
 
       <p className="mt-4 text-xs leading-5 text-muted">
-        I giochi che stiamo portando sul tavolo in questo periodo.
+        5 giochi scelti dal nostro tavolo. La selezione cambia ogni giorno.
       </p>
     </aside>
   );

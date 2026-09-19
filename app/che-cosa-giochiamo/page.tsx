@@ -1,5 +1,6 @@
 import Image from "next/image";
 import type { Metadata } from "next";
+import { games } from "@/lib/daily-games";
 
 export const metadata: Metadata = {
   title: "Che cosa giochiamo?",
@@ -9,34 +10,6 @@ export const metadata: Metadata = {
     canonical: "/che-cosa-giochiamo",
   },
 };
-
-const games = [
-  {
-    title: "The Witcher - Il Vecchio Mondo",
-    url: "https://boardgamegeek.com/boardgame/331106/the-witcher-old-world",
-    image: "/games/the-witcher-old-world.png",
-  },
-  {
-    title: "Kinfire Delve - Callous' Lab",
-    url: "https://boardgamegeek.com/boardgame/406174/kinfire-delve-callous-lab",
-    image: "/games/kinfire-delve-callous-lab.png",
-  },
-  {
-    title: "Dragons of Etchinstone",
-    url: "https://boardgamegeek.com/boardgame/367086/dragons-of-etchinstone",
-    image: "/games/dragons-of-etchinstone.png",
-  },
-  {
-    title: "Grimcoven",
-    url: "https://boardgamegeek.com/boardgame/415845/grimcoven",
-    image: "/games/grimcoven.png",
-  },
-  {
-    title: "Too Many Bones",
-    url: "https://boardgamegeek.com/boardgame/192135/too-many-bones",
-    image: "/games/too-many-bones.png",
-  },
-];
 
 export default function CheCosaGiochiamoPage() {
   return (
@@ -56,6 +29,10 @@ export default function CheCosaGiochiamoPage() {
             Campagne, avventure e titoli che ci stanno accompagnando nelle
             nostre serate di gioco.
           </p>
+
+          <p className="mt-4 text-sm leading-6 text-muted">
+            Ogni giorno ne selezioniamo 5 casualmente per la homepage.
+          </p>
         </div>
 
         <div className="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
@@ -67,17 +44,17 @@ export default function CheCosaGiochiamoPage() {
               rel="noopener noreferrer"
               className="group overflow-hidden rounded-3xl border border-brand-border bg-surface"
             >
-             <div className="flex h-80 items-center justify-center bg-background p-6">
-  <div className="relative h-full w-full">
-    <Image
-      src={game.image}
-      alt={game.title}
-      fill
-      sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-      className="object-contain transition duration-300 group-hover:scale-105"
-    />
-  </div>
-</div>
+              <div className="flex h-80 items-center justify-center bg-background p-6">
+                <div className="relative h-full w-full">
+                  <Image
+                    src={game.image}
+                    alt={game.title}
+                    fill
+                    sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                    className="object-contain transition duration-300 group-hover:scale-105"
+                  />
+                </div>
+              </div>
 
               <div className="p-5">
                 <h2 className="text-lg font-bold leading-6 transition group-hover:text-primary">
