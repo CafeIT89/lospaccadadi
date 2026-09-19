@@ -1,5 +1,18 @@
 [
   {
+    "id": 44565,
+    "projectId": 8203,
+    "projectName": "Dead Men Tales",
+    "projectCreator": "asmodee",
+    "projectSlug": "dead-men-tales",
+    "title": "FINAL REMINDER TO COMPLETE YOUR PLEDGES!",
+    "excerpt": "This is the final reminder to complete your pledges, and a quick look at the final sculpt of Davy Jones.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8203/64da5994-e956-479f-8c90-418bba307468.png",
+    "publishedAt": "2026-09-19T01:44:25.873Z",
+    "url": "https://gamefound.com/en/projects/asmodee/dead-men-tales/updates/117",
+    "sequenceNumber": 117
+  },
+  {
     "id": 44248,
     "projectId": 11736,
     "projectName": "Dino Battle",
@@ -167,19 +180,6 @@
     "publishedAt": "2026-09-11T19:08:45.393Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/5",
     "sequenceNumber": 5
-  },
-  {
-    "id": 44243,
-    "projectId": 8203,
-    "projectName": "Dead Men Tales",
-    "projectCreator": "asmodee",
-    "projectSlug": "dead-men-tales",
-    "title": "Reminder: Confirm Your Pledge by 21 September!",
-    "excerpt": "Plus, a first look at new Shipwreck Bay assets and our latest dashboard and dice samples!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8203/67076b18-acbe-4613-ab31-0890b2b6e276.png",
-    "publishedAt": "2026-09-11T14:21:42.653Z",
-    "url": "https://gamefound.com/en/projects/asmodee/dead-men-tales/updates/116",
-    "sequenceNumber": 116
   },
   {
     "id": 44247,
