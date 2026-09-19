@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-19T15:51:07.630Z",
+  "updatedAt": "2026-09-19T20:36:11.965Z",
   "projects": [
     {
       "name": "Tend: Hive & Cellar Expansions",
       "creator": "IV Studio",
       "url": "https://gamefound.com/projects/iv-studio/tend-expansions",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11718/343ee917-ecf4-4e7f-b4cc-869430f2c244.png",
-      "fundsGathered": 727842.17,
+      "fundsGathered": 732439.05,
       "currency": "USD",
-      "backerCount": 3885,
+      "backerCount": 3917,
       "campaignEndDate": "2026-10-07T22:00:00Z"
     },
     {
@@ -16,9 +16,9 @@
       "creator": "TheShopOfManyThings",
       "url": "https://gamefound.com/projects/theshopofmanythings/realm-brew-into-the-depths-production-run-2",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8294/1be28aab-cfc4-4597-aac3-a2bb18ac22d0.jpg",
-      "fundsGathered": 255223.35,
+      "fundsGathered": 256794.1,
       "currency": "USD",
-      "backerCount": 762,
+      "backerCount": 766,
       "campaignEndDate": "2026-10-17T18:00:00Z"
     },
     {
@@ -26,9 +26,9 @@
       "creator": "Sperling Spiele",
       "url": "https://gamefound.com/projects/sperling-spiele/jurassic-crisis",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/5510/75a3b91b-5581-4265-864e-8fe9b8fc5357.webp",
-      "fundsGathered": 239774.69,
+      "fundsGathered": 240047.2,
       "currency": "EUR",
-      "backerCount": 1030,
+      "backerCount": 1031,
       "campaignEndDate": "2026-09-23T16:00:00Z"
     },
     {
@@ -36,9 +36,9 @@
       "creator": "Zain Memon",
       "url": "https://gamefound.com/projects/zainmemon/trialsofmaya",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/6461/ada67982-7dfa-4819-9329-117e45551cc5.jpg",
-      "fundsGathered": 232132.74,
+      "fundsGathered": 235072.3,
       "currency": "USD",
-      "backerCount": 749,
+      "backerCount": 759,
       "campaignEndDate": "2026-10-13T14:00:00Z"
     },
     {
@@ -46,9 +46,9 @@
       "creator": "This is a GAME",
       "url": "https://gamefound.com/projects/this-is-a-game/naruto-shippuden-battle",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8162/4efa7319-865b-48a9-8435-476a24613802.png",
-      "fundsGathered": 185569.46,
+      "fundsGathered": 186992.31,
       "currency": "EUR",
-      "backerCount": 833,
+      "backerCount": 840,
       "campaignEndDate": "2026-10-09T18:00:00Z"
     }
   ]
