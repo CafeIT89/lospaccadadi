@@ -1,5 +1,18 @@
 [
   {
+    "id": 44676,
+    "projectId": 8534,
+    "projectName": "Call of Cthulhu: Old Ones Origins",
+    "projectCreator": "chaosium",
+    "projectSlug": "call-of-cthulhu-old-ones-origins",
+    "title": "Yithian Archives Record #6. Old Ones will awaken soon. The Stars are almost right.",
+    "excerpt": "Take a closer look at the armies of miniatures awaiting you in Old Ones Origins!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/24a2a807-9093-4c61-bf29-3a676c123819.png",
+    "publishedAt": "2026-09-21T15:11:03.593Z",
+    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/6",
+    "sequenceNumber": 6
+  },
+  {
     "id": 44565,
     "projectId": 8203,
     "projectName": "Dead Men Tales",
@@ -154,19 +167,6 @@
     "publishedAt": "2026-09-15T19:51:03.433Z",
     "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/7",
     "sequenceNumber": 7
-  },
-  {
-    "id": 44337,
-    "projectId": 8534,
-    "projectName": "Call of Cthulhu: Old Ones Origins",
-    "projectCreator": "chaosium",
-    "projectSlug": "call-of-cthulhu-old-ones-origins",
-    "title": "Yithian Archives: Record #05: The cosmic conflict between ancient beings begins very soon…",
-    "excerpt": "In today’s Update, we reveal the campaign launch date, the two editions of the game, and their prices.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/9b5e9ef1-b756-4718-8505-e8e56580dede.png",
-    "publishedAt": "2026-09-14T13:55:24.597Z",
-    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/5",
-    "sequenceNumber": 5
   },
   {
     "id": 44281,
