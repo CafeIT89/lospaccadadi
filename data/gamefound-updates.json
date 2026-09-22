@@ -1,5 +1,31 @@
 [
   {
+    "id": 44745,
+    "projectId": 6025,
+    "projectName": "Here to Slay DUNGEONS",
+    "projectCreator": "unstable-games",
+    "projectSlug": "here-to-slay-dungeons",
+    "title": "1 Week Until Address Lockdown (+ Timeline Updates)",
+    "excerpt": "We’re locking addresses in less than 1 week! Please take the time to check and make sure you have your info submitted to receive your pledge during our initial pass at fulfillment.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6025/7969f019-f381-42ed-95fd-5fc801b8e0c6.jpg",
+    "publishedAt": "2026-09-22T20:48:08.703Z",
+    "url": "https://gamefound.com/en/projects/unstable-games/here-to-slay-dungeons/updates/44",
+    "sequenceNumber": 44
+  },
+  {
+    "id": 44751,
+    "projectId": 11645,
+    "projectName": "Grimdark Future: Jade Claw",
+    "projectCreator": "onepagerules",
+    "projectSlug": "grimdark-future-jade-claw",
+    "title": "Physical Models & Accessories F.A.Q.",
+    "excerpt": "Hi! This is Paul from One Page Rules, answering some frequent questions about Jade & Claw, Broken Truth, and our plans for our physical range.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/7480d6d0-22a7-466c-9dee-dd6264944463.png",
+    "publishedAt": "2026-09-22T19:43:46.837Z",
+    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/8",
+    "sequenceNumber": 8
+  },
+  {
     "id": 44448,
     "projectId": 5354,
     "projectName": "Labyrinth",
@@ -169,19 +195,6 @@
     "sequenceNumber": 4
   },
   {
-    "id": 44421,
-    "projectId": 11645,
-    "projectName": "Grimdark Future: Jade Claw",
-    "projectCreator": "onepagerules",
-    "projectSlug": "grimdark-future-jade-claw",
-    "title": "Jade & Claw Arrives October 20th on Gamefound!",
-    "excerpt": "Get ready to grab your new Jade & Claw box set on October 20th!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/94053d0a-8004-40c6-a734-a1231b12f4c3.png",
-    "publishedAt": "2026-09-15T19:51:03.433Z",
-    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/7",
-    "sequenceNumber": 7
-  },
-  {
     "id": 44281,
     "projectId": 8524,
     "projectName": "Nemesis Legacy",
@@ -323,19 +336,6 @@
     "publishedAt": "2026-09-01T21:50:02.677Z",
     "url": "https://gamefound.com/en/projects/chip-theory-games/20-strong-awaken-realms-nemesis/updates/17",
     "sequenceNumber": 17
-  },
-  {
-    "id": 41506,
-    "projectId": 6025,
-    "projectName": "Here to Slay DUNGEONS",
-    "projectCreator": "unstable-games",
-    "projectSlug": "here-to-slay-dungeons",
-    "title": "Address Lockdown: September 29 🗓️ (+ Sample Photos and Another Scenario Stream)",
-    "excerpt": "With production underway, our team is beginning to make preparations for fulfillment!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6025/2dec5584-da18-4f47-b5c3-c8b0f95f9f72.png",
-    "publishedAt": "2026-09-01T17:30:00Z",
-    "url": "https://gamefound.com/en/projects/unstable-games/here-to-slay-dungeons/updates/43",
-    "sequenceNumber": 43
   },
   {
     "id": 42767,
