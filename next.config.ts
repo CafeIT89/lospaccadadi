@@ -1,19 +1,21 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-   allowedDevOrigins: ["192.168.1.16"],
-  images: {
-    remotePatterns: [
+  allowedDevOrigins: ["192.168.1.16"],
+
+  async redirects() {
+    return [
       {
-        protocol: "https",
-        hostname: "i.ytimg.com",
+        source: "/schede-regole",
+        destination: "/file-utili",
+        permanent: true,
       },
       {
-        protocol: "https",
-        hostname: "imgcdn.gamefound.com",
+        source: "/schede-regole/:path*",
+        destination: "/file-utili/:path*",
+        permanent: true,
       },
-      
-    ],
+    ];
   },
 };
 

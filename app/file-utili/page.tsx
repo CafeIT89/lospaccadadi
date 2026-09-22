@@ -7,17 +7,17 @@ import {
 } from "@/data/riepiloghi";
 
 export const metadata: Metadata = {
-  title: "Schede Regole",
+  title: "File Utili",
   description:
-    "Schede di consultazione rapida delle regole dei giochi da tavolo realizzate da Lo Spacca Dadi.",
+    "File utili come schede riepilogative e tabelle per tenere traccia delle missioni.",
 
   alternates: {
-    canonical: "/schede-regole",
-  },
+  canonical: "/file-utili",
+},
 
-  openGraph: {
-    url: "/schede-regole",
-  },
+openGraph: {
+  url: "/file-utili",
+},
 
   robots: {
     index: true,
@@ -43,13 +43,13 @@ export default function SchedeRegolePage() {
           </p>
 
           <h1 className="mt-5 font-heading text-5xl uppercase md:text-7xl">
-            Schede Regole
-          </h1>
+  File Utili
+</h1>
 
-          <p className="mt-6 max-w-3xl text-xl leading-8 text-muted">
-            Schede di consultazione rapida per avere le regole essenziali
-            dei tuoi giochi da tavolo sempre a portata di mano.
-          </p>
+<p className="mt-6 max-w-3xl text-xl leading-8 text-muted">
+  File utili come schede riepilogative e tabelle per tenere traccia
+  delle missioni.
+</p>
         </div>
       </section>
 
@@ -84,12 +84,16 @@ export default function SchedeRegolePage() {
 
             return (
               <Link
-                key={letter}
-                href={`/schede-regole#${letter.toLowerCase()}`}
-                className="flex h-12 w-12 items-center justify-center rounded-xl border border-primary bg-background font-heading text-xl uppercase text-white transition hover:-translate-y-0.5 hover:bg-primary hover:text-black"
-              >
-                {letter}
-              </Link>
+  key={letter}
+ href={
+  letter === "M" || letter === "X"
+    ? "/file-utili#marvel-zombies-x-men-resistance"
+    : `/file-utili#${letter.toLowerCase()}`
+}
+  className="flex h-12 w-12 items-center justify-center rounded-xl border border-primary bg-background font-heading text-xl uppercase text-white transition hover:-translate-y-0.5 hover:bg-primary hover:text-black"
+>
+  {letter}
+</Link>
             );
           })}
         </div>
@@ -105,18 +109,22 @@ export default function SchedeRegolePage() {
 
             return (
               <article
-                key={riepilogo.slug}
-                id={letter}
+  key={riepilogo.slug}
+  id={
+    riepilogo.slug === "marvel-zombies-x-men-resistance"
+      ? "marvel-zombies-x-men-resistance"
+      : letter
+  }
                 className="scroll-mt-28 flex flex-col gap-5 rounded-2xl border border-brand-border bg-surface p-6 transition hover:border-primary md:flex-row md:items-center md:justify-between"
               >
                 <div>
                   <p className="text-xs font-bold uppercase tracking-[0.15em] text-primary">
-                    Scheda Regole
-                  </p>
+  {riepilogo.type}
+</p>
 
-                  <h2 className="mt-2 font-heading text-2xl uppercase text-white md:text-3xl">
-                    {riepilogo.name} — Scheda Regole
-                  </h2>
+<h2 className="mt-2 font-heading text-2xl uppercase text-white md:text-3xl">
+  {riepilogo.name}
+</h2>
 
                   {riepilogo.description ? (
                     <p className="mt-2 text-sm leading-6 text-muted">

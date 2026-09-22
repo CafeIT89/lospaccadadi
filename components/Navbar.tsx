@@ -13,7 +13,7 @@ export default function Navbar() {
     { href: "/settimanale", label: "Il Settimanale" },
     { href: "/gamefound", label: "Gamefound Updates" },
     { href: "/recensioni", label: "Recensioni" },
-    { href: "/schede-regole", label: "Schede Regole" },
+    { href: "/file-utili", label: "File Utili" },
   ];
 
   const mobileLinks = [
