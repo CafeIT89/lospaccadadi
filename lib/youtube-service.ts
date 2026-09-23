@@ -6,6 +6,10 @@ import {
   getSettimanaleVideos,
   type SettimanaleVideo,
 } from "@/lib/settimanale";
+import {
+  getLatestYouTubeVideo,
+  type LatestYouTubeVideo,
+} from "@/lib/latest-youtube-video";
 
 export type RecensioneVideo = {
   videoId: string;
@@ -40,6 +44,8 @@ const RECENSIONI_CACHE_KEY =
 
 const SETTIMANALE_CACHE_KEY =
   `youtube:settimanale:v${CACHE_VERSION}`;
+  const LATEST_VIDEO_CACHE_KEY =
+  `youtube:latest:v${CACHE_VERSION}`;
 
 function isString(value: unknown): value is string {
   return typeof value === "string";
@@ -66,6 +72,24 @@ function isRecensioneVideo(
 function isSettimanaleVideo(
   value: unknown
 ): value is SettimanaleVideo {
+  if (!value || typeof value !== "object") {
+    return false;
+  }
+
+  const candidate = value as Record<string, unknown>;
+
+  return (
+    isString(candidate.videoId) &&
+    isString(candidate.title) &&
+    isString(candidate.url) &&
+    isString(candidate.publishedAt) &&
+    isString(candidate.thumbnail)
+  );
+}
+
+function isLatestYouTubeVideo(
+  value: unknown
+): value is LatestYouTubeVideo {
   if (!value || typeof value !== "object") {
     return false;
   }
@@ -186,6 +210,17 @@ export async function getCachedSettimanaleVideos(): Promise<
   );
 }
 
+export async function getCachedLatestYouTubeVideo(): Promise<
+  LatestYouTubeVideo | null
+> {
+  const videos = await readCache(
+    LATEST_VIDEO_CACHE_KEY,
+    isLatestYouTubeVideo
+  );
+
+  return videos[0] ?? null;
+}
+
 /**
  * Aggiorna entrambe le playlist.
  *
@@ -199,14 +234,18 @@ export async function refreshYouTubeContent(): Promise<
   const updatedAt = new Date().toISOString();
 
   console.log(
-    "[YouTube Service] Aggiornamento delle playlist avviato..."
+    "[YouTube Service] Aggiornamento dei contenuti YouTube avviato..."
   );
 
-  const [recensioniResult, settimanaleResult] =
-    await Promise.allSettled([
-      getRecensioni(),
-      getSettimanaleVideos(),
-    ]);
+  const [
+    recensioniResult,
+    settimanaleResult,
+    latestVideoResult,
+  ] = await Promise.allSettled([
+    getRecensioni(),
+    getSettimanaleVideos(),
+    getLatestYouTubeVideo(),
+  ]);
 
   let recensioniUpdated = false;
   let recensioniCount = 0;
@@ -261,8 +300,33 @@ export async function refreshYouTubeContent(): Promise<
     console.error(settimanaleResult.reason);
   }
 
+  if (latestVideoResult.status === "fulfilled") {
+    const latestVideo = latestVideoResult.value;
+
+    if (latestVideo) {
+      await saveCache(
+        LATEST_VIDEO_CACHE_KEY,
+        [latestVideo]
+      );
+
+      console.log(
+        `[YouTube Service] Ultimo video aggiornato: ${latestVideo.title}`
+      );
+    } else {
+      console.warn(
+        "[YouTube Service] Ultimo video non disponibile: la cache precedente non verrà sovrascritta."
+      );
+    }
+  } else {
+    console.error(
+      "[YouTube Service] Aggiornamento ultimo video fallito."
+    );
+
+    console.error(latestVideoResult.reason);
+  }
+
   console.log(
-    "[YouTube Service] Aggiornamento delle playlist completato."
+    "[YouTube Service] Aggiornamento dei contenuti YouTube completato."
   );
 
   return {

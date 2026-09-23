@@ -1,11 +1,10 @@
 import Image from "next/image";
 import { Play } from "lucide-react";
 
-import { getSettimanaleVideos } from "@/lib/settimanale";
+import { getCachedLatestYouTubeVideo } from "@/lib/youtube-service";
 
 export default async function Hero() {
-  const videos = await getSettimanaleVideos();
-  const latestVideo = videos[0];
+const latestVideo = await getCachedLatestYouTubeVideo();
 
   return (
     <section className="relative overflow-hidden border-b border-brand-border bg-background">
@@ -13,11 +12,7 @@ export default async function Hero() {
 
       <div className="relative mx-auto grid min-h-[680px] max-w-7xl items-center gap-12 px-6 py-20 lg:grid-cols-2 lg:px-8">
         <div>
-          <span className="inline-flex rounded-full border border-brand-border bg-primary/10 px-4 py-2 text-sm font-semibold uppercase tracking-[0.2em] text-primary">
-            Al servizio dei giocatori
-          </span>
-
-          <h1 className="mt-8 max-w-3xl font-heading text-6xl uppercase leading-[0.95] tracking-tight text-white sm:text-7xl lg:text-8xl">
+          <h1 className="max-w-3xl font-heading text-6xl uppercase leading-[0.95] tracking-tight text-white sm:text-7xl lg:text-8xl">
             Le notizie
             <br />
             <span className="text-primary">che contano.</span>
@@ -28,22 +23,6 @@ export default async function Hero() {
             BoardGameGeek, Kickstarter e Gamefound e le trasforma in un
             briefing rapido, chiaro e utile.
           </p>
-
-          <div className="mt-10 flex flex-col gap-4 sm:flex-row">
-           <a
-  href="/tg-ludico"
-  className="rounded-xl bg-primary px-6 py-3 text-center font-bold text-black transition hover:bg-primary-hover"
->
-  Leggi il TG Ludico
-</a>
-
-            <a
-              href="#crowdfunding"
-              className="rounded-xl border border-brand-border px-6 py-3 text-center font-semibold text-primary transition hover:bg-primary/10"
-            >
-              Crowdfunding Radar
-            </a>
-          </div>
         </div>
 
         <div className="relative flex justify-center lg:justify-end">
@@ -82,7 +61,7 @@ export default async function Hero() {
 
                 <div className="absolute bottom-5 left-5">
                   <span className="rounded-full bg-black/70 px-4 py-2 text-xs font-bold uppercase tracking-[0.2em] text-primary backdrop-blur">
-                    Ultimo episodio • Il Settimanale
+                    Ultimo video • Lo Spacca Dadi
                   </span>
                 </div>
               </div>
@@ -90,11 +69,11 @@ export default async function Hero() {
           ) : (
             <div className="relative w-full max-w-xl rounded-[2rem] border border-brand-border bg-surface/80 p-8 text-center shadow-2xl shadow-black/50 backdrop-blur">
               <p className="font-heading text-2xl uppercase text-white">
-                Il Settimanale
+                Lo Spacca Dadi
               </p>
 
               <p className="mt-3 text-sm leading-6 text-muted">
-                L&apos;ultimo episodio non è momentaneamente disponibile.
+                L&apos;ultimo video non è momentaneamente disponibile.
               </p>
             </div>
           )}
