@@ -1,34 +1,34 @@
 {
-  "updatedAt": "2026-09-23T16:53:43.770Z",
+  "updatedAt": "2026-09-23T21:28:22.621Z",
   "projects": [
-    {
-      "name": "Tend: Hive & Cellar Expansions",
-      "creator": "IV Studio",
-      "url": "https://gamefound.com/projects/iv-studio/tend-expansions",
-      "image": "https://imgcdn.gamefound.com/projectimage/projects/11718/343ee917-ecf4-4e7f-b4cc-869430f2c244.png",
-      "fundsGathered": 791427.78,
-      "currency": "USD",
-      "backerCount": 4246,
-      "campaignEndDate": "2026-10-07T22:00:00Z"
-    },
     {
       "name": "Heroes of Might and Magic III: The Board Game - Factory, Bulwark & Forge Expansions",
       "creator": "Archon Studio",
       "url": "https://gamefound.com/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8492/beb8f6e4-2e7e-4247-bc9c-68a39cd8e26c.png",
-      "fundsGathered": 766268.19,
+      "fundsGathered": 796759.3,
       "currency": "EUR",
-      "backerCount": 4001,
+      "backerCount": 4166,
       "campaignEndDate": "2026-10-12T22:00:00Z"
+    },
+    {
+      "name": "Tend: Hive & Cellar Expansions",
+      "creator": "IV Studio",
+      "url": "https://gamefound.com/projects/iv-studio/tend-expansions",
+      "image": "https://imgcdn.gamefound.com/projectimage/projects/11718/343ee917-ecf4-4e7f-b4cc-869430f2c244.png",
+      "fundsGathered": 793335.07,
+      "currency": "USD",
+      "backerCount": 4264,
+      "campaignEndDate": "2026-10-07T22:00:00Z"
     },
     {
       "name": "Gang Wars (+ Scarface 1920 Reprint)",
       "creator": "Redzen Games",
       "url": "https://gamefound.com/projects/redzen/gang-wars",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/9938/2837e288-02a8-4ea1-aa69-4f35b5452a4f.png",
-      "fundsGathered": 357534.46,
+      "fundsGathered": 383970.24,
       "currency": "EUR",
-      "backerCount": 1707,
+      "backerCount": 1835,
       "campaignEndDate": "2026-10-15T20:00:00Z"
     },
     {
@@ -36,17 +36,17 @@
       "creator": "Sperling Spiele",
       "url": "https://gamefound.com/projects/sperling-spiele/jurassic-crisis",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/5510/75a3b91b-5581-4265-864e-8fe9b8fc5357.webp",
-      "fundsGathered": 295369.9,
+      "fundsGathered": 303844.44,
       "currency": "EUR",
-      "backerCount": 1288,
-      "campaignEndDate": "2026-09-23T17:03:11.893Z"
+      "backerCount": 1316,
+      "campaignEndDate": "2026-09-23T21:36:16.847Z"
     },
     {
       "name": "Realm Brew: Into The Depths [Production Run #2]",
       "creator": "TheShopOfManyThings",
       "url": "https://gamefound.com/projects/theshopofmanythings/realm-brew-into-the-depths-production-run-2",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8294/1be28aab-cfc4-4597-aac3-a2bb18ac22d0.jpg",
-      "fundsGathered": 266678.3,
+      "fundsGathered": 266642.2,
       "currency": "USD",
       "backerCount": 789,
       "campaignEndDate": "2026-10-17T18:00:00Z"
