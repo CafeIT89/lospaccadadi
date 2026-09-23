@@ -1,5 +1,44 @@
 [
   {
+    "id": 44256,
+    "projectId": 11736,
+    "projectName": "Dino Battle",
+    "projectCreator": "rebellionunplugged",
+    "projectSlug": "dino-battle",
+    "title": "Campaign Update #4 | Meet the Dinosaurs: Part 1",
+    "excerpt": "Dino Battle! wouldn't be much of a miniatures game without some seriously good dinosaurs. In this update, we're taking a closer look at three of the dino's, the Minmi, the Triceratops, and the T-Rex.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11736/c890fbc5-cd4a-4ddc-a408-fa6dbdc15e27.jpg",
+    "publishedAt": "2026-09-23T16:05:00Z",
+    "url": "https://gamefound.com/en/projects/rebellionunplugged/dino-battle/updates/4",
+    "sequenceNumber": 4
+  },
+  {
+    "id": 44687,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "Face the worst at Innsmouth on October 21st",
+    "excerpt": "Be prepared to fight for what’s right",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/64f408c0-3c9c-4d47-aa2b-bfec40d9fc33.png",
+    "publishedAt": "2026-09-23T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/6",
+    "sequenceNumber": 6
+  },
+  {
+    "id": 44769,
+    "projectId": 10066,
+    "projectName": "Eldfall Chronicles: Apocrypha",
+    "projectCreator": "eldfall-chronicles",
+    "projectSlug": "eldfall-chronicles-apocrypha",
+    "title": "Behind the Scenes: Logistics & Material Improvements",
+    "excerpt": "A look at the logistical and material improvements we’ve made since Northern Wind, both for Eldfall Chronicles: Apocrypha and Eldfall Chronicles as a whole.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/46819955-5f89-4ca6-9bcf-69a6b8b0c77f.png",
+    "publishedAt": "2026-09-23T13:47:17.25Z",
+    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/2",
+    "sequenceNumber": 2
+  },
+  {
     "id": 44745,
     "projectId": 6025,
     "projectName": "Here to Slay DUNGEONS",
@@ -63,32 +102,6 @@
     "publishedAt": "2026-09-19T01:44:25.873Z",
     "url": "https://gamefound.com/en/projects/asmodee/dead-men-tales/updates/117",
     "sequenceNumber": 117
-  },
-  {
-    "id": 44248,
-    "projectId": 11736,
-    "projectName": "Dino Battle",
-    "projectCreator": "rebellionunplugged",
-    "projectSlug": "dino-battle",
-    "title": "Campaign Update #3 | Play Dino Battle! before launch!",
-    "excerpt": "Want to get your hands on Dino Battle before the campaign launches? You can now play an early prototype of the game in Tabletop Simulator and get a first look at how the combat works.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11736/96c27b86-62e4-4309-b728-6e9ff4b44ba0.jpg",
-    "publishedAt": "2026-09-18T15:30:00Z",
-    "url": "https://gamefound.com/en/projects/rebellionunplugged/dino-battle/updates/3",
-    "sequenceNumber": 3
-  },
-  {
-    "id": 44473,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "What awaits at Kingsport...",
-    "excerpt": "Will luck be on your side?",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/e4a56741-61cf-4f32-9648-c9ee6e7b3123.png",
-    "publishedAt": "2026-09-18T14:00:00Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/5",
-    "sequenceNumber": 5
   },
   {
     "id": 44433,
@@ -271,19 +284,6 @@
     "publishedAt": "2026-09-09T12:00:34.93Z",
     "url": "https://gamefound.com/en/projects/go-on-board/tekken-the-board-game/updates/32",
     "sequenceNumber": 32
-  },
-  {
-    "id": 44098,
-    "projectId": 10066,
-    "projectName": "Eldfall Chronicles: Apocrypha",
-    "projectCreator": "eldfall-chronicles",
-    "projectSlug": "eldfall-chronicles-apocrypha",
-    "title": "THE GRAND LIBRARY OPENS: WELCOME TO APOCRYPHA",
-    "excerpt": "Ready for Lore?\nJourney to the Sand Kingdoms and discover the Grand Library, the Sealed Archives, and the forbidden Apocrypha hidden within. Learn more about the setting of our next Chronicle and what awaits in the XVIIth Prospecting Expedition.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/32e1075c-f242-4d67-b2aa-b424fdf5d64f.jpg",
-    "publishedAt": "2026-09-09T12:00:00Z",
-    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/1",
-    "sequenceNumber": 1
   },
   {
     "id": 44061,
