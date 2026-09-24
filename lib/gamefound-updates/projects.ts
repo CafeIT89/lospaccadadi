@@ -275,10 +275,64 @@ export const GAMEFOUND_PROJECTS: GamefoundProject[] = [
     slug: "dino-battle",
      projectId: 11736,
   },
-  {
+ {
   name: "Too Little Time",
   creator: "chip-theory-games",
   slug: "too-little-time",
   projectId: 12995,
+},
+
+// Nuove campagne
+
+{
+  name: "Exceed: Skytear",
+  creator: "skytear",
+  slug: "exceed-skytear",
+  projectId: 9793,
+},
+{
+  name: "Barbaric: Crown of the Frost",
+  creator: "hexa-house",
+  slug: "barbaric-crown-of-the-frost",
+  projectId: 8391,
+},
+{
+  name: "Heroes of Might and Magic III: Factory, Bulwark & Forge Expansions",
+  creator: "archon-studio",
+  slug: "heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
+  projectId: 8492,
+},
+{
+  name: "Against the Storm – The Board Game",
+  creator: "mindclash-games",
+  slug: "against-the-storm--the-board-game",
+},
+{
+  name: "Avalon: The Riven Veil – 2nd Printing",
+  creator: "shadowborne-games",
+  slug: "avalon-the-riven-veil-2nd-printing",
+},
+{
+  name: "Trials of Maya",
+  creator: "zainmemon",
+  slug: "trialsofmaya",
+  projectId: 6461,
+},
+{
+  name: "Machina Arcana: Vivarium",
+  creator: "adreama-games",
+  slug: "machina-arcana-vivarium",
+  projectId: 5249,
+},
+{
+  name: "Boardquest: Blight of the Undead",
+  creator: "ramezware",
+  slug: "boardquest-blight-of-the-undead",
+},
+{
+  name: "Hell Legends",
+  creator: "hodarispiele",
+  slug: "hell-legends",
+  projectId: 1939,
 },
 ];
