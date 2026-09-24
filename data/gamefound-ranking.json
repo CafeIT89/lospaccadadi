@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-23T21:28:22.621Z",
+  "updatedAt": "2026-09-24T04:43:55.665Z",
   "projects": [
     {
       "name": "Heroes of Might and Magic III: The Board Game - Factory, Bulwark & Forge Expansions",
       "creator": "Archon Studio",
       "url": "https://gamefound.com/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8492/beb8f6e4-2e7e-4247-bc9c-68a39cd8e26c.png",
-      "fundsGathered": 796759.3,
+      "fundsGathered": 811907.48,
       "currency": "EUR",
-      "backerCount": 4166,
+      "backerCount": 4239,
       "campaignEndDate": "2026-10-12T22:00:00Z"
     },
     {
@@ -16,9 +16,9 @@
       "creator": "IV Studio",
       "url": "https://gamefound.com/projects/iv-studio/tend-expansions",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11718/343ee917-ecf4-4e7f-b4cc-869430f2c244.png",
-      "fundsGathered": 793335.07,
+      "fundsGathered": 798431.09,
       "currency": "USD",
-      "backerCount": 4264,
+      "backerCount": 4290,
       "campaignEndDate": "2026-10-07T22:00:00Z"
     },
     {
@@ -26,30 +26,30 @@
       "creator": "Redzen Games",
       "url": "https://gamefound.com/projects/redzen/gang-wars",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/9938/2837e288-02a8-4ea1-aa69-4f35b5452a4f.png",
-      "fundsGathered": 383970.24,
+      "fundsGathered": 399388.63,
       "currency": "EUR",
-      "backerCount": 1835,
+      "backerCount": 1917,
       "campaignEndDate": "2026-10-15T20:00:00Z"
-    },
-    {
-      "name": "Jurassic Crisis",
-      "creator": "Sperling Spiele",
-      "url": "https://gamefound.com/projects/sperling-spiele/jurassic-crisis",
-      "image": "https://imgcdn.gamefound.com/projectimage/projects/5510/75a3b91b-5581-4265-864e-8fe9b8fc5357.webp",
-      "fundsGathered": 303844.44,
-      "currency": "EUR",
-      "backerCount": 1316,
-      "campaignEndDate": "2026-09-23T21:36:16.847Z"
     },
     {
       "name": "Realm Brew: Into The Depths [Production Run #2]",
       "creator": "TheShopOfManyThings",
       "url": "https://gamefound.com/projects/theshopofmanythings/realm-brew-into-the-depths-production-run-2",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8294/1be28aab-cfc4-4597-aac3-a2bb18ac22d0.jpg",
-      "fundsGathered": 266642.2,
+      "fundsGathered": 268755.05,
       "currency": "USD",
-      "backerCount": 789,
+      "backerCount": 790,
       "campaignEndDate": "2026-10-17T18:00:00Z"
+    },
+    {
+      "name": "Trials of Maya: Founders Edition",
+      "creator": "Zain Memon",
+      "url": "https://gamefound.com/projects/zainmemon/trialsofmaya",
+      "image": "https://imgcdn.gamefound.com/projectimage/projects/6461/ada67982-7dfa-4819-9329-117e45551cc5.jpg",
+      "fundsGathered": 251121.99,
+      "currency": "USD",
+      "backerCount": 820,
+      "campaignEndDate": "2026-10-13T14:00:00Z"
     }
   ]
 }
