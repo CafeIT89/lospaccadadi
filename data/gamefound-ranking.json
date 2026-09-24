@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-24T11:40:18.619Z",
+  "updatedAt": "2026-09-24T17:07:07.780Z",
   "projects": [
     {
       "name": "Heroes of Might and Magic III: The Board Game - Factory, Bulwark & Forge Expansions",
       "creator": "Archon Studio",
       "url": "https://gamefound.com/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8492/beb8f6e4-2e7e-4247-bc9c-68a39cd8e26c.png",
-      "fundsGathered": 839270.01,
+      "fundsGathered": 880503.22,
       "currency": "EUR",
-      "backerCount": 4375,
+      "backerCount": 4574,
       "campaignEndDate": "2026-10-12T22:00:00Z"
     },
     {
@@ -16,9 +16,9 @@
       "creator": "IV Studio",
       "url": "https://gamefound.com/projects/iv-studio/tend-expansions",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11718/343ee917-ecf4-4e7f-b4cc-869430f2c244.png",
-      "fundsGathered": 800654.35,
+      "fundsGathered": 802811.64,
       "currency": "USD",
-      "backerCount": 4303,
+      "backerCount": 4316,
       "campaignEndDate": "2026-10-07T22:00:00Z"
     },
     {
@@ -26,9 +26,9 @@
       "creator": "Redzen Games",
       "url": "https://gamefound.com/projects/redzen/gang-wars",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/9938/2837e288-02a8-4ea1-aa69-4f35b5452a4f.png",
-      "fundsGathered": 418346.58,
+      "fundsGathered": 445029.6,
       "currency": "EUR",
-      "backerCount": 2011,
+      "backerCount": 2163,
       "campaignEndDate": "2026-10-15T20:00:00Z"
     },
     {
@@ -36,9 +36,9 @@
       "creator": "TheShopOfManyThings",
       "url": "https://gamefound.com/projects/theshopofmanythings/realm-brew-into-the-depths-production-run-2",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8294/1be28aab-cfc4-4597-aac3-a2bb18ac22d0.jpg",
-      "fundsGathered": 269128.9,
+      "fundsGathered": 269701.95,
       "currency": "USD",
-      "backerCount": 792,
+      "backerCount": 794,
       "campaignEndDate": "2026-10-17T18:00:00Z"
     },
     {
@@ -46,9 +46,9 @@
       "creator": "Zain Memon",
       "url": "https://gamefound.com/projects/zainmemon/trialsofmaya",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/6461/ada67982-7dfa-4819-9329-117e45551cc5.jpg",
-      "fundsGathered": 251032.99,
+      "fundsGathered": 250989.1,
       "currency": "USD",
-      "backerCount": 819,
+      "backerCount": 820,
       "campaignEndDate": "2026-10-13T14:00:00Z"
     }
   ]

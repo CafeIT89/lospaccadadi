@@ -1,5 +1,31 @@
 [
   {
+    "id": 44855,
+    "projectId": 11765,
+    "projectName": "Dungeon of Tanares",
+    "projectCreator": "dragori-games",
+    "projectSlug": "dungeon-of-tanares",
+    "title": "Solo Mode, Standees, and One-Shot Adventures",
+    "excerpt": "An improved Comrade system for solo and 2–3 players, deluxe acrylic standees, and immersive One-Shot adventures you can finish in a single session.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/ca27d500-9a75-41d8-8bf6-b9059f510974.jpeg",
+    "publishedAt": "2026-09-24T13:49:34.523Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/5",
+    "sequenceNumber": 5
+  },
+  {
+    "id": 44792,
+    "projectId": 6154,
+    "projectName": "The Witcher: Legacy",
+    "projectCreator": "go-on-board",
+    "projectSlug": "the-witcher-legacy",
+    "title": "Two Monsters Clash in the Final Battle  – YOU Decide the Winner!",
+    "excerpt": "Latest development progress / A closer look at three story expansions / October live stream / Monster Battle: The Final / Exclusive wallpapers",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6154/554f02fc-3722-48c9-8629-a76361a7f830.png",
+    "publishedAt": "2026-09-24T13:40:50.94Z",
+    "url": "https://gamefound.com/en/projects/go-on-board/the-witcher-legacy/updates/44",
+    "sequenceNumber": 44
+  },
+  {
     "id": 44813,
     "projectId": 10157,
     "projectName": "Aeon's End: System Overload",
@@ -206,19 +232,6 @@
     "publishedAt": "2026-09-17T10:00:00Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/grimcoven/updates/50",
     "sequenceNumber": 50
-  },
-  {
-    "id": 44503,
-    "projectId": 11765,
-    "projectName": "Dungeon of Tanares",
-    "projectCreator": "dragori-games",
-    "projectSlug": "dungeon-of-tanares",
-    "title": "The New Content, New Hero, and Rise of Dragons",
-    "excerpt": "Check details about Rise of Dragons, the new content, Gustigh, the Crime Lord, and the Community missions.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/e1b8051a-e081-42c8-a9ae-f865c31d8a89.jpeg",
-    "publishedAt": "2026-09-17T04:53:23.37Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/4",
-    "sequenceNumber": 4
   },
   {
     "id": 44281,
@@ -453,19 +466,6 @@
     "publishedAt": "2026-08-20T13:36:42.453Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/dragon-eclipse-the-grand-quest/updates/24",
     "sequenceNumber": 24
-  },
-  {
-    "id": 41347,
-    "projectId": 6154,
-    "projectName": "The Witcher: Legacy",
-    "projectCreator": "go-on-board",
-    "projectSlug": "the-witcher-legacy",
-    "title": "Compatibility Refined Thanks to Discord Initiative",
-    "excerpt": "Dev Diary: The community’s hand in Legacy / Development and story progress / Art progress / Troll swap in Legacy Monster Pack/ Monster Battle: Semifinals",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6154/ce34961b-84aa-4d84-9ef1-da5a88985cfd.png",
-    "publishedAt": "2026-08-19T13:18:37.913Z",
-    "url": "https://gamefound.com/en/projects/go-on-board/the-witcher-legacy/updates/43",
-    "sequenceNumber": 43
   },
   {
     "id": 41050,
