@@ -1,5 +1,57 @@
 [
   {
+    "id": 44821,
+    "projectId": 11418,
+    "projectName": "Aberration: Oblivion's Embrace",
+    "projectCreator": "ghostfire-gaming",
+    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
+    "title": "Pledge Manager, Late Pledges and...... The Templar!?",
+    "excerpt": "Information on the pledge manager, late pledges and a special thank you",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/d2bd1b41-13b9-4c57-8c5a-91df86b511b5.png",
+    "publishedAt": "2026-09-24T21:00:00Z",
+    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/22",
+    "sequenceNumber": 22
+  },
+  {
+    "id": 44861,
+    "projectId": 6461,
+    "projectName": "Trials of Maya",
+    "projectCreator": "zainmemon",
+    "projectSlug": "trialsofmaya",
+    "title": "Campaign Puzzle #3",
+    "excerpt": "Mauravi finds herself in a bind. What should she do?",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6461/84329db1-eaee-42a5-bf15-968b296397e9.jpeg",
+    "publishedAt": "2026-09-24T18:53:13.407Z",
+    "url": "https://gamefound.com/en/projects/zainmemon/trialsofmaya/updates/18",
+    "sequenceNumber": 18
+  },
+  {
+    "id": 40610,
+    "projectId": 9793,
+    "projectName": "Exceed: Skytear",
+    "projectCreator": "skytear",
+    "projectSlug": "exceed-skytear",
+    "title": "Credits where credit is due: thank you!",
+    "excerpt": "Today we give credit to the people who made this new season of Exceed possible, and we also share a link to the draft rulebook of the solo mode. Onward!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9793/2c874c2c-d0f9-4562-a888-8ed59ce58e77.jpg",
+    "publishedAt": "2026-09-24T14:09:19.173Z",
+    "url": "https://gamefound.com/en/projects/skytear/exceed-skytear/updates/2",
+    "sequenceNumber": 2
+  },
+  {
+    "id": 44851,
+    "projectId": 8492,
+    "projectName": "Heroes of Might and Magic III: Factory, Bulwark & Forge Expansions",
+    "projectCreator": "archon-studio",
+    "projectSlug": "heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
+    "title": "Endless Possibilities",
+    "excerpt": "More options are available than ever before!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8492/768601e3-3e67-474b-a821-758acb8735b1.png",
+    "publishedAt": "2026-09-24T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions/updates/8",
+    "sequenceNumber": 8
+  },
+  {
     "id": 44855,
     "projectId": 11765,
     "projectName": "Dungeon of Tanares",
@@ -117,6 +169,19 @@
     "sequenceNumber": 26
   },
   {
+    "id": 44705,
+    "projectId": 5841,
+    "projectName": "Boardquest: Blight of the Undead",
+    "projectCreator": "ramezware",
+    "projectSlug": "boardquest-blight-of-the-undead",
+    "title": "Stretch Goal Unlocked: Mod Cards + New Mods",
+    "excerpt": "Mods change up the gameplay and introduce new challenges",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5841/4bae1d5c-bd85-4df4-97ad-bc4f63927aa8.png",
+    "publishedAt": "2026-09-22T09:00:00Z",
+    "url": "https://gamefound.com/en/projects/ramezware/boardquest-blight-of-the-undead/updates/11",
+    "sequenceNumber": 11
+  },
+  {
     "id": 44676,
     "projectId": 8534,
     "projectName": "Call of Cthulhu: Old Ones Origins",
@@ -169,6 +234,19 @@
     "sequenceNumber": 41
   },
   {
+    "id": 44559,
+    "projectId": 8391,
+    "projectName": "Barbaric: Crown of the Frost",
+    "projectCreator": "hexa-house",
+    "projectSlug": "barbaric-crown-of-the-frost",
+    "title": "🔮 Oraya’s Skill Art Is Complete! & What’s Coming Next?",
+    "excerpt": "Oraya’s Skill Art is complete, and we’re now testing and balancing her unique Fate Card mechanics!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8391/b6dbd28f-1e29-4875-9ed9-f6aa6566e487.jpg",
+    "publishedAt": "2026-09-17T23:48:12.78Z",
+    "url": "https://gamefound.com/en/projects/hexa-house/barbaric-crown-of-the-frost/updates/15",
+    "sequenceNumber": 15
+  },
+  {
     "id": 44539,
     "projectId": 5297,
     "projectName": "Dead by Daylight: The Board Game",
@@ -193,19 +271,6 @@
     "publishedAt": "2026-09-17T15:50:41.743Z",
     "url": "https://gamefound.com/en/projects/stoneblade/the-lord-of-the-rings-ascension/updates/43",
     "sequenceNumber": 43
-  },
-  {
-    "id": 44484,
-    "projectId": 11418,
-    "projectName": "Aberration: Oblivion's Embrace",
-    "projectCreator": "ghostfire-gaming",
-    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
-    "title": "Thank You!",
-    "excerpt": "Aaaand that's a wrap!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/3b5b2ee2-7b33-4528-b1ef-d91e53c97f3c.png",
-    "publishedAt": "2026-09-17T15:30:53.727Z",
-    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/21",
-    "sequenceNumber": 21
   },
   {
     "id": 41381,
@@ -377,6 +442,19 @@
     "sequenceNumber": 25
   },
   {
+    "id": 42817,
+    "projectId": 1939,
+    "projectName": "Hell Legends",
+    "projectCreator": "hodarispiele",
+    "projectSlug": "hell-legends",
+    "title": "August Update: Production Timeline, Miniature Samples, Insert Planning and SPIEL 2026",
+    "excerpt": "We are very happy to show the first production samples of the miniatures and our plan for the inserts in the base game.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/1939/212bd7a4-2c98-4a65-93cb-c87d881d6eaf.jpg",
+    "publishedAt": "2026-09-01T11:38:57.99Z",
+    "url": "https://gamefound.com/en/projects/hodarispiele/hell-legends/updates/33",
+    "sequenceNumber": 33
+  },
+  {
     "id": 42753,
     "projectId": 4693,
     "projectName": "Black Rose Wars: Rebirth",
@@ -440,6 +518,19 @@
     "publishedAt": "2026-08-26T12:56:20.323Z",
     "url": "https://gamefound.com/en/projects/dark-gate-games/echoes-of-arkham/updates/38",
     "sequenceNumber": 38
+  },
+  {
+    "id": 41428,
+    "projectId": 5249,
+    "projectName": "Machina Arcana: Vivarium",
+    "projectCreator": "adreama-games",
+    "projectSlug": "machina-arcana-vivarium",
+    "title": "Pledge Manager Opens",
+    "excerpt": "The Pledge Manager is opening. See the latest production progress, exclusivity details, and how a planned reprint became the full Machina Arcana Fourth Edition.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5249/86be570f-ff72-40af-897e-eef5e3fa6584.png",
+    "publishedAt": "2026-08-21T14:48:19.16Z",
+    "url": "https://gamefound.com/en/projects/adreama-games/machina-arcana-vivarium/updates/20",
+    "sequenceNumber": 20
   },
   {
     "id": 41424,
