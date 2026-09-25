@@ -1,5 +1,44 @@
 [
   {
+    "id": 44927,
+    "projectId": 3848,
+    "projectName": "Grimcoven",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "grimcoven",
+    "title": "LANG (other than English) versions SHIPPING UPDATE #5",
+    "excerpt": "Welcome, Hunters! Check out the latest news on the LANG editions' fulfillment progress!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3848/adfabdea-c4b7-4d89-8c33-4dc9e26e49eb.png",
+    "publishedAt": "2026-09-25T16:33:19.557Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/grimcoven/updates/51",
+    "sequenceNumber": 51
+  },
+  {
+    "id": 44916,
+    "projectId": 8534,
+    "projectName": "Call of Cthulhu: Old Ones Origins",
+    "projectCreator": "chaosium",
+    "projectSlug": "call-of-cthulhu-old-ones-origins",
+    "title": "Yithian Archives Record #7. The Final Countdown Begins.",
+    "excerpt": "The launch is almost here! In this update, we’re sharing a reminder of the launch date, the language editions available during the campaign, and our prototype rulebook.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/f2c77175-ea2a-4b45-9751-e9edb04e5d04.png",
+    "publishedAt": "2026-09-25T14:39:47.27Z",
+    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/7",
+    "sequenceNumber": 7
+  },
+  {
+    "id": 44809,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "Get more with Miskatonic",
+    "excerpt": "Add a little bit of everything with the Miskatonic Expansion",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/6c5ceae2-a81e-4437-9d78-fc2c4fdc9c4a.png",
+    "publishedAt": "2026-09-25T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/7",
+    "sequenceNumber": 7
+  },
+  {
     "id": 44885,
     "projectId": 4792,
     "projectName": "DMD: Forbidden Reaches",
@@ -117,19 +156,6 @@
     "sequenceNumber": 4
   },
   {
-    "id": 44687,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "Face the worst at Innsmouth on October 21st",
-    "excerpt": "Be prepared to fight for what’s right",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/64f408c0-3c9c-4d47-aa2b-bfec40d9fc33.png",
-    "publishedAt": "2026-09-23T14:00:00Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/6",
-    "sequenceNumber": 6
-  },
-  {
     "id": 44769,
     "projectId": 10066,
     "projectName": "Eldfall Chronicles: Apocrypha",
@@ -193,19 +219,6 @@
     "publishedAt": "2026-09-22T09:00:00Z",
     "url": "https://gamefound.com/en/projects/ramezware/boardquest-blight-of-the-undead/updates/11",
     "sequenceNumber": 11
-  },
-  {
-    "id": 44676,
-    "projectId": 8534,
-    "projectName": "Call of Cthulhu: Old Ones Origins",
-    "projectCreator": "chaosium",
-    "projectSlug": "call-of-cthulhu-old-ones-origins",
-    "title": "Yithian Archives Record #6. Old Ones will awaken soon. The Stars are almost right.",
-    "excerpt": "Take a closer look at the armies of miniatures awaiting you in Old Ones Origins!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/24a2a807-9093-4c61-bf29-3a676c123819.png",
-    "publishedAt": "2026-09-21T15:11:03.593Z",
-    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/6",
-    "sequenceNumber": 6
   },
   {
     "id": 44565,
@@ -296,19 +309,6 @@
     "image": "https://imgcdn.gamefound.com/projectupdate/projects/8094/8dc3ff50-6774-428f-9655-f135db9bac4c.jpg",
     "publishedAt": "2026-09-17T14:05:12.797Z",
     "url": "https://gamefound.com/en/projects/i-demo-games/bloodwork-the-reckoning/updates/50",
-    "sequenceNumber": 50
-  },
-  {
-    "id": 44446,
-    "projectId": 3848,
-    "projectName": "Grimcoven",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "grimcoven",
-    "title": "LANG (other than English) versions SHIPPING UPDATE #4 | The Grimcoven Pact & Gameplay Satisfaction Survey",
-    "excerpt": "Learn more about the recent progress of the ongoing LANG editions fulfillment. Also, check out the printable version of The Pact - now available online, and take a moment to fill out the survey and share your thoughts on Grimcoven gameplay!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3848/64846a01-2fad-4884-a541-25f65b04d77e.png",
-    "publishedAt": "2026-09-17T10:00:00Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/grimcoven/updates/50",
     "sequenceNumber": 50
   },
   {
