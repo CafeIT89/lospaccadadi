@@ -1,5 +1,18 @@
 [
   {
+    "id": 44885,
+    "projectId": 4792,
+    "projectName": "DMD: Forbidden Reaches",
+    "projectCreator": "asmodee",
+    "projectSlug": "dmd-forbidden-reaches",
+    "title": "Production Update",
+    "excerpt": "Typesetting proofs are complete, with corrections being applied across all Death May Die files before submission to the factories. First look at vac tray prototypes.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4792/0442112a-856d-4974-b23d-a3e63ff40626.png",
+    "publishedAt": "2026-09-25T11:24:39.407Z",
+    "url": "https://gamefound.com/en/projects/asmodee/dmd-forbidden-reaches/updates/97",
+    "sequenceNumber": 97
+  },
+  {
     "id": 44821,
     "projectId": 11418,
     "projectName": "Aberration: Oblivion's Embrace",
@@ -310,19 +323,6 @@
     "publishedAt": "2026-09-11T19:08:45.393Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/5",
     "sequenceNumber": 5
-  },
-  {
-    "id": 44247,
-    "projectId": 4792,
-    "projectName": "DMD: Forbidden Reaches",
-    "projectCreator": "asmodee",
-    "projectSlug": "dmd-forbidden-reaches",
-    "title": "Production Update",
-    "excerpt": "Graphic revisions are complete and typesetting proofs are underway. White samples are being finalized, vac tray work continues, and we’ve also dug up some early concept sketches to share.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4792/1e708537-3ec4-4c94-b9a8-12c211fbe4a4.png",
-    "publishedAt": "2026-09-11T13:32:52.817Z",
-    "url": "https://gamefound.com/en/projects/asmodee/dmd-forbidden-reaches/updates/96",
-    "sequenceNumber": 96
   },
   {
     "id": 44198,
