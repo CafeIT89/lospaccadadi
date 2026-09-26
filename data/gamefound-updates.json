@@ -1,5 +1,31 @@
 [
   {
+    "id": 44948,
+    "projectId": 8391,
+    "projectName": "Barbaric: Crown of the Frost",
+    "projectCreator": "hexa-house",
+    "projectSlug": "barbaric-crown-of-the-frost",
+    "title": "❄️ 3 Days Left — Everything You Get & Why Back Now!",
+    "excerpt": "Only 3 days remain in BARBARIC: Crown of the Frost! Take a look at everything we’ve unlocked together so far — including new cards, unique decks, Riders, and Gears.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8391/d8604bb5-f91d-4f27-afe2-0df8417dbeb5.png",
+    "publishedAt": "2026-09-25T23:18:57.467Z",
+    "url": "https://gamefound.com/en/projects/hexa-house/barbaric-crown-of-the-frost/updates/16",
+    "sequenceNumber": 16
+  },
+  {
+    "id": 44940,
+    "projectId": 6096,
+    "projectName": "The Elder Scrolls: Heroes of Tamriel",
+    "projectCreator": "chip-theory-games",
+    "projectSlug": "the-elder-scrolls-heroes-of-tamriel",
+    "title": "September Update: Ships and stuff",
+    "excerpt": "A whole lotta news and notes on manufacturing, Guild Vault delivery, and fulfillment!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6096/61513670-b1cb-4233-8b69-05afad9c5975.png",
+    "publishedAt": "2026-09-25T21:46:20.25Z",
+    "url": "https://gamefound.com/en/projects/chip-theory-games/the-elder-scrolls-heroes-of-tamriel/updates/25",
+    "sequenceNumber": 25
+  },
+  {
     "id": 44936,
     "projectId": 8524,
     "projectName": "Nemesis Legacy",
@@ -271,19 +297,6 @@
     "publishedAt": "2026-09-18T13:27:35.2Z",
     "url": "https://gamefound.com/en/projects/fox-troll-games/boktor-a-cooperative-dungeon-quest/updates/41",
     "sequenceNumber": 41
-  },
-  {
-    "id": 44559,
-    "projectId": 8391,
-    "projectName": "Barbaric: Crown of the Frost",
-    "projectCreator": "hexa-house",
-    "projectSlug": "barbaric-crown-of-the-frost",
-    "title": "🔮 Oraya’s Skill Art Is Complete! & What’s Coming Next?",
-    "excerpt": "Oraya’s Skill Art is complete, and we’re now testing and balancing her unique Fate Card mechanics!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8391/b6dbd28f-1e29-4875-9ed9-f6aa6566e487.jpg",
-    "publishedAt": "2026-09-17T23:48:12.78Z",
-    "url": "https://gamefound.com/en/projects/hexa-house/barbaric-crown-of-the-frost/updates/15",
-    "sequenceNumber": 15
   },
   {
     "id": 44539,
@@ -570,19 +583,6 @@
     "publishedAt": "2026-08-12T10:55:10.003Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/this-war-of-mine-second-edition/updates/32",
     "sequenceNumber": 32
-  },
-  {
-    "id": 40983,
-    "projectId": 6096,
-    "projectName": "The Elder Scrolls: Heroes of Tamriel",
-    "projectCreator": "chip-theory-games",
-    "projectSlug": "the-elder-scrolls-heroes-of-tamriel",
-    "title": "One FINAL Pledge Manager Extension",
-    "excerpt": "Attention, Heroes! This weekend is your FINAL chance to get your pledge wrapped!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6096/11d39121-bba5-42eb-9123-f075f7dfcca6.png",
-    "publishedAt": "2026-08-07T17:25:25.383Z",
-    "url": "https://gamefound.com/en/projects/chip-theory-games/the-elder-scrolls-heroes-of-tamriel/updates/24",
-    "sequenceNumber": 24
   },
   {
     "id": 40957,
