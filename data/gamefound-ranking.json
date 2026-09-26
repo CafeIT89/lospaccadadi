@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-26T16:20:18.118Z",
+  "updatedAt": "2026-09-26T21:06:31.591Z",
   "projects": [
     {
       "name": "Heroes of Might and Magic III: The Board Game - Factory, Bulwark & Forge Expansions",
       "creator": "Archon Studio",
       "url": "https://gamefound.com/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8492/beb8f6e4-2e7e-4247-bc9c-68a39cd8e26c.png",
-      "fundsGathered": 996902.75,
+      "fundsGathered": 1013954.5,
       "currency": "EUR",
-      "backerCount": 5159,
+      "backerCount": 5236,
       "campaignEndDate": "2026-10-12T22:00:00Z"
     },
     {
@@ -16,9 +16,9 @@
       "creator": "IV Studio",
       "url": "https://gamefound.com/projects/iv-studio/tend-expansions",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11718/343ee917-ecf4-4e7f-b4cc-869430f2c244.png",
-      "fundsGathered": 831727.18,
+      "fundsGathered": 835106.38,
       "currency": "USD",
-      "backerCount": 4475,
+      "backerCount": 4492,
       "campaignEndDate": "2026-10-07T22:00:00Z"
     },
     {
@@ -26,9 +26,9 @@
       "creator": "Redzen Games",
       "url": "https://gamefound.com/projects/redzen/gang-wars",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/9938/2837e288-02a8-4ea1-aa69-4f35b5452a4f.png",
-      "fundsGathered": 548596.05,
+      "fundsGathered": 552837.15,
       "currency": "EUR",
-      "backerCount": 2759,
+      "backerCount": 2777,
       "campaignEndDate": "2026-10-15T20:00:00Z"
     },
     {
@@ -46,9 +46,9 @@
       "creator": "Zain Memon",
       "url": "https://gamefound.com/projects/zainmemon/trialsofmaya",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/6461/ada67982-7dfa-4819-9329-117e45551cc5.jpg",
-      "fundsGathered": 253236.92,
+      "fundsGathered": 253431.92,
       "currency": "USD",
-      "backerCount": 827,
+      "backerCount": 829,
       "campaignEndDate": "2026-10-13T14:00:00Z"
     }
   ]
