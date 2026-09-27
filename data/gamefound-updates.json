@@ -1,5 +1,18 @@
 [
   {
+    "id": 44963,
+    "projectId": 6461,
+    "projectName": "Trials of Maya",
+    "projectCreator": "zainmemon",
+    "projectSlug": "trialsofmaya",
+    "title": "Shape Your Champion #2 + Campaign Puzzle #4!",
+    "excerpt": "Vote for the second Champion you want to see in Champion Set 3: Will-o’-the-Whispers!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6461/dd0551de-08f8-49a4-889e-3bdc12e8912d.png",
+    "publishedAt": "2026-09-27T07:44:27.323Z",
+    "url": "https://gamefound.com/en/projects/zainmemon/trialsofmaya/updates/19",
+    "sequenceNumber": 19
+  },
+  {
     "id": 44202,
     "projectId": 11736,
     "projectName": "Dino Battle",
@@ -141,19 +154,6 @@
     "publishedAt": "2026-09-24T21:00:00Z",
     "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/22",
     "sequenceNumber": 22
-  },
-  {
-    "id": 44861,
-    "projectId": 6461,
-    "projectName": "Trials of Maya",
-    "projectCreator": "zainmemon",
-    "projectSlug": "trialsofmaya",
-    "title": "Campaign Puzzle #3",
-    "excerpt": "Mauravi finds herself in a bind. What should she do?",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6461/84329db1-eaee-42a5-bf15-968b296397e9.jpeg",
-    "publishedAt": "2026-09-24T18:53:13.407Z",
-    "url": "https://gamefound.com/en/projects/zainmemon/trialsofmaya/updates/18",
-    "sequenceNumber": 18
   },
   {
     "id": 44855,
