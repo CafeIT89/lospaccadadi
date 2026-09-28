@@ -1,5 +1,44 @@
 [
   {
+    "id": 45019,
+    "projectId": 8391,
+    "projectName": "Barbaric: Crown of the Frost",
+    "projectCreator": "hexa-house",
+    "projectSlug": "barbaric-crown-of-the-frost",
+    "title": "⏰ Final 48 Hours — An Important Update & Thank You",
+    "excerpt": "Only 48 hours remain in the BARBARIC: Crown of the Frost campaign. Today, we want to clarify the recent funding adjustment, confirm the status of our unlocked Stretch Goals.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8391/930f4135-a925-4f7f-88f1-a8840c7af8cc.jpg",
+    "publishedAt": "2026-09-28T18:04:43.313Z",
+    "url": "https://gamefound.com/en/projects/hexa-house/barbaric-crown-of-the-frost/updates/17",
+    "sequenceNumber": 17
+  },
+  {
+    "id": 45012,
+    "projectId": 6025,
+    "projectName": "Here to Slay DUNGEONS",
+    "projectCreator": "unstable-games",
+    "projectSlug": "here-to-slay-dungeons",
+    "title": "Address Lockdown = Tomorrow 🚨",
+    "excerpt": "We’re locking addresses tomorrow! Make sure your info is submitted and up-to-date to receive your pledge during the first pass at fulfillment for your region.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6025/0bc493a0-8ea5-4239-9b2d-d207c1da3574.jpg",
+    "publishedAt": "2026-09-28T16:39:50.113Z",
+    "url": "https://gamefound.com/en/projects/unstable-games/here-to-slay-dungeons/updates/45",
+    "sequenceNumber": 45
+  },
+  {
+    "id": 44900,
+    "projectId": 8094,
+    "projectName": "Bloodwork: The Reckoning",
+    "projectCreator": "i-demo-games",
+    "projectSlug": "bloodwork-the-reckoning",
+    "title": "Proofing Begins, New Events Arrive, Deep Dives Ahead",
+    "excerpt": "Bloodwork enters its first full proofing stage, new Backer Forged Events join the world of Morana, and Mercenary Deep Dives begin soon, showcasing Merc builds, gameplay photos, and their lore from the Art/Lorebook.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8094/963e1cd3-67a9-49d7-a24f-6a0d5b188874.jpg",
+    "publishedAt": "2026-09-28T16:24:21.55Z",
+    "url": "https://gamefound.com/en/projects/i-demo-games/bloodwork-the-reckoning/updates/51",
+    "sequenceNumber": 51
+  },
+  {
     "id": 45003,
     "projectId": 8534,
     "projectName": "Call of Cthulhu: Old Ones Origins",
@@ -115,19 +154,6 @@
     "publishedAt": "2026-09-26T06:21:10.717Z",
     "url": "https://gamefound.com/en/projects/skytear/exceed-skytear/updates/3",
     "sequenceNumber": 3
-  },
-  {
-    "id": 44948,
-    "projectId": 8391,
-    "projectName": "Barbaric: Crown of the Frost",
-    "projectCreator": "hexa-house",
-    "projectSlug": "barbaric-crown-of-the-frost",
-    "title": "❄️ 3 Days Left — Everything You Get & Why Back Now!",
-    "excerpt": "Only 3 days remain in BARBARIC: Crown of the Frost! Take a look at everything we’ve unlocked together so far — including new cards, unique decks, Riders, and Gears.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8391/d8604bb5-f91d-4f27-afe2-0df8417dbeb5.png",
-    "publishedAt": "2026-09-25T23:18:57.467Z",
-    "url": "https://gamefound.com/en/projects/hexa-house/barbaric-crown-of-the-frost/updates/16",
-    "sequenceNumber": 16
   },
   {
     "id": 44940,
@@ -286,19 +312,6 @@
     "sequenceNumber": 2
   },
   {
-    "id": 44745,
-    "projectId": 6025,
-    "projectName": "Here to Slay DUNGEONS",
-    "projectCreator": "unstable-games",
-    "projectSlug": "here-to-slay-dungeons",
-    "title": "1 Week Until Address Lockdown (+ Timeline Updates)",
-    "excerpt": "We’re locking addresses in less than 1 week! Please take the time to check and make sure you have your info submitted to receive your pledge during our initial pass at fulfillment.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6025/7969f019-f381-42ed-95fd-5fc801b8e0c6.jpg",
-    "publishedAt": "2026-09-22T20:48:08.703Z",
-    "url": "https://gamefound.com/en/projects/unstable-games/here-to-slay-dungeons/updates/44",
-    "sequenceNumber": 44
-  },
-  {
     "id": 44751,
     "projectId": 11645,
     "projectName": "Grimdark Future: Jade Claw",
@@ -375,19 +388,6 @@
     "publishedAt": "2026-09-17T16:33:53.347Z",
     "url": "https://gamefound.com/en/projects/level-99-games/dbd/updates/18",
     "sequenceNumber": 18
-  },
-  {
-    "id": 41381,
-    "projectId": 8094,
-    "projectName": "Bloodwork: The Reckoning",
-    "projectCreator": "i-demo-games",
-    "projectSlug": "bloodwork-the-reckoning",
-    "title": "Bloodwork: The Pledgeoning and Everything New",
-    "excerpt": "Major Bloodwork update: Production Fully Paid stamp confirmed; Backer Forged Items and Moods revealed; redesigned dashboards and skill systems unveiled; new town, proficiencies, blood cards, Veteran Mode, gameboards, terrain, cosmetic minis, and pledges",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8094/8dc3ff50-6774-428f-9655-f135db9bac4c.jpg",
-    "publishedAt": "2026-09-17T14:05:12.797Z",
-    "url": "https://gamefound.com/en/projects/i-demo-games/bloodwork-the-reckoning/updates/50",
-    "sequenceNumber": 50
   },
   {
     "id": 44198,
