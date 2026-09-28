@@ -1,5 +1,44 @@
 [
   {
+    "id": 44781,
+    "projectId": 9719,
+    "projectName": "The Lord of the Rings: Ascension",
+    "projectCreator": "stoneblade",
+    "projectSlug": "the-lord-of-the-rings-ascension",
+    "title": "Important Tax Update for Canada, Australia & New Zealand",
+    "excerpt": "An important update for backers in Canada, Australia, and New Zealand regarding how applicable taxes will be handled in the Pledge Manager.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9719/e5d10b6f-f6b7-47c0-b0b1-ba6400400877.png",
+    "publishedAt": "2026-09-28T13:34:56.707Z",
+    "url": "https://gamefound.com/en/projects/stoneblade/the-lord-of-the-rings-ascension/updates/44",
+    "sequenceNumber": 44
+  },
+  {
+    "id": 44786,
+    "projectId": 5385,
+    "projectName": "Dragon Eclipse: The Grand Quest",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "dragon-eclipse-the-grand-quest",
+    "title": "1st Wave Production CONCLUDED | Grand Quest Campaign - Testing SUMMARY",
+    "excerpt": "Welcome, Tamers! As the PRODUCTION of Dragon Eclipse OG and Mystling Academy has been CONCLUDED, we're only a step away from kicking off fulfillment. Also, Grand Quest DEVELOPMENT is getting closer to the finish line! Learn more in today's update...",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5385/beaf4451-f301-4632-ace9-66b740e0be90.png",
+    "publishedAt": "2026-09-28T11:30:19.32Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/dragon-eclipse-the-grand-quest/updates/25",
+    "sequenceNumber": 25
+  },
+  {
+    "id": 44673,
+    "projectId": 4693,
+    "projectName": "Black Rose Wars: Rebirth",
+    "projectCreator": "lms",
+    "projectSlug": "blackrosewars-re",
+    "title": "Inferno: Part 2",
+    "excerpt": "Inferno enters a new phase...",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4693/8677ad70-7488-42fe-b598-4710f302a804.jpg",
+    "publishedAt": "2026-09-28T08:00:00Z",
+    "url": "https://gamefound.com/en/projects/lms/blackrosewars-re/updates/44",
+    "sequenceNumber": 44
+  },
+  {
     "id": 44963,
     "projectId": 6461,
     "projectName": "Trials of Maya",
@@ -312,19 +351,6 @@
     "sequenceNumber": 18
   },
   {
-    "id": 41437,
-    "projectId": 9719,
-    "projectName": "The Lord of the Rings: Ascension",
-    "projectCreator": "stoneblade",
-    "projectSlug": "the-lord-of-the-rings-ascension",
-    "title": "The Pledge Manager for The Lord of the Rings™: Ascension™ is officially open!",
-    "excerpt": "Grab your copy of The Lord of the Rings™: Ascension™, finalize your pledge, add-on more products, or upgrade your pledge today! We've also got updated information for Canada, Australia, and New Zeland.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9719/dbc73002-143e-4c1a-9d4a-9b4913275cc3.png",
-    "publishedAt": "2026-09-17T15:50:41.743Z",
-    "url": "https://gamefound.com/en/projects/stoneblade/the-lord-of-the-rings-ascension/updates/43",
-    "sequenceNumber": 43
-  },
-  {
     "id": 41381,
     "projectId": 8094,
     "projectName": "Bloodwork: The Reckoning",
@@ -468,19 +494,6 @@
     "sequenceNumber": 33
   },
   {
-    "id": 42753,
-    "projectId": 4693,
-    "projectName": "Black Rose Wars: Rebirth",
-    "projectCreator": "lms",
-    "projectSlug": "blackrosewars-re",
-    "title": "Development and Playtesting",
-    "excerpt": "A look at where development stands and the next steps for the Revised Edition",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4693/7704159f-407c-4791-9459-aa3eccbb3b07.png",
-    "publishedAt": "2026-08-31T10:19:42.78Z",
-    "url": "https://gamefound.com/en/projects/lms/blackrosewars-re/updates/43",
-    "sequenceNumber": 43
-  },
-  {
     "id": 41601,
     "projectId": 3917,
     "projectName": "Blood",
@@ -557,19 +570,6 @@
     "publishedAt": "2026-08-21T07:59:47.1Z",
     "url": "https://gamefound.com/en/projects/dragori-games/ronins-revenge/updates/15",
     "sequenceNumber": 15
-  },
-  {
-    "id": 41316,
-    "projectId": 5385,
-    "projectName": "Dragon Eclipse: The Grand Quest",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "dragon-eclipse-the-grand-quest",
-    "title": "Development update: Guild Achievements & Reputation | New ART samples",
-    "excerpt": "Tamers, we're back to the arena! Today, we're discussing a huge part of The Grand Quest's campaign mode - Guild Achievements and Reputation mechanics, as well as showcasing some reworked Mystling art samples.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5385/35ef8c4d-0e15-42c7-af39-64b7757d8b35.png",
-    "publishedAt": "2026-08-20T13:36:42.453Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/dragon-eclipse-the-grand-quest/updates/24",
-    "sequenceNumber": 24
   },
   {
     "id": 41050,
