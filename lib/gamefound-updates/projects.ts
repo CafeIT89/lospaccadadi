@@ -335,4 +335,16 @@ export const GAMEFOUND_PROJECTS: GamefoundProject[] = [
   slug: "hell-legends",
   projectId: 1939,
 },
+{
+  name: "Miskatonic Expeditions",
+  creator: "papertigers",
+  slug: "miskatonic-expeditions",
+  projectId: 11313,
+},
+{
+  name: "The Waste of Parts: Siren Signals",
+  creator: "skykingdomgames",
+  slug: "the-waste-of-parts-siren-signals",
+  projectId: 13247,
+},
 ];
