@@ -1,16 +1,68 @@
 [
   {
-    "id": 45019,
+    "id": 45098,
     "projectId": 8391,
     "projectName": "Barbaric: Crown of the Frost",
     "projectCreator": "hexa-house",
     "projectSlug": "barbaric-crown-of-the-frost",
-    "title": "⏰ Final 48 Hours — An Important Update & Thank You",
-    "excerpt": "Only 48 hours remain in the BARBARIC: Crown of the Frost campaign. Today, we want to clarify the recent funding adjustment, confirm the status of our unlocked Stretch Goals.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8391/930f4135-a925-4f7f-88f1-a8840c7af8cc.jpg",
-    "publishedAt": "2026-09-28T18:04:43.313Z",
-    "url": "https://gamefound.com/en/projects/hexa-house/barbaric-crown-of-the-frost/updates/17",
-    "sequenceNumber": 17
+    "title": "🎮 FINAL 24 HOURS - A Special Thank You: BARBARIC Goes Digital!",
+    "excerpt": "Less than 24 hours remain! As a special thank-you to everyone supporting us, we’re revealing something we’ve been working on behind the scenes — a digital adaptation of BARBARIC Core 1, planned for Steam, with access for our backers!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8391/716ab204-6a92-4dca-9959-7a05322da1ae.jpg",
+    "publishedAt": "2026-09-29T20:45:19.57Z",
+    "url": "https://gamefound.com/en/projects/hexa-house/barbaric-crown-of-the-frost/updates/18",
+    "sequenceNumber": 18
+  },
+  {
+    "id": 45086,
+    "projectId": 8534,
+    "projectName": "Call of Cthulhu: Old Ones Origins",
+    "projectCreator": "chaosium",
+    "projectSlug": "call-of-cthulhu-old-ones-origins",
+    "title": "Yithian Archives Record #9. New Free Expansion! Infinite Incarnations enter the battlefield!",
+    "excerpt": "New day, new Daily Reveal! Every day we will be adding more content and more information about how the game works. Let’s see what we have for today!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/e74a5a00-975a-4c9c-85eb-95aa4c8593b4.png",
+    "publishedAt": "2026-09-29T18:44:12.48Z",
+    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/9",
+    "sequenceNumber": 9
+  },
+  {
+    "id": 44258,
+    "projectId": 11736,
+    "projectName": "Dino Battle",
+    "projectCreator": "rebellionunplugged",
+    "projectSlug": "dino-battle",
+    "title": "Campaign Update #6 | Meet the Dinosaurs: Part 2",
+    "excerpt": "Three more dinosaurs are ready to join the battle. This time we're looking at one of the fastest dinosaurs on the board, a dinosaur that takes to the skies, and the biggest dinosaur we've made so far.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11736/88a06ae4-1563-452c-a846-316d11417bb0.jpg",
+    "publishedAt": "2026-09-29T15:45:00Z",
+    "url": "https://gamefound.com/en/projects/rebellionunplugged/dino-battle/updates/6",
+    "sequenceNumber": 6
+  },
+  {
+    "id": 44979,
+    "projectId": 11313,
+    "projectName": "Miskatonic Expeditions",
+    "projectCreator": "papertigers",
+    "projectSlug": "miskatonic-expeditions",
+    "title": "FUNDED!",
+    "excerpt": "Miskatonic Expeditions is officially funded!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/0262cb91-09b4-45a0-8340-17f705fef281.png",
+    "publishedAt": "2026-09-29T15:23:43.987Z",
+    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/4",
+    "sequenceNumber": 4
+  },
+  {
+    "id": 45062,
+    "projectId": 6846,
+    "projectName": "Chronicles of Drunagor: Aftermath",
+    "projectCreator": "wearecgs",
+    "projectSlug": "chronicles-of-drunagor-aftermath",
+    "title": "Something new for the Standard Edition of Aftermath!",
+    "excerpt": "Standard Edition just got better: all new Aftermath heroes now come with miniatures at no additional cost. More immersion, same pledge!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6846/b788281b-623e-440a-82aa-52d33fc243d4.png",
+    "publishedAt": "2026-09-29T14:17:07.61Z",
+    "url": "https://gamefound.com/en/projects/wearecgs/chronicles-of-drunagor-aftermath/updates/28",
+    "sequenceNumber": 28
   },
   {
     "id": 45012,
@@ -37,19 +89,6 @@
     "publishedAt": "2026-09-28T16:24:21.55Z",
     "url": "https://gamefound.com/en/projects/i-demo-games/bloodwork-the-reckoning/updates/51",
     "sequenceNumber": 51
-  },
-  {
-    "id": 45003,
-    "projectId": 8534,
-    "projectName": "Call of Cthulhu: Old Ones Origins",
-    "projectCreator": "chaosium",
-    "projectSlug": "call-of-cthulhu-old-ones-origins",
-    "title": "Yithian Archives Record #8. The Universe Trembled... We're Funded! Thank you!",
-    "excerpt": "Thank you for backing the project!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/4578ca4a-a983-40c6-b597-f28f212144da.png",
-    "publishedAt": "2026-09-28T14:22:17.323Z",
-    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/8",
-    "sequenceNumber": 8
   },
   {
     "id": 45002,
@@ -130,19 +169,6 @@
     "sequenceNumber": 19
   },
   {
-    "id": 44202,
-    "projectId": 11736,
-    "projectName": "Dino Battle",
-    "projectCreator": "rebellionunplugged",
-    "projectSlug": "dino-battle",
-    "title": "Campaign Update #5 | From 90's Classic to Dino Battle!",
-    "excerpt": "Dino Battle! has some serious prehistoric history. We take a look at the 90's classic that started it all, the designers behind it, and how we’re updating its ideas for a modern audience.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11736/ec738551-c662-405b-bc5f-ffded88cfd75.jpg",
-    "publishedAt": "2026-09-26T15:20:00Z",
-    "url": "https://gamefound.com/en/projects/rebellionunplugged/dino-battle/updates/5",
-    "sequenceNumber": 5
-  },
-  {
     "id": 44944,
     "projectId": 9793,
     "projectName": "Exceed: Skytear",
@@ -193,19 +219,6 @@
     "publishedAt": "2026-09-25T16:33:19.557Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/grimcoven/updates/51",
     "sequenceNumber": 51
-  },
-  {
-    "id": 44728,
-    "projectId": 11313,
-    "projectName": "Miskatonic Expeditions",
-    "projectCreator": "papertigers",
-    "projectSlug": "miskatonic-expeditions",
-    "title": "Miskatonic Expeditions: The Wait Is Finally Over!",
-    "excerpt": "The Miskatonic Expeditions campaign will officially launch on September 29 at 16:00 CEST.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/7df00cad-ca83-4c7b-81aa-2b38823e9081.png",
-    "publishedAt": "2026-09-25T15:00:00Z",
-    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/3",
-    "sequenceNumber": 3
   },
   {
     "id": 44809,
@@ -414,19 +427,6 @@
     "publishedAt": "2026-09-11T07:50:06.647Z",
     "url": "https://gamefound.com/en/projects/dragori-games/spell-rift-legends/updates/20",
     "sequenceNumber": 20
-  },
-  {
-    "id": 44217,
-    "projectId": 6846,
-    "projectName": "Chronicles of Drunagor: Aftermath",
-    "projectCreator": "wearecgs",
-    "projectSlug": "chronicles-of-drunagor-aftermath",
-    "title": "Brazil Has Surpassed R$1.1 Million and You’ve All Unlocked the Rewards.",
-    "excerpt": "Brazil has surpassed R$1.1M, unlocking new rewards for every Aftermath backer worldwide. One final goal remains. The Mega Dungeon awaits!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6846/4aa7d873-636f-4941-adc9-ac8660ad565e.png",
-    "publishedAt": "2026-09-10T17:29:46.637Z",
-    "url": "https://gamefound.com/en/projects/wearecgs/chronicles-of-drunagor-aftermath/updates/27",
-    "sequenceNumber": 27
   },
   {
     "id": 42756,
