@@ -1,5 +1,122 @@
 [
   {
+    "id": 44787,
+    "projectId": 5386,
+    "projectName": "This War of Mine: Second Edition",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "this-war-of-mine-second-edition",
+    "title": "English edition PRODUCTION CONCLUDED | LANG editions NEWS",
+    "excerpt": "Check out today's news on the English edition production being complete and the next steps, with fulfillment just around the corner! Also, learn more about the current LANG editions' status.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5386/545b1123-ee25-4bbc-b3cc-e3adb74a2506.jpg",
+    "publishedAt": "2026-09-30T20:59:14.047Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/this-war-of-mine-second-edition/updates/33",
+    "sequenceNumber": 33
+  },
+  {
+    "id": 45171,
+    "projectId": 6461,
+    "projectName": "Trials of Maya",
+    "projectCreator": "zainmemon",
+    "projectSlug": "trialsofmaya",
+    "title": "Campaign Puzzle #5",
+    "excerpt": "The stakes just got higher with this new puzzle. +2 voting power is up for grabs!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6461/0b64d7f1-54e3-4162-a6d9-37c11b30525a.jpeg",
+    "publishedAt": "2026-09-30T18:59:04.897Z",
+    "url": "https://gamefound.com/en/projects/zainmemon/trialsofmaya/updates/20",
+    "sequenceNumber": 20
+  },
+  {
+    "id": 45168,
+    "projectId": 1939,
+    "projectName": "Hell Legends",
+    "projectCreator": "hodarispiele",
+    "projectSlug": "hell-legends",
+    "title": "Production Time Update - New Pledge Manager Date - Monster Miniature Box Poll",
+    "excerpt": "This time around, we unfortunately have some bad news regarding our overall production timeline. Please read on for all the details and an explanation of the situation.\n\nWe also have an interesting poll for you and would greatly appreciate your input.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/1939/b6ab43d1-1bad-446e-886a-dd8848f3ecf4.jpg",
+    "publishedAt": "2026-09-30T18:03:02.997Z",
+    "url": "https://gamefound.com/en/projects/hodarispiele/hell-legends/updates/34",
+    "sequenceNumber": 34
+  },
+  {
+    "id": 45131,
+    "projectId": 11313,
+    "projectName": "Miskatonic Expeditions",
+    "projectCreator": "papertigers",
+    "projectSlug": "miskatonic-expeditions",
+    "title": "New Stretch Goals Revealed",
+    "excerpt": "The University grows and the Maw of Madness comes to life",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/0f4956ac-1af8-45e6-84f4-28654c36a51c.png",
+    "publishedAt": "2026-09-30T16:27:52.487Z",
+    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/5",
+    "sequenceNumber": 5
+  },
+  {
+    "id": 45140,
+    "projectId": 8492,
+    "projectName": "Heroes of Might and Magic III: Factory, Bulwark & Forge Expansions",
+    "projectCreator": "archon-studio",
+    "projectSlug": "heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
+    "title": "What's Next?",
+    "excerpt": "Come and have a look at what else we have planned for this campaign!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8492/583cf4f6-e2b7-405e-81e9-16a4838aabc5.png",
+    "publishedAt": "2026-09-30T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions/updates/11",
+    "sequenceNumber": 11
+  },
+  {
+    "id": 45025,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "All the small things: Cosmic Horror Expansion",
+    "excerpt": "How much content can you fit into one box?!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/95a2fa7c-4610-4129-a44f-965db7722903.png",
+    "publishedAt": "2026-09-30T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/8",
+    "sequenceNumber": 8
+  },
+  {
+    "id": 45146,
+    "projectId": 8534,
+    "projectName": "Call of Cthulhu: Old Ones Origins",
+    "projectCreator": "chaosium",
+    "projectSlug": "call-of-cthulhu-old-ones-origins",
+    "title": "Yithian Archives Record #10. Daily Reveal: New Conflict Cards!",
+    "excerpt": "Today we add something to give you even more to choose from in Conflicts!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/34d0c669-b1a9-4ecc-99a1-f3aa67c7913e.png",
+    "publishedAt": "2026-09-30T13:59:02.453Z",
+    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/10",
+    "sequenceNumber": 10
+  },
+  {
+    "id": 45128,
+    "projectId": 9793,
+    "projectName": "Exceed: Skytear",
+    "projectCreator": "skytear",
+    "projectSlug": "exceed-skytear",
+    "title": "Designer's Notes #2: The Realms of Olan Taa",
+    "excerpt": "A brief overview of the world where the 16 fighters come from. Starting next update, we'll present each character with their unique set of cards... stay tuned!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9793/d5d2572d-4a79-4340-9ce7-4cd0f0368a53.png",
+    "publishedAt": "2026-09-30T13:41:41.23Z",
+    "url": "https://gamefound.com/en/projects/skytear/exceed-skytear/updates/4",
+    "sequenceNumber": 4
+  },
+  {
+    "id": 45143,
+    "projectId": 8391,
+    "projectName": "Barbaric: Crown of the Frost",
+    "projectCreator": "hexa-house",
+    "projectSlug": "barbaric-crown-of-the-frost",
+    "title": "❤️ Thank You, Barbarics — The Campaign Has Ended!",
+    "excerpt": "BARBARIC: Crown of the Frost has officially come to an end. Thank you to everyone who backed, shared, voted, commented, and supported us throughout this journey!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8391/619ce15c-d2a9-4e86-be21-4ea0fc421c76.png",
+    "publishedAt": "2026-09-30T13:39:50.547Z",
+    "url": "https://gamefound.com/en/projects/hexa-house/barbaric-crown-of-the-frost/updates/19",
+    "sequenceNumber": 19
+  },
+  {
     "id": 45001,
     "projectId": 3809,
     "projectName": "Cyberpunk 2077: The Board Game",
@@ -39,32 +156,6 @@
     "sequenceNumber": 16
   },
   {
-    "id": 45098,
-    "projectId": 8391,
-    "projectName": "Barbaric: Crown of the Frost",
-    "projectCreator": "hexa-house",
-    "projectSlug": "barbaric-crown-of-the-frost",
-    "title": "🎮 FINAL 24 HOURS - A Special Thank You: BARBARIC Goes Digital!",
-    "excerpt": "Less than 24 hours remain! As a special thank-you to everyone supporting us, we’re revealing something we’ve been working on behind the scenes — a digital adaptation of BARBARIC Core 1, planned for Steam, with access for our backers!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8391/716ab204-6a92-4dca-9959-7a05322da1ae.jpg",
-    "publishedAt": "2026-09-29T20:45:19.57Z",
-    "url": "https://gamefound.com/en/projects/hexa-house/barbaric-crown-of-the-frost/updates/18",
-    "sequenceNumber": 18
-  },
-  {
-    "id": 45086,
-    "projectId": 8534,
-    "projectName": "Call of Cthulhu: Old Ones Origins",
-    "projectCreator": "chaosium",
-    "projectSlug": "call-of-cthulhu-old-ones-origins",
-    "title": "Yithian Archives Record #9. New Free Expansion! Infinite Incarnations enter the battlefield!",
-    "excerpt": "New day, new Daily Reveal! Every day we will be adding more content and more information about how the game works. Let’s see what we have for today!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/e74a5a00-975a-4c9c-85eb-95aa4c8593b4.png",
-    "publishedAt": "2026-09-29T18:44:12.48Z",
-    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/9",
-    "sequenceNumber": 9
-  },
-  {
     "id": 44258,
     "projectId": 11736,
     "projectName": "Dino Battle",
@@ -76,19 +167,6 @@
     "publishedAt": "2026-09-29T15:45:00Z",
     "url": "https://gamefound.com/en/projects/rebellionunplugged/dino-battle/updates/6",
     "sequenceNumber": 6
-  },
-  {
-    "id": 44979,
-    "projectId": 11313,
-    "projectName": "Miskatonic Expeditions",
-    "projectCreator": "papertigers",
-    "projectSlug": "miskatonic-expeditions",
-    "title": "FUNDED!",
-    "excerpt": "Miskatonic Expeditions is officially funded!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/0262cb91-09b4-45a0-8340-17f705fef281.png",
-    "publishedAt": "2026-09-29T15:23:43.987Z",
-    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/4",
-    "sequenceNumber": 4
   },
   {
     "id": 45062,
@@ -143,19 +221,6 @@
     "sequenceNumber": 22
   },
   {
-    "id": 44993,
-    "projectId": 8492,
-    "projectName": "Heroes of Might and Magic III: Factory, Bulwark & Forge Expansions",
-    "projectCreator": "archon-studio",
-    "projectSlug": "heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
-    "title": "Unified Rulebook Explained",
-    "excerpt": "Questions answered, and new SG reveals!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8492/8d83b0d8-e2a7-4ec7-907d-bbfec91d3165.jpg",
-    "publishedAt": "2026-09-28T14:00:00Z",
-    "url": "https://gamefound.com/en/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions/updates/10",
-    "sequenceNumber": 10
-  },
-  {
     "id": 44781,
     "projectId": 9719,
     "projectName": "The Lord of the Rings: Ascension",
@@ -195,32 +260,6 @@
     "sequenceNumber": 44
   },
   {
-    "id": 44963,
-    "projectId": 6461,
-    "projectName": "Trials of Maya",
-    "projectCreator": "zainmemon",
-    "projectSlug": "trialsofmaya",
-    "title": "Shape Your Champion #2 + Campaign Puzzle #4!",
-    "excerpt": "Vote for the second Champion you want to see in Champion Set 3: Will-o’-the-Whispers!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6461/dd0551de-08f8-49a4-889e-3bdc12e8912d.png",
-    "publishedAt": "2026-09-27T07:44:27.323Z",
-    "url": "https://gamefound.com/en/projects/zainmemon/trialsofmaya/updates/19",
-    "sequenceNumber": 19
-  },
-  {
-    "id": 44944,
-    "projectId": 9793,
-    "projectName": "Exceed: Skytear",
-    "projectCreator": "skytear",
-    "projectSlug": "exceed-skytear",
-    "title": "Designer's Notes #1: Skytear Infusion",
-    "excerpt": "What is Exceed? What is Skytear? What is the new Infusion mechanic? What are the design goals behind it all? Find the answers in this update from Daniel Zeiger, the designer of the Skytear Exceed season.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9793/9ae5c37a-261d-416e-8c27-29e733eb8078.png",
-    "publishedAt": "2026-09-26T06:21:10.717Z",
-    "url": "https://gamefound.com/en/projects/skytear/exceed-skytear/updates/3",
-    "sequenceNumber": 3
-  },
-  {
     "id": 44940,
     "projectId": 6096,
     "projectName": "The Elder Scrolls: Heroes of Tamriel",
@@ -258,19 +297,6 @@
     "publishedAt": "2026-09-25T16:33:19.557Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/grimcoven/updates/51",
     "sequenceNumber": 51
-  },
-  {
-    "id": 44809,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "Get more with Miskatonic",
-    "excerpt": "Add a little bit of everything with the Miskatonic Expansion",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/6c5ceae2-a81e-4437-9d78-fc2c4fdc9c4a.png",
-    "publishedAt": "2026-09-25T14:00:00Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/7",
-    "sequenceNumber": 7
   },
   {
     "id": 44885,
@@ -533,19 +559,6 @@
     "sequenceNumber": 25
   },
   {
-    "id": 42817,
-    "projectId": 1939,
-    "projectName": "Hell Legends",
-    "projectCreator": "hodarispiele",
-    "projectSlug": "hell-legends",
-    "title": "August Update: Production Timeline, Miniature Samples, Insert Planning and SPIEL 2026",
-    "excerpt": "We are very happy to show the first production samples of the miniatures and our plan for the inserts in the base game.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/1939/212bd7a4-2c98-4a65-93cb-c87d881d6eaf.jpg",
-    "publishedAt": "2026-09-01T11:38:57.99Z",
-    "url": "https://gamefound.com/en/projects/hodarispiele/hell-legends/updates/33",
-    "sequenceNumber": 33
-  },
-  {
     "id": 41568,
     "projectId": 9823,
     "projectName": "Fable Quest",
@@ -583,19 +596,6 @@
     "publishedAt": "2026-08-21T14:48:19.16Z",
     "url": "https://gamefound.com/en/projects/adreama-games/machina-arcana-vivarium/updates/20",
     "sequenceNumber": 20
-  },
-  {
-    "id": 41050,
-    "projectId": 5386,
-    "projectName": "This War of Mine: Second Edition",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "this-war-of-mine-second-edition",
-    "title": "English edition PRODUCTION moves forward | Special Edition STORAGE SOLUTION preview",
-    "excerpt": "Learn more about the current ENG edition's production status and take a look at the inside of the Special Edition Core Box!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5386/af5fab55-f35c-4cf0-a03e-f43f21043883.jpg",
-    "publishedAt": "2026-08-12T10:55:10.003Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/this-war-of-mine-second-edition/updates/32",
-    "sequenceNumber": 32
   },
   {
     "id": 40957,
