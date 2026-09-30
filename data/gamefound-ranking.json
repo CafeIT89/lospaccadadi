@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-30T05:28:28.509Z",
+  "updatedAt": "2026-09-30T12:29:51.495Z",
   "projects": [
     {
       "name": "Heroes of Might and Magic III: The Board Game - Factory, Bulwark & Forge Expansions",
       "creator": "Archon Studio",
       "url": "https://gamefound.com/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8492/beb8f6e4-2e7e-4247-bc9c-68a39cd8e26c.png",
-      "fundsGathered": 1156298.74,
+      "fundsGathered": 1167045.23,
       "currency": "EUR",
-      "backerCount": 5942,
+      "backerCount": 5997,
       "campaignEndDate": "2026-10-12T22:00:00Z"
     },
     {
@@ -16,9 +16,9 @@
       "creator": "IV Studio",
       "url": "https://gamefound.com/projects/iv-studio/tend-expansions",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11718/343ee917-ecf4-4e7f-b4cc-869430f2c244.png",
-      "fundsGathered": 872450.37,
+      "fundsGathered": 876045.12,
       "currency": "USD",
-      "backerCount": 4704,
+      "backerCount": 4722,
       "campaignEndDate": "2026-10-07T22:00:00Z"
     },
     {
@@ -26,9 +26,9 @@
       "creator": "Redzen Games",
       "url": "https://gamefound.com/projects/redzen/gang-wars",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/9938/e8946268-0083-4c87-997f-67d0b8cbba8d.png",
-      "fundsGathered": 574065.57,
+      "fundsGathered": 575361.12,
       "currency": "EUR",
-      "backerCount": 2900,
+      "backerCount": 2907,
       "campaignEndDate": "2026-10-15T20:00:00Z"
     },
     {
@@ -36,9 +36,9 @@
       "creator": "Chaosium Inc.",
       "url": "https://gamefound.com/projects/chaosium/call-of-cthulhu-old-ones-origins",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8534/836e992f-a1f0-4a32-9de6-4ad0c05f95dd.png",
-      "fundsGathered": 340961.02,
+      "fundsGathered": 349637.12,
       "currency": "USD",
-      "backerCount": 1991,
+      "backerCount": 2041,
       "campaignEndDate": "2026-10-15T14:00:00Z"
     },
     {
@@ -46,9 +46,9 @@
       "creator": "TheShopOfManyThings",
       "url": "https://gamefound.com/projects/theshopofmanythings/realm-brew-into-the-depths-production-run-2",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8294/1be28aab-cfc4-4597-aac3-a2bb18ac22d0.jpg",
-      "fundsGathered": 281412.8,
+      "fundsGathered": 281910.8,
       "currency": "USD",
-      "backerCount": 840,
+      "backerCount": 842,
       "campaignEndDate": "2026-10-17T18:00:00Z"
     }
   ]

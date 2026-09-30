@@ -1,5 +1,44 @@
 [
   {
+    "id": 45001,
+    "projectId": 3809,
+    "projectName": "Cyberpunk 2077: The Board Game",
+    "projectCreator": "go-on-board",
+    "projectSlug": "cyberpunk-2077-the-board-game",
+    "title": "Updated Delivery Timeline",
+    "excerpt": "Timeline & Fulfillment Plans / Q&A",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3809/8ccc0cd3-937c-4f8e-b6b4-a157e9027a3f.png",
+    "publishedAt": "2026-09-30T12:17:32.557Z",
+    "url": "https://gamefound.com/en/projects/go-on-board/cyberpunk-2077-the-board-game/updates/62",
+    "sequenceNumber": 62
+  },
+  {
+    "id": 45000,
+    "projectId": 3917,
+    "projectName": "Blood",
+    "projectCreator": "lms",
+    "projectSlug": "blood_lms",
+    "title": "BACK TO WORK IN TRANSYLVANIA!",
+    "excerpt": "September Production Update!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3917/a129c206-d289-40a7-9ac5-bceb465f425d.jpg",
+    "publishedAt": "2026-09-30T08:34:46.407Z",
+    "url": "https://gamefound.com/en/projects/lms/blood_lms/updates/55",
+    "sequenceNumber": 55
+  },
+  {
+    "id": 45124,
+    "projectId": 5640,
+    "projectName": "Ronin's Revenge",
+    "projectCreator": "dragori-games",
+    "projectSlug": "ronins-revenge",
+    "title": "Pledge Manager is open",
+    "excerpt": "Sundrop and Sleeves available. Also, vote for the crossover you would like to see.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5640/44c4c4fe-667d-45c8-9535-379f019f2781.png",
+    "publishedAt": "2026-09-30T08:31:16.22Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/ronins-revenge/updates/16",
+    "sequenceNumber": 16
+  },
+  {
     "id": 45098,
     "projectId": 8391,
     "projectName": "Barbaric: Crown of the Frost",
@@ -507,32 +546,6 @@
     "sequenceNumber": 33
   },
   {
-    "id": 41601,
-    "projectId": 3917,
-    "projectName": "Blood",
-    "projectCreator": "lms",
-    "projectSlug": "blood_lms",
-    "title": "Blood Checks!",
-    "excerpt": "Production Update!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3917/f58c61a7-f7fd-41ca-a857-77f9b4738a15.jpg",
-    "publishedAt": "2026-08-27T15:28:12.633Z",
-    "url": "https://gamefound.com/en/projects/lms/blood_lms/updates/54",
-    "sequenceNumber": 54
-  },
-  {
-    "id": 41609,
-    "projectId": 3809,
-    "projectName": "Cyberpunk 2077: The Board Game",
-    "projectCreator": "go-on-board",
-    "projectSlug": "cyberpunk-2077-the-board-game",
-    "title": "One Box at a Time",
-    "excerpt": "Production status / Dive into Terrain Pack / Stretch Goal rules now available",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3809/a46e1da7-faf8-4586-a97b-ab1967715ec7.png",
-    "publishedAt": "2026-08-27T11:57:26.403Z",
-    "url": "https://gamefound.com/en/projects/go-on-board/cyberpunk-2077-the-board-game/updates/61",
-    "sequenceNumber": 61
-  },
-  {
     "id": 41568,
     "projectId": 9823,
     "projectName": "Fable Quest",
@@ -570,19 +583,6 @@
     "publishedAt": "2026-08-21T14:48:19.16Z",
     "url": "https://gamefound.com/en/projects/adreama-games/machina-arcana-vivarium/updates/20",
     "sequenceNumber": 20
-  },
-  {
-    "id": 41424,
-    "projectId": 5640,
-    "projectName": "Ronin's Revenge",
-    "projectCreator": "dragori-games",
-    "projectSlug": "ronins-revenge",
-    "title": "Development Update #3 - Your Allies Have Secrets",
-    "excerpt": "Base numbers finished, all battle maps done, story development until mid-September, and details about the secret objectives system.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5640/ccf5caaa-b82b-40a1-b8da-5f4901e86f73.jpeg",
-    "publishedAt": "2026-08-21T07:59:47.1Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/ronins-revenge/updates/15",
-    "sequenceNumber": 15
   },
   {
     "id": 41050,
