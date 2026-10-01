@@ -1,5 +1,44 @@
 [
   {
+    "id": 45223,
+    "projectId": 11765,
+    "projectName": "Dungeon of Tanares",
+    "projectCreator": "dragori-games",
+    "projectSlug": "dungeon-of-tanares",
+    "title": "How Tanares' Open World Works",
+    "excerpt": "Choose where to explore, decide what to leave behind, and face the consequences of your journey.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/d65eb110-4d79-4f5f-b97e-90482d042823.jpeg",
+    "publishedAt": "2026-10-01T15:15:21.413Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/6",
+    "sequenceNumber": 6
+  },
+  {
+    "id": 44981,
+    "projectId": 11313,
+    "projectName": "Miskatonic Expeditions",
+    "projectCreator": "papertigers",
+    "projectSlug": "miskatonic-expeditions",
+    "title": "A Closer Look at the Physical Version",
+    "excerpt": "Now that the Miskatonic Expeditions campaign is live, we can tell you more\nabout the physical version of the game.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/3635d98a-6116-4f6d-8d67-8f06398d4873.png",
+    "publishedAt": "2026-10-01T15:00:00Z",
+    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/6",
+    "sequenceNumber": 6
+  },
+  {
+    "id": 45229,
+    "projectId": 8534,
+    "projectName": "Call of Cthulhu: Old Ones Origins",
+    "projectCreator": "chaosium",
+    "projectSlug": "call-of-cthulhu-old-ones-origins",
+    "title": "Yithian Archives Record #11. New Expansion: Nyarlathotep faction!",
+    "excerpt": "A fifth faction enters the conflict! Meet Nyarlathotep, discover the Dweller in the Darkness expansion, and take a closer look at everything this mysterious new power brings to Old Ones Origins!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/ba71e45a-a46c-4908-8dc6-43e5295e7eeb.png",
+    "publishedAt": "2026-10-01T14:04:27.13Z",
+    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/11",
+    "sequenceNumber": 11
+  },
+  {
     "id": 44787,
     "projectId": 5386,
     "projectName": "This War of Mine: Second Edition",
@@ -39,19 +78,6 @@
     "sequenceNumber": 34
   },
   {
-    "id": 45131,
-    "projectId": 11313,
-    "projectName": "Miskatonic Expeditions",
-    "projectCreator": "papertigers",
-    "projectSlug": "miskatonic-expeditions",
-    "title": "New Stretch Goals Revealed",
-    "excerpt": "The University grows and the Maw of Madness comes to life",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/0f4956ac-1af8-45e6-84f4-28654c36a51c.png",
-    "publishedAt": "2026-09-30T16:27:52.487Z",
-    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/5",
-    "sequenceNumber": 5
-  },
-  {
     "id": 45140,
     "projectId": 8492,
     "projectName": "Heroes of Might and Magic III: Factory, Bulwark & Forge Expansions",
@@ -76,19 +102,6 @@
     "publishedAt": "2026-09-30T14:00:00Z",
     "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/8",
     "sequenceNumber": 8
-  },
-  {
-    "id": 45146,
-    "projectId": 8534,
-    "projectName": "Call of Cthulhu: Old Ones Origins",
-    "projectCreator": "chaosium",
-    "projectSlug": "call-of-cthulhu-old-ones-origins",
-    "title": "Yithian Archives Record #10. Daily Reveal: New Conflict Cards!",
-    "excerpt": "Today we add something to give you even more to choose from in Conflicts!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/34d0c669-b1a9-4ecc-99a1-f3aa67c7913e.png",
-    "publishedAt": "2026-09-30T13:59:02.453Z",
-    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/10",
-    "sequenceNumber": 10
   },
   {
     "id": 45128,
@@ -336,19 +349,6 @@
     "publishedAt": "2026-09-24T21:00:00Z",
     "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/22",
     "sequenceNumber": 22
-  },
-  {
-    "id": 44855,
-    "projectId": 11765,
-    "projectName": "Dungeon of Tanares",
-    "projectCreator": "dragori-games",
-    "projectSlug": "dungeon-of-tanares",
-    "title": "Solo Mode, Standees, and One-Shot Adventures",
-    "excerpt": "An improved Comrade system for solo and 2–3 players, deluxe acrylic standees, and immersive One-Shot adventures you can finish in a single session.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/ca27d500-9a75-41d8-8bf6-b9059f510974.jpeg",
-    "publishedAt": "2026-09-24T13:49:34.523Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/5",
-    "sequenceNumber": 5
   },
   {
     "id": 44792,
