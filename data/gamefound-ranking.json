@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-01T05:46:34.291Z",
+  "updatedAt": "2026-10-01T13:06:48.841Z",
   "projects": [
     {
       "name": "Heroes of Might and Magic III: The Board Game - Factory, Bulwark & Forge Expansions",
       "creator": "Archon Studio",
       "url": "https://gamefound.com/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8492/beb8f6e4-2e7e-4247-bc9c-68a39cd8e26c.png",
-      "fundsGathered": 1206734.75,
+      "fundsGathered": 1223178.69,
       "currency": "EUR",
-      "backerCount": 6192,
+      "backerCount": 6269,
       "campaignEndDate": "2026-10-12T22:00:00Z"
     },
     {
@@ -16,9 +16,9 @@
       "creator": "IV Studio",
       "url": "https://gamefound.com/projects/iv-studio/tend-expansions",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11718/343ee917-ecf4-4e7f-b4cc-869430f2c244.png",
-      "fundsGathered": 888051.19,
+      "fundsGathered": 889965.3,
       "currency": "USD",
-      "backerCount": 4781,
+      "backerCount": 4797,
       "campaignEndDate": "2026-10-07T22:00:00Z"
     },
     {
@@ -26,9 +26,9 @@
       "creator": "Redzen Games",
       "url": "https://gamefound.com/projects/redzen/gang-wars",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/9938/e8946268-0083-4c87-997f-67d0b8cbba8d.png",
-      "fundsGathered": 582826.63,
+      "fundsGathered": 583178.56,
       "currency": "EUR",
-      "backerCount": 2944,
+      "backerCount": 2946,
       "campaignEndDate": "2026-10-15T20:00:00Z"
     },
     {
@@ -36,20 +36,20 @@
       "creator": "Chaosium Inc.",
       "url": "https://gamefound.com/projects/chaosium/call-of-cthulhu-old-ones-origins",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8534/836e992f-a1f0-4a32-9de6-4ad0c05f95dd.png",
-      "fundsGathered": 366788.81,
+      "fundsGathered": 371851.58,
       "currency": "USD",
-      "backerCount": 2132,
+      "backerCount": 2163,
       "campaignEndDate": "2026-10-15T14:00:00Z"
     },
     {
-      "name": "Realm Brew: Into The Depths [Production Run #2]",
-      "creator": "TheShopOfManyThings",
-      "url": "https://gamefound.com/projects/theshopofmanythings/realm-brew-into-the-depths-production-run-2",
-      "image": "https://imgcdn.gamefound.com/projectimage/projects/8294/1be28aab-cfc4-4597-aac3-a2bb18ac22d0.jpg",
-      "fundsGathered": 283306.6,
-      "currency": "USD",
-      "backerCount": 847,
-      "campaignEndDate": "2026-10-17T18:00:00Z"
+      "name": "Gothic - A Shadow's Quest",
+      "creator": "THQ Nordic",
+      "url": "https://gamefound.com/projects/thq-nordic/gothic---a-shadows-quest",
+      "image": "https://imgcdn.gamefound.com/projectimage/projects/5749/29057f19-b62e-402d-9c85-a5002b54ad77.png",
+      "fundsGathered": 303580.77,
+      "currency": "EUR",
+      "backerCount": 1295,
+      "campaignEndDate": "2026-10-23T13:00:00Z"
     }
   ]
 }
