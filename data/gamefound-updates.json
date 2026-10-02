@@ -1,5 +1,122 @@
 [
   {
+    "id": 44255,
+    "projectId": 11736,
+    "projectName": "Dino Battle",
+    "projectCreator": "rebellionunplugged",
+    "projectSlug": "dino-battle",
+    "title": "Campaign Update #7 | Play Dino Battle! at SPIEL",
+    "excerpt": "Heading to Essen for SPIEL? Come and play Dino Battle! before anyone else! We'll be bringing our prototype to the show, with demos running all weekend at the Rebellion Unplugged booth.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11736/4816b285-d277-45d2-908f-aa74a159c2c5.jpg",
+    "publishedAt": "2026-10-02T22:00:00Z",
+    "url": "https://gamefound.com/en/projects/rebellionunplugged/dino-battle/updates/7",
+    "sequenceNumber": 7
+  },
+  {
+    "id": 45317,
+    "projectId": 11645,
+    "projectName": "Grimdark Future: Jade Claw",
+    "projectCreator": "onepagerules",
+    "projectSlug": "grimdark-future-jade-claw",
+    "title": "Get More Broken Truth in Jade & Claw",
+    "excerpt": "Alien Hives and Eternal Dynasty aren’t the only ones struggling for supremacy in the Sirius Sector. The fight between the Robot Legions and Saurian Starhost spills over into Jade & Claw!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/296a5d57-a40e-4215-8f19-a63c894b1684.png",
+    "publishedAt": "2026-10-02T21:42:43.657Z",
+    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/9",
+    "sequenceNumber": 9
+  },
+  {
+    "id": 45309,
+    "projectId": 8524,
+    "projectName": "Nemesis Legacy",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "nemesis-legacy",
+    "title": "Pre-campaign #7: MORE LANGUAGES, TWO-WAVE SHIPPING & A HUGE DAY 1 CONTENT REVEAL!",
+    "excerpt": "Czech version joins Nemesis: Legacy! More languages are coming for Retaliation, and we reveal two-wave shipping details. Plus: Zenith of Ruin, Crew Logs, Big Boxes, PVC cards, and much more for the DAY 1 lineup!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/52b247f4-f596-4538-8ada-705f67c683af.png",
+    "publishedAt": "2026-10-02T19:39:11.377Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/7",
+    "sequenceNumber": 7
+  },
+  {
+    "id": 45211,
+    "projectId": 9793,
+    "projectName": "Exceed: Skytear",
+    "projectCreator": "skytear",
+    "projectSlug": "exceed-skytear",
+    "title": "Designer's Notes #3: Discover the 16 Fighters of Olan Taa (1 of 2)",
+    "excerpt": "Discover the abilities, attacks, and fighting styles of the 8 fighters from Kaeno and Grialth, two of the four realms in the world of Olan Taa.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9793/fcceb503-4b2f-4e52-8f2f-e9e831b2da75.png",
+    "publishedAt": "2026-10-02T17:10:14.893Z",
+    "url": "https://gamefound.com/en/projects/skytear/exceed-skytear/updates/5",
+    "sequenceNumber": 5
+  },
+  {
+    "id": 45305,
+    "projectId": 8534,
+    "projectName": "Call of Cthulhu: Old Ones Origins",
+    "projectCreator": "chaosium",
+    "projectSlug": "call-of-cthulhu-old-ones-origins",
+    "title": "Yithian Archives: Record #13. Why We Changed the Name of Shub-Niggurath",
+    "excerpt": "In this update, we’re explaining the reasons behind the change from Shub-Niggurath to Shub-Gorath.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/85db9e5c-e655-434d-aad3-a31cbf6f4ef7.png",
+    "publishedAt": "2026-10-02T17:03:28.977Z",
+    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/13",
+    "sequenceNumber": 13
+  },
+  {
+    "id": 45263,
+    "projectId": 8203,
+    "projectName": "Dead Men Tales",
+    "projectCreator": "asmodee",
+    "projectSlug": "dead-men-tales",
+    "title": "A Production Update of Shipwreck Bay",
+    "excerpt": "Shipwreck Bay white samples, vacuum tray layout, and revised Grom Bottle Dice Samples!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8203/38618c3f-80f7-457b-844e-2f6b0af6fd51.png",
+    "publishedAt": "2026-10-02T15:06:55.097Z",
+    "url": "https://gamefound.com/en/projects/asmodee/dead-men-tales/updates/118",
+    "sequenceNumber": 118
+  },
+  {
+    "id": 44759,
+    "projectId": 11313,
+    "projectName": "Miskatonic Expeditions",
+    "projectCreator": "papertigers",
+    "projectSlug": "miskatonic-expeditions",
+    "title": "An Initial Glimpse at the Design of Miskatonic Expeditions",
+    "excerpt": "Inspirations and Core Game Design Principles",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/6de05831-c785-402b-972d-36263225415d.png",
+    "publishedAt": "2026-10-02T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/7",
+    "sequenceNumber": 7
+  },
+  {
+    "id": 45286,
+    "projectId": 8492,
+    "projectName": "Heroes of Might and Magic III: Factory, Bulwark & Forge Expansions",
+    "projectCreator": "archon-studio",
+    "projectSlug": "heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
+    "title": "Heroic Feedback",
+    "excerpt": "One of the props is changing thanks to your suggestions!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8492/2c51dc8a-4ed3-4ec9-9da7-8219e7e8524f.png",
+    "publishedAt": "2026-10-02T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions/updates/12",
+    "sequenceNumber": 12
+  },
+  {
+    "id": 45172,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "The horrors are deep and unknown",
+    "excerpt": "These Investigators will take on any challenge",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/d6ed598b-7085-485c-8688-e92ef6a7c965.png",
+    "publishedAt": "2026-10-02T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/9",
+    "sequenceNumber": 9
+  },
+  {
     "id": 45273,
     "projectId": 5586,
     "projectName": "Terrorscape 2",
@@ -24,32 +141,6 @@
     "publishedAt": "2026-10-01T15:15:21.413Z",
     "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/6",
     "sequenceNumber": 6
-  },
-  {
-    "id": 44981,
-    "projectId": 11313,
-    "projectName": "Miskatonic Expeditions",
-    "projectCreator": "papertigers",
-    "projectSlug": "miskatonic-expeditions",
-    "title": "A Closer Look at the Physical Version",
-    "excerpt": "Now that the Miskatonic Expeditions campaign is live, we can tell you more\nabout the physical version of the game.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/3635d98a-6116-4f6d-8d67-8f06398d4873.png",
-    "publishedAt": "2026-10-01T15:00:00Z",
-    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/6",
-    "sequenceNumber": 6
-  },
-  {
-    "id": 45229,
-    "projectId": 8534,
-    "projectName": "Call of Cthulhu: Old Ones Origins",
-    "projectCreator": "chaosium",
-    "projectSlug": "call-of-cthulhu-old-ones-origins",
-    "title": "Yithian Archives Record #11. New Expansion: Nyarlathotep faction!",
-    "excerpt": "A fifth faction enters the conflict! Meet Nyarlathotep, discover the Dweller in the Darkness expansion, and take a closer look at everything this mysterious new power brings to Old Ones Origins!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/ba71e45a-a46c-4908-8dc6-43e5295e7eeb.png",
-    "publishedAt": "2026-10-01T14:04:27.13Z",
-    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/11",
-    "sequenceNumber": 11
   },
   {
     "id": 44787,
@@ -89,45 +180,6 @@
     "publishedAt": "2026-09-30T18:03:02.997Z",
     "url": "https://gamefound.com/en/projects/hodarispiele/hell-legends/updates/34",
     "sequenceNumber": 34
-  },
-  {
-    "id": 45140,
-    "projectId": 8492,
-    "projectName": "Heroes of Might and Magic III: Factory, Bulwark & Forge Expansions",
-    "projectCreator": "archon-studio",
-    "projectSlug": "heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
-    "title": "What's Next?",
-    "excerpt": "Come and have a look at what else we have planned for this campaign!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8492/583cf4f6-e2b7-405e-81e9-16a4838aabc5.png",
-    "publishedAt": "2026-09-30T14:00:00Z",
-    "url": "https://gamefound.com/en/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions/updates/11",
-    "sequenceNumber": 11
-  },
-  {
-    "id": 45025,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "All the small things: Cosmic Horror Expansion",
-    "excerpt": "How much content can you fit into one box?!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/95a2fa7c-4610-4129-a44f-965db7722903.png",
-    "publishedAt": "2026-09-30T14:00:00Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/8",
-    "sequenceNumber": 8
-  },
-  {
-    "id": 45128,
-    "projectId": 9793,
-    "projectName": "Exceed: Skytear",
-    "projectCreator": "skytear",
-    "projectSlug": "exceed-skytear",
-    "title": "Designer's Notes #2: The Realms of Olan Taa",
-    "excerpt": "A brief overview of the world where the 16 fighters come from. Starting next update, we'll present each character with their unique set of cards... stay tuned!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9793/d5d2572d-4a79-4340-9ce7-4cd0f0368a53.png",
-    "publishedAt": "2026-09-30T13:41:41.23Z",
-    "url": "https://gamefound.com/en/projects/skytear/exceed-skytear/updates/4",
-    "sequenceNumber": 4
   },
   {
     "id": 45143,
@@ -180,19 +232,6 @@
     "publishedAt": "2026-09-30T08:31:16.22Z",
     "url": "https://gamefound.com/en/projects/dragori-games/ronins-revenge/updates/16",
     "sequenceNumber": 16
-  },
-  {
-    "id": 44258,
-    "projectId": 11736,
-    "projectName": "Dino Battle",
-    "projectCreator": "rebellionunplugged",
-    "projectSlug": "dino-battle",
-    "title": "Campaign Update #6 | Meet the Dinosaurs: Part 2",
-    "excerpt": "Three more dinosaurs are ready to join the battle. This time we're looking at one of the fastest dinosaurs on the board, a dinosaur that takes to the skies, and the biggest dinosaur we've made so far.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11736/88a06ae4-1563-452c-a846-316d11417bb0.jpg",
-    "publishedAt": "2026-09-29T15:45:00Z",
-    "url": "https://gamefound.com/en/projects/rebellionunplugged/dino-battle/updates/6",
-    "sequenceNumber": 6
   },
   {
     "id": 45062,
@@ -299,19 +338,6 @@
     "sequenceNumber": 25
   },
   {
-    "id": 44936,
-    "projectId": 8524,
-    "projectName": "Nemesis Legacy",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "nemesis-legacy",
-    "title": "Pre-campaign #6: NEW VIDEOS / FREE GIFT FOR NEMESIS BACKERS / ITALIAN CONFIRMED!",
-    "excerpt": "New Nemesis: Legacy videos are here, including an epic trailer! Plus, returning Nemesis backers can claim a free SAM Robot Pack, and we’re happy to confirm that Nemesis: Legacy is coming in Italian!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/2280ad77-184a-4687-a603-18b55b5bc1ec.png",
-    "publishedAt": "2026-09-25T18:46:45.61Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/6",
-    "sequenceNumber": 6
-  },
-  {
     "id": 44927,
     "projectId": 3848,
     "projectName": "Grimcoven",
@@ -403,19 +429,6 @@
     "sequenceNumber": 2
   },
   {
-    "id": 44751,
-    "projectId": 11645,
-    "projectName": "Grimdark Future: Jade Claw",
-    "projectCreator": "onepagerules",
-    "projectSlug": "grimdark-future-jade-claw",
-    "title": "Physical Models & Accessories F.A.Q.",
-    "excerpt": "Hi! This is Paul from One Page Rules, answering some frequent questions about Jade & Claw, Broken Truth, and our plans for our physical range.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/7480d6d0-22a7-466c-9dee-dd6264944463.png",
-    "publishedAt": "2026-09-22T19:43:46.837Z",
-    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/8",
-    "sequenceNumber": 8
-  },
-  {
     "id": 44448,
     "projectId": 5354,
     "projectName": "Labyrinth",
@@ -427,19 +440,6 @@
     "publishedAt": "2026-09-22T16:48:31.067Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/labyrinth/updates/26",
     "sequenceNumber": 26
-  },
-  {
-    "id": 44565,
-    "projectId": 8203,
-    "projectName": "Dead Men Tales",
-    "projectCreator": "asmodee",
-    "projectSlug": "dead-men-tales",
-    "title": "FINAL REMINDER TO COMPLETE YOUR PLEDGES!",
-    "excerpt": "This is the final reminder to complete your pledges, and a quick look at the final sculpt of Davy Jones.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8203/64da5994-e956-479f-8c90-418bba307468.png",
-    "publishedAt": "2026-09-19T01:44:25.873Z",
-    "url": "https://gamefound.com/en/projects/asmodee/dead-men-tales/updates/117",
-    "sequenceNumber": 117
   },
   {
     "id": 44433,
