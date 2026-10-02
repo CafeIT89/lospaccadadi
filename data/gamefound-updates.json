@@ -1,5 +1,18 @@
 [
   {
+    "id": 45273,
+    "projectId": 5586,
+    "projectName": "Terrorscape 2",
+    "projectCreator": "ice-makes",
+    "projectSlug": "terrorscape-2",
+    "title": "[IMPORTANT] Terrorscape 2 Address Lock Deadline - October 16, 2026",
+    "excerpt": "Final call to update your shipping address for Season 2 before October 16, 2026.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5586/7cf2fa54-6d2d-417d-a489-07b98564299d.jpg",
+    "publishedAt": "2026-10-02T11:03:55.837Z",
+    "url": "https://gamefound.com/en/projects/ice-makes/terrorscape-2/updates/60",
+    "sequenceNumber": 60
+  },
+  {
     "id": 45223,
     "projectId": 11765,
     "projectName": "Dungeon of Tanares",
@@ -466,19 +479,6 @@
     "publishedAt": "2026-09-17T16:33:53.347Z",
     "url": "https://gamefound.com/en/projects/level-99-games/dbd/updates/18",
     "sequenceNumber": 18
-  },
-  {
-    "id": 44198,
-    "projectId": 5586,
-    "projectName": "Terrorscape 2",
-    "projectCreator": "ice-makes",
-    "projectSlug": "terrorscape-2",
-    "title": "Terrorscape 2 Expansions Digital Samples | Season 1 Fulfillment Update",
-    "excerpt": "This update brings a sneak peek at the digital samples for all 3 expansions! Also, we have some reminders for Season 1 fulfillment.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5586/b995670a-88ec-455a-8bac-628c830fbe9e.jpg",
-    "publishedAt": "2026-09-11T11:58:18.52Z",
-    "url": "https://gamefound.com/en/projects/ice-makes/terrorscape-2/updates/59",
-    "sequenceNumber": 59
   },
   {
     "id": 44245,
