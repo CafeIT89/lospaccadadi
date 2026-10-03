@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-02T22:10:43.812Z",
+  "updatedAt": "2026-10-03T05:13:48.489Z",
   "projects": [
     {
       "name": "Heroes of Might and Magic III: The Board Game - Factory, Bulwark & Forge Expansions",
       "creator": "Archon Studio",
       "url": "https://gamefound.com/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8492/beb8f6e4-2e7e-4247-bc9c-68a39cd8e26c.png",
-      "fundsGathered": 1292860.86,
+      "fundsGathered": 1300331.55,
       "currency": "EUR",
-      "backerCount": 6629,
+      "backerCount": 6668,
       "campaignEndDate": "2026-10-12T22:00:00Z"
     },
     {
@@ -16,9 +16,9 @@
       "creator": "IV Studio",
       "url": "https://gamefound.com/projects/iv-studio/tend-expansions",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11718/343ee917-ecf4-4e7f-b4cc-869430f2c244.png",
-      "fundsGathered": 907196.06,
+      "fundsGathered": 916530.01,
       "currency": "USD",
-      "backerCount": 4892,
+      "backerCount": 4941,
       "campaignEndDate": "2026-10-07T22:00:00Z"
     },
     {
@@ -26,9 +26,9 @@
       "creator": "Redzen Games",
       "url": "https://gamefound.com/projects/redzen/gang-wars",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/9938/e8946268-0083-4c87-997f-67d0b8cbba8d.png",
-      "fundsGathered": 593607.59,
+      "fundsGathered": 594885.99,
       "currency": "EUR",
-      "backerCount": 2990,
+      "backerCount": 2995,
       "campaignEndDate": "2026-10-15T20:00:00Z"
     },
     {
@@ -36,9 +36,9 @@
       "creator": "Chaosium Inc.",
       "url": "https://gamefound.com/projects/chaosium/call-of-cthulhu-old-ones-origins",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8534/836e992f-a1f0-4a32-9de6-4ad0c05f95dd.png",
-      "fundsGathered": 413838.88,
+      "fundsGathered": 418288.89,
       "currency": "USD",
-      "backerCount": 2215,
+      "backerCount": 2231,
       "campaignEndDate": "2026-10-15T14:00:00Z"
     },
     {
@@ -46,9 +46,9 @@
       "creator": "THQ Nordic",
       "url": "https://gamefound.com/projects/thq-nordic/gothic---a-shadows-quest",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/5749/29057f19-b62e-402d-9c85-a5002b54ad77.png",
-      "fundsGathered": 372174.93,
+      "fundsGathered": 375615.98,
       "currency": "EUR",
-      "backerCount": 1580,
+      "backerCount": 1595,
       "campaignEndDate": "2026-10-23T13:00:00Z"
     }
   ]
