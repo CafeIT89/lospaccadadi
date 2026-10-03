@@ -1,5 +1,18 @@
 [
   {
+    "id": 45324,
+    "projectId": 8534,
+    "projectName": "Call of Cthulhu: Old Ones Origins",
+    "projectCreator": "chaosium",
+    "projectSlug": "call-of-cthulhu-old-ones-origins",
+    "title": "Yithian Archives Record #14. Poll: Gamefound Exclusive Set of Dice!",
+    "excerpt": "A new Gamefound Exclusive is joining Old Ones Origins for free: an additional set of dice! You get to choose the color! Cast your vote and help us decide which one makes it into the game.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/bf4ec4e2-35ac-49c1-94ce-6f0b2710d4d7.png",
+    "publishedAt": "2026-10-03T13:58:59.25Z",
+    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/14",
+    "sequenceNumber": 14
+  },
+  {
     "id": 44255,
     "projectId": 11736,
     "projectName": "Dino Battle",
@@ -50,19 +63,6 @@
     "publishedAt": "2026-10-02T17:10:14.893Z",
     "url": "https://gamefound.com/en/projects/skytear/exceed-skytear/updates/5",
     "sequenceNumber": 5
-  },
-  {
-    "id": 45305,
-    "projectId": 8534,
-    "projectName": "Call of Cthulhu: Old Ones Origins",
-    "projectCreator": "chaosium",
-    "projectSlug": "call-of-cthulhu-old-ones-origins",
-    "title": "Yithian Archives: Record #13. Why We Changed the Name of Shub-Niggurath",
-    "excerpt": "In this update, we’re explaining the reasons behind the change from Shub-Niggurath to Shub-Gorath.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/85db9e5c-e655-434d-aad3-a31cbf6f4ef7.png",
-    "publishedAt": "2026-10-02T17:03:28.977Z",
-    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/13",
-    "sequenceNumber": 13
   },
   {
     "id": 45263,
