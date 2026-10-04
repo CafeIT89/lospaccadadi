@@ -1,5 +1,18 @@
 [
   {
+    "id": 46352,
+    "projectId": 8534,
+    "projectName": "Call of Cthulhu: Old Ones Origins",
+    "projectCreator": "chaosium",
+    "projectSlug": "call-of-cthulhu-old-ones-origins",
+    "title": "Yithian Archives Record #15. Daily Reveal: Gamefound Exclusive Set of Dice! Your choice!",
+    "excerpt": "The poll is closed, and the community has chosen! In this update, we reveal which dice design will become the Gamefound Exclusive set for Old Ones Origins.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/a660c79c-91e9-4411-81ba-ea8aef34dbc5.png",
+    "publishedAt": "2026-10-04T13:59:53.383Z",
+    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/15",
+    "sequenceNumber": 15
+  },
+  {
     "id": 45209,
     "projectId": 9793,
     "projectName": "Exceed: Skytear",
@@ -24,19 +37,6 @@
     "publishedAt": "2026-10-04T08:00:00Z",
     "url": "https://gamefound.com/en/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions/updates/13",
     "sequenceNumber": 13
-  },
-  {
-    "id": 45324,
-    "projectId": 8534,
-    "projectName": "Call of Cthulhu: Old Ones Origins",
-    "projectCreator": "chaosium",
-    "projectSlug": "call-of-cthulhu-old-ones-origins",
-    "title": "Yithian Archives Record #14. Poll: Gamefound Exclusive Set of Dice!",
-    "excerpt": "A new Gamefound Exclusive is joining Old Ones Origins for free: an additional set of dice! You get to choose the color! Cast your vote and help us decide which one makes it into the game.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/bf4ec4e2-35ac-49c1-94ce-6f0b2710d4d7.png",
-    "publishedAt": "2026-10-03T13:58:59.25Z",
-    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/14",
-    "sequenceNumber": 14
   },
   {
     "id": 44255,
