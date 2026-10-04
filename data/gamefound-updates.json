@@ -1,5 +1,31 @@
 [
   {
+    "id": 45209,
+    "projectId": 9793,
+    "projectName": "Exceed: Skytear",
+    "projectCreator": "skytear",
+    "projectSlug": "exceed-skytear",
+    "title": "Designer's Notes #4: Characters of Olan Taa (2 of 2)",
+    "excerpt": "In this second part, discover the abilities, attacks, and fighting styles of the 8 fighters from Xotlan and Utsesh, the two other realms in the world of Olan Taa.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9793/1abc6107-9be8-4070-ae69-1b54658bbaf1.png",
+    "publishedAt": "2026-10-04T10:47:09.54Z",
+    "url": "https://gamefound.com/en/projects/skytear/exceed-skytear/updates/6",
+    "sequenceNumber": 6
+  },
+  {
+    "id": 45293,
+    "projectId": 8492,
+    "projectName": "Heroes of Might and Magic III: Factory, Bulwark & Forge Expansions",
+    "projectCreator": "archon-studio",
+    "projectSlug": "heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
+    "title": "Behind the Units: The Stories Behind the Concepts",
+    "excerpt": "First of all, thank you for all the support you’ve given us so far! We’re incredibly excited to see the response to the campaign and to share more of what we’ve been working on.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8492/f30c1c05-2116-4de2-8b8f-421f142e0064.png",
+    "publishedAt": "2026-10-04T08:00:00Z",
+    "url": "https://gamefound.com/en/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions/updates/13",
+    "sequenceNumber": 13
+  },
+  {
     "id": 45324,
     "projectId": 8534,
     "projectName": "Call of Cthulhu: Old Ones Origins",
@@ -52,19 +78,6 @@
     "sequenceNumber": 7
   },
   {
-    "id": 45211,
-    "projectId": 9793,
-    "projectName": "Exceed: Skytear",
-    "projectCreator": "skytear",
-    "projectSlug": "exceed-skytear",
-    "title": "Designer's Notes #3: Discover the 16 Fighters of Olan Taa (1 of 2)",
-    "excerpt": "Discover the abilities, attacks, and fighting styles of the 8 fighters from Kaeno and Grialth, two of the four realms in the world of Olan Taa.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9793/fcceb503-4b2f-4e52-8f2f-e9e831b2da75.png",
-    "publishedAt": "2026-10-02T17:10:14.893Z",
-    "url": "https://gamefound.com/en/projects/skytear/exceed-skytear/updates/5",
-    "sequenceNumber": 5
-  },
-  {
     "id": 45263,
     "projectId": 8203,
     "projectName": "Dead Men Tales",
@@ -89,19 +102,6 @@
     "publishedAt": "2026-10-02T14:00:00Z",
     "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/7",
     "sequenceNumber": 7
-  },
-  {
-    "id": 45286,
-    "projectId": 8492,
-    "projectName": "Heroes of Might and Magic III: Factory, Bulwark & Forge Expansions",
-    "projectCreator": "archon-studio",
-    "projectSlug": "heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
-    "title": "Heroic Feedback",
-    "excerpt": "One of the props is changing thanks to your suggestions!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8492/2c51dc8a-4ed3-4ec9-9da7-8219e7e8524f.png",
-    "publishedAt": "2026-10-02T14:00:00Z",
-    "url": "https://gamefound.com/en/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions/updates/12",
-    "sequenceNumber": 12
   },
   {
     "id": 45172,
