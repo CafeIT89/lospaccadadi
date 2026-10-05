@@ -1,5 +1,18 @@
 [
   {
+    "id": 46366,
+    "projectId": 11418,
+    "projectName": "Aberration: Oblivion's Embrace",
+    "projectCreator": "ghostfire-gaming",
+    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
+    "title": "Shipping Cost Update",
+    "excerpt": "What's going on with shipping?",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/eeb2444c-90bb-41c2-90d5-97e43cbb539a.png",
+    "publishedAt": "2026-10-05T01:29:15.697Z",
+    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/23",
+    "sequenceNumber": 23
+  },
+  {
     "id": 46352,
     "projectId": 8534,
     "projectName": "Call of Cthulhu: Old Ones Origins",
@@ -375,19 +388,6 @@
     "publishedAt": "2026-09-25T10:00:00Z",
     "url": "https://gamefound.com/en/projects/ramezware/boardquest-blight-of-the-undead/updates/12",
     "sequenceNumber": 12
-  },
-  {
-    "id": 44821,
-    "projectId": 11418,
-    "projectName": "Aberration: Oblivion's Embrace",
-    "projectCreator": "ghostfire-gaming",
-    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
-    "title": "Pledge Manager, Late Pledges and...... The Templar!?",
-    "excerpt": "Information on the pledge manager, late pledges and a special thank you",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/d2bd1b41-13b9-4c57-8c5a-91df86b511b5.png",
-    "publishedAt": "2026-09-24T21:00:00Z",
-    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/22",
-    "sequenceNumber": 22
   },
   {
     "id": 44792,
