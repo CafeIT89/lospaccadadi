@@ -1,5 +1,70 @@
 [
   {
+    "id": 46395,
+    "projectId": 5522,
+    "projectName": "Boktor",
+    "projectCreator": "fox-troll-games",
+    "projectSlug": "boktor-a-cooperative-dungeon-quest",
+    "title": "Gamefound Awards, Shipping & Discord",
+    "excerpt": "Vote for Boktor in the Gamefound Awards for Debut of the Year! Plus, some great news about fulfilment and a brand-new Discord server!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5522/44eacc46-11b0-4075-af6b-6ef92644cfdf.jpeg",
+    "publishedAt": "2026-10-05T14:28:48.117Z",
+    "url": "https://gamefound.com/en/projects/fox-troll-games/boktor-a-cooperative-dungeon-quest/updates/42",
+    "sequenceNumber": 42
+  },
+  {
+    "id": 46393,
+    "projectId": 2750,
+    "projectName": "Nemesis: Retaliation",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "nemesis-retaliation",
+    "title": "NEMESIS: RETALIATION IS NOW ON BOARD GAME ARENA & LEGACY LAUNCHES TOMORROW!",
+    "excerpt": "Nemesis: Retaliation is now officially playable on Board Game Arena! See how the adaptation came together, then get ready: Nemesis: Legacy launches tomorrow, with a free SAM Robot Pack for returning Nemesis backers.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/2750/3eef9356-1f1b-44dd-81e5-a82e0211b571.jpg",
+    "publishedAt": "2026-10-05T14:20:54.017Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-retaliation/updates/73",
+    "sequenceNumber": 73
+  },
+  {
+    "id": 46392,
+    "projectId": 8534,
+    "projectName": "Call of Cthulhu: Old Ones Origins",
+    "projectCreator": "chaosium",
+    "projectSlug": "call-of-cthulhu-old-ones-origins",
+    "title": "Yithian Archives Record #16. Daily Reveal: New Units for Each Faction!",
+    "excerpt": "In this update, we’re taking a closer look at the new units joining the forces of the Old Ones, with insights from the designer and our development team on what makes each of them unique.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/0b102938-ad2e-43b3-a444-b1cb1e036dc9.png",
+    "publishedAt": "2026-10-05T14:00:45.653Z",
+    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/16",
+    "sequenceNumber": 16
+  },
+  {
+    "id": 46371,
+    "projectId": 9793,
+    "projectName": "Exceed: Skytear",
+    "projectCreator": "skytear",
+    "projectSlug": "exceed-skytear",
+    "title": "Designer's Notes #5: The History of Exceed Solo Mode (1 of 2)",
+    "excerpt": "Mike Kelly tells the story of Exceed's Solo Mode: a design journey that began years ago with BattleCON, continued with the Unofficial Exceed Solo Mod, and has now reached its final form in Exceed Season 8: Skytear.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9793/48b5d2c8-742d-49dd-9a82-34add74a356b.png",
+    "publishedAt": "2026-10-05T13:31:43.7Z",
+    "url": "https://gamefound.com/en/projects/skytear/exceed-skytear/updates/7",
+    "sequenceNumber": 7
+  },
+  {
+    "id": 46373,
+    "projectId": 4392,
+    "projectName": "Blasphemous: The Board Game",
+    "projectCreator": "lms",
+    "projectSlug": "blasphemous-the-boardgame",
+    "title": "PAGES FROM CVSTODIA",
+    "excerpt": "A glimpse inside our narrative Tomes... and a new Giveaway!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4392/591ad313-643e-4bd4-b0a6-93ab4edd5f56.jpg",
+    "publishedAt": "2026-10-05T10:16:49.897Z",
+    "url": "https://gamefound.com/en/projects/lms/blasphemous-the-boardgame/updates/53",
+    "sequenceNumber": 53
+  },
+  {
     "id": 46366,
     "projectId": 11418,
     "projectName": "Aberration: Oblivion's Embrace",
@@ -11,32 +76,6 @@
     "publishedAt": "2026-10-05T01:29:15.697Z",
     "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/23",
     "sequenceNumber": 23
-  },
-  {
-    "id": 46352,
-    "projectId": 8534,
-    "projectName": "Call of Cthulhu: Old Ones Origins",
-    "projectCreator": "chaosium",
-    "projectSlug": "call-of-cthulhu-old-ones-origins",
-    "title": "Yithian Archives Record #15. Daily Reveal: Gamefound Exclusive Set of Dice! Your choice!",
-    "excerpt": "The poll is closed, and the community has chosen! In this update, we reveal which dice design will become the Gamefound Exclusive set for Old Ones Origins.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/a660c79c-91e9-4411-81ba-ea8aef34dbc5.png",
-    "publishedAt": "2026-10-04T13:59:53.383Z",
-    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/15",
-    "sequenceNumber": 15
-  },
-  {
-    "id": 45209,
-    "projectId": 9793,
-    "projectName": "Exceed: Skytear",
-    "projectCreator": "skytear",
-    "projectSlug": "exceed-skytear",
-    "title": "Designer's Notes #4: Characters of Olan Taa (2 of 2)",
-    "excerpt": "In this second part, discover the abilities, attacks, and fighting styles of the 8 fighters from Xotlan and Utsesh, the two other realms in the world of Olan Taa.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9793/1abc6107-9be8-4070-ae69-1b54658bbaf1.png",
-    "publishedAt": "2026-10-04T10:47:09.54Z",
-    "url": "https://gamefound.com/en/projects/skytear/exceed-skytear/updates/6",
-    "sequenceNumber": 6
   },
   {
     "id": 45293,
@@ -455,19 +494,6 @@
     "sequenceNumber": 10
   },
   {
-    "id": 44582,
-    "projectId": 5522,
-    "projectName": "Boktor",
-    "projectCreator": "fox-troll-games",
-    "projectSlug": "boktor-a-cooperative-dungeon-quest",
-    "title": "Don’t ignore this email! 48 Hours Left!",
-    "excerpt": "The Pledge Manager is closing in 48h, and 5% of backers still have an incomplete pledge. Add your shipping information and pay shipping now, or you’ll lose your pledge. Plus, some good and bad news about freight.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5522/1b5ef74f-1aad-44f7-9216-730e841290f6.png",
-    "publishedAt": "2026-09-18T13:27:35.2Z",
-    "url": "https://gamefound.com/en/projects/fox-troll-games/boktor-a-cooperative-dungeon-quest/updates/41",
-    "sequenceNumber": 41
-  },
-  {
     "id": 44539,
     "projectId": 5297,
     "projectName": "Dead by Daylight: The Board Game",
@@ -518,19 +544,6 @@
     "publishedAt": "2026-09-07T15:02:07.62Z",
     "url": "https://gamefound.com/en/projects/studio-agate/nemesis-ttrpg/updates/7",
     "sequenceNumber": 7
-  },
-  {
-    "id": 42927,
-    "projectId": 4392,
-    "projectName": "Blasphemous: The Board Game",
-    "projectCreator": "lms",
-    "projectSlug": "blasphemous-the-boardgame",
-    "title": "His Judgment Is Coming",
-    "excerpt": "His Holiness Expansion Spotlight!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4392/3e0e460f-b551-4c79-91bb-42ee15dfac50.jpg",
-    "publishedAt": "2026-09-07T12:35:35.687Z",
-    "url": "https://gamefound.com/en/projects/lms/blasphemous-the-boardgame/updates/52",
-    "sequenceNumber": 52
   },
   {
     "id": 42866,
@@ -635,18 +648,5 @@
     "publishedAt": "2026-07-20T08:56:52.513Z",
     "url": "https://gamefound.com/en/projects/smart-flamingo/primal-hex/updates/24",
     "sequenceNumber": 24
-  },
-  {
-    "id": 39719,
-    "projectId": 2750,
-    "projectName": "Nemesis: Retaliation",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "nemesis-retaliation",
-    "title": "The Journey comes to an End",
-    "excerpt": "Check out the project's final update!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/2750/7d3503cb-3df0-41da-bcac-90538e127a77.png",
-    "publishedAt": "2026-07-02T13:36:04.127Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-retaliation/updates/72",
-    "sequenceNumber": 72
   }
 ]
