@@ -1,5 +1,70 @@
 [
   {
+    "id": 46464,
+    "projectId": 8524,
+    "projectName": "Nemesis Legacy",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "nemesis-legacy",
+    "title": "Day 1: We are funded! Welcome to Nemesis: Legacy! | NEW Evolved Intruders Race!",
+    "excerpt": "Nemesis: Legacy is officially underway! Thank you for an incredible opening! Today we're talking more about the campaign, our first SG reveals, gameplay, community feedback, and much more!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/b2c9af74-0252-4dc1-b020-2aff44919257.jpg",
+    "publishedAt": "2026-10-06T18:07:56.603Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/8",
+    "sequenceNumber": 8
+  },
+  {
+    "id": 45016,
+    "projectId": 11313,
+    "projectName": "Miskatonic Expeditions",
+    "projectCreator": "papertigers",
+    "projectSlug": "miskatonic-expeditions",
+    "title": "Tile Placement and Map Building",
+    "excerpt": "Explore an Ever-Shifting Haunted University",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/87cb36a8-b16d-4022-aff1-2a1e04d81091.jpg",
+    "publishedAt": "2026-10-06T16:25:57.163Z",
+    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/9",
+    "sequenceNumber": 9
+  },
+  {
+    "id": 46453,
+    "projectId": 8534,
+    "projectName": "Call of Cthulhu: Old Ones Origins",
+    "projectCreator": "chaosium",
+    "projectSlug": "call-of-cthulhu-old-ones-origins",
+    "title": "Yithian Archives Record #17. Daily Reveal: New Avatar cards! 5-Player Games!",
+    "excerpt": "More Avatars are joining the fight, and five factions can now take the battlefield at once! In this update, we’re revealing the new Avatar cards and officially introducing the five-player mode for Old Ones Origins.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/e2b7913e-88cd-42a9-b443-118a41da91a1.png",
+    "publishedAt": "2026-10-06T14:00:58.023Z",
+    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/17",
+    "sequenceNumber": 17
+  },
+  {
+    "id": 46446,
+    "projectId": 8492,
+    "projectName": "Heroes of Might and Magic III: Factory, Bulwark & Forge Expansions",
+    "projectCreator": "archon-studio",
+    "projectSlug": "heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
+    "title": "Event Cards Are Coming!",
+    "excerpt": "A new type of cards have arrived!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8492/f55310ab-9caf-435c-b6e1-f13012d042bb.png",
+    "publishedAt": "2026-10-06T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions/updates/14",
+    "sequenceNumber": 14
+  },
+  {
+    "id": 46439,
+    "projectId": 9793,
+    "projectName": "Exceed: Skytear",
+    "projectCreator": "skytear",
+    "projectSlug": "exceed-skytear",
+    "title": "Designer's Notes #5: Discover Exceed Solo Mode (2 of 2)",
+    "excerpt": "Mike Kelly walks us through the design process and goals behind the new Exceed Skytear Solo Mode.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9793/db9fa4d9-b598-4ccb-a9f2-3b573e9a0bb5.png",
+    "publishedAt": "2026-10-06T13:34:39.47Z",
+    "url": "https://gamefound.com/en/projects/skytear/exceed-skytear/updates/8",
+    "sequenceNumber": 8
+  },
+  {
     "id": 46422,
     "projectId": 11418,
     "projectName": "Aberration: Oblivion's Embrace",
@@ -11,19 +76,6 @@
     "publishedAt": "2026-10-06T06:32:34.367Z",
     "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/24",
     "sequenceNumber": 24
-  },
-  {
-    "id": 45152,
-    "projectId": 11313,
-    "projectName": "Miskatonic Expeditions",
-    "projectCreator": "papertigers",
-    "projectSlug": "miskatonic-expeditions",
-    "title": "From First Sketches to Miskatonic University",
-    "excerpt": "Take a look at the evolution of some of the Researchers and Outsiders of Miskatonic Expeditions, from early sketches and concepts to their final designs, and discover the creative work behind the game's atmospheric visual style.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/5a8bb838-0831-42b8-97c3-8060ad3ea25f.png",
-    "publishedAt": "2026-10-05T19:00:00Z",
-    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/8",
-    "sequenceNumber": 8
   },
   {
     "id": 46412,
@@ -78,32 +130,6 @@
     "sequenceNumber": 73
   },
   {
-    "id": 46392,
-    "projectId": 8534,
-    "projectName": "Call of Cthulhu: Old Ones Origins",
-    "projectCreator": "chaosium",
-    "projectSlug": "call-of-cthulhu-old-ones-origins",
-    "title": "Yithian Archives Record #16. Daily Reveal: New Units for Each Faction!",
-    "excerpt": "In this update, we’re taking a closer look at the new units joining the forces of the Old Ones, with insights from the designer and our development team on what makes each of them unique.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/0b102938-ad2e-43b3-a444-b1cb1e036dc9.png",
-    "publishedAt": "2026-10-05T14:00:45.653Z",
-    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/16",
-    "sequenceNumber": 16
-  },
-  {
-    "id": 46371,
-    "projectId": 9793,
-    "projectName": "Exceed: Skytear",
-    "projectCreator": "skytear",
-    "projectSlug": "exceed-skytear",
-    "title": "Designer's Notes #5: The History of Exceed Solo Mode (1 of 2)",
-    "excerpt": "Mike Kelly tells the story of Exceed's Solo Mode: a design journey that began years ago with BattleCON, continued with the Unofficial Exceed Solo Mod, and has now reached its final form in Exceed Season 8: Skytear.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9793/48b5d2c8-742d-49dd-9a82-34add74a356b.png",
-    "publishedAt": "2026-10-05T13:31:43.7Z",
-    "url": "https://gamefound.com/en/projects/skytear/exceed-skytear/updates/7",
-    "sequenceNumber": 7
-  },
-  {
     "id": 46373,
     "projectId": 4392,
     "projectName": "Blasphemous: The Board Game",
@@ -115,19 +141,6 @@
     "publishedAt": "2026-10-05T10:16:49.897Z",
     "url": "https://gamefound.com/en/projects/lms/blasphemous-the-boardgame/updates/53",
     "sequenceNumber": 53
-  },
-  {
-    "id": 45293,
-    "projectId": 8492,
-    "projectName": "Heroes of Might and Magic III: Factory, Bulwark & Forge Expansions",
-    "projectCreator": "archon-studio",
-    "projectSlug": "heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
-    "title": "Behind the Units: The Stories Behind the Concepts",
-    "excerpt": "First of all, thank you for all the support you’ve given us so far! We’re incredibly excited to see the response to the campaign and to share more of what we’ve been working on.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8492/f30c1c05-2116-4de2-8b8f-421f142e0064.png",
-    "publishedAt": "2026-10-04T08:00:00Z",
-    "url": "https://gamefound.com/en/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions/updates/13",
-    "sequenceNumber": 13
   },
   {
     "id": 44255,
@@ -154,19 +167,6 @@
     "publishedAt": "2026-10-02T21:42:43.657Z",
     "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/9",
     "sequenceNumber": 9
-  },
-  {
-    "id": 45309,
-    "projectId": 8524,
-    "projectName": "Nemesis Legacy",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "nemesis-legacy",
-    "title": "Pre-campaign #7: MORE LANGUAGES, TWO-WAVE SHIPPING & A HUGE DAY 1 CONTENT REVEAL!",
-    "excerpt": "Czech version joins Nemesis: Legacy! More languages are coming for Retaliation, and we reveal two-wave shipping details. Plus: Zenith of Ruin, Crew Logs, Big Boxes, PVC cards, and much more for the DAY 1 lineup!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/52b247f4-f596-4538-8ada-705f67c683af.png",
-    "publishedAt": "2026-10-02T19:39:11.377Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/7",
-    "sequenceNumber": 7
   },
   {
     "id": 45263,
