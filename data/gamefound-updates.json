@@ -1,5 +1,18 @@
 [
   {
+    "id": 46422,
+    "projectId": 11418,
+    "projectName": "Aberration: Oblivion's Embrace",
+    "projectCreator": "ghostfire-gaming",
+    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
+    "title": "Shipping Costs Adjusted",
+    "excerpt": "We've made some changes to our shipping calculations",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/d91e514c-9e0d-4b26-b56e-3b4ddb5920a8.png",
+    "publishedAt": "2026-10-06T06:32:34.367Z",
+    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/24",
+    "sequenceNumber": 24
+  },
+  {
     "id": 45152,
     "projectId": 11313,
     "projectName": "Miskatonic Expeditions",
@@ -102,19 +115,6 @@
     "publishedAt": "2026-10-05T10:16:49.897Z",
     "url": "https://gamefound.com/en/projects/lms/blasphemous-the-boardgame/updates/53",
     "sequenceNumber": 53
-  },
-  {
-    "id": 46366,
-    "projectId": 11418,
-    "projectName": "Aberration: Oblivion's Embrace",
-    "projectCreator": "ghostfire-gaming",
-    "projectSlug": "aberration-oblivions-embrace-expansion-and-reprint",
-    "title": "Shipping Cost Update",
-    "excerpt": "What's going on with shipping?",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11418/eeb2444c-90bb-41c2-90d5-97e43cbb539a.png",
-    "publishedAt": "2026-10-05T01:29:15.697Z",
-    "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/23",
-    "sequenceNumber": 23
   },
   {
     "id": 45293,
