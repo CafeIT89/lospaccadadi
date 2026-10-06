@@ -1,5 +1,44 @@
 [
   {
+    "id": 45152,
+    "projectId": 11313,
+    "projectName": "Miskatonic Expeditions",
+    "projectCreator": "papertigers",
+    "projectSlug": "miskatonic-expeditions",
+    "title": "From First Sketches to Miskatonic University",
+    "excerpt": "Take a look at the evolution of some of the Researchers and Outsiders of Miskatonic Expeditions, from early sketches and concepts to their final designs, and discover the creative work behind the game's atmospheric visual style.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/5a8bb838-0831-42b8-97c3-8060ad3ea25f.png",
+    "publishedAt": "2026-10-05T19:00:00Z",
+    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/8",
+    "sequenceNumber": 8
+  },
+  {
+    "id": 46412,
+    "projectId": 3848,
+    "projectName": "Grimcoven",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "grimcoven",
+    "title": "LANG (other than English) versions SHIPPING UPDATE #6",
+    "excerpt": "LANG editions' fulfillment is almost complete! Learn more about the current delivery status for remaining destinations in today's update.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3848/e86f2f99-89dc-4f89-a893-47bf3227427c.png",
+    "publishedAt": "2026-10-05T18:53:54.06Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/grimcoven/updates/52",
+    "sequenceNumber": 52
+  },
+  {
+    "id": 46410,
+    "projectId": 5354,
+    "projectName": "Labyrinth",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "labyrinth",
+    "title": "Wave 2 (ENG & LANG) SHIPPING update #11",
+    "excerpt": "We're almost at the finish line with Wave 2 fulfillment! Check out the latest news on the shipping progress for the last remaining destination - the UK.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5354/3da4f0fd-bc3c-4160-9264-2f1e2d71a435.png",
+    "publishedAt": "2026-10-05T18:17:09.777Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/labyrinth/updates/27",
+    "sequenceNumber": 27
+  },
+  {
     "id": 46395,
     "projectId": 5522,
     "projectName": "Boktor",
@@ -143,19 +182,6 @@
     "sequenceNumber": 118
   },
   {
-    "id": 44759,
-    "projectId": 11313,
-    "projectName": "Miskatonic Expeditions",
-    "projectCreator": "papertigers",
-    "projectSlug": "miskatonic-expeditions",
-    "title": "An Initial Glimpse at the Design of Miskatonic Expeditions",
-    "excerpt": "Inspirations and Core Game Design Principles",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/6de05831-c785-402b-972d-36263225415d.png",
-    "publishedAt": "2026-10-02T14:00:00Z",
-    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/7",
-    "sequenceNumber": 7
-  },
-  {
     "id": 45172,
     "projectId": 11582,
     "projectName": "Arkham Horror",
@@ -253,7 +279,7 @@
     "projectCreator": "go-on-board",
     "projectSlug": "cyberpunk-2077-the-board-game",
     "title": "Updated Delivery Timeline",
-    "excerpt": "Timeline & Fulfillment Plans / Q&A",
+    "excerpt": "Timeline & Fulfillment Plans / [EDIT 05.10.2026] Q&A Video landed on YouTube",
     "image": "https://imgcdn.gamefound.com/projectupdate/projects/3809/8ccc0cd3-937c-4f8e-b6b4-a157e9027a3f.png",
     "publishedAt": "2026-09-30T12:17:32.557Z",
     "url": "https://gamefound.com/en/projects/go-on-board/cyberpunk-2077-the-board-game/updates/62",
@@ -390,19 +416,6 @@
     "sequenceNumber": 25
   },
   {
-    "id": 44927,
-    "projectId": 3848,
-    "projectName": "Grimcoven",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "grimcoven",
-    "title": "LANG (other than English) versions SHIPPING UPDATE #5",
-    "excerpt": "Welcome, Hunters! Check out the latest news on the LANG editions' fulfillment progress!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3848/adfabdea-c4b7-4d89-8c33-4dc9e26e49eb.png",
-    "publishedAt": "2026-09-25T16:33:19.557Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/grimcoven/updates/51",
-    "sequenceNumber": 51
-  },
-  {
     "id": 44885,
     "projectId": 4792,
     "projectName": "DMD: Forbidden Reaches",
@@ -466,19 +479,6 @@
     "publishedAt": "2026-09-23T13:47:17.25Z",
     "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/2",
     "sequenceNumber": 2
-  },
-  {
-    "id": 44448,
-    "projectId": 5354,
-    "projectName": "Labyrinth",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "labyrinth",
-    "title": "Wave 2 (ENG & LANG) SHIPPING update #10",
-    "excerpt": "Wave 2 fulfillment is almost done! Check out the latest news on the shipping progress in today's update.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5354/aaf921bf-d285-4577-8df2-43dc5ad7fda8.png",
-    "publishedAt": "2026-09-22T16:48:31.067Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/labyrinth/updates/26",
-    "sequenceNumber": 26
   },
   {
     "id": 44433,
