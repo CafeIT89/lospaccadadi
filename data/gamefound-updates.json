@@ -1,5 +1,70 @@
 [
   {
+    "id": 46512,
+    "projectId": 6461,
+    "projectName": "Trials of Maya",
+    "projectCreator": "zainmemon",
+    "projectSlug": "trialsofmaya",
+    "title": "Card Library Revealed + New Backer Decision!",
+    "excerpt": "Check out cards, vote for the character you want to see, and solve a new puzzle while you’re at it.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6461/18a39fd2-3e6f-4237-b642-be241312b664.png",
+    "publishedAt": "2026-10-07T19:31:20.223Z",
+    "url": "https://gamefound.com/en/projects/zainmemon/trialsofmaya/updates/21",
+    "sequenceNumber": 21
+  },
+  {
+    "id": 46488,
+    "projectId": 11313,
+    "projectName": "Miskatonic Expeditions",
+    "projectCreator": "papertigers",
+    "projectSlug": "miskatonic-expeditions",
+    "title": "Miskatonic Expeditions Around the Web",
+    "excerpt": "Take a look at our roundup of community videos about Miskatonic Expeditions, featuring tutorials, gameplay sessions, and reviews.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/5d4460e5-113b-44e5-924a-8730082896dd.jpg",
+    "publishedAt": "2026-10-07T16:00:00Z",
+    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/10",
+    "sequenceNumber": 10
+  },
+  {
+    "id": 46466,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "The terror persists...",
+    "excerpt": "And these investigators are going to stop it",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/c4d62eed-7cb6-4e1e-b195-06c7f45181bd.png",
+    "publishedAt": "2026-10-07T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/10",
+    "sequenceNumber": 10
+  },
+  {
+    "id": 46501,
+    "projectId": 8534,
+    "projectName": "Call of Cthulhu: Old Ones Origins",
+    "projectCreator": "chaosium",
+    "projectSlug": "call-of-cthulhu-old-ones-origins",
+    "title": "Yithian Archives Record #18. New Expansion: Starborn Servitors!",
+    "excerpt": "Meet Starborn Servitors, a new expansion bringing a neutral faction from the Dreamlands to Old Ones Origins. Learn how Servitors can join your forces and find out how this expansion connects with other content from the campaign.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/e6c0f507-176e-4537-89d6-0c6b99b20245.png",
+    "publishedAt": "2026-10-07T13:59:49.1Z",
+    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/18",
+    "sequenceNumber": 18
+  },
+  {
+    "id": 46440,
+    "projectId": 10066,
+    "projectName": "Eldfall Chronicles: Apocrypha",
+    "projectCreator": "eldfall-chronicles",
+    "projectSlug": "eldfall-chronicles-apocrypha",
+    "title": "Where Nightmares and Stories Come to Life!",
+    "excerpt": "Meet the twisted inhabitants of the Sealed Archive, from corrupted servants and deceptive Mimics to Nightmares born from stories gone wrong.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/1000031c-5c79-4701-a753-c6d1ff917bd8.jpg",
+    "publishedAt": "2026-10-07T13:25:19.26Z",
+    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/3",
+    "sequenceNumber": 3
+  },
+  {
     "id": 46484,
     "projectId": 8203,
     "projectName": "Dead Men Tales",
@@ -26,32 +91,6 @@
     "sequenceNumber": 8
   },
   {
-    "id": 45016,
-    "projectId": 11313,
-    "projectName": "Miskatonic Expeditions",
-    "projectCreator": "papertigers",
-    "projectSlug": "miskatonic-expeditions",
-    "title": "Tile Placement and Map Building",
-    "excerpt": "Explore an Ever-Shifting Haunted University",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/87cb36a8-b16d-4022-aff1-2a1e04d81091.jpg",
-    "publishedAt": "2026-10-06T16:25:57.163Z",
-    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/9",
-    "sequenceNumber": 9
-  },
-  {
-    "id": 46453,
-    "projectId": 8534,
-    "projectName": "Call of Cthulhu: Old Ones Origins",
-    "projectCreator": "chaosium",
-    "projectSlug": "call-of-cthulhu-old-ones-origins",
-    "title": "Yithian Archives Record #17. Daily Reveal: New Avatar cards! 5-Player Games!",
-    "excerpt": "More Avatars are joining the fight, and five factions can now take the battlefield at once! In this update, we’re revealing the new Avatar cards and officially introducing the five-player mode for Old Ones Origins.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/e2b7913e-88cd-42a9-b443-118a41da91a1.png",
-    "publishedAt": "2026-10-06T14:00:58.023Z",
-    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/17",
-    "sequenceNumber": 17
-  },
-  {
     "id": 46446,
     "projectId": 8492,
     "projectName": "Heroes of Might and Magic III: Factory, Bulwark & Forge Expansions",
@@ -70,7 +109,7 @@
     "projectName": "Exceed: Skytear",
     "projectCreator": "skytear",
     "projectSlug": "exceed-skytear",
-    "title": "Designer's Notes #5: Discover Exceed Solo Mode (2 of 2)",
+    "title": "Designer's Notes #6: Discover Exceed Solo Mode (2 of 2)",
     "excerpt": "Mike Kelly walks us through the design process and goals behind the new Exceed Skytear Solo Mode.",
     "image": "https://imgcdn.gamefound.com/projectupdate/projects/9793/db9fa4d9-b598-4ccb-a9f2-3b573e9a0bb5.png",
     "publishedAt": "2026-10-06T13:34:39.47Z",
@@ -182,19 +221,6 @@
     "sequenceNumber": 9
   },
   {
-    "id": 45172,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "The horrors are deep and unknown",
-    "excerpt": "These Investigators will take on any challenge",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/d6ed598b-7085-485c-8688-e92ef6a7c965.png",
-    "publishedAt": "2026-10-02T14:00:00Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/9",
-    "sequenceNumber": 9
-  },
-  {
     "id": 45273,
     "projectId": 5586,
     "projectName": "Terrorscape 2",
@@ -232,19 +258,6 @@
     "publishedAt": "2026-09-30T20:59:14.047Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/this-war-of-mine-second-edition/updates/33",
     "sequenceNumber": 33
-  },
-  {
-    "id": 45171,
-    "projectId": 6461,
-    "projectName": "Trials of Maya",
-    "projectCreator": "zainmemon",
-    "projectSlug": "trialsofmaya",
-    "title": "Campaign Puzzle #5",
-    "excerpt": "The stakes just got higher with this new puzzle. +2 voting power is up for grabs!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6461/0b64d7f1-54e3-4162-a6d9-37c11b30525a.jpeg",
-    "publishedAt": "2026-09-30T18:59:04.897Z",
-    "url": "https://gamefound.com/en/projects/zainmemon/trialsofmaya/updates/20",
-    "sequenceNumber": 20
   },
   {
     "id": 45168,
@@ -466,19 +479,6 @@
     "publishedAt": "2026-09-23T21:13:00.513Z",
     "url": "https://gamefound.com/en/projects/indie-boards-and-cards/aeons-end-system-overload/updates/17",
     "sequenceNumber": 17
-  },
-  {
-    "id": 44769,
-    "projectId": 10066,
-    "projectName": "Eldfall Chronicles: Apocrypha",
-    "projectCreator": "eldfall-chronicles",
-    "projectSlug": "eldfall-chronicles-apocrypha",
-    "title": "Behind the Scenes: Logistics & Material Improvements",
-    "excerpt": "A look at the logistical and material improvements we’ve made since Northern Wind, both for Eldfall Chronicles: Apocrypha and Eldfall Chronicles as a whole.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/46819955-5f89-4ca6-9bcf-69a6b8b0c77f.png",
-    "publishedAt": "2026-09-23T13:47:17.25Z",
-    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/2",
-    "sequenceNumber": 2
   },
   {
     "id": 44433,
