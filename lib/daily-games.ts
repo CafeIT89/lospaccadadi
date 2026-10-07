@@ -70,6 +70,56 @@ export const games: DailyGame[] = [
     url: "https://boardgamegeek.com/boardgame/472461/z-horde",
     image: "/games/z-horde.png",
   },
+    {
+    title: "Nemesis",
+    url: "https://boardgamegeek.com/boardgame/167355/nemesis",
+    image: "/games/nemesis.png",
+  },
+  {
+    title: "Il Destino della Compagnia",
+    url: "https://boardgamegeek.com/boardgame/436217/the-lord-of-the-rings-fate-of-the-fellowship",
+    image: "/games/il-destino-della-compagnia.png",
+  },
+  {
+    title: "Eldritch Horror",
+    url: "https://boardgamegeek.com/boardgame/146021/eldritch-horror",
+    image: "/games/eldritch-horror.png",
+  },
+  {
+    title: "Cthulhu: Death May Die",
+    url: "https://boardgamegeek.com/boardgame/253344/cthulhu-death-may-die",
+    image: "/games/cthulhu-death-may-die.png",
+  },
+  {
+    title: "Zombicide: Dark Side",
+    url: "https://boardgamegeek.com/boardgame/251723/zombicide-dark-side",
+    image: "/games/zombicide-dark-side.png",
+  },
+  {
+    title: "Zombicide: Black Plague",
+    url: "https://boardgamegeek.com/boardgame/176189/zombicide-black-plague",
+    image: "/games/zombicide-black-plague.png",
+  },
+  {
+    title: "Army of the Dead",
+    url: "https://boardgamegeek.com/boardgame/339300/army-of-the-dead-a-zombicide-game",
+    image: "/games/army-of-the-dead.png",
+  },
+  {
+    title: "Marvel Zombies",
+    url: "https://boardgamegeek.com/boardgame/351817/marvel-zombies-a-zombicide-game",
+    image: "/games/marvel-zombies.png",
+  },
+  {
+    title: "X-Men Resistance",
+    url: "https://boardgamegeek.com/boardgame/355200/marvel-zombies-x-men-resistance",
+    image: "/games/x-men-resistance.png",
+  },
+  {
+    title: "One Card Dungeon",
+    url: "https://boardgamegeek.com/boardgame/319263/one-card-dungeon",
+    image: "/games/one-card-dungeon.png",
+  },
 ];
 
 function createSeedFromDate(date: Date): number {
