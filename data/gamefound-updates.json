@@ -1,5 +1,18 @@
 [
   {
+    "id": 46484,
+    "projectId": 8203,
+    "projectName": "Dead Men Tales",
+    "projectCreator": "asmodee",
+    "projectSlug": "dead-men-tales",
+    "title": "Vote for Zombicide: Dead Men Tales at the Gamefound Awards 2026",
+    "excerpt": "We've been nominated for Gamefound's Community Engagement of the Year Award thanks to you!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8203/38e5e95b-bd6d-4ea7-b51d-c349fb9526ab.png",
+    "publishedAt": "2026-10-07T10:43:29.773Z",
+    "url": "https://gamefound.com/en/projects/asmodee/dead-men-tales/updates/119",
+    "sequenceNumber": 119
+  },
+  {
     "id": 46464,
     "projectId": 8524,
     "projectName": "Nemesis Legacy",
@@ -167,19 +180,6 @@
     "publishedAt": "2026-10-02T21:42:43.657Z",
     "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/9",
     "sequenceNumber": 9
-  },
-  {
-    "id": 45263,
-    "projectId": 8203,
-    "projectName": "Dead Men Tales",
-    "projectCreator": "asmodee",
-    "projectSlug": "dead-men-tales",
-    "title": "A Production Update of Shipwreck Bay",
-    "excerpt": "Shipwreck Bay white samples, vacuum tray layout, and revised Grom Bottle Dice Samples!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8203/38618c3f-80f7-457b-844e-2f6b0af6fd51.png",
-    "publishedAt": "2026-10-02T15:06:55.097Z",
-    "url": "https://gamefound.com/en/projects/asmodee/dead-men-tales/updates/118",
-    "sequenceNumber": 118
   },
   {
     "id": 45172,

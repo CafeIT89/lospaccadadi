@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-07T05:53:30.718Z",
+  "updatedAt": "2026-10-07T13:16:14.167Z",
   "projects": [
     {
       "name": "Nemesis Legacy",
       "creator": "Awaken Realms",
       "url": "https://gamefound.com/projects/awaken-realms/nemesis-legacy",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8524/8246040c-ef12-419c-b133-b98cc169b431.jpg",
-      "fundsGathered": 3185661.65,
+      "fundsGathered": 3515779.5,
       "currency": "EUR",
-      "backerCount": 9110,
+      "backerCount": 10036,
       "campaignEndDate": "2026-10-27T19:00:00Z"
     },
     {
@@ -16,9 +16,9 @@
       "creator": "Archon Studio",
       "url": "https://gamefound.com/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8492/beb8f6e4-2e7e-4247-bc9c-68a39cd8e26c.png",
-      "fundsGathered": 1467592.23,
+      "fundsGathered": 1479932.58,
       "currency": "EUR",
-      "backerCount": 7475,
+      "backerCount": 7541,
       "campaignEndDate": "2026-10-12T22:00:00Z"
     },
     {
@@ -26,9 +26,9 @@
       "creator": "IV Studio",
       "url": "https://gamefound.com/projects/iv-studio/tend-expansions",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11718/343ee917-ecf4-4e7f-b4cc-869430f2c244.png",
-      "fundsGathered": 1022506.87,
+      "fundsGathered": 1040622.02,
       "currency": "USD",
-      "backerCount": 5575,
+      "backerCount": 5671,
       "campaignEndDate": "2026-10-07T22:00:00Z"
     },
     {
@@ -36,9 +36,9 @@
       "creator": "Redzen Games",
       "url": "https://gamefound.com/projects/redzen/gang-wars",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/9938/e8946268-0083-4c87-997f-67d0b8cbba8d.png",
-      "fundsGathered": 613923.64,
+      "fundsGathered": 614877.47,
       "currency": "EUR",
-      "backerCount": 3079,
+      "backerCount": 3084,
       "campaignEndDate": "2026-10-15T20:00:00Z"
     },
     {
@@ -46,9 +46,9 @@
       "creator": "Chaosium Inc.",
       "url": "https://gamefound.com/projects/chaosium/call-of-cthulhu-old-ones-origins",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8534/836e992f-a1f0-4a32-9de6-4ad0c05f95dd.png",
-      "fundsGathered": 463282.86,
+      "fundsGathered": 465072.62,
       "currency": "USD",
-      "backerCount": 2370,
+      "backerCount": 2373,
       "campaignEndDate": "2026-10-15T14:00:00Z"
     }
   ]
