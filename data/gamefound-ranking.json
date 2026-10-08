@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-08T13:22:50.636Z",
+  "updatedAt": "2026-10-08T23:19:02.802Z",
   "projects": [
     {
       "name": "Nemesis Legacy",
       "creator": "Awaken Realms",
       "url": "https://gamefound.com/projects/awaken-realms/nemesis-legacy",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8524/8246040c-ef12-419c-b133-b98cc169b431.jpg",
-      "fundsGathered": 4147164.33,
+      "fundsGathered": 4374571.49,
       "currency": "EUR",
-      "backerCount": 11938,
+      "backerCount": 12616,
       "campaignEndDate": "2026-10-27T19:00:00Z"
     },
     {
@@ -16,29 +16,19 @@
       "creator": "Archon Studio",
       "url": "https://gamefound.com/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8492/beb8f6e4-2e7e-4247-bc9c-68a39cd8e26c.png",
-      "fundsGathered": 1517144.42,
+      "fundsGathered": 1553059.66,
       "currency": "EUR",
-      "backerCount": 7717,
+      "backerCount": 7890,
       "campaignEndDate": "2026-10-12T22:00:00Z"
-    },
-    {
-      "name": "Tend: Hive & Cellar Expansions",
-      "creator": "IV Studio",
-      "url": "https://gamefound.com/projects/iv-studio/tend-expansions",
-      "image": "https://imgcdn.gamefound.com/projectimage/projects/11718/343ee917-ecf4-4e7f-b4cc-869430f2c244.png",
-      "fundsGathered": 1153676.42,
-      "currency": "USD",
-      "backerCount": 6248,
-      "campaignEndDate": "2026-10-08T13:32:02.467Z"
     },
     {
       "name": "Gang Wars (+ Scarface 1920 Reprint)",
       "creator": "Redzen Games",
       "url": "https://gamefound.com/projects/redzen/gang-wars",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/9938/e8946268-0083-4c87-997f-67d0b8cbba8d.png",
-      "fundsGathered": 621424.57,
+      "fundsGathered": 637239.34,
       "currency": "EUR",
-      "backerCount": 3110,
+      "backerCount": 3162,
       "campaignEndDate": "2026-10-15T20:00:00Z"
     },
     {
@@ -46,10 +36,20 @@
       "creator": "Chaosium Inc.",
       "url": "https://gamefound.com/projects/chaosium/call-of-cthulhu-old-ones-origins",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8534/836e992f-a1f0-4a32-9de6-4ad0c05f95dd.png",
-      "fundsGathered": 497959.15,
+      "fundsGathered": 503335.94,
       "currency": "USD",
-      "backerCount": 2364,
+      "backerCount": 2368,
       "campaignEndDate": "2026-10-15T14:00:00Z"
+    },
+    {
+      "name": "Gothic - A Shadow's Quest",
+      "creator": "THQ Nordic",
+      "url": "https://gamefound.com/projects/thq-nordic/gothic---a-shadows-quest",
+      "image": "https://imgcdn.gamefound.com/projectimage/projects/5749/c7773060-2b26-40ef-84df-8fc643e70237.jpg",
+      "fundsGathered": 484096.31,
+      "currency": "EUR",
+      "backerCount": 2055,
+      "campaignEndDate": "2026-10-23T13:00:00Z"
     }
   ]
 }
