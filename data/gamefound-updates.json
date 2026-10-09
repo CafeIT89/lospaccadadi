@@ -1,5 +1,18 @@
 [
   {
+    "id": 46586,
+    "projectId": 11765,
+    "projectName": "Dungeon of Tanares",
+    "projectCreator": "dragori-games",
+    "projectSlug": "dungeon-of-tanares",
+    "title": "Why Tanares Leveled Up, Expansions & Pledge Prices",
+    "excerpt": "Today, we’re revealing the main pledge prices and taking a closer look at Ungod War and Old Depths.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/edc4ba78-41f7-40ef-8f50-821ee79801cd.jpeg",
+    "publishedAt": "2026-10-09T05:28:15.643Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/7",
+    "sequenceNumber": 7
+  },
+  {
     "id": 46548,
     "projectId": 11645,
     "projectName": "Grimdark Future: Jade Claw",
@@ -232,19 +245,6 @@
     "publishedAt": "2026-10-02T11:03:55.837Z",
     "url": "https://gamefound.com/en/projects/ice-makes/terrorscape-2/updates/60",
     "sequenceNumber": 60
-  },
-  {
-    "id": 45223,
-    "projectId": 11765,
-    "projectName": "Dungeon of Tanares",
-    "projectCreator": "dragori-games",
-    "projectSlug": "dungeon-of-tanares",
-    "title": "How Tanares' Open World Works",
-    "excerpt": "Choose where to explore, decide what to leave behind, and face the consequences of your journey.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/d65eb110-4d79-4f5f-b97e-90482d042823.jpeg",
-    "publishedAt": "2026-10-01T15:15:21.413Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/6",
-    "sequenceNumber": 6
   },
   {
     "id": 44787,
