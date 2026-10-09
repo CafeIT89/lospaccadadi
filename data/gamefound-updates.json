@@ -1,5 +1,57 @@
 [
   {
+    "id": 46403,
+    "projectId": 11313,
+    "projectName": "Miskatonic Expeditions",
+    "projectCreator": "papertigers",
+    "projectSlug": "miskatonic-expeditions",
+    "title": "How Researchers Move and Investigate",
+    "excerpt": "Every Hall Carries Consequences",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/b5ee3f75-cea0-4325-b592-634d13d47bf8.jpg",
+    "publishedAt": "2026-10-09T15:09:08.683Z",
+    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/12",
+    "sequenceNumber": 12
+  },
+  {
+    "id": 46348,
+    "projectId": 8094,
+    "projectName": "Bloodwork: The Reckoning",
+    "projectCreator": "i-demo-games",
+    "projectSlug": "bloodwork-the-reckoning",
+    "title": "Bloodwork: The Artobering Update - Igor Strikes Again + A Surprise For Mercenaries",
+    "excerpt": "Proof submission wraps next weekend as we aim to collect the first copy. Igor’s upgraded deluxe art drops today with a free wallpaper. Tell us your top five artwork picks for our community run Guild Awards.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8094/066507dc-d9ea-44c7-a1dd-d03955985f08.jpg",
+    "publishedAt": "2026-10-09T14:17:44.97Z",
+    "url": "https://gamefound.com/en/projects/i-demo-games/bloodwork-the-reckoning/updates/52",
+    "sequenceNumber": 52
+  },
+  {
+    "id": 46613,
+    "projectId": 8534,
+    "projectName": "Call of Cthulhu: Old Ones Origins",
+    "projectCreator": "chaosium",
+    "projectSlug": "call-of-cthulhu-old-ones-origins",
+    "title": "Yithian Archives Record #20. Daily Reveal: More Starting Forces! Replayability upgrade!",
+    "excerpt": "In this update, we’re revealing that Starting Forces cards will be double-sided! Find out what these cards do, how they help set up your faction at the beginning of the game, and what this new detail means for your forces in Old Ones Origins.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/81e83ed3-83bf-4ab6-a8d2-ad5ebb76941f.png",
+    "publishedAt": "2026-10-09T14:03:27.843Z",
+    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/20",
+    "sequenceNumber": 20
+  },
+  {
+    "id": 46541,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "Lying in wait is a grave threat...",
+    "excerpt": "You and your Investigator will be at the center of it all",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/85f57d99-840d-48e3-ac61-4a06520424e0.png",
+    "publishedAt": "2026-10-09T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/11",
+    "sequenceNumber": 11
+  },
+  {
     "id": 46608,
     "projectId": 5522,
     "projectName": "Boktor",
@@ -11,6 +63,19 @@
     "publishedAt": "2026-10-09T12:51:41.553Z",
     "url": "https://gamefound.com/en/projects/fox-troll-games/boktor-a-cooperative-dungeon-quest/updates/43",
     "sequenceNumber": 43
+  },
+  {
+    "id": 46519,
+    "projectId": 4792,
+    "projectName": "DMD: Forbidden Reaches",
+    "projectCreator": "asmodee",
+    "projectSlug": "dmd-forbidden-reaches",
+    "title": "Production Update",
+    "excerpt": "Typesetting amendments are complete, and print files have been delivered to the factory. Prepress review and E-proofs are next, while white samples and vacuum tray revisions continue in parallel.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4792/19bc4b43-5b2d-44f2-b0e1-2539cb524069.png",
+    "publishedAt": "2026-10-09T12:14:43.47Z",
+    "url": "https://gamefound.com/en/projects/asmodee/dmd-forbidden-reaches/updates/98",
+    "sequenceNumber": 98
   },
   {
     "id": 46586,
@@ -52,32 +117,6 @@
     "sequenceNumber": 22
   },
   {
-    "id": 46493,
-    "projectId": 11313,
-    "projectName": "Miskatonic Expeditions",
-    "projectCreator": "papertigers",
-    "projectSlug": "miskatonic-expeditions",
-    "title": "Shipping Costs Update: Great News for Our UK and Overseas Backers!",
-    "excerpt": "We’ve secured a better fulfilment deal, allowing us to lower the estimated shipping costs for the paper version of Miskatonic Expeditions and add Australia and New Zealand as new shipping destinations.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/530f8466-6819-44cd-9284-5a6cda507d67.png",
-    "publishedAt": "2026-10-08T16:18:15.69Z",
-    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/11",
-    "sequenceNumber": 11
-  },
-  {
-    "id": 46544,
-    "projectId": 8534,
-    "projectName": "Call of Cthulhu: Old Ones Origins",
-    "projectCreator": "chaosium",
-    "projectSlug": "call-of-cthulhu-old-ones-origins",
-    "title": "Yithian Archives Record #19. Daily Reveal: An Epic Game Mode! 10 Rounds!",
-    "excerpt": "Discover the Epic Game Mode for Old Ones Origins, with games lasting up to 10 rounds and new Eldritch Scheme cards to support the extended conflicts. We’re also taking a closer look at Eldritch Schemes!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/113308d2-1391-496a-bb48-0245aa6aeee2.png",
-    "publishedAt": "2026-10-08T14:03:28.997Z",
-    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/19",
-    "sequenceNumber": 19
-  },
-  {
     "id": 46538,
     "projectId": 8492,
     "projectName": "Heroes of Might and Magic III: Factory, Bulwark & Forge Expansions",
@@ -102,19 +141,6 @@
     "publishedAt": "2026-10-08T11:07:26.473Z",
     "url": "https://gamefound.com/en/projects/skytear/exceed-skytear/updates/9",
     "sequenceNumber": 9
-  },
-  {
-    "id": 46466,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "The terror persists...",
-    "excerpt": "And these investigators are going to stop it",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/c4d62eed-7cb6-4e1e-b195-06c7f45181bd.png",
-    "publishedAt": "2026-10-07T14:00:00Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/10",
-    "sequenceNumber": 10
   },
   {
     "id": 46440,
@@ -351,19 +377,6 @@
     "sequenceNumber": 45
   },
   {
-    "id": 44900,
-    "projectId": 8094,
-    "projectName": "Bloodwork: The Reckoning",
-    "projectCreator": "i-demo-games",
-    "projectSlug": "bloodwork-the-reckoning",
-    "title": "Proofing Begins, New Events Arrive, Deep Dives Ahead",
-    "excerpt": "Bloodwork enters its first full proofing stage, new Backer Forged Events join the world of Morana, and Mercenary Deep Dives begin soon, showcasing Merc builds, gameplay photos, and their lore from the Art/Lorebook.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8094/963e1cd3-67a9-49d7-a24f-6a0d5b188874.jpg",
-    "publishedAt": "2026-09-28T16:24:21.55Z",
-    "url": "https://gamefound.com/en/projects/i-demo-games/bloodwork-the-reckoning/updates/51",
-    "sequenceNumber": 51
-  },
-  {
     "id": 45002,
     "projectId": 6571,
     "projectName": "Claustrophobia 1692",
@@ -427,19 +440,6 @@
     "publishedAt": "2026-09-25T21:46:20.25Z",
     "url": "https://gamefound.com/en/projects/chip-theory-games/the-elder-scrolls-heroes-of-tamriel/updates/25",
     "sequenceNumber": 25
-  },
-  {
-    "id": 44885,
-    "projectId": 4792,
-    "projectName": "DMD: Forbidden Reaches",
-    "projectCreator": "asmodee",
-    "projectSlug": "dmd-forbidden-reaches",
-    "title": "Production Update",
-    "excerpt": "Typesetting proofs are complete, with corrections being applied across all Death May Die files before submission to the factories. First look at vac tray prototypes.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4792/0442112a-856d-4974-b23d-a3e63ff40626.png",
-    "publishedAt": "2026-09-25T11:24:39.407Z",
-    "url": "https://gamefound.com/en/projects/asmodee/dmd-forbidden-reaches/updates/97",
-    "sequenceNumber": 97
   },
   {
     "id": 44892,
