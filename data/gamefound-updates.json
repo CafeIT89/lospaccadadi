@@ -1,5 +1,18 @@
 [
   {
+    "id": 46608,
+    "projectId": 5522,
+    "projectName": "Boktor",
+    "projectCreator": "fox-troll-games",
+    "projectSlug": "boktor-a-cooperative-dungeon-quest",
+    "title": "The Beacons Are Lit! Boktor Calls For Aid! ⚔️",
+    "excerpt": "We stand strong in the battle for Gamefound's Debut Game of the Year, but dark forces are gathering at our gates! 🧛",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5522/a00c9a98-6055-4e13-96ef-1c98da6a6dac.png",
+    "publishedAt": "2026-10-09T12:51:41.553Z",
+    "url": "https://gamefound.com/en/projects/fox-troll-games/boktor-a-cooperative-dungeon-quest/updates/43",
+    "sequenceNumber": 43
+  },
+  {
     "id": 46586,
     "projectId": 11765,
     "projectName": "Dungeon of Tanares",
@@ -180,19 +193,6 @@
     "publishedAt": "2026-10-05T18:17:09.777Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/labyrinth/updates/27",
     "sequenceNumber": 27
-  },
-  {
-    "id": 46395,
-    "projectId": 5522,
-    "projectName": "Boktor",
-    "projectCreator": "fox-troll-games",
-    "projectSlug": "boktor-a-cooperative-dungeon-quest",
-    "title": "Gamefound Awards, Shipping & Discord",
-    "excerpt": "Vote for Boktor in the Gamefound Awards for Debut of the Year! Plus, some great news about fulfilment and a brand-new Discord server!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5522/44eacc46-11b0-4075-af6b-6ef92644cfdf.jpeg",
-    "publishedAt": "2026-10-05T14:28:48.117Z",
-    "url": "https://gamefound.com/en/projects/fox-troll-games/boktor-a-cooperative-dungeon-quest/updates/42",
-    "sequenceNumber": 42
   },
   {
     "id": 46393,
