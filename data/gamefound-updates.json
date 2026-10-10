@@ -1,5 +1,57 @@
 [
   {
+    "id": 47656,
+    "projectId": 6461,
+    "projectName": "Trials of Maya",
+    "projectCreator": "zainmemon",
+    "projectSlug": "trialsofmaya",
+    "title": "Campaign Puzzle #7!",
+    "excerpt": "We're in the Final Stretch of the Campaign!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6461/18e33aae-2c50-4d98-a5a9-3d0f76abe960.jpg",
+    "publishedAt": "2026-10-10T21:00:12.697Z",
+    "url": "https://gamefound.com/en/projects/zainmemon/trialsofmaya/updates/23",
+    "sequenceNumber": 23
+  },
+  {
+    "id": 47655,
+    "projectId": 8524,
+    "projectName": "Nemesis Legacy",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "nemesis-legacy",
+    "title": "DAY 5: THE SCOPE | FLESHBEASTS INCOMING!",
+    "excerpt": "OVER 14,000 backers are already on board! Ian Vale becomes The Scope, and six Fleshbeasts join the Evolved Carnomorphs!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/a409d890-d397-4a32-873c-338a49884184.jpg",
+    "publishedAt": "2026-10-10T19:36:21.387Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/10",
+    "sequenceNumber": 10
+  },
+  {
+    "id": 47636,
+    "projectId": 8534,
+    "projectName": "Call of Cthulhu: Old Ones Origins",
+    "projectCreator": "chaosium",
+    "projectSlug": "call-of-cthulhu-old-ones-origins",
+    "title": "Yithian Archives Record #21. Poll: Choose the 9th Servitor! Which of these beings should be included in Old Ones Origins?",
+    "excerpt": "In this Update, we’re inviting you to vote for the creature that will join the Starborn Servitors box and become part of the Cthulhu Mythos lore. Cast your vote and help decide which creature will become the 9th Servitor!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/3707759f-93aa-4bbd-99f6-1cc0fa27e840.png",
+    "publishedAt": "2026-10-10T14:00:01.163Z",
+    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/21",
+    "sequenceNumber": 21
+  },
+  {
+    "id": 46612,
+    "projectId": 8492,
+    "projectName": "Heroes of Might and Magic III: Factory, Bulwark & Forge Expansions",
+    "projectCreator": "archon-studio",
+    "projectSlug": "heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
+    "title": "Forge Heroes - From Legacy To Legend",
+    "excerpt": "Discover how the Forge heroes were designed!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8492/cef7d917-a79b-4507-a6a8-a166f26acb15.png",
+    "publishedAt": "2026-10-10T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions/updates/16",
+    "sequenceNumber": 16
+  },
+  {
     "id": 46403,
     "projectId": 11313,
     "projectName": "Miskatonic Expeditions",
@@ -24,19 +76,6 @@
     "publishedAt": "2026-10-09T14:17:44.97Z",
     "url": "https://gamefound.com/en/projects/i-demo-games/bloodwork-the-reckoning/updates/52",
     "sequenceNumber": 52
-  },
-  {
-    "id": 46613,
-    "projectId": 8534,
-    "projectName": "Call of Cthulhu: Old Ones Origins",
-    "projectCreator": "chaosium",
-    "projectSlug": "call-of-cthulhu-old-ones-origins",
-    "title": "Yithian Archives Record #20. Daily Reveal: More Starting Forces! Replayability upgrade!",
-    "excerpt": "In this update, we’re revealing that Starting Forces cards will be double-sided! Find out what these cards do, how they help set up your faction at the beginning of the game, and what this new detail means for your forces in Old Ones Origins.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/81e83ed3-83bf-4ab6-a8d2-ad5ebb76941f.png",
-    "publishedAt": "2026-10-09T14:03:27.843Z",
-    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/20",
-    "sequenceNumber": 20
   },
   {
     "id": 46541,
@@ -102,45 +141,6 @@
     "publishedAt": "2026-10-08T18:56:21.38Z",
     "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/10",
     "sequenceNumber": 10
-  },
-  {
-    "id": 46559,
-    "projectId": 8524,
-    "projectName": "Nemesis Legacy",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "nemesis-legacy",
-    "title": "Day 3: CARNOMORPHS WIN + MEET THE SCOPE!",
-    "excerpt": "Over 12,000 backers! Evolved Carnomorphs win the Day 1 vote, and today we reveal The Scope - a new free Crewmember class with another community vote!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/a62f5537-2f40-4c34-899f-8791b989035e.jpg",
-    "publishedAt": "2026-10-08T17:42:13.793Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/9",
-    "sequenceNumber": 9
-  },
-  {
-    "id": 46568,
-    "projectId": 6461,
-    "projectName": "Trials of Maya",
-    "projectCreator": "zainmemon",
-    "projectSlug": "trialsofmaya",
-    "title": "Trials of Maya is at New York Comic Con!",
-    "excerpt": "Come meet co-creator Zain Memon at NYCC 2026!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6461/38c373e2-2f99-4a3d-b3fd-11d791f17900.jpg",
-    "publishedAt": "2026-10-08T17:41:54.113Z",
-    "url": "https://gamefound.com/en/projects/zainmemon/trialsofmaya/updates/22",
-    "sequenceNumber": 22
-  },
-  {
-    "id": 46538,
-    "projectId": 8492,
-    "projectName": "Heroes of Might and Magic III: Factory, Bulwark & Forge Expansions",
-    "projectCreator": "archon-studio",
-    "projectSlug": "heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
-    "title": "Dev Diary - Scenario Design",
-    "excerpt": "Our designers explain what goes into creating scenarios!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8492/8c2051da-2441-4b5f-9402-4f841c359d15.png",
-    "publishedAt": "2026-10-08T14:00:00Z",
-    "url": "https://gamefound.com/en/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions/updates/15",
-    "sequenceNumber": 15
   },
   {
     "id": 46537,
