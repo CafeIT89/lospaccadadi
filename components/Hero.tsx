@@ -2,9 +2,15 @@ import Image from "next/image";
 import { Play } from "lucide-react";
 
 import { getCachedLatestYouTubeVideo } from "@/lib/youtube-service";
+import { after } from "next/server";
+import { refreshLatestYouTubeVideoIfNeeded } from "@/lib/youtube-auto-refresh";
 
 export default async function Hero() {
-const latestVideo = await getCachedLatestYouTubeVideo();
+  const latestVideo = await getCachedLatestYouTubeVideo();
+
+  after(async () => {
+    await refreshLatestYouTubeVideoIfNeeded();
+  });
 
   return (
     <section className="relative overflow-hidden border-b border-brand-border bg-background">
