@@ -1,5 +1,18 @@
 [
   {
+    "id": 47671,
+    "projectId": 8534,
+    "projectName": "Call of Cthulhu: Old Ones Origins",
+    "projectCreator": "chaosium",
+    "projectSlug": "call-of-cthulhu-old-ones-origins",
+    "title": "Yithian Archives Record #22. Daily Reveal: You Chose the Servitor!",
+    "excerpt": "The votes are in! Find out which Servitor you chose to join the Starborn Servitors expansion, and discover more about these mysterious creatures of the Dreamlands.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/1790da39-edd4-43b8-89d4-51ad75c65d01.png",
+    "publishedAt": "2026-10-11T14:21:47.687Z",
+    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/22",
+    "sequenceNumber": 22
+  },
+  {
     "id": 47656,
     "projectId": 6461,
     "projectName": "Trials of Maya",
@@ -24,19 +37,6 @@
     "publishedAt": "2026-10-10T19:36:21.387Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/10",
     "sequenceNumber": 10
-  },
-  {
-    "id": 47636,
-    "projectId": 8534,
-    "projectName": "Call of Cthulhu: Old Ones Origins",
-    "projectCreator": "chaosium",
-    "projectSlug": "call-of-cthulhu-old-ones-origins",
-    "title": "Yithian Archives Record #21. Poll: Choose the 9th Servitor! Which of these beings should be included in Old Ones Origins?",
-    "excerpt": "In this Update, we’re inviting you to vote for the creature that will join the Starborn Servitors box and become part of the Cthulhu Mythos lore. Cast your vote and help decide which creature will become the 9th Servitor!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/3707759f-93aa-4bbd-99f6-1cc0fa27e840.png",
-    "publishedAt": "2026-10-10T14:00:01.163Z",
-    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/21",
-    "sequenceNumber": 21
   },
   {
     "id": 46612,
