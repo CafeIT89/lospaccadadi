@@ -1,16 +1,55 @@
 [
   {
-    "id": 47671,
+    "id": 47706,
     "projectId": 8534,
     "projectName": "Call of Cthulhu: Old Ones Origins",
     "projectCreator": "chaosium",
     "projectSlug": "call-of-cthulhu-old-ones-origins",
-    "title": "Yithian Archives Record #22. Daily Reveal: You Chose the Servitor!",
-    "excerpt": "The votes are in! Find out which Servitor you chose to join the Starborn Servitors expansion, and discover more about these mysterious creatures of the Dreamlands.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/1790da39-edd4-43b8-89d4-51ad75c65d01.png",
-    "publishedAt": "2026-10-11T14:21:47.687Z",
-    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/22",
-    "sequenceNumber": 22
+    "title": "Yithian Archives Record #23. Visual All-In! Vault of the Void Expansion! 10th Servitor!",
+    "excerpt": "Today we're revealing the Vault of the Void Beauty Upgrade Box, along with the final pledge level of the campaign: Transcendent Pledge—Visual All-in! Find out what’s inside, and check out our detailed roadmap for the project after the campaign ends!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/ea370871-8fe5-4b55-9532-3cf9bfcf470c.png",
+    "publishedAt": "2026-10-12T14:08:11.107Z",
+    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/23",
+    "sequenceNumber": 23
+  },
+  {
+    "id": 47703,
+    "projectId": 8492,
+    "projectName": "Heroes of Might and Magic III: Factory, Bulwark & Forge Expansions",
+    "projectCreator": "archon-studio",
+    "projectSlug": "heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
+    "title": "Stretch Goals Galore!",
+    "excerpt": "An explanation of all the Stretch Goals we've unlocked thus far!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8492/d9b13b6e-398c-4425-9670-5406c51f85e0.png",
+    "publishedAt": "2026-10-12T14:03:10.807Z",
+    "url": "https://gamefound.com/en/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions/updates/17",
+    "sequenceNumber": 17
+  },
+  {
+    "id": 46540,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "What awaits you on the Other Side?",
+    "excerpt": "And who will be your first choice to bring calm to chaos?",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/3ecc3022-2f5b-413b-ba14-8da499794623.png",
+    "publishedAt": "2026-10-12T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/12",
+    "sequenceNumber": 12
+  },
+  {
+    "id": 46552,
+    "projectId": 11313,
+    "projectName": "Miskatonic Expeditions",
+    "projectCreator": "papertigers",
+    "projectSlug": "miskatonic-expeditions",
+    "title": "A Fellow Expedition Worth Joining: Budapest 1899",
+    "excerpt": "An investigative TTRPG you shouldn’t miss",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/b98026b9-bb2f-4e74-9dde-55f5d6de8b4e.png",
+    "publishedAt": "2026-10-12T09:00:00Z",
+    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/13",
+    "sequenceNumber": 13
   },
   {
     "id": 47656,
@@ -39,32 +78,6 @@
     "sequenceNumber": 10
   },
   {
-    "id": 46612,
-    "projectId": 8492,
-    "projectName": "Heroes of Might and Magic III: Factory, Bulwark & Forge Expansions",
-    "projectCreator": "archon-studio",
-    "projectSlug": "heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
-    "title": "Forge Heroes - From Legacy To Legend",
-    "excerpt": "Discover how the Forge heroes were designed!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8492/cef7d917-a79b-4507-a6a8-a166f26acb15.png",
-    "publishedAt": "2026-10-10T14:00:00Z",
-    "url": "https://gamefound.com/en/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions/updates/16",
-    "sequenceNumber": 16
-  },
-  {
-    "id": 46403,
-    "projectId": 11313,
-    "projectName": "Miskatonic Expeditions",
-    "projectCreator": "papertigers",
-    "projectSlug": "miskatonic-expeditions",
-    "title": "How Researchers Move and Investigate",
-    "excerpt": "Every Hall Carries Consequences",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/b5ee3f75-cea0-4325-b592-634d13d47bf8.jpg",
-    "publishedAt": "2026-10-09T15:09:08.683Z",
-    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/12",
-    "sequenceNumber": 12
-  },
-  {
     "id": 46348,
     "projectId": 8094,
     "projectName": "Bloodwork: The Reckoning",
@@ -76,19 +89,6 @@
     "publishedAt": "2026-10-09T14:17:44.97Z",
     "url": "https://gamefound.com/en/projects/i-demo-games/bloodwork-the-reckoning/updates/52",
     "sequenceNumber": 52
-  },
-  {
-    "id": 46541,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "Lying in wait is a grave threat...",
-    "excerpt": "You and your Investigator will be at the center of it all",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/85f57d99-840d-48e3-ac61-4a06520424e0.png",
-    "publishedAt": "2026-10-09T14:00:00Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/11",
-    "sequenceNumber": 11
   },
   {
     "id": 46608,
