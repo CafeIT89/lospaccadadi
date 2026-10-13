@@ -1,24 +1,34 @@
 {
-  "updatedAt": "2026-10-13T14:06:42.958Z",
+  "updatedAt": "2026-10-13T22:41:02.459Z",
   "projects": [
     {
       "name": "Nemesis Legacy",
       "creator": "Awaken Realms",
       "url": "https://gamefound.com/projects/awaken-realms/nemesis-legacy",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8524/8246040c-ef12-419c-b133-b98cc169b431.jpg",
-      "fundsGathered": 5416102.67,
+      "fundsGathered": 5485175.66,
       "currency": "EUR",
-      "backerCount": 15652,
+      "backerCount": 15866,
       "campaignEndDate": "2026-10-27T19:00:00Z"
+    },
+    {
+      "name": "Satisfactory: The Board Game",
+      "creator": "MOOD Publishing",
+      "url": "https://gamefound.com/projects/mood-publishing/satisfactory-the-board-game",
+      "image": "https://imgcdn.gamefound.com/projectimage/projects/11362/cbd459fe-aa2f-49a4-bb9a-57df2837b839.png",
+      "fundsGathered": 833235.1,
+      "currency": "EUR",
+      "backerCount": 3258,
+      "campaignEndDate": "2026-11-10T15:00:00Z"
     },
     {
       "name": "Gang Wars (+ Scarface 1920 Reprint)",
       "creator": "Redzen Games",
       "url": "https://gamefound.com/projects/redzen/gang-wars",
-      "image": "https://imgcdn.gamefound.com/projectimage/projects/9938/e8946268-0083-4c87-997f-67d0b8cbba8d.png",
-      "fundsGathered": 690130.33,
+      "image": "https://imgcdn.gamefound.com/projectimage/projects/9938/63d95eeb-84a0-4d57-8554-07aa8692e6b6.png",
+      "fundsGathered": 699736.17,
       "currency": "EUR",
-      "backerCount": 3378,
+      "backerCount": 3429,
       "campaignEndDate": "2026-10-15T20:00:00Z"
     },
     {
@@ -26,9 +36,9 @@
       "creator": "Chaosium Inc.",
       "url": "https://gamefound.com/projects/chaosium/call-of-cthulhu-old-ones-origins",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8534/836e992f-a1f0-4a32-9de6-4ad0c05f95dd.png",
-      "fundsGathered": 596989.09,
+      "fundsGathered": 621461.95,
       "currency": "USD",
-      "backerCount": 2522,
+      "backerCount": 2593,
       "campaignEndDate": "2026-10-15T14:00:00Z"
     },
     {
@@ -36,20 +46,10 @@
       "creator": "THQ Nordic",
       "url": "https://gamefound.com/projects/thq-nordic/gothic---a-shadows-quest",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/5749/c7773060-2b26-40ef-84df-8fc643e70237.jpg",
-      "fundsGathered": 556417.04,
+      "fundsGathered": 562900.81,
       "currency": "EUR",
-      "backerCount": 2358,
+      "backerCount": 2387,
       "campaignEndDate": "2026-10-23T13:00:00Z"
-    },
-    {
-      "name": "ARCTICA",
-      "creator": "ThisWay",
-      "url": "https://gamefound.com/projects/thisway/arctica",
-      "image": "https://imgcdn.gamefound.com/projectimage/projects/5954/7f642e2a-9f46-466e-b74f-9646e84ddc6e.png",
-      "fundsGathered": 439863.47,
-      "currency": "EUR",
-      "backerCount": 2993,
-      "campaignEndDate": "2026-10-27T15:00:00Z"
     }
   ]
 }
