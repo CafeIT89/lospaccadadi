@@ -1,5 +1,18 @@
 [
   {
+    "id": 47714,
+    "projectId": 6461,
+    "projectName": "Trials of Maya",
+    "projectCreator": "zainmemon",
+    "projectSlug": "trialsofmaya",
+    "title": "The Endgame Approaches!",
+    "excerpt": "With less than 24 hours to go, the Endgame is tomorrow!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6461/44367e6f-0280-4ed7-84e2-acf0d185682c.png",
+    "publishedAt": "2026-10-12T16:22:11.527Z",
+    "url": "https://gamefound.com/en/projects/zainmemon/trialsofmaya/updates/24",
+    "sequenceNumber": 24
+  },
+  {
     "id": 47706,
     "projectId": 8534,
     "projectName": "Call of Cthulhu: Old Ones Origins",
@@ -50,19 +63,6 @@
     "publishedAt": "2026-10-12T09:00:00Z",
     "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/13",
     "sequenceNumber": 13
-  },
-  {
-    "id": 47656,
-    "projectId": 6461,
-    "projectName": "Trials of Maya",
-    "projectCreator": "zainmemon",
-    "projectSlug": "trialsofmaya",
-    "title": "Campaign Puzzle #7!",
-    "excerpt": "We're in the Final Stretch of the Campaign!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6461/18e33aae-2c50-4d98-a5a9-3d0f76abe960.jpg",
-    "publishedAt": "2026-10-10T21:00:12.697Z",
-    "url": "https://gamefound.com/en/projects/zainmemon/trialsofmaya/updates/23",
-    "sequenceNumber": 23
   },
   {
     "id": 47655,
