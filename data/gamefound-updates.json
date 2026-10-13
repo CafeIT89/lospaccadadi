@@ -1,5 +1,44 @@
 [
   {
+    "id": 47754,
+    "projectId": 3848,
+    "projectName": "Grimcoven",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "grimcoven",
+    "title": "LANG (other than English) versions SHIPPING UPDATE #7",
+    "excerpt": "We're back with the newest shipping report for the LANG editions, Hunters! Check out today's update on the fulfillment progress.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3848/1c4821d0-86fc-4c33-af70-9a18e79120ae.png",
+    "publishedAt": "2026-10-13T12:10:02.113Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/grimcoven/updates/53",
+    "sequenceNumber": 53
+  },
+  {
+    "id": 47743,
+    "projectId": 5617,
+    "projectName": "Spell Rift Legends",
+    "projectCreator": "dragori-games",
+    "projectSlug": "spell-rift-legends",
+    "title": "Development Update #5 - Campaign Mode",
+    "excerpt": "A quick look at the campaign mode. Miniature samples will be ready soon, and I’ll share them in an extra update.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5617/b17147dd-cf89-4cd2-8edc-6767f495c11c.jpg",
+    "publishedAt": "2026-10-13T09:08:21.56Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/spell-rift-legends/updates/21",
+    "sequenceNumber": 21
+  },
+  {
+    "id": 47715,
+    "projectId": 8524,
+    "projectName": "Nemesis Legacy",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "nemesis-legacy",
+    "title": "DAY 7: NEW CREWMEMBER CLASS: THE TECHIE / HELP US CHOOSE WHO JOINS THE CREW!",
+    "excerpt": "Week 1 ends with over 15,000 backers! Meet Techie, our newest free Crewmember class for Legacy, Infinity Mode, and Retaliation, and help us decide whether Nico Ríos or Sora will join the crew.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/90fb3553-c7e3-4187-b8e0-ec12a442809c.jpg",
+    "publishedAt": "2026-10-12T19:00:24.487Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/11",
+    "sequenceNumber": 11
+  },
+  {
     "id": 47714,
     "projectId": 6461,
     "projectName": "Trials of Maya",
@@ -63,19 +102,6 @@
     "publishedAt": "2026-10-12T09:00:00Z",
     "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/13",
     "sequenceNumber": 13
-  },
-  {
-    "id": 47655,
-    "projectId": 8524,
-    "projectName": "Nemesis Legacy",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "nemesis-legacy",
-    "title": "DAY 5: THE SCOPE | FLESHBEASTS INCOMING!",
-    "excerpt": "OVER 14,000 backers are already on board! Ian Vale becomes The Scope, and six Fleshbeasts join the Evolved Carnomorphs!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/a409d890-d397-4a32-873c-338a49884184.jpg",
-    "publishedAt": "2026-10-10T19:36:21.387Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/10",
-    "sequenceNumber": 10
   },
   {
     "id": 46348,
@@ -193,19 +219,6 @@
     "publishedAt": "2026-10-06T06:32:34.367Z",
     "url": "https://gamefound.com/en/projects/ghostfire-gaming/aberration-oblivions-embrace-expansion-and-reprint/updates/24",
     "sequenceNumber": 24
-  },
-  {
-    "id": 46412,
-    "projectId": 3848,
-    "projectName": "Grimcoven",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "grimcoven",
-    "title": "LANG (other than English) versions SHIPPING UPDATE #6",
-    "excerpt": "LANG editions' fulfillment is almost complete! Learn more about the current delivery status for remaining destinations in today's update.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3848/e86f2f99-89dc-4f89-a893-47bf3227427c.png",
-    "publishedAt": "2026-10-05T18:53:54.06Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/grimcoven/updates/52",
-    "sequenceNumber": 52
   },
   {
     "id": 46410,
@@ -505,19 +518,6 @@
     "publishedAt": "2026-09-17T16:33:53.347Z",
     "url": "https://gamefound.com/en/projects/level-99-games/dbd/updates/18",
     "sequenceNumber": 18
-  },
-  {
-    "id": 44245,
-    "projectId": 5617,
-    "projectName": "Spell Rift Legends",
-    "projectCreator": "dragori-games",
-    "projectSlug": "spell-rift-legends",
-    "title": "Development Update #4 - A Better Game, One Month Later",
-    "excerpt": "Four gameplay improvements, reworked miniatures, campaign overview, and delivery moves to February.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5617/dd24f0d2-6294-4bff-b2d9-95aeda4445b6.jpg",
-    "publishedAt": "2026-09-11T07:50:06.647Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/spell-rift-legends/updates/20",
-    "sequenceNumber": 20
   },
   {
     "id": 42756,
