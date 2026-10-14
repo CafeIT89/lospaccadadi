@@ -308,11 +308,6 @@ export const GAMEFOUND_PROJECTS: GamefoundProject[] = [
   slug: "against-the-storm--the-board-game",
 },
 {
-  name: "Avalon: The Riven Veil – 2nd Printing",
-  creator: "shadowborne-games",
-  slug: "avalon-the-riven-veil-2nd-printing",
-},
-{
   name: "Trials of Maya",
   creator: "zainmemon",
   slug: "trialsofmaya",
@@ -347,4 +342,35 @@ export const GAMEFOUND_PROJECTS: GamefoundProject[] = [
   slug: "the-waste-of-parts-siren-signals",
   projectId: 13247,
 },
+{
+  name: "The Thing: The Boardgame & The Cardgame",
+  creator: "pendragon-game-studio-srl",
+  slug: "the-thing-the-boardgame--the-cardgame",
+  projectId: 10031,
+},
+  {
+  name: "Avalon: The Riven Veil (2nd Printing)",
+  creator: "Shadowborne-Games",
+  slug: "avalon-the-riven-veil-2nd-printing",
+  projectId: 13201,
+  },   
+{
+  name: "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
+  creator: "xplored",
+  slug: "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
+  projectId: 11178,
+},  
+{
+  name: "Ready Set Fight",
+  creator: "boiling-point-games",
+  slug: "ready-set-fight",
+  projectId: 8196,
+},  
+{
+  name: "Six Sided Summoner",
+  creator: "ply-games",
+  slug: "six-sided-summoner",
+  projectId: 8531,
+},
+
 ];
