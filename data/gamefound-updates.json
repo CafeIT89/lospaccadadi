@@ -1,5 +1,31 @@
 [
   {
+    "id": 47869,
+    "projectId": 8196,
+    "projectName": "Ready Set Fight",
+    "projectCreator": "boiling-point-games",
+    "projectSlug": "ready-set-fight",
+    "title": "Day 1 Is Behind Us. The Fight Is Far From Over! 👊",
+    "excerpt": "Day 1 is behind us, but the fight is far from over! Thank you to everyone who supported Ready Set Fight. With 13 days left, our team is more determined than ever to bring this game to life. There's no quit in us! 👊",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8196/4b63cd1a-94b2-4a70-bf16-c69cc5b68066.png",
+    "publishedAt": "2026-10-14T21:22:46.6Z",
+    "url": "https://gamefound.com/en/projects/boiling-point-games/ready-set-fight/updates/1",
+    "sequenceNumber": 1
+  },
+  {
+    "id": 47863,
+    "projectId": 8524,
+    "projectName": "Nemesis Legacy",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "nemesis-legacy",
+    "title": "DAY 9: SORA JOINS THE CREW / METAGORGERS / MORE ABOUT INFINITY MODE!",
+    "excerpt": "Week 2 begins with over 16,000 backers! Sora becomes The Techie, 20 Metagorgers join the Evolved Carnomorphs with a new community vote, and we take a closer look at Infinity Mode!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/79e76846-26a7-4344-af06-9d7d912482c9.jpg",
+    "publishedAt": "2026-10-14T19:30:33.003Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/12",
+    "sequenceNumber": 12
+  },
+  {
     "id": 47847,
     "projectId": 11313,
     "projectName": "Miskatonic Expeditions",
@@ -141,19 +167,6 @@
     "publishedAt": "2026-10-13T09:08:21.56Z",
     "url": "https://gamefound.com/en/projects/dragori-games/spell-rift-legends/updates/21",
     "sequenceNumber": 21
-  },
-  {
-    "id": 47715,
-    "projectId": 8524,
-    "projectName": "Nemesis Legacy",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "nemesis-legacy",
-    "title": "DAY 7: NEW CREWMEMBER CLASS: THE TECHIE / HELP US CHOOSE WHO JOINS THE CREW!",
-    "excerpt": "Week 1 ends with over 15,000 backers! Meet Techie, our newest free Crewmember class for Legacy, Infinity Mode, and Retaliation, and help us decide whether Nico Ríos or Sora will join the crew.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/90fb3553-c7e3-4187-b8e0-ec12a442809c.jpg",
-    "publishedAt": "2026-10-12T19:00:24.487Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/11",
-    "sequenceNumber": 11
   },
   {
     "id": 47708,
