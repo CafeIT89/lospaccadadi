@@ -1,5 +1,44 @@
 [
   {
+    "id": 47847,
+    "projectId": 11313,
+    "projectName": "Miskatonic Expeditions",
+    "projectCreator": "papertigers",
+    "projectSlug": "miskatonic-expeditions",
+    "title": "Choose the Art for The High Priest Not to Be Described!",
+    "excerpt": "Poll: Which Outsider Design Should Join the University?",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/6bcb96a4-9fcd-41d5-b052-2878828f31ce.png",
+    "publishedAt": "2026-10-14T15:00:00Z",
+    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/15",
+    "sequenceNumber": 15
+  },
+  {
+    "id": 46515,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "A Conversation with Richard Launius",
+    "excerpt": "A word from the game designer about the early days of the project, and what comes next.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/57de276d-2615-439a-a5b6-3745a0500ec4.png",
+    "publishedAt": "2026-10-14T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/13",
+    "sequenceNumber": 13
+  },
+  {
+    "id": 47850,
+    "projectId": 8534,
+    "projectName": "Call of Cthulhu: Old Ones Origins",
+    "projectCreator": "chaosium",
+    "projectSlug": "call-of-cthulhu-old-ones-origins",
+    "title": "Yithian Archives Record #25. Daily Reveal: Gamefound Exclusive: Dice Tower! Stretch Goal unlocked! AMA!",
+    "excerpt": "Today we unveil the Gamefound Exclusive Dice Tower for Old Ones Origins! We have also gathered all the questions and answers from yesterday’s Ask Me Anything in one place, so you can easily catch up on the discussion.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/7204a8c1-722e-4ce1-85a9-5ad58bd6babe.png",
+    "publishedAt": "2026-10-14T13:59:43.65Z",
+    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/25",
+    "sequenceNumber": 25
+  },
+  {
     "id": 47811,
     "projectId": 6461,
     "projectName": "Trials of Maya",
@@ -11,19 +50,6 @@
     "publishedAt": "2026-10-13T19:40:40.15Z",
     "url": "https://gamefound.com/en/projects/zainmemon/trialsofmaya/updates/26",
     "sequenceNumber": 26
-  },
-  {
-    "id": 47787,
-    "projectId": 11313,
-    "projectName": "Miskatonic Expeditions",
-    "projectCreator": "papertigers",
-    "projectSlug": "miskatonic-expeditions",
-    "title": "Reading the Fine Print: Book Cards Explained",
-    "excerpt": "The Types of Tomes and What They Do",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/75bd50ad-cc6b-4067-81c0-443cafc60a9c.png",
-    "publishedAt": "2026-10-13T16:41:28.143Z",
-    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/14",
-    "sequenceNumber": 14
   },
   {
     "id": 47727,
@@ -50,19 +76,6 @@
     "publishedAt": "2026-10-13T14:30:00Z",
     "url": "https://gamefound.com/en/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions/updates/18",
     "sequenceNumber": 18
-  },
-  {
-    "id": 47772,
-    "projectId": 8534,
-    "projectName": "Call of Cthulhu: Old Ones Origins",
-    "projectCreator": "chaosium",
-    "projectSlug": "call-of-cthulhu-old-ones-origins",
-    "title": "Yithian Archives Record #24. Daily Reveal: Double-sided Influence Upgrade Cards! New Stretch Goal!",
-    "excerpt": "Today’s Update reveals more Influence Upgrade options, introduces our next Stretch Goal, and gives you a quick overview of everything available in the campaign!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/01dd1f7a-f1e1-428a-9931-fd0f6178fed3.png",
-    "publishedAt": "2026-10-13T14:06:04.38Z",
-    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/24",
-    "sequenceNumber": 24
   },
   {
     "id": 47754,
@@ -102,19 +115,6 @@
     "publishedAt": "2026-10-12T19:00:24.487Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/11",
     "sequenceNumber": 11
-  },
-  {
-    "id": 46540,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "What awaits you on the Other Side?",
-    "excerpt": "And who will be your first choice to bring calm to chaos?",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/3ecc3022-2f5b-413b-ba14-8da499794623.png",
-    "publishedAt": "2026-10-12T14:00:00Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/12",
-    "sequenceNumber": 12
   },
   {
     "id": 46348,
