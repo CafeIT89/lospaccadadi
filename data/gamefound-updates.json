@@ -39,6 +39,45 @@
     "sequenceNumber": 25
   },
   {
+    "id": 47836,
+    "projectId": 11178,
+    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
+    "projectCreator": "xplored",
+    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
+    "title": "The Curse of Competition",
+    "excerpt": "A campaign update on the new competative DLC for The Bad Karmas and the Curse of Competition",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/a343f224-b193-4735-a451-666c35030d31.png",
+    "publishedAt": "2026-10-14T11:00:00Z",
+    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/6",
+    "sequenceNumber": 6
+  },
+  {
+    "id": 47813,
+    "projectId": 8531,
+    "projectName": "Six Sided Summoner",
+    "projectCreator": "ply-games",
+    "projectSlug": "six-sided-summoner",
+    "title": "Six Sided Summoner is funded!",
+    "excerpt": "Six Sided Summoner is officially funded! Here is our plan for 10 daily Stretch Goals starting tomorrow at 18:00 CEST, an update on language localizations, and details about our upcoming gameplay video.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8531/ded95aab-07ec-477f-9a1c-462ee8757fc7.jpg",
+    "publishedAt": "2026-10-13T21:45:55.003Z",
+    "url": "https://gamefound.com/en/projects/ply-games/six-sided-summoner/updates/4",
+    "sequenceNumber": 4
+  },
+  {
+    "id": 47764,
+    "projectId": 13201,
+    "projectName": "Avalon: The Riven Veil (2nd Printing)",
+    "projectCreator": "Shadowborne-Games",
+    "projectSlug": "avalon-the-riven-veil-2nd-printing",
+    "title": "UPDATE #1 – We Are Funded, Thank You! The Express Road to Avalon, the Lore of Avalon and the Return of Vernax",
+    "excerpt": "Avalon: The Riven Veil 2nd Print is funded! We are bringing back the complete board game of Arthurian legend, featuring five factions, epic battles, and Vernax the mad Dragon.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13201/1c58bebe-8822-4b5f-8f67-02918ba51a5d.png",
+    "publishedAt": "2026-10-13T21:17:52.243Z",
+    "url": "https://gamefound.com/en/projects/shadowborne-games/avalon-the-riven-veil-2nd-printing/updates/1",
+    "sequenceNumber": 1
+  },
+  {
     "id": 47811,
     "projectId": 6461,
     "projectName": "Trials of Maya",
@@ -115,6 +154,19 @@
     "publishedAt": "2026-10-12T19:00:24.487Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/11",
     "sequenceNumber": 11
+  },
+  {
+    "id": 47708,
+    "projectId": 10031,
+    "projectName": "The Thing: The Boardgame & The Cardgame",
+    "projectCreator": "pendragon-game-studio-srl",
+    "projectSlug": "the-thing-the-boardgame--the-cardgame",
+    "title": "The Thing launches on November 10th!",
+    "excerpt": "Campaign Launch on November 10th and Answers to Frequently Asked Questions",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/47e98262-cee1-416f-98ee-fcb327df4f75.png",
+    "publishedAt": "2026-10-12T15:05:02.063Z",
+    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/2",
+    "sequenceNumber": 2
   },
   {
     "id": 46348,
