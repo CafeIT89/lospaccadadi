@@ -1,5 +1,31 @@
 [
   {
+    "id": 47938,
+    "projectId": 8196,
+    "projectName": "Ready Set Fight",
+    "projectCreator": "boiling-point-games",
+    "projectSlug": "ready-set-fight",
+    "title": "A Special Message From Julius Cross.",
+    "excerpt": "Julius Cross, trillionaire CEO, organizer, and host of the Veritas Tournament, personally thanks our 57 backers for helping Ready Set Fight surpass $10,000 and reach 50% funding! But the fight is far from over. The tournament is just getting started!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8196/80f58c84-4744-4fe1-a8a5-8b1cde71017b.jpg",
+    "publishedAt": "2026-10-15T19:51:49.18Z",
+    "url": "https://gamefound.com/en/projects/boiling-point-games/ready-set-fight/updates/2",
+    "sequenceNumber": 2
+  },
+  {
+    "id": 46344,
+    "projectId": 9719,
+    "projectName": "The Lord of the Rings: Ascension",
+    "projectCreator": "stoneblade",
+    "projectSlug": "the-lord-of-the-rings-ascension",
+    "title": "New Art: Black Rider & Galadriel",
+    "excerpt": "We’re back with another look at two new pieces of art from The Lord of the Rings™: Ascension™",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9719/6ac7b968-6d83-4f98-b3e4-51718daf4e62.png",
+    "publishedAt": "2026-10-15T17:21:56.15Z",
+    "url": "https://gamefound.com/en/projects/stoneblade/the-lord-of-the-rings-ascension/updates/45",
+    "sequenceNumber": 45
+  },
+  {
     "id": 47921,
     "projectId": 11313,
     "projectName": "Miskatonic Expeditions",
@@ -63,19 +89,6 @@
     "publishedAt": "2026-10-15T09:24:17.937Z",
     "url": "https://gamefound.com/en/projects/dark-gate-games/echoes-of-arkham/updates/39",
     "sequenceNumber": 39
-  },
-  {
-    "id": 47869,
-    "projectId": 8196,
-    "projectName": "Ready Set Fight",
-    "projectCreator": "boiling-point-games",
-    "projectSlug": "ready-set-fight",
-    "title": "Day 1 Is Behind Us. The Fight Is Far From Over! 👊",
-    "excerpt": "Day 1 is behind us, but the fight is far from over! Thank you to everyone who supported Ready Set Fight. With 13 days left, our team is more determined than ever to bring this game to life. There's no quit in us! 👊",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8196/4b63cd1a-94b2-4a70-bf16-c69cc5b68066.png",
-    "publishedAt": "2026-10-14T21:22:46.6Z",
-    "url": "https://gamefound.com/en/projects/boiling-point-games/ready-set-fight/updates/1",
-    "sequenceNumber": 1
   },
   {
     "id": 47863,
@@ -518,19 +531,6 @@
     "publishedAt": "2026-09-28T14:19:46.45Z",
     "url": "https://gamefound.com/en/projects/devir/claustrophobia-1692/updates/22",
     "sequenceNumber": 22
-  },
-  {
-    "id": 44781,
-    "projectId": 9719,
-    "projectName": "The Lord of the Rings: Ascension",
-    "projectCreator": "stoneblade",
-    "projectSlug": "the-lord-of-the-rings-ascension",
-    "title": "Important Tax Update for Canada, Australia & New Zealand",
-    "excerpt": "An important update for backers in Canada, Australia, and New Zealand regarding how applicable taxes will be handled in the Pledge Manager.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9719/e5d10b6f-f6b7-47c0-b0b1-ba6400400877.png",
-    "publishedAt": "2026-09-28T13:34:56.707Z",
-    "url": "https://gamefound.com/en/projects/stoneblade/the-lord-of-the-rings-ascension/updates/44",
-    "sequenceNumber": 44
   },
   {
     "id": 44673,
