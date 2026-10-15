@@ -1,15 +1,54 @@
 [
   {
-    "id": 47891,
+    "id": 47921,
+    "projectId": 11313,
+    "projectName": "Miskatonic Expeditions",
+    "projectCreator": "papertigers",
+    "projectSlug": "miskatonic-expeditions",
+    "title": "Things from the Great Outside",
+    "excerpt": "Discover three more Outsiders lurking in the halls of Miskatonic University",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/811fa8bf-e550-4a4b-be03-0c6b9a45aa25.png",
+    "publishedAt": "2026-10-15T16:00:00Z",
+    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/16",
+    "sequenceNumber": 16
+  },
+  {
+    "id": 44767,
+    "projectId": 6517,
+    "projectName": "Quake: The Board Game",
+    "projectCreator": "archon-studio",
+    "projectSlug": "quake-the-board-game",
+    "title": "Monster Showcase",
+    "excerpt": "It wouldn't be quake without some target practice! But be careful, they bite back.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6517/45a62f89-d069-43ba-aaff-ee9a7b662989.png",
+    "publishedAt": "2026-10-15T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/archon-studio/quake-the-board-game/updates/11",
+    "sequenceNumber": 11
+  },
+  {
+    "id": 47913,
     "projectId": 8534,
     "projectName": "Call of Cthulhu: Old Ones Origins",
     "projectCreator": "chaosium",
     "projectSlug": "call-of-cthulhu-old-ones-origins",
-    "title": "Yithian Archives Record #26. Daily Reveal: Gamefound Exclusive Victory marker mini! New Stretch Goal! Endgame!",
-    "excerpt": "Today, we’re revealing the Gamefound Exclusive Victory Marker Mini, unveiling a new Stretch Goal, and explaining how the Endgame phase works as we approach the final hours of the Old Ones Origins campaign. The final countdown is on!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/682338bb-eed0-4d94-af56-3c446fb3cfdb.png",
-    "publishedAt": "2026-10-15T10:00:18.337Z",
-    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/26",
+    "title": "Yithian Archives Record #27. Endgame! The final countdown is on!",
+    "excerpt": "The final countdown is on! The Old Ones Origins campaign is nearing its end, but the Endgame phase gives us a chance to extend it. Find out how you can trigger Endgame and help more backers join the cosmic conflict!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/ebe2b19c-e860-43ec-99e4-858748269bed.png",
+    "publishedAt": "2026-10-15T13:42:24.3Z",
+    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/27",
+    "sequenceNumber": 27
+  },
+  {
+    "id": 47899,
+    "projectId": 5385,
+    "projectName": "Dragon Eclipse: The Grand Quest",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "dragon-eclipse-the-grand-quest",
+    "title": "1st wave (OG Dragon Eclipse & MA) SHIPPING UPDATE #1",
+    "excerpt": "First Mystlings aboard! Check out today's update to learn more about the 1st wave fulfillment initiation.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5385/e6058184-b835-43ba-81b7-8a6fad6ddc2d.png",
+    "publishedAt": "2026-10-15T12:16:01.093Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/dragon-eclipse-the-grand-quest/updates/26",
     "sequenceNumber": 26
   },
   {
@@ -50,19 +89,6 @@
     "publishedAt": "2026-10-14T19:30:33.003Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/12",
     "sequenceNumber": 12
-  },
-  {
-    "id": 47847,
-    "projectId": 11313,
-    "projectName": "Miskatonic Expeditions",
-    "projectCreator": "papertigers",
-    "projectSlug": "miskatonic-expeditions",
-    "title": "Choose the Art for The High Priest Not to Be Described!",
-    "excerpt": "Poll: Which Outsider Design Should Join the University?",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/6bcb96a4-9fcd-41d5-b052-2878828f31ce.png",
-    "publishedAt": "2026-10-14T15:00:00Z",
-    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/15",
-    "sequenceNumber": 15
   },
   {
     "id": 46515,
@@ -507,19 +533,6 @@
     "sequenceNumber": 44
   },
   {
-    "id": 44786,
-    "projectId": 5385,
-    "projectName": "Dragon Eclipse: The Grand Quest",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "dragon-eclipse-the-grand-quest",
-    "title": "1st Wave Production CONCLUDED | Grand Quest Campaign - Testing SUMMARY",
-    "excerpt": "Welcome, Tamers! As the PRODUCTION of Dragon Eclipse OG and Mystling Academy has been CONCLUDED, we're only a step away from kicking off fulfillment. Also, Grand Quest DEVELOPMENT is getting closer to the finish line! Learn more in today's update...",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5385/beaf4451-f301-4632-ace9-66b740e0be90.png",
-    "publishedAt": "2026-09-28T11:30:19.32Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/dragon-eclipse-the-grand-quest/updates/25",
-    "sequenceNumber": 25
-  },
-  {
     "id": 44673,
     "projectId": 4693,
     "projectName": "Black Rose Wars: Rebirth",
@@ -583,19 +596,6 @@
     "publishedAt": "2026-09-23T21:13:00.513Z",
     "url": "https://gamefound.com/en/projects/indie-boards-and-cards/aeons-end-system-overload/updates/17",
     "sequenceNumber": 17
-  },
-  {
-    "id": 44433,
-    "projectId": 6517,
-    "projectName": "Quake: The Board Game",
-    "projectCreator": "archon-studio",
-    "projectSlug": "quake-the-board-game",
-    "title": "Champion Showcase",
-    "excerpt": "A breakdown of the different playstyles you'll find in the game!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6517/1f400091-3c3c-450d-bbc9-6e6e6709f69b.png",
-    "publishedAt": "2026-09-18T14:00:00Z",
-    "url": "https://gamefound.com/en/projects/archon-studio/quake-the-board-game/updates/10",
-    "sequenceNumber": 10
   },
   {
     "id": 44539,
