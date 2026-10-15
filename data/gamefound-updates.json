@@ -1,5 +1,31 @@
 [
   {
+    "id": 47891,
+    "projectId": 8534,
+    "projectName": "Call of Cthulhu: Old Ones Origins",
+    "projectCreator": "chaosium",
+    "projectSlug": "call-of-cthulhu-old-ones-origins",
+    "title": "Yithian Archives Record #26. Daily Reveal: Gamefound Exclusive Victory marker mini! New Stretch Goal! Endgame!",
+    "excerpt": "Today, we’re revealing the Gamefound Exclusive Victory Marker Mini, unveiling a new Stretch Goal, and explaining how the Endgame phase works as we approach the final hours of the Old Ones Origins campaign. The final countdown is on!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/682338bb-eed0-4d94-af56-3c446fb3cfdb.png",
+    "publishedAt": "2026-10-15T10:00:18.337Z",
+    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/26",
+    "sequenceNumber": 26
+  },
+  {
+    "id": 47887,
+    "projectId": 6043,
+    "projectName": "Echoes of Arkham",
+    "projectCreator": "dark-gate-games",
+    "projectSlug": "echoes-of-arkham",
+    "title": "Development Update – Beyond the Veil",
+    "excerpt": "New Artwork, Miniatures Ahead of Schedule.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6043/0ed13071-bdc1-4e39-994b-597529cae7d0.jpg",
+    "publishedAt": "2026-10-15T09:24:17.937Z",
+    "url": "https://gamefound.com/en/projects/dark-gate-games/echoes-of-arkham/updates/39",
+    "sequenceNumber": 39
+  },
+  {
     "id": 47869,
     "projectId": 8196,
     "projectName": "Ready Set Fight",
@@ -50,19 +76,6 @@
     "publishedAt": "2026-10-14T14:00:00Z",
     "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/13",
     "sequenceNumber": 13
-  },
-  {
-    "id": 47850,
-    "projectId": 8534,
-    "projectName": "Call of Cthulhu: Old Ones Origins",
-    "projectCreator": "chaosium",
-    "projectSlug": "call-of-cthulhu-old-ones-origins",
-    "title": "Yithian Archives Record #25. Daily Reveal: Gamefound Exclusive: Dice Tower! Stretch Goal unlocked! AMA!",
-    "excerpt": "Today we unveil the Gamefound Exclusive Dice Tower for Old Ones Origins! We have also gathered all the questions and answers from yesterday’s Ask Me Anything in one place, so you can easily catch up on the discussion.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/7204a8c1-722e-4ce1-85a9-5ad58bd6babe.png",
-    "publishedAt": "2026-10-14T13:59:43.65Z",
-    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/25",
-    "sequenceNumber": 25
   },
   {
     "id": 47836,
@@ -648,19 +661,6 @@
     "publishedAt": "2026-09-01T12:05:34.18Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/below-asylum/updates/25",
     "sequenceNumber": 25
-  },
-  {
-    "id": 41561,
-    "projectId": 6043,
-    "projectName": "Echoes of Arkham",
-    "projectCreator": "dark-gate-games",
-    "projectSlug": "echoes-of-arkham",
-    "title": "Full Speed Ahead: Miniatures, Stories, and New Artwork",
-    "excerpt": "Miniatures Moving Toward Production, New Artwork, and Story Development",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6043/896911f2-1df3-46d0-a9b8-b5c4702c3683.jpg",
-    "publishedAt": "2026-08-26T12:56:20.323Z",
-    "url": "https://gamefound.com/en/projects/dark-gate-games/echoes-of-arkham/updates/38",
-    "sequenceNumber": 38
   },
   {
     "id": 41428,

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-15T04:32:33.622Z",
+  "updatedAt": "2026-10-15T11:22:46.950Z",
   "projects": [
     {
       "name": "Nemesis Legacy",
       "creator": "Awaken Realms",
       "url": "https://gamefound.com/projects/awaken-realms/nemesis-legacy",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8524/8246040c-ef12-419c-b133-b98cc169b431.jpg",
-      "fundsGathered": 5664696.88,
+      "fundsGathered": 5691284.17,
       "currency": "EUR",
-      "backerCount": 16423,
+      "backerCount": 16516,
       "campaignEndDate": "2026-10-27T19:00:00Z"
     },
     {
@@ -16,9 +16,9 @@
       "creator": "MOOD Publishing",
       "url": "https://gamefound.com/projects/mood-publishing/satisfactory-the-board-game",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11362/cbd459fe-aa2f-49a4-bb9a-57df2837b839.png",
-      "fundsGathered": 1268022.52,
+      "fundsGathered": 1310957.92,
       "currency": "EUR",
-      "backerCount": 4982,
+      "backerCount": 5142,
       "campaignEndDate": "2026-11-10T15:00:00Z"
     },
     {
@@ -26,9 +26,9 @@
       "creator": "Redzen Games",
       "url": "https://gamefound.com/projects/redzen/gang-wars",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/9938/fb9012d3-0179-4670-8e46-1a1973aea878.png",
-      "fundsGathered": 758962.69,
+      "fundsGathered": 775161.2,
       "currency": "EUR",
-      "backerCount": 3695,
+      "backerCount": 3760,
       "campaignEndDate": "2026-10-15T20:00:00Z"
     },
     {
@@ -36,9 +36,9 @@
       "creator": "Chaosium Inc.",
       "url": "https://gamefound.com/projects/chaosium/call-of-cthulhu-old-ones-origins",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8534/836e992f-a1f0-4a32-9de6-4ad0c05f95dd.png",
-      "fundsGathered": 673146.15,
+      "fundsGathered": 709970.65,
       "currency": "USD",
-      "backerCount": 2741,
+      "backerCount": 2799,
       "campaignEndDate": "2026-10-15T14:00:00Z"
     },
     {
@@ -46,9 +46,9 @@
       "creator": "THQ Nordic",
       "url": "https://gamefound.com/projects/thq-nordic/gothic---a-shadows-quest",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/5749/c7773060-2b26-40ef-84df-8fc643e70237.jpg",
-      "fundsGathered": 581853.13,
+      "fundsGathered": 584140.07,
       "currency": "EUR",
-      "backerCount": 2469,
+      "backerCount": 2479,
       "campaignEndDate": "2026-10-23T13:00:00Z"
     }
   ]
