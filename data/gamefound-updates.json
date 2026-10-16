@@ -1,5 +1,18 @@
 [
   {
+    "id": 47929,
+    "projectId": 3917,
+    "projectName": "Blood",
+    "projectCreator": "lms",
+    "projectSlug": "blood_lms",
+    "title": "Spiel Show!",
+    "excerpt": "October Production Update",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3917/85b9eab0-c9f6-4a56-917d-07fe5df8b841.jpg",
+    "publishedAt": "2026-10-16T10:03:17.72Z",
+    "url": "https://gamefound.com/en/projects/lms/blood_lms/updates/56",
+    "sequenceNumber": 56
+  },
+  {
     "id": 47940,
     "projectId": 8534,
     "projectName": "Call of Cthulhu: Old Ones Origins",
@@ -466,19 +479,6 @@
     "publishedAt": "2026-09-30T12:17:32.557Z",
     "url": "https://gamefound.com/en/projects/go-on-board/cyberpunk-2077-the-board-game/updates/62",
     "sequenceNumber": 62
-  },
-  {
-    "id": 45000,
-    "projectId": 3917,
-    "projectName": "Blood",
-    "projectCreator": "lms",
-    "projectSlug": "blood_lms",
-    "title": "BACK TO WORK IN TRANSYLVANIA!",
-    "excerpt": "September Production Update!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3917/a129c206-d289-40a7-9ac5-bceb465f425d.jpg",
-    "publishedAt": "2026-09-30T08:34:46.407Z",
-    "url": "https://gamefound.com/en/projects/lms/blood_lms/updates/55",
-    "sequenceNumber": 55
   },
   {
     "id": 45124,
