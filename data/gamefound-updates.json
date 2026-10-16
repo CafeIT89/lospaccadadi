@@ -1,5 +1,18 @@
 [
   {
+    "id": 47940,
+    "projectId": 8534,
+    "projectName": "Call of Cthulhu: Old Ones Origins",
+    "projectCreator": "chaosium",
+    "projectSlug": "call-of-cthulhu-old-ones-origins",
+    "title": "Yithian Archives Record #28. THANK YOU!",
+    "excerpt": "Thank you for joining Old Ones Origins! In this update, we’re celebrating everything we’ve achieved together during the campaign and EndGame.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/f8d0e184-6cd3-428c-8ea6-8bf5e3926ddf.png",
+    "publishedAt": "2026-10-16T00:00:32.153Z",
+    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/28",
+    "sequenceNumber": 28
+  },
+  {
     "id": 47938,
     "projectId": 8196,
     "projectName": "Ready Set Fight",
@@ -50,19 +63,6 @@
     "publishedAt": "2026-10-15T14:00:00Z",
     "url": "https://gamefound.com/en/projects/archon-studio/quake-the-board-game/updates/11",
     "sequenceNumber": 11
-  },
-  {
-    "id": 47913,
-    "projectId": 8534,
-    "projectName": "Call of Cthulhu: Old Ones Origins",
-    "projectCreator": "chaosium",
-    "projectSlug": "call-of-cthulhu-old-ones-origins",
-    "title": "Yithian Archives Record #27. Endgame! The final countdown is on!",
-    "excerpt": "The final countdown is on! The Old Ones Origins campaign is nearing its end, but the Endgame phase gives us a chance to extend it. Find out how you can trigger Endgame and help more backers join the cosmic conflict!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/ebe2b19c-e860-43ec-99e4-858748269bed.png",
-    "publishedAt": "2026-10-15T13:42:24.3Z",
-    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/27",
-    "sequenceNumber": 27
   },
   {
     "id": 47899,
