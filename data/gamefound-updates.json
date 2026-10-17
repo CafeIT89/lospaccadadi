@@ -1,5 +1,18 @@
 [
   {
+    "id": 48049,
+    "projectId": 11765,
+    "projectName": "Dungeon of Tanares",
+    "projectCreator": "dragori-games",
+    "projectSlug": "dungeon-of-tanares",
+    "title": "3 Days to Launch: Pledges Revealed, Community Rewards Unlocked",
+    "excerpt": "Polish joins the adventure, and you decide who Taram heals",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/1886a594-5c57-40a2-a71b-b217ad3412ef.jpeg",
+    "publishedAt": "2026-10-17T19:09:17.057Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/8",
+    "sequenceNumber": 8
+  },
+  {
     "id": 48007,
     "projectId": 10066,
     "projectName": "Eldfall Chronicles: Apocrypha",
@@ -323,19 +336,6 @@
     "publishedAt": "2026-10-09T12:14:43.47Z",
     "url": "https://gamefound.com/en/projects/asmodee/dmd-forbidden-reaches/updates/98",
     "sequenceNumber": 98
-  },
-  {
-    "id": 46586,
-    "projectId": 11765,
-    "projectName": "Dungeon of Tanares",
-    "projectCreator": "dragori-games",
-    "projectSlug": "dungeon-of-tanares",
-    "title": "Why Tanares Leveled Up, Expansions & Pledge Prices",
-    "excerpt": "Today, we’re revealing the main pledge prices and taking a closer look at Ungod War and Old Depths.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/edc4ba78-41f7-40ef-8f50-821ee79801cd.jpeg",
-    "publishedAt": "2026-10-09T05:28:15.643Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/7",
-    "sequenceNumber": 7
   },
   {
     "id": 46537,
