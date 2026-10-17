@@ -1,5 +1,18 @@
 [
   {
+    "id": 48007,
+    "projectId": 10066,
+    "projectName": "Eldfall Chronicles: Apocrypha",
+    "projectCreator": "eldfall-chronicles",
+    "projectSlug": "eldfall-chronicles-apocrypha",
+    "title": "Meet the Heroes – The Band of the Dragon",
+    "excerpt": "Once united under the banner of the Dragon, four legendary adventurers were torn apart by a fateful expedition into the Sealed Archives. Two decades later, their paths are about to cross once more.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/500fd390-7f4e-4e8c-88f6-d21149c8127a.jpg",
+    "publishedAt": "2026-10-17T12:36:55.27Z",
+    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/4",
+    "sequenceNumber": 4
+  },
+  {
     "id": 48009,
     "projectId": 8524,
     "projectName": "Nemesis Legacy",
@@ -336,19 +349,6 @@
     "publishedAt": "2026-10-08T11:07:26.473Z",
     "url": "https://gamefound.com/en/projects/skytear/exceed-skytear/updates/9",
     "sequenceNumber": 9
-  },
-  {
-    "id": 46440,
-    "projectId": 10066,
-    "projectName": "Eldfall Chronicles: Apocrypha",
-    "projectCreator": "eldfall-chronicles",
-    "projectSlug": "eldfall-chronicles-apocrypha",
-    "title": "Where Nightmares and Stories Come to Life!",
-    "excerpt": "Meet the twisted inhabitants of the Sealed Archive, from corrupted servants and deceptive Mimics to Nightmares born from stories gone wrong.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/0f0bab1a-3562-4412-b5ea-6f3a0e77a9ff.jpg",
-    "publishedAt": "2026-10-07T13:25:19.26Z",
-    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/3",
-    "sequenceNumber": 3
   },
   {
     "id": 46484,
