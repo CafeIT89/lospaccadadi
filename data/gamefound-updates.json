@@ -1,5 +1,18 @@
 [
   {
+    "id": 48056,
+    "projectId": 8531,
+    "projectName": "Six Sided Summoner",
+    "projectCreator": "ply-games",
+    "projectSlug": "six-sided-summoner",
+    "title": "Rules Overview Video Published & Playthrough Schedule",
+    "excerpt": "In this update, we publish our official Rules Overview video and invite your questions in the comments. We also share a production status update on our Tutorial Scenario Playthrough video, which is now scheduled for filming this Monday.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8531/7557868a-6814-4746-a476-6b195222ede6.jpg",
+    "publishedAt": "2026-10-17T21:10:10.947Z",
+    "url": "https://gamefound.com/en/projects/ply-games/six-sided-summoner/updates/6",
+    "sequenceNumber": 6
+  },
+  {
     "id": 48049,
     "projectId": 11765,
     "projectName": "Dungeon of Tanares",
@@ -37,19 +50,6 @@
     "publishedAt": "2026-10-16T18:33:26Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/13",
     "sequenceNumber": 13
-  },
-  {
-    "id": 48002,
-    "projectId": 8531,
-    "projectName": "Six Sided Summoner",
-    "projectCreator": "ply-games",
-    "projectSlug": "six-sided-summoner",
-    "title": "Unlocked Stretch Goals, Boss Mechanics, Spanish Language Edition & Video Content Update",
-    "excerpt": "In this update, we share the latest unlocked Stretch Goals—including two Bosses with unique tactical mechanics—and confirm the printed Spanish edition. We also address language selection options and announce video filming scheduled for tomorrow.",
-    "image": "https://imgcdn.gamefound.com/projectimage/projects/8531/7441fef3-61fa-4ce9-83af-6ac64769de1a.jpg",
-    "publishedAt": "2026-10-16T16:30:32.577Z",
-    "url": "https://gamefound.com/en/projects/ply-games/six-sided-summoner/updates/5",
-    "sequenceNumber": 5
   },
   {
     "id": 47974,
