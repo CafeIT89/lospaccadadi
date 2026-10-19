@@ -1,5 +1,122 @@
 [
   {
+    "id": 48144,
+    "projectId": 8531,
+    "projectName": "Six Sided Summoner",
+    "projectCreator": "ply-games",
+    "projectSlug": "six-sided-summoner",
+    "title": "Content Blast, Unlocked Stretch Goals & Community Vote!",
+    "excerpt": "We have a packed update for you today! Over the last few days, we’ve been working non-stop to deliver fresh video content to show you exactly how Six Sided Summoner plays, looks, and feels on the table.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8531/bef056e3-9a18-4c30-a3ea-1f12fa8fc633.jpg",
+    "publishedAt": "2026-10-19T22:09:45.453Z",
+    "url": "https://gamefound.com/en/projects/ply-games/six-sided-summoner/updates/7",
+    "sequenceNumber": 7
+  },
+  {
+    "id": 48142,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "Live from beyond the gates",
+    "excerpt": "Join our livestream on October 20th, 3 pm EST!",
+    "image": null,
+    "publishedAt": "2026-10-19T21:35:22.007Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/15",
+    "sequenceNumber": 15
+  },
+  {
+    "id": 48132,
+    "projectId": 11645,
+    "projectName": "Grimdark Future: Jade Claw",
+    "projectCreator": "onepagerules",
+    "projectSlug": "grimdark-future-jade-claw",
+    "title": "Launching Tomorrow - New Digital Content & Unit Cards!",
+    "excerpt": "We're about to launch, and we added a few MORE things! Find out about them in our last update before the campaign goes live",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/aebaf284-d34b-4205-8ec9-dfc7929e5e87.jpg",
+    "publishedAt": "2026-10-19T19:39:52.36Z",
+    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/12",
+    "sequenceNumber": 12
+  },
+  {
+    "id": 47883,
+    "projectId": 13201,
+    "projectName": "Avalon: The Riven Veil (2nd Printing)",
+    "projectCreator": "Shadowborne-Games",
+    "projectSlug": "avalon-the-riven-veil-2nd-printing",
+    "title": "UPDATE #3 - Faction Deep Dive: The Druids, and Holofoil and Gold Foil, Triple Layer Boards and Hardback Artbook Showcase.",
+    "excerpt": "Discover the Druids, led by Merlin, and their ancient magic, Ley Lines, and colossal Ancient One. Explore Avalon’s Retail, Core, Deluxe, and Collector’s All-In editions to find the perfect pledge, with expansions available separately for existing owners.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13201/42569654-7f59-4705-a7e5-9deab8eacf65.png",
+    "publishedAt": "2026-10-19T18:36:51.95Z",
+    "url": "https://gamefound.com/en/projects/shadowborne-games/avalon-the-riven-veil-2nd-printing/updates/3",
+    "sequenceNumber": 3
+  },
+  {
+    "id": 48098,
+    "projectId": 11313,
+    "projectName": "Miskatonic Expeditions",
+    "projectCreator": "papertigers",
+    "projectSlug": "miskatonic-expeditions",
+    "title": "Miskatonic Expeditions recommends: Two Print & Play Adventures Worth Discovering",
+    "excerpt": "Looking for your next Print & Play adventure? Discover two projects by Florian Fiedler",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/8fb5f9f5-7ec0-4556-81b4-71bf7c9eb29e.png",
+    "publishedAt": "2026-10-19T16:31:00Z",
+    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/18",
+    "sequenceNumber": 18
+  },
+  {
+    "id": 48116,
+    "projectId": 5522,
+    "projectName": "Boktor",
+    "projectCreator": "fox-troll-games",
+    "projectSlug": "boktor-a-cooperative-dungeon-quest",
+    "title": "Shipping & Other News",
+    "excerpt": "Things are moving quickly, so here are plenty of small updates: shipping, playlist, Discord, BGG, Essen, and more!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5522/07908868-e240-4c8e-895c-c28859df26a1.jpeg",
+    "publishedAt": "2026-10-19T15:54:55.257Z",
+    "url": "https://gamefound.com/en/projects/fox-troll-games/boktor-a-cooperative-dungeon-quest/updates/44",
+    "sequenceNumber": 44
+  },
+  {
+    "id": 48099,
+    "projectId": 4693,
+    "projectName": "Black Rose Wars: Rebirth",
+    "projectCreator": "lms",
+    "projectSlug": "blackrosewars-re",
+    "title": "Inferno: Part 3",
+    "excerpt": "Dominate the power of Hell and discover the new add-ons!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4693/5a1d4d6c-2b85-42e0-8884-12df2e3d920a.png",
+    "publishedAt": "2026-10-19T14:51:47.667Z",
+    "url": "https://gamefound.com/en/projects/lms/blackrosewars-re/updates/45",
+    "sequenceNumber": 45
+  },
+  {
+    "id": 47904,
+    "projectId": 8527,
+    "projectName": "Scoundrels",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "scoundrels",
+    "title": "Campaign LAUNCHES in Q4 2026! | Prototype demo at SPIEL Essen 2026",
+    "excerpt": "Scoundrels! This is official - the campaign launches by the end of this year. Check out today's update for more news on the current development status of the game, the very first public prototype dropping at SPIEL Essen 2026, and much more!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8527/3642792b-75a9-4492-b43e-6950079e8fd2.jpg",
+    "publishedAt": "2026-10-19T14:30:00Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/scoundrels/updates/4",
+    "sequenceNumber": 4
+  },
+  {
+    "id": 48106,
+    "projectId": 11178,
+    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
+    "projectCreator": "xplored",
+    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
+    "title": "The Gardener and the Nurse",
+    "excerpt": "A campaign update on our first Hero Design Insights and new Stretch Goals.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/be556644-32ef-4d30-98a6-4ca6ed6e17fb.png",
+    "publishedAt": "2026-10-19T14:00:11.15Z",
+    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/8",
+    "sequenceNumber": 8
+  },
+  {
     "id": 48100,
     "projectId": 5386,
     "projectName": "This War of Mine: Second Edition",
@@ -39,19 +156,6 @@
     "sequenceNumber": 14
   },
   {
-    "id": 48056,
-    "projectId": 8531,
-    "projectName": "Six Sided Summoner",
-    "projectCreator": "ply-games",
-    "projectSlug": "six-sided-summoner",
-    "title": "Rules Overview Video Published & Playthrough Schedule",
-    "excerpt": "In this update, we publish our official Rules Overview video and invite your questions in the comments. We also share a production status update on our Tutorial Scenario Playthrough video, which is now scheduled for filming this Monday.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8531/7557868a-6814-4746-a476-6b195222ede6.jpg",
-    "publishedAt": "2026-10-17T21:10:10.947Z",
-    "url": "https://gamefound.com/en/projects/ply-games/six-sided-summoner/updates/6",
-    "sequenceNumber": 6
-  },
-  {
     "id": 48049,
     "projectId": 11765,
     "projectName": "Dungeon of Tanares",
@@ -78,45 +182,6 @@
     "sequenceNumber": 4
   },
   {
-    "id": 47974,
-    "projectId": 11313,
-    "projectName": "Miskatonic Expeditions",
-    "projectCreator": "papertigers",
-    "projectSlug": "miskatonic-expeditions",
-    "title": "Going Rogue: Special Skills, Progression and Second Chances",
-    "excerpt": "Learn From the Dark",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/62f52767-439d-4974-a040-ad1cefaa80af.png",
-    "publishedAt": "2026-10-16T16:06:10.613Z",
-    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/17",
-    "sequenceNumber": 17
-  },
-  {
-    "id": 47916,
-    "projectId": 11645,
-    "projectName": "Grimdark Future: Jade Claw",
-    "projectCreator": "onepagerules",
-    "projectSlug": "grimdark-future-jade-claw",
-    "title": "New Pledges! Launching in 4 days",
-    "excerpt": "As we near our launch date, we heard your feedback and added 2 more pledge options for a better price scale.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/ea4ab458-c174-46b6-8a12-9f92db8155cb.jpg",
-    "publishedAt": "2026-10-16T16:04:06.147Z",
-    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/11",
-    "sequenceNumber": 11
-  },
-  {
-    "id": 47948,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "The Horror returns: official trailer out now",
-    "excerpt": "Your first look at Arkham Horror Remastered!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/cc46a433-e150-4b88-8b48-c13e900f98df.png",
-    "publishedAt": "2026-10-16T16:02:39.53Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/14",
-    "sequenceNumber": 14
-  },
-  {
     "id": 47747,
     "projectId": 5384,
     "projectName": "B.E.L.O.W.: The Asylum",
@@ -128,32 +193,6 @@
     "publishedAt": "2026-10-16T15:00:00Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/below-asylum/updates/26",
     "sequenceNumber": 26
-  },
-  {
-    "id": 47881,
-    "projectId": 13201,
-    "projectName": "Avalon: The Riven Veil (2nd Printing)",
-    "projectCreator": "Shadowborne-Games",
-    "projectSlug": "avalon-the-riven-veil-2nd-printing",
-    "title": "UPDATE #2 - Faction Deep Dive: The Knights of the Round, and Play Your Way Systems",
-    "excerpt": "Explore the Knights of the Round, as they fight to restore Arthur’s kingdom. Discover their unique heroes and abilities, plus Avalon’s customizable gameplay options.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13201/acb03ac7-25dc-4441-b8e5-405aa0479b16.png",
-    "publishedAt": "2026-10-16T14:22:35.123Z",
-    "url": "https://gamefound.com/en/projects/shadowborne-games/avalon-the-riven-veil-2nd-printing/updates/2",
-    "sequenceNumber": 2
-  },
-  {
-    "id": 47982,
-    "projectId": 11178,
-    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
-    "projectCreator": "xplored",
-    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
-    "title": "The Progeny of Yog-Sothoth",
-    "excerpt": "A campaign update on The Dunwich Horror, the Curse Mechanic, and the next Eldritch Artifact poll.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/a44a9dd3-f036-4b2c-89fa-a1c342a3649c.png",
-    "publishedAt": "2026-10-16T13:00:00Z",
-    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/7",
-    "sequenceNumber": 7
   },
   {
     "id": 47929,
@@ -323,19 +362,6 @@
     "publishedAt": "2026-10-09T14:17:44.97Z",
     "url": "https://gamefound.com/en/projects/i-demo-games/bloodwork-the-reckoning/updates/52",
     "sequenceNumber": 52
-  },
-  {
-    "id": 46608,
-    "projectId": 5522,
-    "projectName": "Boktor",
-    "projectCreator": "fox-troll-games",
-    "projectSlug": "boktor-a-cooperative-dungeon-quest",
-    "title": "The Beacons Are Lit! Boktor Calls For Aid! ⚔️",
-    "excerpt": "We stand strong in the battle for Gamefound's Debut Game of the Year, but dark forces are gathering at our gates! 🧛",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5522/a00c9a98-6055-4e13-96ef-1c98da6a6dac.png",
-    "publishedAt": "2026-10-09T12:51:41.553Z",
-    "url": "https://gamefound.com/en/projects/fox-troll-games/boktor-a-cooperative-dungeon-quest/updates/43",
-    "sequenceNumber": 43
   },
   {
     "id": 46519,
@@ -546,19 +572,6 @@
     "sequenceNumber": 22
   },
   {
-    "id": 44673,
-    "projectId": 4693,
-    "projectName": "Black Rose Wars: Rebirth",
-    "projectCreator": "lms",
-    "projectSlug": "blackrosewars-re",
-    "title": "Inferno: Part 2",
-    "excerpt": "Inferno enters a new phase...",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4693/8677ad70-7488-42fe-b598-4710f302a804.jpg",
-    "publishedAt": "2026-09-28T08:00:00Z",
-    "url": "https://gamefound.com/en/projects/lms/blackrosewars-re/updates/44",
-    "sequenceNumber": 44
-  },
-  {
     "id": 44940,
     "projectId": 6096,
     "projectName": "The Elder Scrolls: Heroes of Tamriel",
@@ -687,19 +700,6 @@
     "publishedAt": "2026-08-06T19:45:00Z",
     "url": "https://gamefound.com/en/projects/chip-theory-games/wroth-reprint--wreck-expansion/updates/12",
     "sequenceNumber": 12
-  },
-  {
-    "id": 40452,
-    "projectId": 8527,
-    "projectName": "Scoundrels",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "scoundrels",
-    "title": "Update #3: Must've been a wind... | Meet the Scoundrels!",
-    "excerpt": "The Heist wouldn't be possible without those sneaky ones plundering here and there. So, today, we finally let you meet the leading actors in this theatre. Welcome back to this bizarre adventure!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8527/4ec6f4e5-9427-46d9-a690-1a795505cd2a.png",
-    "publishedAt": "2026-07-24T16:10:20.677Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/scoundrels/updates/3",
-    "sequenceNumber": 3
   },
   {
     "id": 40324,

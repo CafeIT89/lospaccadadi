@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-19T13:04:39.182Z",
+  "updatedAt": "2026-10-19T22:19:20.284Z",
   "projects": [
     {
       "name": "Nemesis Legacy",
       "creator": "Awaken Realms",
       "url": "https://gamefound.com/projects/awaken-realms/nemesis-legacy",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8524/8246040c-ef12-419c-b133-b98cc169b431.jpg",
-      "fundsGathered": 6238294.29,
+      "fundsGathered": 6305639.58,
       "currency": "EUR",
-      "backerCount": 18114,
+      "backerCount": 18304,
       "campaignEndDate": "2026-10-27T19:00:00Z"
     },
     {
@@ -16,9 +16,9 @@
       "creator": "MOOD Publishing",
       "url": "https://gamefound.com/projects/mood-publishing/satisfactory-the-board-game",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11362/cbd459fe-aa2f-49a4-bb9a-57df2837b839.png",
-      "fundsGathered": 1676179.63,
+      "fundsGathered": 1696230.59,
       "currency": "EUR",
-      "backerCount": 6567,
+      "backerCount": 6651,
       "campaignEndDate": "2026-11-10T15:00:00Z"
     },
     {
@@ -26,9 +26,9 @@
       "creator": "THQ Nordic",
       "url": "https://gamefound.com/projects/thq-nordic/gothic---a-shadows-quest",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/5749/c7773060-2b26-40ef-84df-8fc643e70237.jpg",
-      "fundsGathered": 647745.36,
+      "fundsGathered": 662322.15,
       "currency": "EUR",
-      "backerCount": 2754,
+      "backerCount": 2818,
       "campaignEndDate": "2026-10-23T13:00:00Z"
     },
     {
@@ -36,9 +36,9 @@
       "creator": "Feuerland",
       "url": "https://gamefound.com/projects/feuerland/the-danes---a-feast-for-odin-game",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11361/1f6af93e-3e7c-4eff-bf27-74c90440bba6.jpg",
-      "fundsGathered": 616999.59,
+      "fundsGathered": 628846.35,
       "currency": "EUR",
-      "backerCount": 5655,
+      "backerCount": 5761,
       "campaignEndDate": "2026-11-05T11:00:00Z"
     },
     {
@@ -46,9 +46,9 @@
       "creator": "ThisWay",
       "url": "https://gamefound.com/projects/thisway/arctica",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/5954/7f642e2a-9f46-466e-b74f-9646e84ddc6e.png",
-      "fundsGathered": 506237.23,
+      "fundsGathered": 511128.7,
       "currency": "EUR",
-      "backerCount": 3466,
+      "backerCount": 3501,
       "campaignEndDate": "2026-10-27T15:00:00Z"
     }
   ]
