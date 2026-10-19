@@ -1,5 +1,18 @@
 [
   {
+    "id": 48100,
+    "projectId": 5386,
+    "projectName": "This War of Mine: Second Edition",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "this-war-of-mine-second-edition",
+    "title": "English edition's SHIPPING UPDATE #1",
+    "excerpt": "The first vessels have set sail! Check out today's update to learn more about the ENG version's fulfillment progress.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5386/a87c93e0-cbb1-44a6-8c8b-fe06fb44efd3.jpg",
+    "publishedAt": "2026-10-19T12:52:41.61Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/this-war-of-mine-second-edition/updates/34",
+    "sequenceNumber": 34
+  },
+  {
     "id": 48083,
     "projectId": 8196,
     "projectName": "Ready Set Fight",
@@ -440,19 +453,6 @@
     "publishedAt": "2026-10-02T11:03:55.837Z",
     "url": "https://gamefound.com/en/projects/ice-makes/terrorscape-2/updates/60",
     "sequenceNumber": 60
-  },
-  {
-    "id": 44787,
-    "projectId": 5386,
-    "projectName": "This War of Mine: Second Edition",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "this-war-of-mine-second-edition",
-    "title": "English edition PRODUCTION CONCLUDED | LANG editions NEWS",
-    "excerpt": "Check out today's news on the English edition production being complete and the next steps, with fulfillment just around the corner! Also, learn more about the current LANG editions' status.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5386/545b1123-ee25-4bbc-b3cc-e3adb74a2506.jpg",
-    "publishedAt": "2026-09-30T20:59:14.047Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/this-war-of-mine-second-edition/updates/33",
-    "sequenceNumber": 33
   },
   {
     "id": 45168,
