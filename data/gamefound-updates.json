@@ -1,5 +1,18 @@
 [
   {
+    "id": 48083,
+    "projectId": 8196,
+    "projectName": "Ready Set Fight",
+    "projectCreator": "boiling-point-games",
+    "projectSlug": "ready-set-fight",
+    "title": "Campaign Update",
+    "excerpt": "The campaign may be ending, but Ready Set Fight isn't! We're moving forward with manufacturing, a planned early 2027 retail release, and exclusive thank-you rewards for our backers. Here's what's next for Ready Set Fight and Boiling Point Games.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8196/b4da699b-1442-47f3-843d-6504fee9fcee.jpg",
+    "publishedAt": "2026-10-19T04:30:16.507Z",
+    "url": "https://gamefound.com/en/projects/boiling-point-games/ready-set-fight/updates/3",
+    "sequenceNumber": 3
+  },
+  {
     "id": 48073,
     "projectId": 8524,
     "projectName": "Nemesis Legacy",
@@ -154,19 +167,6 @@
     "publishedAt": "2026-10-16T00:00:32.153Z",
     "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/28",
     "sequenceNumber": 28
-  },
-  {
-    "id": 47938,
-    "projectId": 8196,
-    "projectName": "Ready Set Fight",
-    "projectCreator": "boiling-point-games",
-    "projectSlug": "ready-set-fight",
-    "title": "A Special Message From Julius Cross.",
-    "excerpt": "Julius Cross, trillionaire CEO, organizer, and host of the Veritas Tournament, personally thanks our 57 backers for helping Ready Set Fight surpass $10,000 and reach 50% funding! But the fight is far from over. The tournament is just getting started!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8196/80f58c84-4744-4fe1-a8a5-8b1cde71017b.jpg",
-    "publishedAt": "2026-10-15T19:51:49.18Z",
-    "url": "https://gamefound.com/en/projects/boiling-point-games/ready-set-fight/updates/2",
-    "sequenceNumber": 2
   },
   {
     "id": 46344,
