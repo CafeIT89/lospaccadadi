@@ -1,5 +1,44 @@
 [
   {
+    "id": 48175,
+    "projectId": 11645,
+    "projectName": "Grimdark Future: Jade Claw",
+    "projectCreator": "onepagerules",
+    "projectSlug": "grimdark-future-jade-claw",
+    "title": "Funded in One Hour! We Passed Our $50,000 Goal!",
+    "excerpt": "We are thrilled to announce that Grimdark Future: Jade & Claw crossed our initial $50,000 funding goal on the very first day of the campaign on Gamefound!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/f260fb79-7aca-4be0-9ca5-f98b6001f51c.jpg",
+    "publishedAt": "2026-10-20T14:03:29.827Z",
+    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/14",
+    "sequenceNumber": 14
+  },
+  {
+    "id": 47999,
+    "projectId": 11313,
+    "projectName": "Miskatonic Expeditions",
+    "projectCreator": "papertigers",
+    "projectSlug": "miskatonic-expeditions",
+    "title": "Defend Your Thesis: Combat and Outsiders Explained",
+    "excerpt": "Dispatching the Unknown",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/c4f18d12-0644-4d84-9913-bf64e342f648.png",
+    "publishedAt": "2026-10-20T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/19",
+    "sequenceNumber": 19
+  },
+  {
+    "id": 48117,
+    "projectId": 4392,
+    "projectName": "Blasphemous: The Board Game",
+    "projectCreator": "lms",
+    "projectSlug": "blasphemous-the-boardgame",
+    "title": "Fire & Madness",
+    "excerpt": "October Pre-Production Update",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4392/df157ed0-464c-46aa-a64a-5fdc0aaa348d.jpg",
+    "publishedAt": "2026-10-20T12:14:53.727Z",
+    "url": "https://gamefound.com/en/projects/lms/blasphemous-the-boardgame/updates/54",
+    "sequenceNumber": 54
+  },
+  {
     "id": 48144,
     "projectId": 8531,
     "projectName": "Six Sided Summoner",
@@ -26,17 +65,17 @@
     "sequenceNumber": 15
   },
   {
-    "id": 48132,
-    "projectId": 11645,
-    "projectName": "Grimdark Future: Jade Claw",
-    "projectCreator": "onepagerules",
-    "projectSlug": "grimdark-future-jade-claw",
-    "title": "Launching Tomorrow - New Digital Content & Unit Cards!",
-    "excerpt": "We're about to launch, and we added a few MORE things! Find out about them in our last update before the campaign goes live",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/aebaf284-d34b-4205-8ec9-dfc7929e5e87.jpg",
-    "publishedAt": "2026-10-19T19:39:52.36Z",
-    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/12",
-    "sequenceNumber": 12
+    "id": 48134,
+    "projectId": 4287,
+    "projectName": "Primal HEX",
+    "projectCreator": "smart-flamingo",
+    "projectSlug": "primal-hex",
+    "title": "PRODUCTION UPDATE / PRIMAL HEX AT SPIEL / NEW CAMPAIGNS",
+    "excerpt": "We are waiting for the MPS, but will be presenting PPS at SPIEL.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4287/dee988c7-58e7-4d21-bab3-5e67a4e3a300.jpg",
+    "publishedAt": "2026-10-19T19:23:05.39Z",
+    "url": "https://gamefound.com/en/projects/smart-flamingo/primal-hex/updates/25",
+    "sequenceNumber": 25
   },
   {
     "id": 47883,
@@ -50,19 +89,6 @@
     "publishedAt": "2026-10-19T18:36:51.95Z",
     "url": "https://gamefound.com/en/projects/shadowborne-games/avalon-the-riven-veil-2nd-printing/updates/3",
     "sequenceNumber": 3
-  },
-  {
-    "id": 48098,
-    "projectId": 11313,
-    "projectName": "Miskatonic Expeditions",
-    "projectCreator": "papertigers",
-    "projectSlug": "miskatonic-expeditions",
-    "title": "Miskatonic Expeditions recommends: Two Print & Play Adventures Worth Discovering",
-    "excerpt": "Looking for your next Print & Play adventure? Discover two projects by Florian Fiedler",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/8fb5f9f5-7ec0-4556-81b4-71bf7c9eb29e.png",
-    "publishedAt": "2026-10-19T16:31:00Z",
-    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/18",
-    "sequenceNumber": 18
   },
   {
     "id": 48116,
@@ -442,19 +468,6 @@
     "sequenceNumber": 73
   },
   {
-    "id": 46373,
-    "projectId": 4392,
-    "projectName": "Blasphemous: The Board Game",
-    "projectCreator": "lms",
-    "projectSlug": "blasphemous-the-boardgame",
-    "title": "PAGES FROM CVSTODIA",
-    "excerpt": "A glimpse inside our narrative Tomes... and a new Giveaway!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4392/591ad313-643e-4bd4-b0a6-93ab4edd5f56.jpg",
-    "publishedAt": "2026-10-05T10:16:49.897Z",
-    "url": "https://gamefound.com/en/projects/lms/blasphemous-the-boardgame/updates/53",
-    "sequenceNumber": 53
-  },
-  {
     "id": 44255,
     "projectId": 11736,
     "projectName": "Dino Battle",
@@ -700,18 +713,5 @@
     "publishedAt": "2026-08-06T19:45:00Z",
     "url": "https://gamefound.com/en/projects/chip-theory-games/wroth-reprint--wreck-expansion/updates/12",
     "sequenceNumber": 12
-  },
-  {
-    "id": 40324,
-    "projectId": 4287,
-    "projectName": "Primal HEX",
-    "projectCreator": "smart-flamingo",
-    "projectSlug": "primal-hex",
-    "title": "END OF PLEDGE MANAGER",
-    "excerpt": "This is the end.... ;)",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4287/6adc3040-f14c-4a20-b7ea-5838607ff4ea.jpg",
-    "publishedAt": "2026-07-20T08:56:52.513Z",
-    "url": "https://gamefound.com/en/projects/smart-flamingo/primal-hex/updates/24",
-    "sequenceNumber": 24
   }
 ]
