@@ -1,5 +1,18 @@
 [
   {
+    "id": 48193,
+    "projectId": 8524,
+    "projectName": "Nemesis Legacy",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "nemesis-legacy",
+    "title": "DAY 15: THE XENO-HUNTER + NEW PLEDGES & LEGACY EXTRAS!",
+    "excerpt": "The final week begins with over 18,500 backers! Meet the Xeno-Hunter and choose who takes the role, check out three new pledge levels, and see the latest cosmetic additions for Nemesis: Legacy.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/287fbca7-04f9-41d7-90a2-4d2e7ba2743c.jpg",
+    "publishedAt": "2026-10-20T20:10:31.867Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/15",
+    "sequenceNumber": 15
+  },
+  {
     "id": 48175,
     "projectId": 11645,
     "projectName": "Grimdark Future: Jade Claw",
@@ -167,19 +180,6 @@
     "publishedAt": "2026-10-19T04:30:16.507Z",
     "url": "https://gamefound.com/en/projects/boiling-point-games/ready-set-fight/updates/3",
     "sequenceNumber": 3
-  },
-  {
-    "id": 48073,
-    "projectId": 8524,
-    "projectName": "Nemesis Legacy",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "nemesis-legacy",
-    "title": "DAY 13: TWO STRETCH GOALS  - MORE INFINITY & TACs!",
-    "excerpt": "Day 13 brings two new Stretch Goals: 10 more cards expanding Infinity Mode with new objectives, events, and actions +15 new TACs built to make your standalone missions even more unpredictable.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/e8fadb2d-f2ea-4cd8-9b36-43f6b401ab43.jpg",
-    "publishedAt": "2026-10-18T19:47:04.78Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/14",
-    "sequenceNumber": 14
   },
   {
     "id": 48049,
