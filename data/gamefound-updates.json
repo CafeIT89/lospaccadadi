@@ -1,5 +1,18 @@
 [
   {
+    "id": 48204,
+    "projectId": 11765,
+    "projectName": "Dungeon of Tanares",
+    "projectCreator": "dragori-games",
+    "projectSlug": "dungeon-of-tanares",
+    "title": "$600K  Funded. Thank You! Check Rise of Dragons Explained",
+    "excerpt": "How the daily updates will work, and everything players ask about Part 1 - Rise of Dragons.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/318cc3f0-85df-4713-80c6-a0d1230ae8c8.jpeg",
+    "publishedAt": "2026-10-21T05:36:29.653Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/9",
+    "sequenceNumber": 9
+  },
+  {
     "id": 48201,
     "projectId": 12995,
     "projectName": "Too Little Time",
@@ -193,19 +206,6 @@
     "publishedAt": "2026-10-19T04:30:16.507Z",
     "url": "https://gamefound.com/en/projects/boiling-point-games/ready-set-fight/updates/3",
     "sequenceNumber": 3
-  },
-  {
-    "id": 48049,
-    "projectId": 11765,
-    "projectName": "Dungeon of Tanares",
-    "projectCreator": "dragori-games",
-    "projectSlug": "dungeon-of-tanares",
-    "title": "3 Days to Launch: Pledges Revealed, Community Rewards Unlocked",
-    "excerpt": "Polish joins the adventure, and you decide who Taram heals",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/1886a594-5c57-40a2-a71b-b217ad3412ef.jpeg",
-    "publishedAt": "2026-10-17T19:09:17.057Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/8",
-    "sequenceNumber": 8
   },
   {
     "id": 48007,
