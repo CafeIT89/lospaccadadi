@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-20T21:34:46.698Z",
+  "updatedAt": "2026-10-21T04:40:32.795Z",
   "projects": [
     {
       "name": "Nemesis Legacy",
       "creator": "Awaken Realms",
       "url": "https://gamefound.com/projects/awaken-realms/nemesis-legacy",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8524/8246040c-ef12-419c-b133-b98cc169b431.jpg",
-      "fundsGathered": 6507965.7,
+      "fundsGathered": 6613320.27,
       "currency": "EUR",
-      "backerCount": 18685,
+      "backerCount": 18792,
       "campaignEndDate": "2026-10-27T19:00:00Z"
     },
     {
@@ -16,9 +16,9 @@
       "creator": "MOOD Publishing",
       "url": "https://gamefound.com/projects/mood-publishing/satisfactory-the-board-game",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11362/cbd459fe-aa2f-49a4-bb9a-57df2837b839.png",
-      "fundsGathered": 1738815.38,
+      "fundsGathered": 1749231.98,
       "currency": "EUR",
-      "backerCount": 6825,
+      "backerCount": 6868,
       "campaignEndDate": "2026-11-10T15:00:00Z"
     },
     {
@@ -26,9 +26,9 @@
       "creator": "THQ Nordic",
       "url": "https://gamefound.com/projects/thq-nordic/gothic---a-shadows-quest",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/5749/c7773060-2b26-40ef-84df-8fc643e70237.jpg",
-      "fundsGathered": 693693.61,
+      "fundsGathered": 697834.15,
       "currency": "EUR",
-      "backerCount": 2955,
+      "backerCount": 2973,
       "campaignEndDate": "2026-10-23T13:00:00Z"
     },
     {
@@ -36,9 +36,9 @@
       "creator": "Feuerland",
       "url": "https://gamefound.com/projects/feuerland/the-danes---a-feast-for-odin-game",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11361/1f6af93e-3e7c-4eff-bf27-74c90440bba6.jpg",
-      "fundsGathered": 646391.86,
+      "fundsGathered": 651337.5,
       "currency": "EUR",
-      "backerCount": 5924,
+      "backerCount": 5972,
       "campaignEndDate": "2026-11-05T11:00:00Z"
     },
     {
@@ -46,9 +46,9 @@
       "creator": "Dragori Games",
       "url": "https://gamefound.com/projects/dragori-games/dungeon-of-tanares",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11765/d4ae2216-f863-44f7-b227-0e743ec5c03a.jpg",
-      "fundsGathered": 532794.58,
+      "fundsGathered": 625294.55,
       "currency": "USD",
-      "backerCount": 1229,
+      "backerCount": 1480,
       "campaignEndDate": "2026-11-05T21:00:00Z"
     }
   ]

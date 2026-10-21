@@ -1,5 +1,18 @@
 [
   {
+    "id": 48201,
+    "projectId": 12995,
+    "projectName": "Too Little Time",
+    "projectCreator": "chip-theory-games",
+    "projectSlug": "too-little-time",
+    "title": "Time to Talk About Too Little Time...Tomorrow!",
+    "excerpt": "A primer tonight before you ask us anything tomorrow!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/42627f7d-705b-4946-9336-2efb9fa72576.webp",
+    "publishedAt": "2026-10-21T02:10:47.483Z",
+    "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/1",
+    "sequenceNumber": 1
+  },
+  {
     "id": 48193,
     "projectId": 8524,
     "projectName": "Nemesis Legacy",
