@@ -1,5 +1,44 @@
 [
   {
+    "id": 48263,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "Follow the Elder Sign",
+    "excerpt": "The lead investigator never felt so empowered.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/47cfb47b-c381-4856-9804-224ac6b8b1b1.png",
+    "publishedAt": "2026-10-21T21:17:58.513Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/23",
+    "sequenceNumber": 23
+  },
+  {
+    "id": 48264,
+    "projectId": 9823,
+    "projectName": "Fable Quest",
+    "projectCreator": "tabletop-tycoon",
+    "projectSlug": "fable-quest",
+    "title": "The Heroes & World of Fable Quest",
+    "excerpt": "It’s time to take a look behind the curtain and see what sorts of grand adventures we’ll find on the road ahead!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9823/a79cf77e-69c1-44d6-8258-7dd382db2a5c.png",
+    "publishedAt": "2026-10-21T20:37:10.853Z",
+    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/4",
+    "sequenceNumber": 4
+  },
+  {
+    "id": 48253,
+    "projectId": 11645,
+    "projectName": "Grimdark Future: Jade Claw",
+    "projectCreator": "onepagerules",
+    "projectSlug": "grimdark-future-jade-claw",
+    "title": "New Intro Video & New Game Mode for Grimdark Future",
+    "excerpt": "We'll have an all new way to play Grimdark Future with the Launch of Jade & Claw, and our friend at MS Paints has a new Intro Video for One Page Rules to help you jump in and learn the game.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/eb540ae3-91af-4253-91e6-5540e02519e1.jpg",
+    "publishedAt": "2026-10-21T18:38:10.35Z",
+    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/15",
+    "sequenceNumber": 15
+  },
+  {
     "id": 48182,
     "projectId": 11313,
     "projectName": "Miskatonic Expeditions",
@@ -37,19 +76,6 @@
     "publishedAt": "2026-10-21T13:40:34.57Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/dragon-eclipse-the-grand-quest/updates/27",
     "sequenceNumber": 27
-  },
-  {
-    "id": 48227,
-    "projectId": 9823,
-    "projectName": "Fable Quest",
-    "projectCreator": "tabletop-tycoon",
-    "projectSlug": "fable-quest",
-    "title": "Designer Diary: Why Fable Quest?",
-    "excerpt": "Join us for a look into Fable Quest’s history led by Guilherme & Fred!",
-    "image": null,
-    "publishedAt": "2026-10-21T13:01:23.893Z",
-    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/3",
-    "sequenceNumber": 3
   },
   {
     "id": 48216,
@@ -104,19 +130,6 @@
     "sequenceNumber": 15
   },
   {
-    "id": 48175,
-    "projectId": 11645,
-    "projectName": "Grimdark Future: Jade Claw",
-    "projectCreator": "onepagerules",
-    "projectSlug": "grimdark-future-jade-claw",
-    "title": "Funded in One Hour! We Passed Our $50,000 Goal!",
-    "excerpt": "We are thrilled to announce that Grimdark Future: Jade & Claw crossed our initial $50,000 funding goal on the very first day of the campaign on Gamefound!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/f260fb79-7aca-4be0-9ca5-f98b6001f51c.jpg",
-    "publishedAt": "2026-10-20T14:03:29.827Z",
-    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/14",
-    "sequenceNumber": 14
-  },
-  {
     "id": 48117,
     "projectId": 4392,
     "projectName": "Blasphemous: The Board Game",
@@ -141,19 +154,6 @@
     "publishedAt": "2026-10-19T22:09:45.453Z",
     "url": "https://gamefound.com/en/projects/ply-games/six-sided-summoner/updates/7",
     "sequenceNumber": 7
-  },
-  {
-    "id": 48142,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "Live from beyond the gates",
-    "excerpt": "Join our livestream on October 20th, 3 pm EST!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/191017e6-569a-4ba6-b64e-14e925e11be7.png",
-    "publishedAt": "2026-10-19T21:35:22.007Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/15",
-    "sequenceNumber": 15
   },
   {
     "id": 48134,
