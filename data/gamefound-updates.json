@@ -1,5 +1,70 @@
 [
   {
+    "id": 48182,
+    "projectId": 11313,
+    "projectName": "Miskatonic Expeditions",
+    "projectCreator": "papertigers",
+    "projectSlug": "miskatonic-expeditions",
+    "title": "Don’t Say the H-Word: A Free Treat from The Paper Tigers!",
+    "excerpt": "One free game, a handful of forbidden words, and one you must NEVER say! Visit the Miskatonic Expeditions campaign to get your free downloadable copy of \"Never Say Halloween\".",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/a9acfb62-863c-4ed4-b09f-122037fb0a8a.png",
+    "publishedAt": "2026-10-21T15:00:00Z",
+    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/20",
+    "sequenceNumber": 20
+  },
+  {
+    "id": 48238,
+    "projectId": 8391,
+    "projectName": "Barbaric: Crown of the Frost",
+    "projectCreator": "hexa-house",
+    "projectSlug": "barbaric-crown-of-the-frost",
+    "title": "🇩🇪 HEXA HOUSE IS HEADING TO SPIEL ESSEN 2026! 🎲",
+    "excerpt": "Greetings from Essen, Germany! 🇩🇪",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8391/7a2159cd-047a-4abe-8e38-d0e8ca2cbdbd.jpg",
+    "publishedAt": "2026-10-21T14:51:57.853Z",
+    "url": "https://gamefound.com/en/projects/hexa-house/barbaric-crown-of-the-frost/updates/20",
+    "sequenceNumber": 20
+  },
+  {
+    "id": 48221,
+    "projectId": 5385,
+    "projectName": "Dragon Eclipse: The Grand Quest",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "dragon-eclipse-the-grand-quest",
+    "title": "1st wave (OG Dragon Eclipse & MA) SHIPPING UPDATE #2 | Mystlings attending SPIEL Essen 2026",
+    "excerpt": "Tamers, we're back with the latest 1st wave shipping report! Also, today we're sharing some pretty exciting news for those of you who are attending SPIEL Essen.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5385/89f1ffef-55dd-49fa-a10d-55632503a7aa.png",
+    "publishedAt": "2026-10-21T13:40:34.57Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/dragon-eclipse-the-grand-quest/updates/27",
+    "sequenceNumber": 27
+  },
+  {
+    "id": 48227,
+    "projectId": 9823,
+    "projectName": "Fable Quest",
+    "projectCreator": "tabletop-tycoon",
+    "projectSlug": "fable-quest",
+    "title": "Designer Diary: Why Fable Quest?",
+    "excerpt": "Join us for a look into Fable Quest’s history led by Guilherme & Fred!",
+    "image": null,
+    "publishedAt": "2026-10-21T13:01:23.893Z",
+    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/3",
+    "sequenceNumber": 3
+  },
+  {
+    "id": 48216,
+    "projectId": 11178,
+    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
+    "projectCreator": "xplored",
+    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
+    "title": "The Father of Serpents",
+    "excerpt": "A campaign update on the Great Old One Yig and a new mix & match team highlight.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/3505658b-142b-4922-93f0-7f204bb3175a.png",
+    "publishedAt": "2026-10-21T12:00:00Z",
+    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/9",
+    "sequenceNumber": 9
+  },
+  {
     "id": 48204,
     "projectId": 11765,
     "projectName": "Dungeon of Tanares",
@@ -50,19 +115,6 @@
     "publishedAt": "2026-10-20T14:03:29.827Z",
     "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/14",
     "sequenceNumber": 14
-  },
-  {
-    "id": 47999,
-    "projectId": 11313,
-    "projectName": "Miskatonic Expeditions",
-    "projectCreator": "papertigers",
-    "projectSlug": "miskatonic-expeditions",
-    "title": "Defend Your Thesis: Combat and Outsiders Explained",
-    "excerpt": "Dispatching the Unknown",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/c4f18d12-0644-4d84-9913-bf64e342f648.png",
-    "publishedAt": "2026-10-20T14:00:00Z",
-    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/19",
-    "sequenceNumber": 19
   },
   {
     "id": 48117,
@@ -169,19 +221,6 @@
     "sequenceNumber": 4
   },
   {
-    "id": 48106,
-    "projectId": 11178,
-    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
-    "projectCreator": "xplored",
-    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
-    "title": "The Gardener and the Nurse",
-    "excerpt": "A campaign update on our first Hero Design Insights and new Stretch Goals.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/be556644-32ef-4d30-98a6-4ca6ed6e17fb.png",
-    "publishedAt": "2026-10-19T14:00:11.15Z",
-    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/8",
-    "sequenceNumber": 8
-  },
-  {
     "id": 48100,
     "projectId": 5386,
     "projectName": "This War of Mine: Second Edition",
@@ -286,19 +325,6 @@
     "sequenceNumber": 11
   },
   {
-    "id": 47899,
-    "projectId": 5385,
-    "projectName": "Dragon Eclipse: The Grand Quest",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "dragon-eclipse-the-grand-quest",
-    "title": "1st wave (OG Dragon Eclipse & MA) SHIPPING UPDATE #1",
-    "excerpt": "First Mystlings aboard! Check out today's update to learn more about the 1st wave fulfillment initiation.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5385/e6058184-b835-43ba-81b7-8a6fad6ddc2d.png",
-    "publishedAt": "2026-10-15T12:16:01.093Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/dragon-eclipse-the-grand-quest/updates/26",
-    "sequenceNumber": 26
-  },
-  {
     "id": 47887,
     "projectId": 6043,
     "projectName": "Echoes of Arkham",
@@ -323,19 +349,6 @@
     "publishedAt": "2026-10-13T19:40:40.15Z",
     "url": "https://gamefound.com/en/projects/zainmemon/trialsofmaya/updates/26",
     "sequenceNumber": 26
-  },
-  {
-    "id": 47727,
-    "projectId": 9823,
-    "projectName": "Fable Quest",
-    "projectCreator": "tabletop-tycoon",
-    "projectSlug": "fable-quest",
-    "title": "The Adventure Is Taking Shape",
-    "excerpt": "We wanted to give you a look at where Fable Quest stands.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9823/b5942447-28db-4909-876a-2f7fedfe3709.png",
-    "publishedAt": "2026-10-13T16:27:17.227Z",
-    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/2",
-    "sequenceNumber": 2
   },
   {
     "id": 47763,
@@ -518,19 +531,6 @@
     "publishedAt": "2026-09-30T18:03:02.997Z",
     "url": "https://gamefound.com/en/projects/hodarispiele/hell-legends/updates/34",
     "sequenceNumber": 34
-  },
-  {
-    "id": 45143,
-    "projectId": 8391,
-    "projectName": "Barbaric: Crown of the Frost",
-    "projectCreator": "hexa-house",
-    "projectSlug": "barbaric-crown-of-the-frost",
-    "title": "❤️ Thank You, Barbarics — The Campaign Has Ended!",
-    "excerpt": "BARBARIC: Crown of the Frost has officially come to an end. Thank you to everyone who backed, shared, voted, commented, and supported us throughout this journey!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8391/619ce15c-d2a9-4e86-be21-4ea0fc421c76.png",
-    "publishedAt": "2026-09-30T13:39:50.547Z",
-    "url": "https://gamefound.com/en/projects/hexa-house/barbaric-crown-of-the-frost/updates/19",
-    "sequenceNumber": 19
   },
   {
     "id": 45001,
