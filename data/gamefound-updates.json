@@ -1,16 +1,55 @@
 [
   {
-    "id": 48283,
+    "id": 48320,
+    "projectId": 9823,
+    "projectName": "Fable Quest",
+    "projectCreator": "tabletop-tycoon",
+    "projectSlug": "fable-quest",
+    "title": "A Monster Blocks Your Path! An Arcadian Field Guide",
+    "excerpt": "Prepare yourself for the many different types of creatures you’ll encounter during your travels throughout Arcadia!",
+    "image": null,
+    "publishedAt": "2026-10-22T20:42:10.033Z",
+    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/5",
+    "sequenceNumber": 5
+  },
+  {
+    "id": 48316,
+    "projectId": 11645,
+    "projectName": "Grimdark Future: Jade Claw",
+    "projectCreator": "onepagerules",
+    "projectSlug": "grimdark-future-jade-claw",
+    "title": "Broken Truth Add-Ons & Updates",
+    "excerpt": "We’re 2 days into the campaign and we’ve now tripled our funding goal! That’s amazing, thank you all so much! But let's spend a moment to talk about our last campaign and what this campaign means for Broken Truth.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/f09f0eec-03cb-4532-b2b2-d3ecfb57f2cf.png",
+    "publishedAt": "2026-10-22T19:06:26.533Z",
+    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/16",
+    "sequenceNumber": 16
+  },
+  {
+    "id": 47884,
+    "projectId": 13201,
+    "projectName": "Avalon: The Riven Veil (2nd Printing)",
+    "projectCreator": "Shadowborne-Games",
+    "projectSlug": "avalon-the-riven-veil-2nd-printing",
+    "title": "UPDATE #4 - Faction Deep Dive: The Undead, and Game Version Comparison.",
+    "excerpt": "Explore Mordred’s Undead faction and compare the various options for purchasing Avalon.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13201/cf12dc14-c6a5-4f41-9c5a-79d3c5ccd11b.png",
+    "publishedAt": "2026-10-22T18:06:01.45Z",
+    "url": "https://gamefound.com/en/projects/shadowborne-games/avalon-the-riven-veil-2nd-printing/updates/4",
+    "sequenceNumber": 4
+  },
+  {
+    "id": 48278,
     "projectId": 11582,
     "projectName": "Arkham Horror",
     "projectCreator": "asmodee",
     "projectSlug": "arkham-horror",
-    "title": "Daily Investigator: The Millionaire",
-    "excerpt": "Preston has found himself uncertain for the first time.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/84c2433d-664a-4bba-a20b-393e7e0ab597.png",
-    "publishedAt": "2026-10-22T16:01:13.777Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/27",
-    "sequenceNumber": 27
+    "title": "Dance of the Damned",
+    "excerpt": "Will you join in their dance?",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/b68ad59b-1e3d-4c5e-87f8-f94964c7f202.png",
+    "publishedAt": "2026-10-22T17:57:51.45Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/29",
+    "sequenceNumber": 29
   },
   {
     "id": 48095,
@@ -45,7 +84,7 @@
     "projectCreator": "go-on-board",
     "projectSlug": "the-witcher-legacy",
     "title": "The Ancient Leshen Wins! And That’s Just the Beginning…",
-    "excerpt": "Development Progress / Scenario 0 Hits the Table / Monster Battle Winner / October 29 Live Stream / More Path of Destiny / Q&A",
+    "excerpt": "Development Progress / Scenario First Blood Hits the Table / Monster Battle Winner / October 29 Live Stream / More Path of Destiny / Q&A",
     "image": "https://imgcdn.gamefound.com/projectupdate/projects/6154/87d51790-1149-41f9-ae29-92c394b9adbf.png",
     "publishedAt": "2026-10-22T12:29:23.007Z",
     "url": "https://gamefound.com/en/projects/go-on-board/the-witcher-legacy/updates/45",
@@ -63,32 +102,6 @@
     "publishedAt": "2026-10-21T21:56:18.9Z",
     "url": "https://gamefound.com/en/projects/zainmemon/trialsofmaya/updates/27",
     "sequenceNumber": 27
-  },
-  {
-    "id": 48264,
-    "projectId": 9823,
-    "projectName": "Fable Quest",
-    "projectCreator": "tabletop-tycoon",
-    "projectSlug": "fable-quest",
-    "title": "The Heroes & World of Fable Quest",
-    "excerpt": "It’s time to take a look behind the curtain and see what sorts of grand adventures we’ll find on the road ahead!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9823/a79cf77e-69c1-44d6-8258-7dd382db2a5c.png",
-    "publishedAt": "2026-10-21T20:37:10.853Z",
-    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/4",
-    "sequenceNumber": 4
-  },
-  {
-    "id": 48253,
-    "projectId": 11645,
-    "projectName": "Grimdark Future: Jade Claw",
-    "projectCreator": "onepagerules",
-    "projectSlug": "grimdark-future-jade-claw",
-    "title": "New Intro Video & New Game Mode for Grimdark Future",
-    "excerpt": "We'll have an all new way to play Grimdark Future with the Launch of Jade & Claw, and our friend at MS Paints has a new Intro Video for One Page Rules to help you jump in and learn the game.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/eb540ae3-91af-4253-91e6-5540e02519e1.jpg",
-    "publishedAt": "2026-10-21T18:38:10.35Z",
-    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/15",
-    "sequenceNumber": 15
   },
   {
     "id": 48238,
@@ -206,19 +219,6 @@
     "publishedAt": "2026-10-19T19:23:05.39Z",
     "url": "https://gamefound.com/en/projects/smart-flamingo/primal-hex/updates/25",
     "sequenceNumber": 25
-  },
-  {
-    "id": 47883,
-    "projectId": 13201,
-    "projectName": "Avalon: The Riven Veil (2nd Printing)",
-    "projectCreator": "Shadowborne-Games",
-    "projectSlug": "avalon-the-riven-veil-2nd-printing",
-    "title": "UPDATE #3 - Faction Deep Dive: The Druids, and Holofoil and Gold Foil, Triple Layer Boards and Hardback Artbook Showcase.",
-    "excerpt": "Discover the Druids, led by Merlin, and their ancient magic, Ley Lines, and colossal Ancient One. Explore Avalon’s Retail, Core, Deluxe, and Collector’s All-In editions to find the perfect pledge, with expansions available separately for existing owners.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13201/42569654-7f59-4705-a7e5-9deab8eacf65.png",
-    "publishedAt": "2026-10-19T18:36:51.95Z",
-    "url": "https://gamefound.com/en/projects/shadowborne-games/avalon-the-riven-veil-2nd-printing/updates/3",
-    "sequenceNumber": 3
   },
   {
     "id": 48116,
