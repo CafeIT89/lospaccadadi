@@ -1,16 +1,29 @@
 [
   {
-    "id": 48263,
+    "id": 48266,
     "projectId": 11582,
     "projectName": "Arkham Horror",
     "projectCreator": "asmodee",
     "projectSlug": "arkham-horror",
-    "title": "Follow the Elder Sign",
-    "excerpt": "The lead investigator never felt so empowered.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/47cfb47b-c381-4856-9804-224ac6b8b1b1.png",
-    "publishedAt": "2026-10-21T21:17:58.513Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/23",
-    "sequenceNumber": 23
+    "title": "Antediluvium",
+    "excerpt": "A new Herald to shake things up.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/3527f114-5689-4cfe-8919-b1bbcc26e46f.png",
+    "publishedAt": "2026-10-22T02:35:46.31Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/25",
+    "sequenceNumber": 25
+  },
+  {
+    "id": 48272,
+    "projectId": 6461,
+    "projectName": "Trials of Maya",
+    "projectCreator": "zainmemon",
+    "projectSlug": "trialsofmaya",
+    "title": "Play Trials of MAYA at SPIEL Essen! + Late Pledges Are Open!",
+    "excerpt": "Hall 3, Booth 3V120, October 22-25",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6461/a78b7c6e-4a68-412b-a125-6e55015431eb.jpg",
+    "publishedAt": "2026-10-21T21:56:18.9Z",
+    "url": "https://gamefound.com/en/projects/zainmemon/trialsofmaya/updates/27",
+    "sequenceNumber": 27
   },
   {
     "id": 48264,
@@ -336,19 +349,6 @@
     "publishedAt": "2026-10-15T09:24:17.937Z",
     "url": "https://gamefound.com/en/projects/dark-gate-games/echoes-of-arkham/updates/39",
     "sequenceNumber": 39
-  },
-  {
-    "id": 47811,
-    "projectId": 6461,
-    "projectName": "Trials of Maya",
-    "projectCreator": "zainmemon",
-    "projectSlug": "trialsofmaya",
-    "title": "Trials of Maya is Funded! THANK YOU all so much!",
-    "excerpt": "One month later, we're nearly 680% funded!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6461/23117f3a-5283-4f0c-9ca0-cabd2b5f5f34.png",
-    "publishedAt": "2026-10-13T19:40:40.15Z",
-    "url": "https://gamefound.com/en/projects/zainmemon/trialsofmaya/updates/26",
-    "sequenceNumber": 26
   },
   {
     "id": 47763,
