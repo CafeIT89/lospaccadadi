@@ -1,3 +1,4 @@
+
 export type DailyGame = {
   title: string;
   url: string;
@@ -70,7 +71,7 @@ export const games: DailyGame[] = [
     url: "https://boardgamegeek.com/boardgame/472461/z-horde",
     image: "/games/z-horde.png",
   },
-    {
+  {
     title: "Nemesis",
     url: "https://boardgamegeek.com/boardgame/167355/nemesis",
     image: "/games/nemesis.png",
@@ -119,6 +120,101 @@ export const games: DailyGame[] = [
     title: "One Card Dungeon",
     url: "https://boardgamegeek.com/boardgame/319263/one-card-dungeon",
     image: "/games/one-card-dungeon.png",
+  },
+  {
+    title: "Sons of Anarchy: Men of Mayhem",
+    url: "https://boardgamegeek.com/boardgame/156091/sons-of-anarchy-men-of-mayhem",
+    image: "/games/sons-of-anarchy.png",
+  },
+  {
+    title: "Mage Knight: Ultimate Edition",
+    url: "https://boardgamegeek.com/boardgame/248562/mage-knight-ultimate-edition",
+    image: "/games/mage-knight-ultimate-edition.png",
+  },
+  {
+    title: "Sea of Thieves: Voyage of Legends",
+    url: "https://boardgamegeek.com/boardgame/382016/sea-of-thieves-voyage-of-legends",
+    image: "/games/sea-of-thieves.png",
+  },
+  {
+    title: "The Thing: The Boardgame",
+    url: "https://boardgamegeek.com/boardgame/295293/the-thing-the-boardgame",
+    image: "/games/the-thing.png",
+  },
+  {
+    title: "20 Strong: Nemesis",
+    url: "https://boardgamegeek.com/boardgameexpansion/466594/20-strong-nemesis",
+    image: "/games/20-strong-nemesis.png",
+  },
+  {
+    title: "20 Strong: Tainted Grail",
+    url: "https://boardgamegeek.com/boardgameexpansion/466596/20-strong-tainted-grail",
+    image: "/games/20-strong-tainted-grail.png",
+  },
+  {
+    title: "20 Strong: Etherfields",
+    url: "https://boardgamegeek.com/boardgameexpansion/466598/20-strong-etherfields",
+    image: "/games/20-strong-etherfields.png",
+  },
+  {
+    title: "Star Wars: Outer Rim",
+    url: "https://boardgamegeek.com/boardgame/271896/star-wars-outer-rim",
+    image: "/games/star-wars-outer-rim.png",
+  },
+  {
+    title: "Il Signore degli Anelli: Viaggi nella Terra di Mezzo",
+    url: "https://boardgamegeek.com/boardgame/269385/the-lord-of-the-rings-journeys-in-middle-earth",
+    image: "/games/journeys-in-middle-earth.png",
+  },
+  {
+    title: "Le Case della Follia: Seconda Edizione",
+    url: "https://boardgamegeek.com/boardgame/205059/mansions-of-madness-second-edition",
+    image: "/games/mansions-of-madness.png",
+  },
+  {
+    title: "Metal Gear Solid: The Board Game",
+    url: "https://boardgamegeek.com/boardgame/266529/metal-gear-solid-the-board-game",
+    image: "/games/metal-gear-solid.png",
+  },
+  {
+    title: "Frostpunk: The Board Game",
+    url: "https://boardgamegeek.com/boardgame/311988/frostpunk-the-board-game",
+    image: "/games/frostpunk.png",
+  },
+  {
+    title: "The Fellowship of the Ring: Trick-Taking Game",
+    url: "https://boardgamegeek.com/boardgame/429293/the-lord-of-the-rings-the-fellowship-of-the-ring-t",
+    image: "/games/fellowship-of-the-ring-trick-taking.png",
+  },
+  {
+    title: "The Two Towers: Trick-Taking Game",
+    url: "https://boardgamegeek.com/boardgame/448271/the-lord-of-the-rings-the-two-towers-trick-taking",
+    image: "/games/the-two-towers-trick-taking.png",
+  },
+  {
+    title: "Betrayal at House on the Hill: 3rd Edition",
+    url: "https://boardgamegeek.com/boardgame/358504/betrayal-at-house-on-the-hill-3rd-edition",
+    image: "/games/betrayal-at-house-on-the-hill.png",
+  },
+  {
+    title: "Thunder Road: Vendetta",
+    url: "https://boardgamegeek.com/boardgame/342070/thunder-road-vendetta",
+    image: "/games/thunder-road-vendetta.png",
+  },
+  {
+    title: "Terrorscape",
+    url: "https://boardgamegeek.com/boardgame/371433/terrorscape",
+    image: "/games/terrorscape.png",
+  },
+  {
+    title: "Sherlock Holmes: Consulting Detective - The Thames Murders",
+    url: "https://boardgamegeek.com/boardgame/2511/sherlock-holmes-consulting-detective-the-thames-mu",
+    image: "/games/sherlock-holmes-thames-murders.png",
+  },
+  {
+    title: "Sherlock Holmes: Consulting Detective - Jack the Ripper",
+    url: "https://boardgamegeek.com/boardgame/204305/sherlock-holmes-consulting-detective-jack-the-ripp",
+    image: "/games/sherlock-holmes-jack-the-ripper.png",
   },
 ];
 
