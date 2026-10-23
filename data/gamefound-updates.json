@@ -1,5 +1,18 @@
 [
   {
+    "id": 48342,
+    "projectId": 11178,
+    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
+    "projectCreator": "xplored",
+    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
+    "title": "Essen Spiel and New Print & Play Demo",
+    "excerpt": "A campaign update on Essen Spiel and a playable demo for the Curse of Competition.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/ddead19b-49cc-49e1-921e-96ad23712abf.jpg",
+    "publishedAt": "2026-10-23T10:30:00Z",
+    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/10",
+    "sequenceNumber": 10
+  },
+  {
     "id": 48321,
     "projectId": 11765,
     "projectName": "Dungeon of Tanares",
@@ -141,19 +154,6 @@
     "publishedAt": "2026-10-21T13:40:34.57Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/dragon-eclipse-the-grand-quest/updates/27",
     "sequenceNumber": 27
-  },
-  {
-    "id": 48216,
-    "projectId": 11178,
-    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
-    "projectCreator": "xplored",
-    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
-    "title": "The Father of Serpents",
-    "excerpt": "A campaign update on the Great Old One Yig and a new mix & match team highlight.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/3505658b-142b-4922-93f0-7f204bb3175a.png",
-    "publishedAt": "2026-10-21T12:00:00Z",
-    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/9",
-    "sequenceNumber": 9
   },
   {
     "id": 48201,
