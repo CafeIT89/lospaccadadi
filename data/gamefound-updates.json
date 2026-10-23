@@ -1,5 +1,18 @@
 [
   {
+    "id": 48321,
+    "projectId": 11765,
+    "projectName": "Dungeon of Tanares",
+    "projectCreator": "dragori-games",
+    "projectSlug": "dungeon-of-tanares",
+    "title": "New Backers - Pledge Guide",
+    "excerpt": "What to pledge and what each add-on is for. Any questions? Just ask in the comments.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/684adf07-32a4-4ef9-9254-01db12ff8fab.jpeg",
+    "publishedAt": "2026-10-22T22:18:55.293Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/10",
+    "sequenceNumber": 10
+  },
+  {
     "id": 48320,
     "projectId": 9823,
     "projectName": "Fable Quest",
@@ -140,19 +153,6 @@
     "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/3505658b-142b-4922-93f0-7f204bb3175a.png",
     "publishedAt": "2026-10-21T12:00:00Z",
     "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/9",
-    "sequenceNumber": 9
-  },
-  {
-    "id": 48204,
-    "projectId": 11765,
-    "projectName": "Dungeon of Tanares",
-    "projectCreator": "dragori-games",
-    "projectSlug": "dungeon-of-tanares",
-    "title": "$600K  Funded. Thank You! Check Rise of Dragons Explained",
-    "excerpt": "How the daily updates will work, and everything players ask about Part 1 - Rise of Dragons.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/318cc3f0-85df-4713-80c6-a0d1230ae8c8.jpeg",
-    "publishedAt": "2026-10-21T05:36:29.653Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/9",
     "sequenceNumber": 9
   },
   {
