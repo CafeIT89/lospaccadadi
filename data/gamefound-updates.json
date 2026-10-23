@@ -1,16 +1,29 @@
 [
   {
-    "id": 48339,
+    "id": 48311,
     "projectId": 11582,
     "projectName": "Arkham Horror",
     "projectCreator": "asmodee",
     "projectSlug": "arkham-horror",
-    "title": "Tokens of Appreciation",
-    "excerpt": "Premium plastic tokens to last you an eternity.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/353e5427-9584-4c3e-b579-dbe826deff48.png",
-    "publishedAt": "2026-10-23T17:01:21.267Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/31",
-    "sequenceNumber": 31
+    "title": "Holier Than Thou",
+    "excerpt": "Bless you!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/12dd0f38-4163-48c7-8561-a4fef683fb0e.png",
+    "publishedAt": "2026-10-23T19:39:52.42Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/32",
+    "sequenceNumber": 32
+  },
+  {
+    "id": 48368,
+    "projectId": 11645,
+    "projectName": "Grimdark Future: Jade Claw",
+    "projectCreator": "onepagerules",
+    "projectSlug": "grimdark-future-jade-claw",
+    "title": "Solo & Co-Op Play",
+    "excerpt": "You’ll notice that Grimdark Future: Jade & Claw, like Broken Truth before it, says it is playable with 1-2 players! And this is true! But how does that work?",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/b3cda32c-af4a-4482-b9f1-cf5f57e2485c.png",
+    "publishedAt": "2026-10-23T18:06:03.6Z",
+    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/17",
+    "sequenceNumber": 17
   },
   {
     "id": 48366,
@@ -128,19 +141,6 @@
     "publishedAt": "2026-10-22T20:42:10.033Z",
     "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/5",
     "sequenceNumber": 5
-  },
-  {
-    "id": 48316,
-    "projectId": 11645,
-    "projectName": "Grimdark Future: Jade Claw",
-    "projectCreator": "onepagerules",
-    "projectSlug": "grimdark-future-jade-claw",
-    "title": "Broken Truth Add-Ons & Updates",
-    "excerpt": "We’re 2 days into the campaign and we’ve now tripled our funding goal! That’s amazing, thank you all so much! But let's spend a moment to talk about our last campaign and what this campaign means for Broken Truth.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/f09f0eec-03cb-4532-b2b2-d3ecfb57f2cf.png",
-    "publishedAt": "2026-10-22T19:06:26.533Z",
-    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/16",
-    "sequenceNumber": 16
   },
   {
     "id": 47884,
