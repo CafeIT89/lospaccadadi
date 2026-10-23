@@ -216,6 +216,53 @@ export const games: DailyGame[] = [
     url: "https://boardgamegeek.com/boardgame/204305/sherlock-holmes-consulting-detective-jack-the-ripp",
     image: "/games/sherlock-holmes-jack-the-ripper.png",
   },
+
+  {
+    title: "Survive: Escape from Atlantis!",
+    url: "https://boardgamegeek.com/boardgame/2653/survive-escape-from-atlantis",
+    image: "/games/survive-escape-from-atlantis.png",
+  },
+  {
+    title: "Stardew Valley: The Board Game",
+    url: "https://boardgamegeek.com/boardgame/332290/stardew-valley-the-board-game",
+    image: "/games/stardew-valley.png",
+  },
+  {
+    title: "Black Rose Wars",
+    url: "https://boardgamegeek.com/boardgame/239942/black-rose-wars",
+    image: "/games/black-rose-wars.png",
+  },
+  {
+    title: "Arcadia Quest",
+    url: "https://boardgamegeek.com/boardgame/155068/arcadia-quest",
+    image: "/games/arcadia-quest.png",
+  },
+  {
+    title: "Borderlands: Mister Torgue's Arena of Badassery",
+    url: "https://boardgamegeek.com/boardgame/347757/borderlands-mister-torgues-arena-of-badassery",
+    image: "/games/borderlands-mister-torgue.png",
+  },
+  {
+    title: "Rum & Bones",
+    url: "https://boardgamegeek.com/boardgame/168788/rum-and-bones",
+    image: "/games/rum-and-bones.png",
+  },
+  {
+    title: "Black Rose Wars: Duel - Kami",
+    url: "https://boardgamegeek.com/boardgame/452214/black-rose-wars-duel-kami",
+    image: "/games/black-rose-wars-duel-kami.png",
+  },
+  {
+    title: "Dead Men Tell No Tales",
+    url: "https://boardgamegeek.com/boardgame/141423/dead-men-tell-no-tales",
+    image: "/games/dead-men-tell-no-tales.png",
+  },
+  {
+    title: "Dungeons & Dragons: Adventure Begins",
+    url: "https://boardgamegeek.com/boardgame/315196/dungeons-and-dragons-adventure-begins",
+    image: "/games/dungeons-and-dragons-adventure-begins.png",
+  },
+
 ];
 
 function createSeedFromDate(date: Date): number {
@@ -258,4 +305,5 @@ export function getDailyGames(
   }
 
   return shuffled.slice(0, Math.min(count, shuffled.length));
+  
 }
