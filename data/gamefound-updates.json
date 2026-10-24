@@ -1,16 +1,29 @@
 [
   {
-    "id": 48381,
+    "id": 48389,
     "projectId": 8531,
     "projectName": "Six Sided Summoner",
     "projectCreator": "ply-games",
     "projectSlug": "six-sided-summoner",
-    "title": "Final Hours, Poll Winner Video & A Special Surprise Reveal!",
-    "excerpt": "We are in the absolute home stretch!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8531/691950b9-e732-414a-9d68-435aea546f54.png",
-    "publishedAt": "2026-10-24T10:25:59.683Z",
-    "url": "https://gamefound.com/en/projects/ply-games/six-sided-summoner/updates/8",
-    "sequenceNumber": 8
+    "title": "Thank You! Campaign Closed & What’s Next",
+    "excerpt": "The campaign has officially come to an end! Thank you for believing in Six Sided Summoner.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8531/df03819e-4598-4ec9-94e2-cbadb1c92e69.jpg",
+    "publishedAt": "2026-10-24T19:00:34.353Z",
+    "url": "https://gamefound.com/en/projects/ply-games/six-sided-summoner/updates/9",
+    "sequenceNumber": 9
+  },
+  {
+    "id": 48380,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "Daily Investigator: The Poet",
+    "excerpt": "Lucius’ dreams draw him to Arkham.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/2b159f19-03da-4ad9-bc1c-6fe79f0c09ab.png",
+    "publishedAt": "2026-10-24T16:00:48.617Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/33",
+    "sequenceNumber": 33
   },
   {
     "id": 48374,
@@ -24,19 +37,6 @@
     "publishedAt": "2026-10-24T02:09:49.563Z",
     "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/11",
     "sequenceNumber": 11
-  },
-  {
-    "id": 48311,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "Holier Than Thou",
-    "excerpt": "Bless you!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/12dd0f38-4163-48c7-8561-a4fef683fb0e.png",
-    "publishedAt": "2026-10-23T19:39:52.42Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/32",
-    "sequenceNumber": 32
   },
   {
     "id": 48368,
