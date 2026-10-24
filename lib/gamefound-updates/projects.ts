@@ -373,4 +373,67 @@ export const GAMEFOUND_PROJECTS: GamefoundProject[] = [
   projectId: 8531,
 },
 
+  // Nuove campagne - Ottobre 2026
+
+  {
+    name: "Assassin's Creed Shadows",
+    creator: "maestro-media",
+    slug: "assassins-creed-shadows",
+    projectId: 13437,
+  },
+  {
+    name: "Blade Runner 2049",
+    creator: "wearecgs",
+    slug: "blade-runner-2049",
+    projectId: 13244,
+  },
+  {
+    name: "The Wars of Arran",
+    creator: "synergic-games",
+    slug: "the-wars-of-arran",
+    projectId: 13319,
+  },
+  {
+    name: "Onward 2027",
+    creator: "skytear",
+    slug: "onward-2027",
+    projectId: 13334,
+  },
+  {
+    name: "Dark Blood: Anathema",
+    creator: "meeple-pug",
+    slug: "dark-blood-anathema",
+    projectId: 13240,
+  },
+  {
+    name: "Kaiju: Raising Havoc",
+    creator: "ninthhaven-games",
+    slug: "kaiju-raising-havoc",
+    projectId: 13335,
+  },
+  {
+    name: "Prey",
+    creator: "lms",
+    slug: "prey",
+    projectId: 13318,
+  },
+  {
+    name: "Transformers: Resistance",
+    creator: "ocgames",
+    slug: "transformers-resistance",
+    projectId: 13329,
+  },
+  {
+    name: "Riftlands",
+    creator: "borogove-games",
+    slug: "riftlands",
+    projectId: 6714,
+  },
+  {
+    name: "Diablo: Unbound",
+    creator: "glass-cannon-unplugged",
+    slug: "diablo-unbound",
+    projectId: 13438,
+  },
+
 ];
