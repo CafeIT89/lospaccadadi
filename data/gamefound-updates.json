@@ -1,5 +1,18 @@
 [
   {
+    "id": 48374,
+    "projectId": 11765,
+    "projectName": "Dungeon of Tanares",
+    "projectCreator": "dragori-games",
+    "projectSlug": "dungeon-of-tanares",
+    "title": "Returning Backers - Pledge Guide",
+    "excerpt": "What to pledge and what the free Upgrade Kit brings. Any questions? Just ask in the comments.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/3217d60c-52b5-43c3-95d0-d859d7dff342.jpeg",
+    "publishedAt": "2026-10-24T02:09:49.563Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/11",
+    "sequenceNumber": 11
+  },
+  {
     "id": 48311,
     "projectId": 11582,
     "projectName": "Arkham Horror",
@@ -101,19 +114,6 @@
     "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/ddead19b-49cc-49e1-921e-96ad23712abf.jpg",
     "publishedAt": "2026-10-23T10:30:00Z",
     "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/10",
-    "sequenceNumber": 10
-  },
-  {
-    "id": 48321,
-    "projectId": 11765,
-    "projectName": "Dungeon of Tanares",
-    "projectCreator": "dragori-games",
-    "projectSlug": "dungeon-of-tanares",
-    "title": "New Backers - Pledge Guide",
-    "excerpt": "What to pledge and what each add-on is for. Any questions? Just ask in the comments.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/684adf07-32a4-4ef9-9254-01db12ff8fab.jpeg",
-    "publishedAt": "2026-10-22T22:18:55.293Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/10",
     "sequenceNumber": 10
   },
   {
