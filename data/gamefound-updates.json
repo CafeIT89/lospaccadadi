@@ -1,5 +1,18 @@
 [
   {
+    "id": 48381,
+    "projectId": 8531,
+    "projectName": "Six Sided Summoner",
+    "projectCreator": "ply-games",
+    "projectSlug": "six-sided-summoner",
+    "title": "Final Hours, Poll Winner Video & A Special Surprise Reveal!",
+    "excerpt": "We are in the absolute home stretch!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8531/691950b9-e732-414a-9d68-435aea546f54.png",
+    "publishedAt": "2026-10-24T10:25:59.683Z",
+    "url": "https://gamefound.com/en/projects/ply-games/six-sided-summoner/updates/8",
+    "sequenceNumber": 8
+  },
+  {
     "id": 48374,
     "projectId": 11765,
     "projectName": "Dungeon of Tanares",
@@ -63,6 +76,19 @@
     "publishedAt": "2026-10-23T15:00:00Z",
     "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/22",
     "sequenceNumber": 22
+  },
+  {
+    "id": 48292,
+    "projectId": 13329,
+    "projectName": "Transformers: Resistance",
+    "projectCreator": "ocgames",
+    "projectSlug": "transformers-resistance",
+    "title": "3,000 Followers! Thank You for Joining the Resistance!",
+    "excerpt": "Thank you for helping Transformers Resistance reach 3,000 followers! Join us as we explore the game, discover what makes this tactical adventure unique, and follow the Autobots’ fight to reclaim Cybertron.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13329/42ede766-ab25-4586-bdb1-ddf0990df7fb.jpg",
+    "publishedAt": "2026-10-23T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/ocgames/transformers-resistance/updates/1",
+    "sequenceNumber": 1
   },
   {
     "id": 48330,
@@ -195,6 +221,19 @@
     "sequenceNumber": 27
   },
   {
+    "id": 48042,
+    "projectId": 13438,
+    "projectName": "Diablo: Unbound",
+    "projectCreator": "glass-cannon-unplugged",
+    "projectSlug": "diablo-unbound",
+    "title": "Welcome to Diablo®: Unbound!",
+    "excerpt": "Announcing Diablo: Unbound, the first officially licensed Diablo board game, coming to Gamefound in Q1 2027. Discover why we call it a dungeon battler, meet the Rogue and Khazra, learn how to claim the Follower Gift, and try the game at SPIEL Essen.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13438/7a8361a5-745e-45b8-aaf5-fecb6232da00.png",
+    "publishedAt": "2026-10-21T20:07:44.597Z",
+    "url": "https://gamefound.com/en/projects/glass-cannon-unplugged/diablo-unbound/updates/1",
+    "sequenceNumber": 1
+  },
+  {
     "id": 48238,
     "projectId": 8391,
     "projectName": "Barbaric: Crown of the Frost",
@@ -245,19 +284,6 @@
     "publishedAt": "2026-10-20T12:14:53.727Z",
     "url": "https://gamefound.com/en/projects/lms/blasphemous-the-boardgame/updates/54",
     "sequenceNumber": 54
-  },
-  {
-    "id": 48144,
-    "projectId": 8531,
-    "projectName": "Six Sided Summoner",
-    "projectCreator": "ply-games",
-    "projectSlug": "six-sided-summoner",
-    "title": "Content Blast, Unlocked Stretch Goals & Community Vote!",
-    "excerpt": "We have a packed update for you today! Over the last few days, we’ve been working non-stop to deliver fresh video content to show you exactly how Six Sided Summoner plays, looks, and feels on the table.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8531/bef056e3-9a18-4c30-a3ea-1f12fa8fc633.jpg",
-    "publishedAt": "2026-10-19T22:09:45.453Z",
-    "url": "https://gamefound.com/en/projects/ply-games/six-sided-summoner/updates/7",
-    "sequenceNumber": 7
   },
   {
     "id": 48134,
