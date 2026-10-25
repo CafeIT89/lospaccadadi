@@ -1,5 +1,18 @@
 [
   {
+    "id": 47885,
+    "projectId": 13201,
+    "projectName": "Avalon: The Riven Veil (2nd Printing)",
+    "projectCreator": "Shadowborne-Games",
+    "projectSlug": "avalon-the-riven-veil-2nd-printing",
+    "title": "UPDATE #5 - Faction Deep Dive: The Fomorians, and the Miniatures of Avalon: Mist Touched and the Iron Forged Add-On",
+    "excerpt": "Discover the Fomorians, led by Balor, who manipulate tides and unleash the mighty Leviathan. Explore Avalon’s detailed miniatures, magical Mist Touched effects, and the Iron Forged metal upgrade featuring over 100 premium components.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13201/2dbf1acc-488c-41db-b8fe-21748f982280.png",
+    "publishedAt": "2026-10-25T11:54:10.28Z",
+    "url": "https://gamefound.com/en/projects/shadowborne-games/avalon-the-riven-veil-2nd-printing/updates/5",
+    "sequenceNumber": 5
+  },
+  {
     "id": 48395,
     "projectId": 11765,
     "projectName": "Dungeon of Tanares",
@@ -24,6 +37,19 @@
     "publishedAt": "2026-10-24T21:18:58.857Z",
     "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/34",
     "sequenceNumber": 34
+  },
+  {
+    "id": 48390,
+    "projectId": 8524,
+    "projectName": "Nemesis Legacy",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "nemesis-legacy",
+    "title": "DAY 19: FINAL 72 HOURS! NEW INFINITY CARDS + THE COMPLETE EVOLVED CARNOMORPH RACE!",
+    "excerpt": "The final 72 hours begin with over 20,000 backers! Today we add another Infinity Variety Pack, reveal the winning Metagorger sculpt, and finally show the complete Evolved Carnomorph race with all its gameplay content.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/bf799a5a-6ab2-4e59-be04-c7943a0578e4.jpg",
+    "publishedAt": "2026-10-24T21:10:12.207Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/17",
+    "sequenceNumber": 17
   },
   {
     "id": 48389,
@@ -143,19 +169,6 @@
     "sequenceNumber": 10
   },
   {
-    "id": 48318,
-    "projectId": 8524,
-    "projectName": "Nemesis Legacy",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "nemesis-legacy",
-    "title": "DAY 17: XENO-HUNTER VOTE RESULTS + METAGORGERS, BIG BOX & DECKBUILDING!",
-    "excerpt": "Day 17 is here! Maria becomes the Xeno-Hunter, 20 Metagorgers join the Evolved Carnomorphs with another sculpt vote, the Legacy Big Box becomes a separate add-on, and we dive into character progression.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/8a45596c-60c0-4903-b5e0-57e6bab5d1d0.jpg",
-    "publishedAt": "2026-10-22T21:45:27.277Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/16",
-    "sequenceNumber": 16
-  },
-  {
     "id": 48320,
     "projectId": 9823,
     "projectName": "Fable Quest",
@@ -167,19 +180,6 @@
     "publishedAt": "2026-10-22T20:42:10.033Z",
     "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/5",
     "sequenceNumber": 5
-  },
-  {
-    "id": 47884,
-    "projectId": 13201,
-    "projectName": "Avalon: The Riven Veil (2nd Printing)",
-    "projectCreator": "Shadowborne-Games",
-    "projectSlug": "avalon-the-riven-veil-2nd-printing",
-    "title": "UPDATE #4 - Faction Deep Dive: The Undead, and Game Version Comparison.",
-    "excerpt": "Explore Mordred’s Undead faction and compare the various options for purchasing Avalon.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13201/cf12dc14-c6a5-4f41-9c5a-79d3c5ccd11b.png",
-    "publishedAt": "2026-10-22T18:06:01.45Z",
-    "url": "https://gamefound.com/en/projects/shadowborne-games/avalon-the-riven-veil-2nd-printing/updates/4",
-    "sequenceNumber": 4
   },
   {
     "id": 46394,
