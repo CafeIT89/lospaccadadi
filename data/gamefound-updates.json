@@ -1,5 +1,18 @@
 [
   {
+    "id": 48386,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "Daily Investigator: The Countess",
+    "excerpt": "A toast to our next Investigator!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/63380a56-afd3-4715-8a4f-52edef117abd.png",
+    "publishedAt": "2026-10-25T16:11:05.017Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/35",
+    "sequenceNumber": 35
+  },
+  {
     "id": 47885,
     "projectId": 13201,
     "projectName": "Avalon: The Riven Veil (2nd Printing)",
@@ -24,19 +37,6 @@
     "publishedAt": "2026-10-25T07:43:32.283Z",
     "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/12",
     "sequenceNumber": 12
-  },
-  {
-    "id": 48371,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "Arch-Lord of Tindalos",
-    "excerpt": "A hound unlike any other you have ever seen before.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/d0215de0-dd60-4d45-89b6-abc40a73e1fe.png",
-    "publishedAt": "2026-10-24T21:18:58.857Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/34",
-    "sequenceNumber": 34
   },
   {
     "id": 48390,
