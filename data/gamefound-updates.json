@@ -1,5 +1,18 @@
 [
   {
+    "id": 48395,
+    "projectId": 11765,
+    "projectName": "Dungeon of Tanares",
+    "projectCreator": "dragori-games",
+    "projectSlug": "dungeon-of-tanares",
+    "title": "A New Dragon Is Approaching",
+    "excerpt": "A $1M dragon, Dragori’s first miniature, the secrets of Old Depths, and a dangerous offer for Taram.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/53dbede4-1a44-4ac2-9801-0485c24cbd89.jpeg",
+    "publishedAt": "2026-10-25T07:43:32.283Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/12",
+    "sequenceNumber": 12
+  },
+  {
     "id": 48371,
     "projectId": 11582,
     "projectName": "Arkham Horror",
@@ -24,19 +37,6 @@
     "publishedAt": "2026-10-24T19:00:34.353Z",
     "url": "https://gamefound.com/en/projects/ply-games/six-sided-summoner/updates/9",
     "sequenceNumber": 9
-  },
-  {
-    "id": 48374,
-    "projectId": 11765,
-    "projectName": "Dungeon of Tanares",
-    "projectCreator": "dragori-games",
-    "projectSlug": "dungeon-of-tanares",
-    "title": "Returning Backers - Pledge Guide",
-    "excerpt": "What to pledge and what the free Upgrade Kit brings. Any questions? Just ask in the comments.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/3217d60c-52b5-43c3-95d0-d859d7dff342.jpeg",
-    "publishedAt": "2026-10-24T02:09:49.563Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/11",
-    "sequenceNumber": 11
   },
   {
     "id": 48368,
