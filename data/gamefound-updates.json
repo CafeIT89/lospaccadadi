@@ -1,5 +1,18 @@
 [
   {
+    "id": 48371,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "Arch-Lord of Tindalos",
+    "excerpt": "A hound unlike any other you have ever seen before.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/d0215de0-dd60-4d45-89b6-abc40a73e1fe.png",
+    "publishedAt": "2026-10-24T21:18:58.857Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/34",
+    "sequenceNumber": 34
+  },
+  {
     "id": 48389,
     "projectId": 8531,
     "projectName": "Six Sided Summoner",
@@ -11,19 +24,6 @@
     "publishedAt": "2026-10-24T19:00:34.353Z",
     "url": "https://gamefound.com/en/projects/ply-games/six-sided-summoner/updates/9",
     "sequenceNumber": 9
-  },
-  {
-    "id": 48380,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "Daily Investigator: The Poet",
-    "excerpt": "Lucius’ dreams draw him to Arkham.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/2b159f19-03da-4ad9-bc1c-6fe79f0c09ab.png",
-    "publishedAt": "2026-10-24T16:00:48.617Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/33",
-    "sequenceNumber": 33
   },
   {
     "id": 48374,
