@@ -1,11 +1,20 @@
+
 import Image from "next/image";
 import Link from "next/link";
+import { after } from "next/server";
 
 import { getCachedSettimanaleVideos } from "@/lib/youtube-service";
+import { refreshSettimanaleIfNeeded } from "@/lib/youtube-auto-refresh";
 
 export default async function Settimanale() {
   const videos = await getCachedSettimanaleVideos();
   const latestVideos = videos.slice(0, 4);
+
+  // Controlla eventuali nuovi episodi dopo la risposta.
+  // Il blocco Redis evita aggiornamenti simultanei.
+  after(async () => {
+    await refreshSettimanaleIfNeeded();
+  });
 
   return (
     <section

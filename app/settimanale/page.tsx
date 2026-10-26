@@ -1,5 +1,7 @@
 import Image from "next/image";
 import type { Metadata } from "next";
+import { after } from "next/server";
+import { refreshSettimanaleIfNeeded } from "@/lib/youtube-auto-refresh";
 
 import { getCachedSettimanaleVideos } from "@/lib/youtube-service";
 
@@ -21,6 +23,9 @@ export const revalidate = 3600;
 
 export default async function SettimanalePage() {
   const videos = await getCachedSettimanaleVideos();
+  after(async () => {
+  await refreshSettimanaleIfNeeded();
+});
 
   return (
     <main className="min-h-screen bg-background text-white">

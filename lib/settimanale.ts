@@ -39,10 +39,8 @@ async function fetchYouTubeFeed(
   ) {
     try {
       const response = await fetch(feedUrl, {
-        next: {
-          revalidate: 3600,
-        },
-      });
+  cache: "no-store",
+});
 
       if (!response.ok) {
         throw new Error(
