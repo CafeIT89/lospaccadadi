@@ -1,16 +1,55 @@
 [
   {
-    "id": 48392,
+    "id": 48400,
     "projectId": 11582,
     "projectName": "Arkham Horror",
     "projectCreator": "asmodee",
     "projectSlug": "arkham-horror",
-    "title": "The Swarm",
-    "excerpt": "Assimilate as trylogogs as Ezel-zen-rezl is worshipped...",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/7742d4e9-a4e7-4038-a2aa-7bed75fdbee7.png",
-    "publishedAt": "2026-10-26T07:53:18.273Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/36",
-    "sequenceNumber": 36
+    "title": "Make Your Own Luck",
+    "excerpt": "Ready to roll in style?",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/f58c39a4-9bd4-4e95-ba53-82d2f5c6e67e.png",
+    "publishedAt": "2026-10-26T18:28:42.543Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/38",
+    "sequenceNumber": 38
+  },
+  {
+    "id": 48424,
+    "projectId": 11313,
+    "projectName": "Miskatonic Expeditions",
+    "projectCreator": "papertigers",
+    "projectSlug": "miskatonic-expeditions",
+    "title": "Two Days to Go: Take Miskatonic Home!",
+    "excerpt": "Just over 48 hours left! Join Miskatonic Expeditions before the campaign ends, and get bonus printable artwork to make your own Miskatonic T-shirts, mugs, stickers, and more.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/482bed45-08db-4f94-800a-4899e64d8e6c.png",
+    "publishedAt": "2026-10-26T16:00:00Z",
+    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/23",
+    "sequenceNumber": 23
+  },
+  {
+    "id": 48431,
+    "projectId": 5249,
+    "projectName": "Machina Arcana: Vivarium",
+    "projectCreator": "adreama-games",
+    "projectSlug": "machina-arcana-vivarium",
+    "title": "Good News: The Polish 4th Edition Is Happening",
+    "excerpt": "We will have the full Polish 4th edition of Machina Arcana for this campaign!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5249/22c0de5b-09ca-40b5-a0f4-01b88a0ce27c.png",
+    "publishedAt": "2026-10-26T14:21:22.62Z",
+    "url": "https://gamefound.com/en/projects/adreama-games/machina-arcana-vivarium/updates/22",
+    "sequenceNumber": 22
+  },
+  {
+    "id": 48428,
+    "projectId": 11178,
+    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
+    "projectCreator": "xplored",
+    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
+    "title": "The Researcher and the Coach",
+    "excerpt": "A campaign update looking at the next two Miskatonic Heroes!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/f1bd1d47-dc0c-4119-b987-39228b520d00.png",
+    "publishedAt": "2026-10-26T13:00:00Z",
+    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/11",
+    "sequenceNumber": 11
   },
   {
     "id": 47885,
@@ -91,19 +130,6 @@
     "sequenceNumber": 120
   },
   {
-    "id": 48268,
-    "projectId": 11313,
-    "projectName": "Miskatonic Expeditions",
-    "projectCreator": "papertigers",
-    "projectSlug": "miskatonic-expeditions",
-    "title": "Final Exam: Surviving the Symptoms of Madness",
-    "excerpt": "Managing a Mind Under Siege",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/79e0ca9e-1f91-4d55-b5e7-7890b3fa8686.png",
-    "publishedAt": "2026-10-23T15:00:00Z",
-    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/22",
-    "sequenceNumber": 22
-  },
-  {
     "id": 48292,
     "projectId": 13329,
     "projectName": "Transformers: Resistance",
@@ -130,19 +156,6 @@
     "sequenceNumber": 99
   },
   {
-    "id": 48333,
-    "projectId": 5249,
-    "projectName": "Machina Arcana: Vivarium",
-    "projectCreator": "adreama-games",
-    "projectSlug": "machina-arcana-vivarium",
-    "title": "Revised Timeline and Changes to the Polish Edition",
-    "excerpt": "Delivery moves beyond 2026. We explain the changes to Polish edition content. Plus, the latest manufacturing progress.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5249/0f8a531c-204d-4e09-948f-b9faeaea5b4b.png",
-    "publishedAt": "2026-10-23T12:08:40.453Z",
-    "url": "https://gamefound.com/en/projects/adreama-games/machina-arcana-vivarium/updates/21",
-    "sequenceNumber": 21
-  },
-  {
     "id": 48300,
     "projectId": 5354,
     "projectName": "Labyrinth",
@@ -154,19 +167,6 @@
     "publishedAt": "2026-10-23T12:00:34.917Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/labyrinth/updates/28",
     "sequenceNumber": 28
-  },
-  {
-    "id": 48342,
-    "projectId": 11178,
-    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
-    "projectCreator": "xplored",
-    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
-    "title": "Essen Spiel and New Print & Play Demo",
-    "excerpt": "A campaign update on Essen Spiel and a playable demo for the Curse of Competition.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/ddead19b-49cc-49e1-921e-96ad23712abf.jpg",
-    "publishedAt": "2026-10-23T10:30:00Z",
-    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/10",
-    "sequenceNumber": 10
   },
   {
     "id": 48320,
