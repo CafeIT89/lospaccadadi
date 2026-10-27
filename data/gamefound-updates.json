@@ -1,16 +1,29 @@
 [
   {
-    "id": 48469,
+    "id": 48477,
     "projectId": 11582,
     "projectName": "Arkham Horror",
     "projectCreator": "asmodee",
     "projectSlug": "arkham-horror",
-    "title": "A Magic Trick Up Your Sleeves",
-    "excerpt": "Premium protection for your Arkham Horror collection with Gamegenic sleeves, the exceptional quality players love.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/fd0a8163-ceee-46b9-aecc-ed83229ff972.png",
-    "publishedAt": "2026-10-27T17:40:05.52Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/41",
-    "sequenceNumber": 41
+    "title": "Reflect Malice",
+    "excerpt": "This Ancient One seeks revenge for being trapped underground.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/8cf6b089-af45-42ec-9ee2-b6e0e30872b7.png",
+    "publishedAt": "2026-10-27T20:25:09.76Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/42",
+    "sequenceNumber": 42
+  },
+  {
+    "id": 48517,
+    "projectId": 11645,
+    "projectName": "Grimdark Future: Jade Claw",
+    "projectCreator": "onepagerules",
+    "projectSlug": "grimdark-future-jade-claw",
+    "title": "First Look at Our Resin Cast Heroes",
+    "excerpt": "Our first Unicool Plastic hero samples have come in, so lets take a look at them, together!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/87a37811-04cc-435b-9cb0-e53fc007388c.png",
+    "publishedAt": "2026-10-27T19:32:57.383Z",
+    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/18",
+    "sequenceNumber": 18
   },
   {
     "id": 48429,
@@ -115,19 +128,6 @@
     "publishedAt": "2026-10-24T19:00:34.353Z",
     "url": "https://gamefound.com/en/projects/ply-games/six-sided-summoner/updates/9",
     "sequenceNumber": 9
-  },
-  {
-    "id": 48368,
-    "projectId": 11645,
-    "projectName": "Grimdark Future: Jade Claw",
-    "projectCreator": "onepagerules",
-    "projectSlug": "grimdark-future-jade-claw",
-    "title": "Solo & Co-Op Play",
-    "excerpt": "You’ll notice that Grimdark Future: Jade & Claw, like Broken Truth before it, says it is playable with 1-2 players! And this is true! But how does that work?",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/b3cda32c-af4a-4482-b9f1-cf5f57e2485c.png",
-    "publishedAt": "2026-10-23T18:06:03.6Z",
-    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/17",
-    "sequenceNumber": 17
   },
   {
     "id": 48366,
