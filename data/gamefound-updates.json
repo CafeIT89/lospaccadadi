@@ -1,5 +1,31 @@
 [
   {
+    "id": 48456,
+    "projectId": 11765,
+    "projectName": "Dungeon of Tanares",
+    "projectCreator": "dragori-games",
+    "projectSlug": "dungeon-of-tanares",
+    "title": "The Dragon Has Arrived",
+    "excerpt": "The Madness Dragon, the entire pantheon of Ungod War, and the next classic monster for Old Depths.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/77ae5a0b-c1ab-43c4-85bb-fac142d51fc4.jpeg",
+    "publishedAt": "2026-10-27T06:17:20.833Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/13",
+    "sequenceNumber": 13
+  },
+  {
+    "id": 48427,
+    "projectId": 8524,
+    "projectName": "Nemesis Legacy",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "nemesis-legacy",
+    "title": "DAY 21: FINAL 24 HOURS! SPACE BOBER RETURNS & ENDGAME IS AHEAD!",
+    "excerpt": "The final 24 hours are here, with over 24,000 Crewmembers aboard! Today we reveal our final campaign Stretch Goal. We also return to Zenith of Ruin and explain what happens when Nemesis: Legacy enters Endgame.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/c13b7e3c-c013-4118-8bd9-ad4774bb2074.jpg",
+    "publishedAt": "2026-10-26T20:20:00.583Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/18",
+    "sequenceNumber": 18
+  },
+  {
     "id": 48400,
     "projectId": 11582,
     "projectName": "Arkham Horror",
@@ -63,32 +89,6 @@
     "publishedAt": "2026-10-25T11:54:10.28Z",
     "url": "https://gamefound.com/en/projects/shadowborne-games/avalon-the-riven-veil-2nd-printing/updates/5",
     "sequenceNumber": 5
-  },
-  {
-    "id": 48395,
-    "projectId": 11765,
-    "projectName": "Dungeon of Tanares",
-    "projectCreator": "dragori-games",
-    "projectSlug": "dungeon-of-tanares",
-    "title": "A New Dragon Is Approaching",
-    "excerpt": "A $1M dragon, Dragori’s first miniature, the secrets of Old Depths, and a dangerous offer for Taram.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/53dbede4-1a44-4ac2-9801-0485c24cbd89.jpeg",
-    "publishedAt": "2026-10-25T07:43:32.283Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/12",
-    "sequenceNumber": 12
-  },
-  {
-    "id": 48390,
-    "projectId": 8524,
-    "projectName": "Nemesis Legacy",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "nemesis-legacy",
-    "title": "DAY 19: FINAL 72 HOURS! NEW INFINITY CARDS + THE COMPLETE EVOLVED CARNOMORPH RACE!",
-    "excerpt": "The final 72 hours begin with over 20,000 backers! Today we add another Infinity Variety Pack, reveal the winning Metagorger sculpt, and finally show the complete Evolved Carnomorph race with all its gameplay content.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/bf799a5a-6ab2-4e59-be04-c7943a0578e4.jpg",
-    "publishedAt": "2026-10-24T21:10:12.207Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/17",
-    "sequenceNumber": 17
   },
   {
     "id": 48389,

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-27T04:58:43.703Z",
+  "updatedAt": "2026-10-27T12:05:37.762Z",
   "projects": [
     {
       "name": "Nemesis Legacy",
       "creator": "Awaken Realms",
       "url": "https://gamefound.com/projects/awaken-realms/nemesis-legacy",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8524/8246040c-ef12-419c-b133-b98cc169b431.jpg",
-      "fundsGathered": 9496133,
+      "fundsGathered": 9869557.56,
       "currency": "EUR",
-      "backerCount": 25499,
+      "backerCount": 26374,
       "campaignEndDate": "2026-10-27T19:00:00Z"
     },
     {
@@ -16,9 +16,9 @@
       "creator": "Fantasy Flight Games",
       "url": "https://gamefound.com/projects/asmodee/arkham-horror",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11582/f4df3d92-358e-48c9-88dd-cc34020a61fa.png",
-      "fundsGathered": 2378552.99,
+      "fundsGathered": 2398413.71,
       "currency": "USD",
-      "backerCount": 6459,
+      "backerCount": 6508,
       "campaignEndDate": "2026-11-05T01:00:00Z"
     },
     {
@@ -26,9 +26,9 @@
       "creator": "MOOD Publishing",
       "url": "https://gamefound.com/projects/mood-publishing/satisfactory-the-board-game",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11362/cbd459fe-aa2f-49a4-bb9a-57df2837b839.png",
-      "fundsGathered": 1951892.64,
+      "fundsGathered": 1955299.9,
       "currency": "EUR",
-      "backerCount": 7674,
+      "backerCount": 7686,
       "campaignEndDate": "2026-11-10T15:00:00Z"
     },
     {
@@ -36,9 +36,9 @@
       "creator": "Dragori Games",
       "url": "https://gamefound.com/projects/dragori-games/dungeon-of-tanares",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11765/d4ae2216-f863-44f7-b227-0e743ec5c03a.jpg",
-      "fundsGathered": 1046169.86,
+      "fundsGathered": 1058926.78,
       "currency": "USD",
-      "backerCount": 2528,
+      "backerCount": 2560,
       "campaignEndDate": "2026-11-05T21:00:00Z"
     },
     {
@@ -46,9 +46,9 @@
       "creator": "Feuerland",
       "url": "https://gamefound.com/projects/feuerland/the-danes---a-feast-for-odin-game",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11361/1f6af93e-3e7c-4eff-bf27-74c90440bba6.jpg",
-      "fundsGathered": 726036.46,
+      "fundsGathered": 729399.32,
       "currency": "EUR",
-      "backerCount": 6649,
+      "backerCount": 6679,
       "campaignEndDate": "2026-11-05T11:00:00Z"
     }
   ]
