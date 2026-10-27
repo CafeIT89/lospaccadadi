@@ -1,5 +1,44 @@
 [
   {
+    "id": 48469,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "A Magic Trick Up Your Sleeves",
+    "excerpt": "Premium protection for your Arkham Horror collection with Gamegenic sleeves, the exceptional quality players love.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/fd0a8163-ceee-46b9-aecc-ed83229ff972.png",
+    "publishedAt": "2026-10-27T17:40:05.52Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/41",
+    "sequenceNumber": 41
+  },
+  {
+    "id": 48429,
+    "projectId": 11313,
+    "projectName": "Miskatonic Expeditions",
+    "projectCreator": "papertigers",
+    "projectSlug": "miskatonic-expeditions",
+    "title": "The Unveiling Ritual Is Nearly Complete: Join Miskatonic Expeditions!",
+    "excerpt": "Discover the game, explore the campaign highlights, watch playthrough videos, and get ready to venture into the unsettling halls of Miskatonic University. The gates close on October 28, at 8:00 PM CET.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/55314692-7393-4d9c-80f8-bc293a5d2b2d.png",
+    "publishedAt": "2026-10-27T16:45:23.817Z",
+    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/24",
+    "sequenceNumber": 24
+  },
+  {
+    "id": 48488,
+    "projectId": 8534,
+    "projectName": "Call of Cthulhu: Old Ones Origins",
+    "projectCreator": "chaosium",
+    "projectSlug": "call-of-cthulhu-old-ones-origins",
+    "title": "Yithian Archives: Record #29. Highlights from SPIEL Essen!",
+    "excerpt": "Old Ones Origins made an appearance at SPIEL Essen! We’re back with plenty of feedback, new ideas, and ongoing improvements as development continues. Plus, we have a new miniature to show you and more news coming soon!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/e9598f65-be83-4a21-a54f-e6c8958cd2c9.png",
+    "publishedAt": "2026-10-27T16:17:31.127Z",
+    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/29",
+    "sequenceNumber": 29
+  },
+  {
     "id": 48456,
     "projectId": 11765,
     "projectName": "Dungeon of Tanares",
@@ -24,32 +63,6 @@
     "publishedAt": "2026-10-26T20:20:00.583Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/18",
     "sequenceNumber": 18
-  },
-  {
-    "id": 48400,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "Make Your Own Luck",
-    "excerpt": "Ready to roll in style?",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/f58c39a4-9bd4-4e95-ba53-82d2f5c6e67e.png",
-    "publishedAt": "2026-10-26T18:28:42.543Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/38",
-    "sequenceNumber": 38
-  },
-  {
-    "id": 48424,
-    "projectId": 11313,
-    "projectName": "Miskatonic Expeditions",
-    "projectCreator": "papertigers",
-    "projectSlug": "miskatonic-expeditions",
-    "title": "Two Days to Go: Take Miskatonic Home!",
-    "excerpt": "Just over 48 hours left! Join Miskatonic Expeditions before the campaign ends, and get bonus printable artwork to make your own Miskatonic T-shirts, mugs, stickers, and more.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/482bed45-08db-4f94-800a-4899e64d8e6c.png",
-    "publishedAt": "2026-10-26T16:00:00Z",
-    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/23",
-    "sequenceNumber": 23
   },
   {
     "id": 48431,
@@ -401,19 +414,6 @@
     "publishedAt": "2026-10-16T10:03:17.72Z",
     "url": "https://gamefound.com/en/projects/lms/blood_lms/updates/56",
     "sequenceNumber": 56
-  },
-  {
-    "id": 47940,
-    "projectId": 8534,
-    "projectName": "Call of Cthulhu: Old Ones Origins",
-    "projectCreator": "chaosium",
-    "projectSlug": "call-of-cthulhu-old-ones-origins",
-    "title": "Yithian Archives Record #28. THANK YOU!",
-    "excerpt": "Thank you for joining Old Ones Origins! In this update, we’re celebrating everything we’ve achieved together during the campaign and EndGame.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/f8d0e184-6cd3-428c-8ea6-8bf5e3926ddf.png",
-    "publishedAt": "2026-10-16T00:00:32.153Z",
-    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/28",
-    "sequenceNumber": 28
   },
   {
     "id": 44767,
