@@ -1,5 +1,18 @@
 [
   {
+    "id": 48510,
+    "projectId": 12995,
+    "projectName": "Too Little Time",
+    "projectCreator": "chip-theory-games",
+    "projectSlug": "too-little-time",
+    "title": "Day 1: THANK YOU for an AMAZING Launch Day - $1 Million!",
+    "excerpt": "Having the time of our lives!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/c8301be3-1a56-4391-aa74-5b530234149e.webp",
+    "publishedAt": "2026-10-28T00:58:34.497Z",
+    "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/2",
+    "sequenceNumber": 2
+  },
+  {
     "id": 48477,
     "projectId": 11582,
     "projectName": "Arkham Horror",
@@ -24,6 +37,19 @@
     "publishedAt": "2026-10-27T19:32:57.383Z",
     "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/18",
     "sequenceNumber": 18
+  },
+  {
+    "id": 48511,
+    "projectId": 8524,
+    "projectName": "Nemesis Legacy",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "nemesis-legacy",
+    "title": "ENDGAME #1: GAMEFOUND RECORD!!! + ENDGAME STRETCH GOAL & YOUR FIRST ENDGAME VOTE!",
+    "excerpt": "Endgame starts with a Gamefound record! Nemesis: Legacy has become the platform’s most successful crowdfunding campaign. The Xyrian is now live, and every completed hour adds a new card to the Endgame Adventure!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/b21d68cc-6804-4ebd-9fac-5f18d8cd01b7.jpg",
+    "publishedAt": "2026-10-27T19:14:29.043Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/20",
+    "sequenceNumber": 20
   },
   {
     "id": 48429,
@@ -63,19 +89,6 @@
     "publishedAt": "2026-10-27T06:17:20.833Z",
     "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/13",
     "sequenceNumber": 13
-  },
-  {
-    "id": 48427,
-    "projectId": 8524,
-    "projectName": "Nemesis Legacy",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "nemesis-legacy",
-    "title": "DAY 21: FINAL 24 HOURS! SPACE BOBER RETURNS & ENDGAME IS AHEAD!",
-    "excerpt": "The final 24 hours are here, with over 24,000 Crewmembers aboard! Today we reveal our final campaign Stretch Goal. We also return to Zenith of Ruin and explain what happens when Nemesis: Legacy enters Endgame.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/c13b7e3c-c013-4118-8bd9-ad4774bb2074.jpg",
-    "publishedAt": "2026-10-26T20:20:00.583Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/18",
-    "sequenceNumber": 18
   },
   {
     "id": 48431,
@@ -271,19 +284,6 @@
     "publishedAt": "2026-10-21T13:40:34.57Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/dragon-eclipse-the-grand-quest/updates/27",
     "sequenceNumber": 27
-  },
-  {
-    "id": 48201,
-    "projectId": 12995,
-    "projectName": "Too Little Time",
-    "projectCreator": "chip-theory-games",
-    "projectSlug": "too-little-time",
-    "title": "Time to Talk About Too Little Time...Tomorrow!",
-    "excerpt": "A primer tonight before you ask us anything tomorrow!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/42627f7d-705b-4946-9336-2efb9fa72576.webp",
-    "publishedAt": "2026-10-21T02:10:47.483Z",
-    "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/1",
-    "sequenceNumber": 1
   },
   {
     "id": 48117,
