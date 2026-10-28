@@ -1,55 +1,146 @@
 [
   {
-    "id": 47886,
-    "projectId": 13201,
-    "projectName": "Avalon: The Riven Veil (2nd Printing)",
-    "projectCreator": "Shadowborne-Games",
-    "projectSlug": "avalon-the-riven-veil-2nd-printing",
-    "title": "UPDATE #6 - Faction Deep Dive: The Fey, the Mist Walkers Expansion, and Last Hours Until the Mists Close",
-    "excerpt": "Meet the Fey, led by Morgana Le Fey. Explore the Myths & Monsters Box, adding a fifth faction and mythical beasts, plus the Mist Walkers Expansion, as the campaign enters its final few hours.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13201/1b9fab3c-8771-4b29-9c71-55c34fe0c2b3.png",
-    "publishedAt": "2026-10-28T11:00:23.493Z",
-    "url": "https://gamefound.com/en/projects/shadowborne-games/avalon-the-riven-veil-2nd-printing/updates/6",
-    "sequenceNumber": 6
-  },
-  {
-    "id": 48510,
+    "id": 48123,
     "projectId": 12995,
     "projectName": "Too Little Time",
     "projectCreator": "chip-theory-games",
     "projectSlug": "too-little-time",
-    "title": "Day 1: THANK YOU for an AMAZING Launch Day - $1 Million!",
-    "excerpt": "Having the time of our lives!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/c8301be3-1a56-4391-aa74-5b530234149e.webp",
-    "publishedAt": "2026-10-28T00:58:34.497Z",
-    "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/2",
-    "sequenceNumber": 2
+    "title": "Day 2: Spotlight on What the Heck Even is All This!?",
+    "excerpt": "And our first (of a few) backer poll(s)!!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/fe8177e5-f8c4-441c-8b94-66a77adc7ce0.webp",
+    "publishedAt": "2026-10-28T21:44:44.653Z",
+    "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/3",
+    "sequenceNumber": 3
   },
   {
-    "id": 48477,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "Reflect Malice",
-    "excerpt": "This Ancient One seeks revenge for being trapped underground.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/8cf6b089-af45-42ec-9ee2-b6e0e30872b7.png",
-    "publishedAt": "2026-10-27T20:25:09.76Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/42",
-    "sequenceNumber": 42
+    "id": 48585,
+    "projectId": 11765,
+    "projectName": "Dungeon of Tanares",
+    "projectCreator": "dragori-games",
+    "projectSlug": "dungeon-of-tanares",
+    "title": "The Cockatrice Won. The Green Hag Is My Gift.",
+    "excerpt": "Plus the Will-o’-Wisp, and a new hero crosses Taram’s path.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/3a301b11-b796-4839-ad4b-ed8e05690a80.jpeg",
+    "publishedAt": "2026-10-28T21:01:52.383Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/14",
+    "sequenceNumber": 14
   },
   {
-    "id": 48517,
+    "id": 47992,
+    "projectId": 13201,
+    "projectName": "Avalon: The Riven Veil (2nd Printing)",
+    "projectCreator": "Shadowborne-Games",
+    "projectSlug": "avalon-the-riven-veil-2nd-printing",
+    "title": "UPDATE #7 -Thank You All, Now What's Next?",
+    "excerpt": "Thank you for what's past and looking to what's next.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13201/b97a46f7-8571-4e16-8982-570201ac210e.png",
+    "publishedAt": "2026-10-28T21:01:25.97Z",
+    "url": "https://gamefound.com/en/projects/shadowborne-games/avalon-the-riven-veil-2nd-printing/updates/7",
+    "sequenceNumber": 7
+  },
+  {
+    "id": 48582,
+    "projectId": 5297,
+    "projectName": "Dead by Daylight: The Board Game",
+    "projectCreator": "level-99-games",
+    "projectSlug": "dbd",
+    "title": "October News",
+    "excerpt": "Happy Halloween! We're going through the pre-press process with our localizers right now, and hope to start printing by the end of the year.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5297/b68071e0-eae8-4399-a334-d5aa0b13b479.webp",
+    "publishedAt": "2026-10-28T18:43:17.25Z",
+    "url": "https://gamefound.com/en/projects/level-99-games/dbd/updates/19",
+    "sequenceNumber": 19
+  },
+  {
+    "id": 48581,
     "projectId": 11645,
     "projectName": "Grimdark Future: Jade Claw",
     "projectCreator": "onepagerules",
     "projectSlug": "grimdark-future-jade-claw",
-    "title": "First Look at Our Resin Cast Heroes",
-    "excerpt": "Our first Unicool Plastic hero samples have come in, so lets take a look at them, together!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/87a37811-04cc-435b-9cb0-e53fc007388c.png",
-    "publishedAt": "2026-10-27T19:32:57.383Z",
-    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/18",
-    "sequenceNumber": 18
+    "title": "Jade & Claw Video Round-Up",
+    "excerpt": "Several of our YouTube friends have made videos about Jade & Claw! We've gathered up a few of them in this update to take a look at.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/df0b638e-696d-4a48-a5b8-8b59700cd753.jpg",
+    "publishedAt": "2026-10-28T18:22:59.293Z",
+    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/19",
+    "sequenceNumber": 19
+  },
+  {
+    "id": 48541,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "One Book to Rule Them All",
+    "excerpt": "All your rules in one place.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/e9965c15-4fb8-46ba-af97-babce82c9260.png",
+    "publishedAt": "2026-10-28T18:12:17.92Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/44",
+    "sequenceNumber": 44
+  },
+  {
+    "id": 48534,
+    "projectId": 11313,
+    "projectName": "Miskatonic Expeditions",
+    "projectCreator": "papertigers",
+    "projectSlug": "miskatonic-expeditions",
+    "title": "One Hour Left: The Endgame Is Almost Here!",
+    "excerpt": "The Ultimate Confrontation has begun. In just one hour, at 8:00 PM CET, the Miskatonic Expeditions campaign will reach its scheduled end. But that doesn't necessarily mean the exploration is over!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/ad2f7b74-cebe-4503-8bbc-75d58e0778cc.png",
+    "publishedAt": "2026-10-28T18:00:00Z",
+    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/25",
+    "sequenceNumber": 25
+  },
+  {
+    "id": 48568,
+    "projectId": 6571,
+    "projectName": "Claustrophobia 1692",
+    "projectCreator": "devir",
+    "projectSlug": "claustrophobia-1692",
+    "title": "One and a Half Weeks Left for Pledge Management!",
+    "excerpt": "We’ve received 1289 order confirmations so far. There are 303 of you who still have to fill out your forms by November 8!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6571/8c86081f-7176-48da-90fd-281c7a016130.jpg",
+    "publishedAt": "2026-10-28T15:17:39.137Z",
+    "url": "https://gamefound.com/en/projects/devir/claustrophobia-1692/updates/23",
+    "sequenceNumber": 23
+  },
+  {
+    "id": 48556,
+    "projectId": 3809,
+    "projectName": "Cyberpunk 2077: The Board Game",
+    "projectCreator": "go-on-board",
+    "projectSlug": "cyberpunk-2077-the-board-game",
+    "title": "All Rulebooks Available & ICEBREAKER Gameplay!",
+    "excerpt": "Production Progress / All Rulebooks / ICEBREAKER Gameplay / Community Q&A",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3809/2492a3a5-bf09-4023-b9d2-24bbf9724226.png",
+    "publishedAt": "2026-10-28T15:01:31.157Z",
+    "url": "https://gamefound.com/en/projects/go-on-board/cyberpunk-2077-the-board-game/updates/63",
+    "sequenceNumber": 63
+  },
+  {
+    "id": 48565,
+    "projectId": 11178,
+    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
+    "projectCreator": "xplored",
+    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
+    "title": "The Sleeper of N’ka",
+    "excerpt": "A campaign update on our final Vol 6 Great Old One, another Team Battle Hero combo, and STL Terrain Files.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/5daab730-2ef9-45c4-9b8a-1a05700586f4.png",
+    "publishedAt": "2026-10-28T15:00:00Z",
+    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/12",
+    "sequenceNumber": 12
+  },
+  {
+    "id": 48169,
+    "projectId": 3848,
+    "projectName": "Grimcoven",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "grimcoven",
+    "title": "LANG (other than English) versions SHIPPING UPDATE #8 | New chapter for fulfillment and REPLACEMENT shipments",
+    "excerpt": "Check out the latest LANG edition's shipping news. Also, learn more about the Awaken Realms' warehouse and what this new chapter means for our future projects' deliveries and replacement shipments handling!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3848/251e8d5a-4ce6-4c74-a642-4a3020e6ea83.png",
+    "publishedAt": "2026-10-28T14:02:00Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/grimcoven/updates/54",
+    "sequenceNumber": 54
   },
   {
     "id": 48511,
@@ -65,19 +156,6 @@
     "sequenceNumber": 20
   },
   {
-    "id": 48429,
-    "projectId": 11313,
-    "projectName": "Miskatonic Expeditions",
-    "projectCreator": "papertigers",
-    "projectSlug": "miskatonic-expeditions",
-    "title": "The Unveiling Ritual Is Nearly Complete: Join Miskatonic Expeditions!",
-    "excerpt": "Discover the game, explore the campaign highlights, watch playthrough videos, and get ready to venture into the unsettling halls of Miskatonic University. The gates close on October 28, at 8:00 PM CET.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/55314692-7393-4d9c-80f8-bc293a5d2b2d.png",
-    "publishedAt": "2026-10-27T16:45:23.817Z",
-    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/24",
-    "sequenceNumber": 24
-  },
-  {
     "id": 48488,
     "projectId": 8534,
     "projectName": "Call of Cthulhu: Old Ones Origins",
@@ -91,19 +169,6 @@
     "sequenceNumber": 29
   },
   {
-    "id": 48456,
-    "projectId": 11765,
-    "projectName": "Dungeon of Tanares",
-    "projectCreator": "dragori-games",
-    "projectSlug": "dungeon-of-tanares",
-    "title": "The Dragon Has Arrived",
-    "excerpt": "The Madness Dragon, the entire pantheon of Ungod War, and the next classic monster for Old Depths.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/77ae5a0b-c1ab-43c4-85bb-fac142d51fc4.jpeg",
-    "publishedAt": "2026-10-27T06:17:20.833Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/13",
-    "sequenceNumber": 13
-  },
-  {
     "id": 48431,
     "projectId": 5249,
     "projectName": "Machina Arcana: Vivarium",
@@ -115,19 +180,6 @@
     "publishedAt": "2026-10-26T14:21:22.62Z",
     "url": "https://gamefound.com/en/projects/adreama-games/machina-arcana-vivarium/updates/22",
     "sequenceNumber": 22
-  },
-  {
-    "id": 48428,
-    "projectId": 11178,
-    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
-    "projectCreator": "xplored",
-    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
-    "title": "The Researcher and the Coach",
-    "excerpt": "A campaign update looking at the next two Miskatonic Heroes!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/f1bd1d47-dc0c-4119-b987-39228b520d00.png",
-    "publishedAt": "2026-10-26T13:00:00Z",
-    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/11",
-    "sequenceNumber": 11
   },
   {
     "id": 48389,
@@ -455,19 +507,6 @@
     "sequenceNumber": 18
   },
   {
-    "id": 47754,
-    "projectId": 3848,
-    "projectName": "Grimcoven",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "grimcoven",
-    "title": "LANG (other than English) versions SHIPPING UPDATE #7",
-    "excerpt": "We're back with the newest shipping report for the LANG editions, Hunters! Check out today's update on the fulfillment progress.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3848/1c4821d0-86fc-4c33-af70-9a18e79120ae.png",
-    "publishedAt": "2026-10-13T12:10:02.113Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/grimcoven/updates/53",
-    "sequenceNumber": 53
-  },
-  {
     "id": 47743,
     "projectId": 5617,
     "projectName": "Spell Rift Legends",
@@ -585,19 +624,6 @@
     "sequenceNumber": 34
   },
   {
-    "id": 45001,
-    "projectId": 3809,
-    "projectName": "Cyberpunk 2077: The Board Game",
-    "projectCreator": "go-on-board",
-    "projectSlug": "cyberpunk-2077-the-board-game",
-    "title": "Updated Delivery Timeline",
-    "excerpt": "Timeline & Fulfillment Plans / [EDIT 05.10.2026] Q&A Video landed on YouTube",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3809/8ccc0cd3-937c-4f8e-b6b4-a157e9027a3f.png",
-    "publishedAt": "2026-09-30T12:17:32.557Z",
-    "url": "https://gamefound.com/en/projects/go-on-board/cyberpunk-2077-the-board-game/updates/62",
-    "sequenceNumber": 62
-  },
-  {
     "id": 45124,
     "projectId": 5640,
     "projectName": "Ronin's Revenge",
@@ -637,19 +663,6 @@
     "sequenceNumber": 45
   },
   {
-    "id": 45002,
-    "projectId": 6571,
-    "projectName": "Claustrophobia 1692",
-    "projectCreator": "devir",
-    "projectSlug": "claustrophobia-1692",
-    "title": "Last Week of Late Pledge!",
-    "excerpt": "Claustrophobia 1692 is coming up on the final days of late pledge. Make sure to get your pledge locked by Thursday, October 1!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6571/e4800270-a97c-4d24-9cc9-fe26f2c2090f.jpg",
-    "publishedAt": "2026-09-28T14:19:46.45Z",
-    "url": "https://gamefound.com/en/projects/devir/claustrophobia-1692/updates/22",
-    "sequenceNumber": 22
-  },
-  {
     "id": 44940,
     "projectId": 6096,
     "projectName": "The Elder Scrolls: Heroes of Tamriel",
@@ -687,19 +700,6 @@
     "publishedAt": "2026-09-23T21:13:00.513Z",
     "url": "https://gamefound.com/en/projects/indie-boards-and-cards/aeons-end-system-overload/updates/17",
     "sequenceNumber": 17
-  },
-  {
-    "id": 44539,
-    "projectId": 5297,
-    "projectName": "Dead by Daylight: The Board Game",
-    "projectCreator": "level-99-games",
-    "projectSlug": "dbd",
-    "title": "September Update!",
-    "excerpt": "Here’s where we are and what’s next for the Dead by Daylight™: The Board Game Auris Box!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5297/e6421ea2-446d-4717-b948-270897ef5c7f.png",
-    "publishedAt": "2026-09-17T16:33:53.347Z",
-    "url": "https://gamefound.com/en/projects/level-99-games/dbd/updates/18",
-    "sequenceNumber": 18
   },
   {
     "id": 42756,
