@@ -1,5 +1,18 @@
 [
   {
+    "id": 48522,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "The Aviatrix",
+    "excerpt": "The woman without fear is putting that moniker to the test.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/efd973b4-c523-4475-bb36-12856b39c09d.png",
+    "publishedAt": "2026-10-28T23:55:24.653Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/45",
+    "sequenceNumber": 45
+  },
+  {
     "id": 48123,
     "projectId": 12995,
     "projectName": "Too Little Time",
@@ -63,19 +76,6 @@
     "publishedAt": "2026-10-28T18:22:59.293Z",
     "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/19",
     "sequenceNumber": 19
-  },
-  {
-    "id": 48541,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "One Book to Rule Them All",
-    "excerpt": "All your rules in one place.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/e9965c15-4fb8-46ba-af97-babce82c9260.png",
-    "publishedAt": "2026-10-28T18:12:17.92Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/44",
-    "sequenceNumber": 44
   },
   {
     "id": 48534,
