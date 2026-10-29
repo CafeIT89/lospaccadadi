@@ -52,6 +52,19 @@
     "sequenceNumber": 7
   },
   {
+    "id": 48562,
+    "projectId": 8524,
+    "projectName": "Nemesis Legacy",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "nemesis-legacy",
+    "title": "ENDGAME #2: BIGGEST CAMPAIGN EVER!!!",
+    "excerpt": "This has become the biggest crowdfunding campaign for a board game in history!!! Also, 24 new Infinity Mode cards are unlocked! Now your first community choice shapes the next batch, and Vote #2 may even switch the Endgame into special HOLO cards!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/294c7c5f-34a9-4008-8b21-6e1eda2e5248.jpg",
+    "publishedAt": "2026-10-28T19:00:03.243Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/21",
+    "sequenceNumber": 21
+  },
+  {
     "id": 48582,
     "projectId": 5297,
     "projectName": "Dead by Daylight: The Board Game",
@@ -141,19 +154,6 @@
     "publishedAt": "2026-10-28T14:02:00Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/grimcoven/updates/54",
     "sequenceNumber": 54
-  },
-  {
-    "id": 48511,
-    "projectId": 8524,
-    "projectName": "Nemesis Legacy",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "nemesis-legacy",
-    "title": "ENDGAME #1: GAMEFOUND RECORD!!! + ENDGAME STRETCH GOAL & YOUR FIRST ENDGAME VOTE!",
-    "excerpt": "Endgame starts with a Gamefound record! Nemesis: Legacy has become the platform’s most successful crowdfunding campaign. The Xyrian is now live, and every completed hour adds a new card to the Endgame Adventure!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/b21d68cc-6804-4ebd-9fac-5f18d8cd01b7.jpg",
-    "publishedAt": "2026-10-27T19:14:29.043Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/20",
-    "sequenceNumber": 20
   },
   {
     "id": 48488,
