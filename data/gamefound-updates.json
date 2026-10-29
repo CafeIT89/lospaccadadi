@@ -1,16 +1,55 @@
 [
   {
-    "id": 48522,
+    "id": 48634,
+    "projectId": 6025,
+    "projectName": "Here to Slay DUNGEONS",
+    "projectCreator": "unstable-games",
+    "projectSlug": "here-to-slay-dungeons",
+    "title": "An Update on Your Dice Tower 🎲",
+    "excerpt": "Details about your Here to Slay DUNGEONS reward.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6025/afad995a-2601-4fe5-bb45-fe8537413803.png",
+    "publishedAt": "2026-10-29T21:45:31.817Z",
+    "url": "https://gamefound.com/en/projects/unstable-games/here-to-slay-dungeons/updates/46",
+    "sequenceNumber": 46
+  },
+  {
+    "id": 48598,
     "projectId": 11582,
     "projectName": "Arkham Horror",
     "projectCreator": "asmodee",
     "projectSlug": "arkham-horror",
-    "title": "The Aviatrix",
-    "excerpt": "The woman without fear is putting that moniker to the test.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/efd973b4-c523-4475-bb36-12856b39c09d.png",
-    "publishedAt": "2026-10-28T23:55:24.653Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/45",
-    "sequenceNumber": 45
+    "title": "Feaster at the End of Time",
+    "excerpt": "Reach the End of Time with this new Herald.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/2c475157-ca27-40e1-80a8-83591c2fc907.png",
+    "publishedAt": "2026-10-29T20:50:27.203Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/48",
+    "sequenceNumber": 48
+  },
+  {
+    "id": 48606,
+    "projectId": 11313,
+    "projectName": "Miskatonic Expeditions",
+    "projectCreator": "papertigers",
+    "projectSlug": "miskatonic-expeditions",
+    "title": "Miskatonic Expeditions: The Gates Are Closed! What Happens Next?",
+    "excerpt": "Thank you for accompanying us on such a remarkable expedition. Find out what happens next and how to stay in touch as our journey continues!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/24a6707c-8d88-4a98-b176-0531de632413.png",
+    "publishedAt": "2026-10-29T16:51:40.187Z",
+    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/26",
+    "sequenceNumber": 26
+  },
+  {
+    "id": 46347,
+    "projectId": 9719,
+    "projectName": "The Lord of the Rings: Ascension",
+    "projectCreator": "stoneblade",
+    "projectSlug": "the-lord-of-the-rings-ascension",
+    "title": "New Art: Shelob & Arwen",
+    "excerpt": "We’re back with another look at two new pieces of art from The Lord of the Rings™: Ascension™",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9719/ab764db4-17fa-4739-a72d-ba22e532078a.png",
+    "publishedAt": "2026-10-29T16:00:00Z",
+    "url": "https://gamefound.com/en/projects/stoneblade/the-lord-of-the-rings-ascension/updates/47",
+    "sequenceNumber": 47
   },
   {
     "id": 48123,
@@ -89,19 +128,6 @@
     "publishedAt": "2026-10-28T18:22:59.293Z",
     "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/19",
     "sequenceNumber": 19
-  },
-  {
-    "id": 48534,
-    "projectId": 11313,
-    "projectName": "Miskatonic Expeditions",
-    "projectCreator": "papertigers",
-    "projectSlug": "miskatonic-expeditions",
-    "title": "One Hour Left: The Endgame Is Almost Here!",
-    "excerpt": "The Ultimate Confrontation has begun. In just one hour, at 8:00 PM CET, the Miskatonic Expeditions campaign will reach its scheduled end. But that doesn't necessarily mean the exploration is over!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11313/ad2f7b74-cebe-4503-8bbc-75d58e0778cc.png",
-    "publishedAt": "2026-10-28T18:00:00Z",
-    "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/25",
-    "sequenceNumber": 25
   },
   {
     "id": 48568,
@@ -258,19 +284,6 @@
     "publishedAt": "2026-10-22T20:42:10.033Z",
     "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/5",
     "sequenceNumber": 5
-  },
-  {
-    "id": 46394,
-    "projectId": 9719,
-    "projectName": "The Lord of the Rings: Ascension",
-    "projectCreator": "stoneblade",
-    "projectSlug": "the-lord-of-the-rings-ascension",
-    "title": "New Art: Dernhelm & Merry",
-    "excerpt": "We’re back with another look at two new pieces of art from The Lord of the Rings™: Ascension™",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9719/b9b9ed24-409f-4cda-93bf-3ac317131461.png",
-    "publishedAt": "2026-10-22T15:00:00Z",
-    "url": "https://gamefound.com/en/projects/stoneblade/the-lord-of-the-rings-ascension/updates/46",
-    "sequenceNumber": 46
   },
   {
     "id": 48240,
@@ -648,19 +661,6 @@
     "publishedAt": "2026-09-29T14:17:07.61Z",
     "url": "https://gamefound.com/en/projects/wearecgs/chronicles-of-drunagor-aftermath/updates/28",
     "sequenceNumber": 28
-  },
-  {
-    "id": 45012,
-    "projectId": 6025,
-    "projectName": "Here to Slay DUNGEONS",
-    "projectCreator": "unstable-games",
-    "projectSlug": "here-to-slay-dungeons",
-    "title": "Address Lockdown = Tomorrow 🚨",
-    "excerpt": "We’re locking addresses tomorrow! Make sure your info is submitted and up-to-date to receive your pledge during the first pass at fulfillment for your region.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6025/0bc493a0-8ea5-4239-9b2d-d207c1da3574.jpg",
-    "publishedAt": "2026-09-28T16:39:50.113Z",
-    "url": "https://gamefound.com/en/projects/unstable-games/here-to-slay-dungeons/updates/45",
-    "sequenceNumber": 45
   },
   {
     "id": 44940,
