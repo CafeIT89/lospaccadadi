@@ -1,5 +1,18 @@
 [
   {
+    "id": 49655,
+    "projectId": 12995,
+    "projectName": "Too Little Time",
+    "projectCreator": "chip-theory-games",
+    "projectSlug": "too-little-time",
+    "title": "Day 3: 2nd Poll, 2nd Jump, and A Word on Languages",
+    "excerpt": "Full gameplay, a mech poll, and a word on (eventual) language editions",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/f3e71039-7b70-41b6-8974-3ae3c06e3e8e.webp",
+    "publishedAt": "2026-10-30T01:31:54.58Z",
+    "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/4",
+    "sequenceNumber": 4
+  },
+  {
     "id": 48634,
     "projectId": 6025,
     "projectName": "Here to Slay DUNGEONS",
@@ -50,19 +63,6 @@
     "publishedAt": "2026-10-29T16:00:00Z",
     "url": "https://gamefound.com/en/projects/stoneblade/the-lord-of-the-rings-ascension/updates/47",
     "sequenceNumber": 47
-  },
-  {
-    "id": 48123,
-    "projectId": 12995,
-    "projectName": "Too Little Time",
-    "projectCreator": "chip-theory-games",
-    "projectSlug": "too-little-time",
-    "title": "Day 2: Spotlight on What the Heck Even is All This!?",
-    "excerpt": "And our first (of a few) backer poll(s)!!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/fe8177e5-f8c4-441c-8b94-66a77adc7ce0.webp",
-    "publishedAt": "2026-10-28T21:44:44.653Z",
-    "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/3",
-    "sequenceNumber": 3
   },
   {
     "id": 48585,
