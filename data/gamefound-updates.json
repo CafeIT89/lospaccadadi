@@ -1,16 +1,107 @@
 [
   {
-    "id": 49655,
+    "id": 49717,
+    "projectId": 11207,
+    "projectName": "Wroth Reprint + Wreck Expansion",
+    "projectCreator": "chip-theory-games",
+    "projectSlug": "wroth-reprint--wreck-expansion",
+    "title": "October Update: Dev Done, Creators Played, Ship Shapes, On Schedule!",
+    "excerpt": "We're done devving, we're showing off the game, and we're trying to figure out what kind of shape these ships should be in!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11207/eef6e3b9-b935-441d-9a7b-52326489fae6.webp",
+    "publishedAt": "2026-10-30T20:40:34.97Z",
+    "url": "https://gamefound.com/en/projects/chip-theory-games/wroth-reprint--wreck-expansion/updates/13",
+    "sequenceNumber": 13
+  },
+  {
+    "id": 49654,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "The Rancher",
+    "excerpt": "Miguel will protect his herd at all costs.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/3c2e2e37-5124-4162-8a3b-2298e744c71a.png",
+    "publishedAt": "2026-10-30T20:28:00.467Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/51",
+    "sequenceNumber": 51
+  },
+  {
+    "id": 48124,
     "projectId": 12995,
     "projectName": "Too Little Time",
     "projectCreator": "chip-theory-games",
     "projectSlug": "too-little-time",
-    "title": "Day 3: 2nd Poll, 2nd Jump, and A Word on Languages",
-    "excerpt": "Full gameplay, a mech poll, and a word on (eventual) language editions",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/f3e71039-7b70-41b6-8974-3ae3c06e3e8e.webp",
-    "publishedAt": "2026-10-30T01:31:54.58Z",
-    "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/4",
-    "sequenceNumber": 4
+    "title": "Day 4: I Will Remember You...",
+    "excerpt": "The one about Sarah McLachlan and Too Little Time",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/0687f489-5162-42de-8066-2507b6cde2fe.webp",
+    "publishedAt": "2026-10-30T19:25:51.817Z",
+    "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/5",
+    "sequenceNumber": 5
+  },
+  {
+    "id": 49712,
+    "projectId": 6096,
+    "projectName": "The Elder Scrolls: Heroes of Tamriel",
+    "projectCreator": "chip-theory-games",
+    "projectSlug": "the-elder-scrolls-heroes-of-tamriel",
+    "title": "October Update: Fulfillment Begins in Earnest!",
+    "excerpt": "USA fulfillment in full swing, ships on their way to all other regions.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6096/3584727e-eedc-4d05-9053-52c5ec7501dc.png",
+    "publishedAt": "2026-10-30T18:54:13.157Z",
+    "url": "https://gamefound.com/en/projects/chip-theory-games/the-elder-scrolls-heroes-of-tamriel/updates/26",
+    "sequenceNumber": 26
+  },
+  {
+    "id": 49684,
+    "projectId": 10031,
+    "projectName": "The Thing: The Boardgame & The Cardgame",
+    "projectCreator": "pendragon-game-studio-srl",
+    "projectSlug": "the-thing-the-boardgame--the-cardgame",
+    "title": "A quick sneak peek at the Pledge Levels!",
+    "excerpt": "A preview of the campaign's Pledge Levels.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/0d3e400c-0dfe-47d8-b6d1-de13c626afc9.png",
+    "publishedAt": "2026-10-30T17:00:00Z",
+    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/3",
+    "sequenceNumber": 3
+  },
+  {
+    "id": 48608,
+    "projectId": 5386,
+    "projectName": "This War of Mine: Second Edition",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "this-war-of-mine-second-edition",
+    "title": "English edition's SHIPPING UPDATE #2",
+    "excerpt": "Check out today's fulfillment progress report for the English edition! Also, learn more about our very own recently opened Awaken Realms warehouse.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5386/e7158e7f-d1aa-43c7-843d-a5b50d40be94.jpg",
+    "publishedAt": "2026-10-30T16:23:26.66Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/this-war-of-mine-second-edition/updates/35",
+    "sequenceNumber": 35
+  },
+  {
+    "id": 49698,
+    "projectId": 11178,
+    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
+    "projectCreator": "xplored",
+    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
+    "title": "The Librarian",
+    "excerpt": "A campaign update on our final hero design insight.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/d02f6e1d-b1f9-4089-9867-fad154fc96d6.png",
+    "publishedAt": "2026-10-30T15:45:00Z",
+    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/13",
+    "sequenceNumber": 13
+  },
+  {
+    "id": 49668,
+    "projectId": 3917,
+    "projectName": "Blood",
+    "projectCreator": "lms",
+    "projectSlug": "blood_lms",
+    "title": "SPECIAL HALLOWEEN DAYS",
+    "excerpt": "Blood Rises Again! One last bite before it's gone!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3917/a84f134f-1b6b-4e5b-96ed-d69fc1f90010.jpg",
+    "publishedAt": "2026-10-30T14:56:43.157Z",
+    "url": "https://gamefound.com/en/projects/lms/blood_lms/updates/57",
+    "sequenceNumber": 57
   },
   {
     "id": 48634,
@@ -18,25 +109,12 @@
     "projectName": "Here to Slay DUNGEONS",
     "projectCreator": "unstable-games",
     "projectSlug": "here-to-slay-dungeons",
-    "title": "An Update on Your Dice Tower 🎲",
-    "excerpt": "Details about your Here to Slay DUNGEONS reward.",
+    "title": "Dice Tower Update 🎲",
+    "excerpt": "To all backers who had a Dice Tower included in their pledge!",
     "image": "https://imgcdn.gamefound.com/projectupdate/projects/6025/afad995a-2601-4fe5-bb45-fe8537413803.png",
     "publishedAt": "2026-10-29T21:45:31.817Z",
     "url": "https://gamefound.com/en/projects/unstable-games/here-to-slay-dungeons/updates/46",
     "sequenceNumber": 46
-  },
-  {
-    "id": 48598,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "Feaster at the End of Time",
-    "excerpt": "Reach the End of Time with this new Herald.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/2c475157-ca27-40e1-80a8-83591c2fc907.png",
-    "publishedAt": "2026-10-29T20:50:27.203Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/48",
-    "sequenceNumber": 48
   },
   {
     "id": 48606,
@@ -154,19 +232,6 @@
     "publishedAt": "2026-10-28T15:01:31.157Z",
     "url": "https://gamefound.com/en/projects/go-on-board/cyberpunk-2077-the-board-game/updates/63",
     "sequenceNumber": 63
-  },
-  {
-    "id": 48565,
-    "projectId": 11178,
-    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
-    "projectCreator": "xplored",
-    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
-    "title": "The Sleeper of N’ka",
-    "excerpt": "A campaign update on our final Vol 6 Great Old One, another Team Battle Hero combo, and STL Terrain Files.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/5daab730-2ef9-45c4-9b8a-1a05700586f4.png",
-    "publishedAt": "2026-10-28T15:00:00Z",
-    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/12",
-    "sequenceNumber": 12
   },
   {
     "id": 48169,
@@ -416,19 +481,6 @@
     "sequenceNumber": 4
   },
   {
-    "id": 48100,
-    "projectId": 5386,
-    "projectName": "This War of Mine: Second Edition",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "this-war-of-mine-second-edition",
-    "title": "English edition's SHIPPING UPDATE #1",
-    "excerpt": "The first vessels have set sail! Check out today's update to learn more about the ENG version's fulfillment progress.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5386/a87c93e0-cbb1-44a6-8c8b-fe06fb44efd3.jpg",
-    "publishedAt": "2026-10-19T12:52:41.61Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/this-war-of-mine-second-edition/updates/34",
-    "sequenceNumber": 34
-  },
-  {
     "id": 48083,
     "projectId": 8196,
     "projectName": "Ready Set Fight",
@@ -466,19 +518,6 @@
     "publishedAt": "2026-10-16T15:00:00Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/below-asylum/updates/26",
     "sequenceNumber": 26
-  },
-  {
-    "id": 47929,
-    "projectId": 3917,
-    "projectName": "Blood",
-    "projectCreator": "lms",
-    "projectSlug": "blood_lms",
-    "title": "Spiel Show!",
-    "excerpt": "October Production Update",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3917/85b9eab0-c9f6-4a56-917d-07fe5df8b841.jpg",
-    "publishedAt": "2026-10-16T10:03:17.72Z",
-    "url": "https://gamefound.com/en/projects/lms/blood_lms/updates/56",
-    "sequenceNumber": 56
   },
   {
     "id": 44767,
@@ -531,19 +570,6 @@
     "publishedAt": "2026-10-13T09:08:21.56Z",
     "url": "https://gamefound.com/en/projects/dragori-games/spell-rift-legends/updates/21",
     "sequenceNumber": 21
-  },
-  {
-    "id": 47708,
-    "projectId": 10031,
-    "projectName": "The Thing: The Boardgame & The Cardgame",
-    "projectCreator": "pendragon-game-studio-srl",
-    "projectSlug": "the-thing-the-boardgame--the-cardgame",
-    "title": "The Thing launches on November 10th!",
-    "excerpt": "Campaign Launch on November 10th and Answers to Frequently Asked Questions",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/47e98262-cee1-416f-98ee-fcb327df4f75.png",
-    "publishedAt": "2026-10-12T15:05:02.063Z",
-    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/2",
-    "sequenceNumber": 2
   },
   {
     "id": 46348,
@@ -663,19 +689,6 @@
     "sequenceNumber": 28
   },
   {
-    "id": 44940,
-    "projectId": 6096,
-    "projectName": "The Elder Scrolls: Heroes of Tamriel",
-    "projectCreator": "chip-theory-games",
-    "projectSlug": "the-elder-scrolls-heroes-of-tamriel",
-    "title": "September Update: Ships and stuff",
-    "excerpt": "A whole lotta news and notes on manufacturing, Guild Vault delivery, and fulfillment!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6096/61513670-b1cb-4233-8b69-05afad9c5975.png",
-    "publishedAt": "2026-09-25T21:46:20.25Z",
-    "url": "https://gamefound.com/en/projects/chip-theory-games/the-elder-scrolls-heroes-of-tamriel/updates/25",
-    "sequenceNumber": 25
-  },
-  {
     "id": 44892,
     "projectId": 5841,
     "projectName": "Boardquest: Blight of the Undead",
@@ -739,18 +752,5 @@
     "publishedAt": "2026-09-01T21:50:02.677Z",
     "url": "https://gamefound.com/en/projects/chip-theory-games/20-strong-awaken-realms-nemesis/updates/17",
     "sequenceNumber": 17
-  },
-  {
-    "id": 40957,
-    "projectId": 11207,
-    "projectName": "Wroth Reprint + Wreck Expansion",
-    "projectCreator": "chip-theory-games",
-    "projectSlug": "wroth-reprint--wreck-expansion",
-    "title": "We're in the Endgame",
-    "excerpt": "Get your plunder on with a metal coin and support Games 4 Good!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11207/8069293b-dc44-4eda-8e8a-a6c9e8b63dfa.webp",
-    "publishedAt": "2026-08-06T19:45:00Z",
-    "url": "https://gamefound.com/en/projects/chip-theory-games/wroth-reprint--wreck-expansion/updates/12",
-    "sequenceNumber": 12
   }
 ]
