@@ -1,5 +1,18 @@
 [
   {
+    "id": 49725,
+    "projectId": 11765,
+    "projectName": "Dungeon of Tanares",
+    "projectCreator": "dragori-games",
+    "projectSlug": "dungeon-of-tanares",
+    "title": "New Stretch Goals and How Villains Choose Their Targets",
+    "excerpt": "Check how Tanares combat can be strategic and thematic, and see new villains and a Dwarven Mine Cart.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/b3984c50-c1df-4c06-ae9e-f5f23b3ee0e5.jpeg",
+    "publishedAt": "2026-10-31T06:39:16.927Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/15",
+    "sequenceNumber": 15
+  },
+  {
     "id": 49717,
     "projectId": 11207,
     "projectName": "Wroth Reprint + Wreck Expansion",
@@ -141,19 +154,6 @@
     "publishedAt": "2026-10-29T16:00:00Z",
     "url": "https://gamefound.com/en/projects/stoneblade/the-lord-of-the-rings-ascension/updates/47",
     "sequenceNumber": 47
-  },
-  {
-    "id": 48585,
-    "projectId": 11765,
-    "projectName": "Dungeon of Tanares",
-    "projectCreator": "dragori-games",
-    "projectSlug": "dungeon-of-tanares",
-    "title": "The Cockatrice Won. The Green Hag Is My Gift.",
-    "excerpt": "Plus the Will-o’-Wisp, and a new hero crosses Taram’s path.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/3a301b11-b796-4839-ad4b-ed8e05690a80.jpeg",
-    "publishedAt": "2026-10-28T21:01:52.383Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/14",
-    "sequenceNumber": 14
   },
   {
     "id": 47992,
