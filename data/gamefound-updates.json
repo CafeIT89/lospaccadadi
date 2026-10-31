@@ -1,5 +1,57 @@
 [
   {
+    "id": 49751,
+    "projectId": 5617,
+    "projectName": "Spell Rift Legends",
+    "projectCreator": "dragori-games",
+    "projectSlug": "spell-rift-legends",
+    "title": "The Miniature Samples Are Here",
+    "excerpt": "A look at them before their final round of polish.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5617/9565be1d-5340-4f57-85d2-2bfa548aecaf.png",
+    "publishedAt": "2026-10-31T20:42:36.163Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/spell-rift-legends/updates/22",
+    "sequenceNumber": 22
+  },
+  {
+    "id": 49742,
+    "projectId": 8524,
+    "projectName": "Nemesis Legacy",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "nemesis-legacy",
+    "title": "ENDGAME #4: 96 HOURS!!! SOMEONE HERE IS A TRAITOR...",
+    "excerpt": "96 hours of Endgame have been broken, and 24 more cards have joined Infinity Mode! Over 14,600 backers have extended our Endgame, and after opening that bulkhead… it’s time to decide who the traitor really is.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/33bf9fde-f612-431a-840b-f6767bb6abed.jpg",
+    "publishedAt": "2026-10-31T19:02:12.26Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/24",
+    "sequenceNumber": 24
+  },
+  {
+    "id": 49701,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "Daily Investigator: The Parapsychologist",
+    "excerpt": "Agatha’s research has begun.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/6ffa0fcf-2f4e-4ede-ad6a-28560f622f77.png",
+    "publishedAt": "2026-10-31T16:02:02.203Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/52",
+    "sequenceNumber": 52
+  },
+  {
+    "id": 49736,
+    "projectId": 1939,
+    "projectName": "Hell Legends",
+    "projectCreator": "hodarispiele",
+    "projectSlug": "hell-legends",
+    "title": "October Update - SPIEL 2026, Miniature Production Samples, Poll Results, Card Quantities",
+    "excerpt": "We're back from a fantastic SPIEL 2026! A huge thank you to everybody who visited us! Also we'd like to show you the production samples of the miniatures, talk about card quantities to prepare sleeves, and share the results of our last poll.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/1939/982d804f-b74d-4761-a9b1-83e561f2c8e4.jpg",
+    "publishedAt": "2026-10-31T13:24:36.77Z",
+    "url": "https://gamefound.com/en/projects/hodarispiele/hell-legends/updates/35",
+    "sequenceNumber": 35
+  },
+  {
     "id": 49725,
     "projectId": 11765,
     "projectName": "Dungeon of Tanares",
@@ -24,19 +76,6 @@
     "publishedAt": "2026-10-30T20:40:34.97Z",
     "url": "https://gamefound.com/en/projects/chip-theory-games/wroth-reprint--wreck-expansion/updates/13",
     "sequenceNumber": 13
-  },
-  {
-    "id": 49654,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "The Rancher",
-    "excerpt": "Miguel will protect his herd at all costs.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/3c2e2e37-5124-4162-8a3b-2298e744c71a.png",
-    "publishedAt": "2026-10-30T20:28:00.467Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/51",
-    "sequenceNumber": 51
   },
   {
     "id": 48124,
@@ -167,19 +206,6 @@
     "publishedAt": "2026-10-28T21:01:25.97Z",
     "url": "https://gamefound.com/en/projects/shadowborne-games/avalon-the-riven-veil-2nd-printing/updates/7",
     "sequenceNumber": 7
-  },
-  {
-    "id": 48562,
-    "projectId": 8524,
-    "projectName": "Nemesis Legacy",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "nemesis-legacy",
-    "title": "ENDGAME #2: BIGGEST CAMPAIGN EVER!!!",
-    "excerpt": "This has become the biggest crowdfunding campaign for a board game in history!!! Also, 24 new Infinity Mode cards are unlocked! Now your first community choice shapes the next batch, and Vote #2 may even switch the Endgame into special HOLO cards!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/294c7c5f-34a9-4008-8b21-6e1eda2e5248.jpg",
-    "publishedAt": "2026-10-28T19:00:03.243Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/21",
-    "sequenceNumber": 21
   },
   {
     "id": 48582,
@@ -559,19 +585,6 @@
     "sequenceNumber": 18
   },
   {
-    "id": 47743,
-    "projectId": 5617,
-    "projectName": "Spell Rift Legends",
-    "projectCreator": "dragori-games",
-    "projectSlug": "spell-rift-legends",
-    "title": "Development Update #5 - Campaign Mode",
-    "excerpt": "A quick look at the campaign mode. Miniature samples will be ready soon, and I’ll share them in an extra update.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5617/b17147dd-cf89-4cd2-8edc-6767f495c11c.jpg",
-    "publishedAt": "2026-10-13T09:08:21.56Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/spell-rift-legends/updates/21",
-    "sequenceNumber": 21
-  },
-  {
     "id": 46348,
     "projectId": 8094,
     "projectName": "Bloodwork: The Reckoning",
@@ -648,19 +661,6 @@
     "publishedAt": "2026-10-02T11:03:55.837Z",
     "url": "https://gamefound.com/en/projects/ice-makes/terrorscape-2/updates/60",
     "sequenceNumber": 60
-  },
-  {
-    "id": 45168,
-    "projectId": 1939,
-    "projectName": "Hell Legends",
-    "projectCreator": "hodarispiele",
-    "projectSlug": "hell-legends",
-    "title": "Production Time Update - New Pledge Manager Date - Monster Miniature Box Poll",
-    "excerpt": "This time around, we unfortunately have some bad news regarding our overall production timeline. Please read on for all the details and an explanation of the situation.\n\nWe also have an interesting poll for you and would greatly appreciate your input.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/1939/b6ab43d1-1bad-446e-886a-dd8848f3ecf4.jpg",
-    "publishedAt": "2026-09-30T18:03:02.997Z",
-    "url": "https://gamefound.com/en/projects/hodarispiele/hell-legends/updates/34",
-    "sequenceNumber": 34
   },
   {
     "id": 45124,
