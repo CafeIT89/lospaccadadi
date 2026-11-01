@@ -1,5 +1,44 @@
 [
   {
+    "id": 49706,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "Arkham Horror Library – Vol 2",
+    "excerpt": "The Arkham Horror tales continue to expand far beyond the board game!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/1136aca8-ed8a-4c86-a551-64a61cdfcdd2.png",
+    "publishedAt": "2026-11-01T21:14:31.97Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/55",
+    "sequenceNumber": 55
+  },
+  {
+    "id": 49768,
+    "projectId": 13247,
+    "projectName": "The Waste of Parts: Siren Signals",
+    "projectCreator": "skykingdomgames",
+    "projectSlug": "the-waste-of-parts-siren-signals",
+    "title": "Incoming Transmission — File Corrupted",
+    "excerpt": "Cryptic Message Received",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13247/7fcf402a-0d57-4d31-9b26-a0dd10cb89d6.jpg",
+    "publishedAt": "2026-11-01T20:56:33.833Z",
+    "url": "https://gamefound.com/en/projects/skykingdomgames/the-waste-of-parts-siren-signals/updates/1",
+    "sequenceNumber": 1
+  },
+  {
+    "id": 49776,
+    "projectId": 8524,
+    "projectName": "Nemesis Legacy",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "nemesis-legacy",
+    "title": "ENDGAME #5: 120 HOURS!!! THE TRAITOR HAS BEEN CHOSEN...",
+    "excerpt": "120 hours of Endgame! Another 24 cards join Infinity Mode, over 15,500 backers have extended our record. And now the crew faces the impossible choice at the wormhole.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/8d026563-4f9b-41fa-b222-c0d528e83dfe.jpg",
+    "publishedAt": "2026-11-01T19:03:58.17Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/25",
+    "sequenceNumber": 25
+  },
+  {
     "id": 49758,
     "projectId": 5640,
     "projectName": "Ronin's Revenge",
@@ -24,32 +63,6 @@
     "publishedAt": "2026-10-31T20:42:36.163Z",
     "url": "https://gamefound.com/en/projects/dragori-games/spell-rift-legends/updates/22",
     "sequenceNumber": 22
-  },
-  {
-    "id": 49742,
-    "projectId": 8524,
-    "projectName": "Nemesis Legacy",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "nemesis-legacy",
-    "title": "ENDGAME #4: 96 HOURS!!! SOMEONE HERE IS A TRAITOR...",
-    "excerpt": "96 hours of Endgame have been broken, and 24 more cards have joined Infinity Mode! Over 14,600 backers have extended our Endgame, and after opening that bulkhead… it’s time to decide who the traitor really is.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/33bf9fde-f612-431a-840b-f6767bb6abed.jpg",
-    "publishedAt": "2026-10-31T19:02:12.26Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/24",
-    "sequenceNumber": 24
-  },
-  {
-    "id": 49701,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "Daily Investigator: The Parapsychologist",
-    "excerpt": "Agatha’s research has begun.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/6ffa0fcf-2f4e-4ede-ad6a-28560f622f77.png",
-    "publishedAt": "2026-10-31T16:02:02.203Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/52",
-    "sequenceNumber": 52
   },
   {
     "id": 49736,
