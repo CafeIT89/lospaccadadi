@@ -1,5 +1,18 @@
 [
   {
+    "id": 49758,
+    "projectId": 5640,
+    "projectName": "Ronin's Revenge",
+    "projectCreator": "dragori-games",
+    "projectSlug": "ronins-revenge",
+    "title": "Two Bosses, Two Very Different Fights",
+    "excerpt": "Ryūkei's Heat and the Princess' Dancers.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5640/c7e88dd2-c630-4f8e-b66a-29ab31cee242.jpeg",
+    "publishedAt": "2026-11-01T01:05:52.073Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/ronins-revenge/updates/17",
+    "sequenceNumber": 17
+  },
+  {
     "id": 49751,
     "projectId": 5617,
     "projectName": "Spell Rift Legends",
@@ -661,19 +674,6 @@
     "publishedAt": "2026-10-02T11:03:55.837Z",
     "url": "https://gamefound.com/en/projects/ice-makes/terrorscape-2/updates/60",
     "sequenceNumber": 60
-  },
-  {
-    "id": 45124,
-    "projectId": 5640,
-    "projectName": "Ronin's Revenge",
-    "projectCreator": "dragori-games",
-    "projectSlug": "ronins-revenge",
-    "title": "Pledge Manager is open",
-    "excerpt": "Sundrop and Sleeves available. Also, vote for the crossover you would like to see.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5640/44c4c4fe-667d-45c8-9535-379f019f2781.png",
-    "publishedAt": "2026-09-30T08:31:16.22Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/ronins-revenge/updates/16",
-    "sequenceNumber": 16
   },
   {
     "id": 45062,
