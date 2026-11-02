@@ -1,5 +1,31 @@
 [
   {
+    "id": 49807,
+    "projectId": 11178,
+    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
+    "projectCreator": "xplored",
+    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
+    "title": "Final Week & New Washed Miniatures Options!",
+    "excerpt": "A campaign update on a new option for washed miniatures.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/2a4a3a55-06ac-4fc8-add6-9313b147b4cb.png",
+    "publishedAt": "2026-11-02T14:45:00Z",
+    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/14",
+    "sequenceNumber": 14
+  },
+  {
+    "id": 49769,
+    "projectId": 10066,
+    "projectName": "Eldfall Chronicles: Apocrypha",
+    "projectCreator": "eldfall-chronicles",
+    "projectSlug": "eldfall-chronicles-apocrypha",
+    "title": "From Northern Wind to Apocrypha: What Changed?",
+    "excerpt": "From Northern Wind to Apocrypha! Discover how we've built on the foundations of our original dungeon crawler, refining familiar mechanics and introducing exciting new features to make the adventure even more dynamic, varied, and engaging!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/1f71071e-7ce9-4379-9336-24ecc6c5214b.jpg",
+    "publishedAt": "2026-11-02T09:26:43.377Z",
+    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/5",
+    "sequenceNumber": 5
+  },
+  {
     "id": 49774,
     "projectId": 11582,
     "projectName": "Arkham Horror",
@@ -154,19 +180,6 @@
     "publishedAt": "2026-10-30T16:23:26.66Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/this-war-of-mine-second-edition/updates/35",
     "sequenceNumber": 35
-  },
-  {
-    "id": 49698,
-    "projectId": 11178,
-    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
-    "projectCreator": "xplored",
-    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
-    "title": "The Librarian",
-    "excerpt": "A campaign update on our final hero design insight.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/d02f6e1d-b1f9-4089-9867-fad154fc96d6.png",
-    "publishedAt": "2026-10-30T15:45:00Z",
-    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/13",
-    "sequenceNumber": 13
   },
   {
     "id": 49668,
@@ -544,19 +557,6 @@
     "publishedAt": "2026-10-19T04:30:16.507Z",
     "url": "https://gamefound.com/en/projects/boiling-point-games/ready-set-fight/updates/3",
     "sequenceNumber": 3
-  },
-  {
-    "id": 48007,
-    "projectId": 10066,
-    "projectName": "Eldfall Chronicles: Apocrypha",
-    "projectCreator": "eldfall-chronicles",
-    "projectSlug": "eldfall-chronicles-apocrypha",
-    "title": "Meet the Heroes – The Band of the Dragon",
-    "excerpt": "Once united under the banner of the Dragon, four legendary adventurers were torn apart by a fateful expedition into the Sealed Archives. Two decades later, their paths are about to cross once more.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/500fd390-7f4e-4e8c-88f6-d21149c8127a.jpg",
-    "publishedAt": "2026-10-17T12:36:55.27Z",
-    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/4",
-    "sequenceNumber": 4
   },
   {
     "id": 47747,
