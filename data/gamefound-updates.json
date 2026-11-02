@@ -1,16 +1,29 @@
 [
   {
-    "id": 49706,
+    "id": 49774,
     "projectId": 11582,
     "projectName": "Arkham Horror",
     "projectCreator": "asmodee",
     "projectSlug": "arkham-horror",
-    "title": "Arkham Horror Library – Vol 2",
-    "excerpt": "The Arkham Horror tales continue to expand far beyond the board game!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/1136aca8-ed8a-4c86-a551-64a61cdfcdd2.png",
-    "publishedAt": "2026-11-01T21:14:31.97Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/55",
-    "sequenceNumber": 55
+    "title": "The Film Star",
+    "excerpt": "André can't quite tell where fiction ends and reality begins anymore.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/a861020f-9bc9-4130-98ac-77b85759eadf.png",
+    "publishedAt": "2026-11-02T05:20:18.16Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/56",
+    "sequenceNumber": 56
+  },
+  {
+    "id": 49787,
+    "projectId": 11765,
+    "projectName": "Dungeon of Tanares",
+    "projectCreator": "dragori-games",
+    "projectSlug": "dungeon-of-tanares",
+    "title": "Heroes and Influence Cards: How Tanares Leveled Up",
+    "excerpt": "Fewer cards, more choices, and Hero Abilities that dramatically change how you play.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/5e1c5f65-69dc-471d-bf45-90de2f30b447.jpeg",
+    "publishedAt": "2026-11-01T23:58:47.38Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/16",
+    "sequenceNumber": 16
   },
   {
     "id": 49768,
@@ -76,19 +89,6 @@
     "publishedAt": "2026-10-31T13:24:36.77Z",
     "url": "https://gamefound.com/en/projects/hodarispiele/hell-legends/updates/35",
     "sequenceNumber": 35
-  },
-  {
-    "id": 49725,
-    "projectId": 11765,
-    "projectName": "Dungeon of Tanares",
-    "projectCreator": "dragori-games",
-    "projectSlug": "dungeon-of-tanares",
-    "title": "New Stretch Goals and How Villains Choose Their Targets",
-    "excerpt": "Check how Tanares combat can be strategic and thematic, and see new villains and a Dwarven Mine Cart.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/b3984c50-c1df-4c06-ae9e-f5f23b3ee0e5.jpeg",
-    "publishedAt": "2026-10-31T06:39:16.927Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/15",
-    "sequenceNumber": 15
   },
   {
     "id": 49717,
