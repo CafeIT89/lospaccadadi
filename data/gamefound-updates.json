@@ -1,5 +1,18 @@
 [
   {
+    "id": 49793,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "The Great Labyrinth",
+    "excerpt": "Leave your uncertainties and doubts behind if you wish to live.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/6b781ccb-f7b8-4f56-a032-304f576cc408.png",
+    "publishedAt": "2026-11-03T01:28:40.147Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/60",
+    "sequenceNumber": 60
+  },
+  {
     "id": 48126,
     "projectId": 12995,
     "projectName": "Too Little Time",
@@ -11,19 +24,6 @@
     "publishedAt": "2026-11-02T23:37:22.657Z",
     "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/6",
     "sequenceNumber": 6
-  },
-  {
-    "id": 49792,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "Arkham Horror Library – Vol 3",
-    "excerpt": "The Arkham Horror tales continue to expand far beyond the board game!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/be932952-aaf9-4c86-8b61-fbd056b3569f.png",
-    "publishedAt": "2026-11-02T23:14:33.953Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/59",
-    "sequenceNumber": 59
   },
   {
     "id": 49837,
@@ -410,7 +410,7 @@
     "projectSlug": "fable-quest",
     "title": "A Monster Blocks Your Path! An Arcadian Field Guide",
     "excerpt": "Prepare yourself for the many different types of creatures you’ll encounter during your travels throughout Arcadia!",
-    "image": null,
+    "image": "https://imgcdn.gamefound.com/projectimage/projects/9823/979f9c73-aa4e-4ecc-91bb-8e34eb843603.png",
     "publishedAt": "2026-10-22T20:42:10.033Z",
     "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/5",
     "sequenceNumber": 5
