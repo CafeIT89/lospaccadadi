@@ -1,16 +1,55 @@
 [
   {
-    "id": 49793,
+    "id": 49845,
     "projectId": 11582,
     "projectName": "Arkham Horror",
     "projectCreator": "asmodee",
     "projectSlug": "arkham-horror",
-    "title": "The Great Labyrinth",
-    "excerpt": "Leave your uncertainties and doubts behind if you wish to live.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/6b781ccb-f7b8-4f56-a032-304f576cc408.png",
-    "publishedAt": "2026-11-03T01:28:40.147Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/60",
-    "sequenceNumber": 60
+    "title": "The Returned",
+    "excerpt": "The prodigal sister returns!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/498589fd-79e0-4716-b992-85b804fa1e00.png",
+    "publishedAt": "2026-11-03T18:10:08.603Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/63",
+    "sequenceNumber": 63
+  },
+  {
+    "id": 49905,
+    "projectId": 11178,
+    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
+    "projectCreator": "xplored",
+    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
+    "title": "Final 48 Hours!",
+    "excerpt": "A campaign update on the final 2 days of the campaign and a new bundle option!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/030874a7-95ee-46a2-b7de-eba9b33f68ba.png",
+    "publishedAt": "2026-11-03T17:00:00Z",
+    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/15",
+    "sequenceNumber": 15
+  },
+  {
+    "id": 49900,
+    "projectId": 9823,
+    "projectName": "Fable Quest",
+    "projectCreator": "tabletop-tycoon",
+    "projectSlug": "fable-quest",
+    "title": "FABLE QUEST IS FUNDED! THE GATES OF ARCADIA ARE OPEN ONCE MORE!",
+    "excerpt": "Fable Quest is live and fully funded in only 16 minutes!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9823/71e397d9-9afc-464f-a210-ddc78475ab28.jpg",
+    "publishedAt": "2026-11-03T16:15:35.363Z",
+    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/6",
+    "sequenceNumber": 6
+  },
+  {
+    "id": 49859,
+    "projectId": 3917,
+    "projectName": "Blood",
+    "projectCreator": "lms",
+    "projectSlug": "blood_lms",
+    "title": "THE GATES ARE STILL OPEN!",
+    "excerpt": "Production Galore!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3917/564eb0ce-9cfe-4208-80b5-7f61ed77359e.png",
+    "publishedAt": "2026-11-03T14:24:15.07Z",
+    "url": "https://gamefound.com/en/projects/lms/blood_lms/updates/58",
+    "sequenceNumber": 58
   },
   {
     "id": 48126,
@@ -50,19 +89,6 @@
     "publishedAt": "2026-11-02T19:37:35.97Z",
     "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/20",
     "sequenceNumber": 20
-  },
-  {
-    "id": 49807,
-    "projectId": 11178,
-    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
-    "projectCreator": "xplored",
-    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
-    "title": "Final Week & New Washed Miniatures Options!",
-    "excerpt": "A campaign update on a new option for washed miniatures.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/2a4a3a55-06ac-4fc8-add6-9313b147b4cb.png",
-    "publishedAt": "2026-11-02T14:45:00Z",
-    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/14",
-    "sequenceNumber": 14
   },
   {
     "id": 49769,
@@ -206,19 +232,6 @@
     "publishedAt": "2026-10-30T16:23:26.66Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/this-war-of-mine-second-edition/updates/35",
     "sequenceNumber": 35
-  },
-  {
-    "id": 49668,
-    "projectId": 3917,
-    "projectName": "Blood",
-    "projectCreator": "lms",
-    "projectSlug": "blood_lms",
-    "title": "SPECIAL HALLOWEEN DAYS",
-    "excerpt": "Blood Rises Again! One last bite before it's gone!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3917/a84f134f-1b6b-4e5b-96ed-d69fc1f90010.jpg",
-    "publishedAt": "2026-10-30T14:56:43.157Z",
-    "url": "https://gamefound.com/en/projects/lms/blood_lms/updates/57",
-    "sequenceNumber": 57
   },
   {
     "id": 48634,
@@ -401,19 +414,6 @@
     "publishedAt": "2026-10-23T12:00:34.917Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/labyrinth/updates/28",
     "sequenceNumber": 28
-  },
-  {
-    "id": 48320,
-    "projectId": 9823,
-    "projectName": "Fable Quest",
-    "projectCreator": "tabletop-tycoon",
-    "projectSlug": "fable-quest",
-    "title": "A Monster Blocks Your Path! An Arcadian Field Guide",
-    "excerpt": "Prepare yourself for the many different types of creatures you’ll encounter during your travels throughout Arcadia!",
-    "image": "https://imgcdn.gamefound.com/projectimage/projects/9823/979f9c73-aa4e-4ecc-91bb-8e34eb843603.png",
-    "publishedAt": "2026-10-22T20:42:10.033Z",
-    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/5",
-    "sequenceNumber": 5
   },
   {
     "id": 48240,
