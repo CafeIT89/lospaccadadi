@@ -1,5 +1,57 @@
 [
   {
+    "id": 48126,
+    "projectId": 12995,
+    "projectName": "Too Little Time",
+    "projectCreator": "chip-theory-games",
+    "projectSlug": "too-little-time",
+    "title": "Day 6: Is this just more TMB and Entering the Rift!",
+    "excerpt": "Rift(un)bound, and a quick chat on content comparison with Too Little Time, Too Many Bones, and The Elder Scrolls.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/a267f964-1d47-41f2-a6aa-ee7872679ed0.webp",
+    "publishedAt": "2026-11-02T23:37:22.657Z",
+    "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/6",
+    "sequenceNumber": 6
+  },
+  {
+    "id": 49792,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "Arkham Horror Library – Vol 3",
+    "excerpt": "The Arkham Horror tales continue to expand far beyond the board game!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/be932952-aaf9-4c86-8b61-fbd056b3569f.png",
+    "publishedAt": "2026-11-02T23:14:33.953Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/59",
+    "sequenceNumber": 59
+  },
+  {
+    "id": 49837,
+    "projectId": 6571,
+    "projectName": "Claustrophobia 1692",
+    "projectCreator": "devir",
+    "projectSlug": "claustrophobia-1692",
+    "title": "Last Week for Pledge Management!",
+    "excerpt": "Pledge management closes Sunday! There are still 197 outstanding forms, so make sure to fill yours out soon!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6571/597410ef-3c1b-4725-b3f4-7027f94fc124.jpg",
+    "publishedAt": "2026-11-02T21:22:45.367Z",
+    "url": "https://gamefound.com/en/projects/devir/claustrophobia-1692/updates/24",
+    "sequenceNumber": 24
+  },
+  {
+    "id": 49832,
+    "projectId": 11645,
+    "projectName": "Grimdark Future: Jade Claw",
+    "projectCreator": "onepagerules",
+    "projectSlug": "grimdark-future-jade-claw",
+    "title": "Grimdark Future v3.6 Rules are Now Available!",
+    "excerpt": "The long awaited v3.6 rules for Grimdark Future are available now! Check out the rules that will be included with your box of Jade & Claw!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/e616b3c6-bbf3-4738-b52c-fb89618b4695.png",
+    "publishedAt": "2026-11-02T19:37:35.97Z",
+    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/20",
+    "sequenceNumber": 20
+  },
+  {
     "id": 49807,
     "projectId": 11178,
     "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
@@ -24,19 +76,6 @@
     "publishedAt": "2026-11-02T09:26:43.377Z",
     "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/5",
     "sequenceNumber": 5
-  },
-  {
-    "id": 49774,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "The Film Star",
-    "excerpt": "André can't quite tell where fiction ends and reality begins anymore.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/a861020f-9bc9-4130-98ac-77b85759eadf.png",
-    "publishedAt": "2026-11-02T05:20:18.16Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/56",
-    "sequenceNumber": 56
   },
   {
     "id": 49787,
@@ -128,19 +167,6 @@
     "publishedAt": "2026-10-30T20:40:34.97Z",
     "url": "https://gamefound.com/en/projects/chip-theory-games/wroth-reprint--wreck-expansion/updates/13",
     "sequenceNumber": 13
-  },
-  {
-    "id": 48124,
-    "projectId": 12995,
-    "projectName": "Too Little Time",
-    "projectCreator": "chip-theory-games",
-    "projectSlug": "too-little-time",
-    "title": "Day 4: I Will Remember You...",
-    "excerpt": "The one about Sarah McLachlan and Too Little Time",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/0687f489-5162-42de-8066-2507b6cde2fe.webp",
-    "publishedAt": "2026-10-30T19:25:51.817Z",
-    "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/5",
-    "sequenceNumber": 5
   },
   {
     "id": 49712,
@@ -258,32 +284,6 @@
     "publishedAt": "2026-10-28T18:43:17.25Z",
     "url": "https://gamefound.com/en/projects/level-99-games/dbd/updates/19",
     "sequenceNumber": 19
-  },
-  {
-    "id": 48581,
-    "projectId": 11645,
-    "projectName": "Grimdark Future: Jade Claw",
-    "projectCreator": "onepagerules",
-    "projectSlug": "grimdark-future-jade-claw",
-    "title": "Jade & Claw Video Round-Up",
-    "excerpt": "Several of our YouTube friends have made videos about Jade & Claw! We've gathered up a few of them in this update to take a look at.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/df0b638e-696d-4a48-a5b8-8b59700cd753.jpg",
-    "publishedAt": "2026-10-28T18:22:59.293Z",
-    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/19",
-    "sequenceNumber": 19
-  },
-  {
-    "id": 48568,
-    "projectId": 6571,
-    "projectName": "Claustrophobia 1692",
-    "projectCreator": "devir",
-    "projectSlug": "claustrophobia-1692",
-    "title": "One and a Half Weeks Left for Pledge Management!",
-    "excerpt": "We’ve received 1289 order confirmations so far. There are 303 of you who still have to fill out your forms by November 8!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6571/8c86081f-7176-48da-90fd-281c7a016130.jpg",
-    "publishedAt": "2026-10-28T15:17:39.137Z",
-    "url": "https://gamefound.com/en/projects/devir/claustrophobia-1692/updates/23",
-    "sequenceNumber": 23
   },
   {
     "id": 48556,
