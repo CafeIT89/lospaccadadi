@@ -1,5 +1,18 @@
 [
   {
+    "id": 49942,
+    "projectId": 11765,
+    "projectName": "Dungeon of Tanares",
+    "projectCreator": "dragori-games",
+    "projectSlug": "dungeon-of-tanares",
+    "title": "Final 48 Hours: Stretch Goals, Solo Mode, and Another Gift",
+    "excerpt": "A look at the real painted miniatures and standees, and one more vote for Old Depths.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/8bcb0356-7fbe-4d78-a199-9cda5ae19cc7.jpeg",
+    "publishedAt": "2026-11-04T07:26:04.063Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/17",
+    "sequenceNumber": 17
+  },
+  {
     "id": 49908,
     "projectId": 11582,
     "projectName": "Arkham Horror",
@@ -128,19 +141,6 @@
     "publishedAt": "2026-11-02T09:26:43.377Z",
     "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/5",
     "sequenceNumber": 5
-  },
-  {
-    "id": 49787,
-    "projectId": 11765,
-    "projectName": "Dungeon of Tanares",
-    "projectCreator": "dragori-games",
-    "projectSlug": "dungeon-of-tanares",
-    "title": "Heroes and Influence Cards: How Tanares Leveled Up",
-    "excerpt": "Fewer cards, more choices, and Hero Abilities that dramatically change how you play.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/5e1c5f65-69dc-471d-bf45-90de2f30b447.jpeg",
-    "publishedAt": "2026-11-01T23:58:47.38Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/16",
-    "sequenceNumber": 16
   },
   {
     "id": 49768,
