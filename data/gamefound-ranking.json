@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-11-03T23:17:49.815Z",
+  "updatedAt": "2026-11-04T06:10:12.948Z",
   "projects": [
     {
       "name": "Nemesis Legacy",
       "creator": "Awaken Realms",
       "url": "https://gamefound.com/projects/awaken-realms/nemesis-legacy",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8524/8246040c-ef12-419c-b133-b98cc169b431.jpg",
-      "fundsGathered": 13042111.24,
+      "fundsGathered": 13065765.88,
       "currency": "EUR",
-      "backerCount": 34313,
-      "campaignEndDate": "2026-11-03T23:26:23.877Z"
+      "backerCount": 34363,
+      "campaignEndDate": "2026-11-04T06:19:22.927Z"
     },
     {
       "name": "Arkham Horror Remastered - Vault Series",
       "creator": "Fantasy Flight Games",
       "url": "https://gamefound.com/projects/asmodee/arkham-horror",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11582/f4df3d92-358e-48c9-88dd-cc34020a61fa.png",
-      "fundsGathered": 3938222.15,
+      "fundsGathered": 4073908.29,
       "currency": "USD",
-      "backerCount": 9577,
+      "backerCount": 9892,
       "campaignEndDate": "2026-11-05T01:00:00Z"
     },
     {
@@ -26,9 +26,9 @@
       "creator": "MOOD Publishing",
       "url": "https://gamefound.com/projects/mood-publishing/satisfactory-the-board-game",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11362/cbd459fe-aa2f-49a4-bb9a-57df2837b839.png",
-      "fundsGathered": 2204074.3,
+      "fundsGathered": 2212612.63,
       "currency": "EUR",
-      "backerCount": 8661,
+      "backerCount": 8692,
       "campaignEndDate": "2026-11-10T15:00:00Z"
     },
     {
@@ -36,9 +36,9 @@
       "creator": "Chip Theory Games",
       "url": "https://gamefound.com/projects/chip-theory-games/too-little-time",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/12995/ee2ff19d-cb0b-4d7c-abb6-b38c9473b713.png",
-      "fundsGathered": 1586144.96,
+      "fundsGathered": 1591744,
       "currency": "USD",
-      "backerCount": 4574,
+      "backerCount": 4591,
       "campaignEndDate": "2026-11-13T22:00:00Z"
     },
     {
@@ -46,9 +46,9 @@
       "creator": "Dragori Games",
       "url": "https://gamefound.com/projects/dragori-games/dungeon-of-tanares",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11765/d4ae2216-f863-44f7-b227-0e743ec5c03a.jpg",
-      "fundsGathered": 1366826.54,
+      "fundsGathered": 1393578.41,
       "currency": "USD",
-      "backerCount": 3305,
+      "backerCount": 3391,
       "campaignEndDate": "2026-11-05T21:00:00Z"
     }
   ]
