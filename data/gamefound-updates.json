@@ -1,5 +1,83 @@
 [
   {
+    "id": 49998,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "The Mystic",
+    "excerpt": "Thank our lucky stars!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/a86fe81d-afff-4fee-a8ab-c8ed52b8e99b.png",
+    "publishedAt": "2026-11-04T21:59:43.27Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/68",
+    "sequenceNumber": 68
+  },
+  {
+    "id": 49993,
+    "projectId": 9823,
+    "projectName": "Fable Quest",
+    "projectCreator": "tabletop-tycoon",
+    "projectSlug": "fable-quest",
+    "title": "Heroes of Epic Fantasy Join the Quest and Talking about Arcadia Quest Crossovers!",
+    "excerpt": "Well, Heroes, what a first 24 hours it's been!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9823/7e16e563-5930-4a5c-9ada-070d6210f75d.png",
+    "publishedAt": "2026-11-04T19:51:14.007Z",
+    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/7",
+    "sequenceNumber": 7
+  },
+  {
+    "id": 49991,
+    "projectId": 8524,
+    "projectName": "Nemesis Legacy",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "nemesis-legacy",
+    "title": "EPIC 8 DAYS of ENDGAME! <3",
+    "excerpt": "8 DAYS = 192 HOURS = 11,520 MINUTES = 691,200 SECONDS!\nThis is how long you have kept this Endgame phase alive so far, and honestly, it blows our minds. We are out of words. What’s left is respect, gratitude, and a lot of admiration for this Crew.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/cee1f9c1-9755-4179-95f5-1cf7a18ccd86.jpg",
+    "publishedAt": "2026-11-04T19:00:40.997Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/29",
+    "sequenceNumber": 29
+  },
+  {
+    "id": 49986,
+    "projectId": 6846,
+    "projectName": "Chronicles of Drunagor: Aftermath",
+    "projectCreator": "wearecgs",
+    "projectSlug": "chronicles-of-drunagor-aftermath",
+    "title": "Drunagor App Update",
+    "excerpt": "Explore the latest Drunagor App features, discover what's ahead for Aftermath, and learn more about Blade Runner 2049!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6846/1cc61d6b-a356-4dac-9287-b667c68eb890.png",
+    "publishedAt": "2026-11-04T18:39:35.66Z",
+    "url": "https://gamefound.com/en/projects/wearecgs/chronicles-of-drunagor-aftermath/updates/29",
+    "sequenceNumber": 29
+  },
+  {
+    "id": 48128,
+    "projectId": 12995,
+    "projectName": "Too Little Time",
+    "projectCreator": "chip-theory-games",
+    "projectSlug": "too-little-time",
+    "title": "Day 8: Mastering Your Mat...series?",
+    "excerpt": "The one where tabletop wizards pore over the potent possibilities and salivate over the strategery!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/ab87c0c8-2ea3-42ae-a9e3-19ea4c3f068c.png",
+    "publishedAt": "2026-11-04T16:32:24.897Z",
+    "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/7",
+    "sequenceNumber": 7
+  },
+  {
+    "id": 49980,
+    "projectId": 11178,
+    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
+    "projectCreator": "xplored",
+    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
+    "title": "Less than 24 Hours remain!",
+    "excerpt": "A campaign update on the final 24 hours and our final stretch goals.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/a6ff45ca-69d5-4d48-9d17-b3840ba5a900.png",
+    "publishedAt": "2026-11-04T16:15:00Z",
+    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/16",
+    "sequenceNumber": 16
+  },
+  {
     "id": 49942,
     "projectId": 11765,
     "projectName": "Dungeon of Tanares",
@@ -11,19 +89,6 @@
     "publishedAt": "2026-11-04T07:26:04.063Z",
     "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/17",
     "sequenceNumber": 17
-  },
-  {
-    "id": 49908,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "Raise the Gates!",
-    "excerpt": "Will you let the gates stand?",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/581274f3-7f9a-4312-b800-1dc836ddbc8e.png",
-    "publishedAt": "2026-11-04T05:14:01.013Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/64",
-    "sequenceNumber": 64
   },
   {
     "id": 49934,
@@ -39,45 +104,6 @@
     "sequenceNumber": 25
   },
   {
-    "id": 49907,
-    "projectId": 8524,
-    "projectName": "Nemesis Legacy",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "nemesis-legacy",
-    "title": "ENDGAME #8: 168 HOURS & ONE MORE VOTE!",
-    "excerpt": "168 hours of Endgame! Another 24 cards join Infinity Mode, over 17,000 backers have kept the timer alive, and we’re now only hours away from the all-time Endgame record. One final vote will decide how this story ends.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8524/e2c4272c-acdc-454c-9932-591d7265ea4c.jpg",
-    "publishedAt": "2026-11-03T19:22:53.09Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/nemesis-legacy/updates/27",
-    "sequenceNumber": 27
-  },
-  {
-    "id": 49905,
-    "projectId": 11178,
-    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
-    "projectCreator": "xplored",
-    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
-    "title": "Final 48 Hours!",
-    "excerpt": "A campaign update on the final 2 days of the campaign and a new bundle option!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/030874a7-95ee-46a2-b7de-eba9b33f68ba.png",
-    "publishedAt": "2026-11-03T17:00:00Z",
-    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/15",
-    "sequenceNumber": 15
-  },
-  {
-    "id": 49900,
-    "projectId": 9823,
-    "projectName": "Fable Quest",
-    "projectCreator": "tabletop-tycoon",
-    "projectSlug": "fable-quest",
-    "title": "FABLE QUEST IS FUNDED! THE GATES OF ARCADIA ARE OPEN ONCE MORE!",
-    "excerpt": "Fable Quest is live and fully funded in only 16 minutes!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9823/71e397d9-9afc-464f-a210-ddc78475ab28.jpg",
-    "publishedAt": "2026-11-03T16:15:35.363Z",
-    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/6",
-    "sequenceNumber": 6
-  },
-  {
     "id": 49859,
     "projectId": 3917,
     "projectName": "Blood",
@@ -89,19 +115,6 @@
     "publishedAt": "2026-11-03T14:24:15.07Z",
     "url": "https://gamefound.com/en/projects/lms/blood_lms/updates/58",
     "sequenceNumber": 58
-  },
-  {
-    "id": 48126,
-    "projectId": 12995,
-    "projectName": "Too Little Time",
-    "projectCreator": "chip-theory-games",
-    "projectSlug": "too-little-time",
-    "title": "Day 6: Is this just more TMB and Entering the Rift!",
-    "excerpt": "Rift(un)bound, and a quick chat on content comparison with Too Little Time, Too Many Bones, and The Elder Scrolls.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/a267f964-1d47-41f2-a6aa-ee7872679ed0.webp",
-    "publishedAt": "2026-11-02T23:37:22.657Z",
-    "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/6",
-    "sequenceNumber": 6
   },
   {
     "id": 49837,
@@ -687,19 +700,6 @@
     "publishedAt": "2026-10-02T11:03:55.837Z",
     "url": "https://gamefound.com/en/projects/ice-makes/terrorscape-2/updates/60",
     "sequenceNumber": 60
-  },
-  {
-    "id": 45062,
-    "projectId": 6846,
-    "projectName": "Chronicles of Drunagor: Aftermath",
-    "projectCreator": "wearecgs",
-    "projectSlug": "chronicles-of-drunagor-aftermath",
-    "title": "Something new for the Standard Edition of Aftermath!",
-    "excerpt": "Standard Edition just got better: all new Aftermath heroes now come with miniatures at no additional cost. More immersion, same pledge!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6846/b788281b-623e-440a-82aa-52d33fc243d4.png",
-    "publishedAt": "2026-09-29T14:17:07.61Z",
-    "url": "https://gamefound.com/en/projects/wearecgs/chronicles-of-drunagor-aftermath/updates/28",
-    "sequenceNumber": 28
   },
   {
     "id": 44892,
