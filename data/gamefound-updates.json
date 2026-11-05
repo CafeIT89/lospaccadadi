@@ -1,16 +1,29 @@
 [
   {
-    "id": 49998,
+    "id": 50006,
+    "projectId": 11765,
+    "projectName": "Dungeon of Tanares",
+    "projectCreator": "dragori-games",
+    "projectSlug": "dungeon-of-tanares",
+    "title": "Final Hours: In Search of the Lost, and a Truly Unique Stretch Goal",
+    "excerpt": "How we’ll find the lost monsters and items.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/e3b8450a-0c18-4620-91e3-11180295d1e8.jpeg",
+    "publishedAt": "2026-11-05T03:29:11.337Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/18",
+    "sequenceNumber": 18
+  },
+  {
+    "id": 50005,
     "projectId": 11582,
     "projectName": "Arkham Horror",
     "projectCreator": "asmodee",
     "projectSlug": "arkham-horror",
-    "title": "The Mystic",
-    "excerpt": "Thank our lucky stars!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/a86fe81d-afff-4fee-a8ab-c8ed52b8e99b.png",
-    "publishedAt": "2026-11-04T21:59:43.27Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/68",
-    "sequenceNumber": 68
+    "title": "The Survivor",
+    "excerpt": "Surviving and thriving!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/6621646b-af5b-4e6a-8243-67b6dc033fae.png",
+    "publishedAt": "2026-11-05T02:36:29.317Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/71",
+    "sequenceNumber": 71
   },
   {
     "id": 49993,
@@ -76,19 +89,6 @@
     "publishedAt": "2026-11-04T16:15:00Z",
     "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/16",
     "sequenceNumber": 16
-  },
-  {
-    "id": 49942,
-    "projectId": 11765,
-    "projectName": "Dungeon of Tanares",
-    "projectCreator": "dragori-games",
-    "projectSlug": "dungeon-of-tanares",
-    "title": "Final 48 Hours: Stretch Goals, Solo Mode, and Another Gift",
-    "excerpt": "A look at the real painted miniatures and standees, and one more vote for Old Depths.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/8bcb0356-7fbe-4d78-a199-9cda5ae19cc7.jpeg",
-    "publishedAt": "2026-11-04T07:26:04.063Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/17",
-    "sequenceNumber": 17
   },
   {
     "id": 49934,
