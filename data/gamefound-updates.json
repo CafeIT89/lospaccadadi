@@ -1,5 +1,83 @@
 [
   {
+    "id": 50027,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "Endgame - 18 Hours Later – Open the 8th Gate",
+    "excerpt": "We’ve made it to the 18 hour mark. Time to cross a threshold!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/4e4ec924-5783-48c6-91e8-21d5f8eb55e8.png",
+    "publishedAt": "2026-11-05T19:00:00Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/76",
+    "sequenceNumber": 76
+  },
+  {
+    "id": 50063,
+    "projectId": 11645,
+    "projectName": "Grimdark Future: Jade Claw",
+    "projectCreator": "onepagerules",
+    "projectSlug": "grimdark-future-jade-claw",
+    "title": "Final 24h - Last Chance To Get Your Bonuses Items",
+    "excerpt": "Just one more day to get our stretch goal miniatures and subscriber gifts!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/794b73ae-74c8-4946-bd76-3f6387e6351d.jpg",
+    "publishedAt": "2026-11-05T18:56:48.24Z",
+    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/21",
+    "sequenceNumber": 21
+  },
+  {
+    "id": 47991,
+    "projectId": 9719,
+    "projectName": "The Lord of the Rings: Ascension",
+    "projectCreator": "stoneblade",
+    "projectSlug": "the-lord-of-the-rings-ascension",
+    "title": "The Art of Dwarven Constructs in The Lord of the Rings™: Ascension™",
+    "excerpt": "Discover the art of the Dwarven Constructs, where each new piece strengthens your strategy and brings an intricate Dwarven forge to life.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9719/2f424563-cfc7-4208-b86d-aafcabebc7cb.png",
+    "publishedAt": "2026-11-05T17:00:00Z",
+    "url": "https://gamefound.com/en/projects/stoneblade/the-lord-of-the-rings-ascension/updates/48",
+    "sequenceNumber": 48
+  },
+  {
+    "id": 50062,
+    "projectId": 11178,
+    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
+    "projectCreator": "xplored",
+    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
+    "title": "Campaign Closed!",
+    "excerpt": "A brief update on the official close of the campaign!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/c554d344-fc70-42a2-a231-73ed4d6755c3.png",
+    "publishedAt": "2026-11-05T16:16:29.27Z",
+    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/18",
+    "sequenceNumber": 18
+  },
+  {
+    "id": 50036,
+    "projectId": 13329,
+    "projectName": "Transformers: Resistance",
+    "projectCreator": "ocgames",
+    "projectSlug": "transformers-resistance",
+    "title": "BUMBLEBEE: Small Hero, Big Impact!",
+    "excerpt": "Get a closer look at one of the CORE BOX's iconic heroes! Discover what makes Bumblebee a unique addition to the Autobot team and how his special role brings new possibilities to the battle for Cybertron.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13329/d31df94e-df35-4008-97e2-9691e0f2514e.jpg",
+    "publishedAt": "2026-11-05T15:00:00Z",
+    "url": "https://gamefound.com/en/projects/ocgames/transformers-resistance/updates/2",
+    "sequenceNumber": 2
+  },
+  {
+    "id": 49853,
+    "projectId": 13438,
+    "projectName": "Diablo: Unbound",
+    "projectCreator": "glass-cannon-unplugged",
+    "projectSlug": "diablo-unbound",
+    "title": "First Blood at SPIEL Essen",
+    "excerpt": "With Diablo: Unbound unleashed upon the world, we’re taking a look at the game’s debut at SPIEL Essen and the overwhelmingly positive response from Diablo fans around the globe.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13438/69f13ddc-da07-43a2-be6d-3c4cd167b7e3.png",
+    "publishedAt": "2026-11-05T14:01:39.123Z",
+    "url": "https://gamefound.com/en/projects/glass-cannon-unplugged/diablo-unbound/updates/2",
+    "sequenceNumber": 2
+  },
+  {
     "id": 50006,
     "projectId": 11765,
     "projectName": "Dungeon of Tanares",
@@ -11,19 +89,6 @@
     "publishedAt": "2026-11-05T03:29:11.337Z",
     "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/18",
     "sequenceNumber": 18
-  },
-  {
-    "id": 50005,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "The Survivor",
-    "excerpt": "Surviving and thriving!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/6621646b-af5b-4e6a-8243-67b6dc033fae.png",
-    "publishedAt": "2026-11-05T02:36:29.317Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/71",
-    "sequenceNumber": 71
   },
   {
     "id": 49993,
@@ -78,19 +143,6 @@
     "sequenceNumber": 7
   },
   {
-    "id": 49980,
-    "projectId": 11178,
-    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
-    "projectCreator": "xplored",
-    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
-    "title": "Less than 24 Hours remain!",
-    "excerpt": "A campaign update on the final 24 hours and our final stretch goals.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/a6ff45ca-69d5-4d48-9d17-b3840ba5a900.png",
-    "publishedAt": "2026-11-04T16:15:00Z",
-    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/16",
-    "sequenceNumber": 16
-  },
-  {
     "id": 49934,
     "projectId": 11418,
     "projectName": "Aberration: Oblivion's Embrace",
@@ -128,19 +180,6 @@
     "publishedAt": "2026-11-02T21:22:45.367Z",
     "url": "https://gamefound.com/en/projects/devir/claustrophobia-1692/updates/24",
     "sequenceNumber": 24
-  },
-  {
-    "id": 49832,
-    "projectId": 11645,
-    "projectName": "Grimdark Future: Jade Claw",
-    "projectCreator": "onepagerules",
-    "projectSlug": "grimdark-future-jade-claw",
-    "title": "Grimdark Future v3.6 Rules are Now Available!",
-    "excerpt": "The long awaited v3.6 rules for Grimdark Future are available now! Check out the rules that will be included with your box of Jade & Claw!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/e616b3c6-bbf3-4738-b52c-fb89618b4695.png",
-    "publishedAt": "2026-11-02T19:37:35.97Z",
-    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/20",
-    "sequenceNumber": 20
   },
   {
     "id": 49769,
@@ -286,19 +325,6 @@
     "sequenceNumber": 26
   },
   {
-    "id": 46347,
-    "projectId": 9719,
-    "projectName": "The Lord of the Rings: Ascension",
-    "projectCreator": "stoneblade",
-    "projectSlug": "the-lord-of-the-rings-ascension",
-    "title": "New Art: Shelob & Arwen",
-    "excerpt": "We’re back with another look at two new pieces of art from The Lord of the Rings™: Ascension™",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9719/ab764db4-17fa-4739-a72d-ba22e532078a.png",
-    "publishedAt": "2026-10-29T16:00:00Z",
-    "url": "https://gamefound.com/en/projects/stoneblade/the-lord-of-the-rings-ascension/updates/47",
-    "sequenceNumber": 47
-  },
-  {
     "id": 47992,
     "projectId": 13201,
     "projectName": "Avalon: The Riven Veil (2nd Printing)",
@@ -403,19 +429,6 @@
     "sequenceNumber": 120
   },
   {
-    "id": 48292,
-    "projectId": 13329,
-    "projectName": "Transformers: Resistance",
-    "projectCreator": "ocgames",
-    "projectSlug": "transformers-resistance",
-    "title": "3,000 Followers! Thank You for Joining the Resistance!",
-    "excerpt": "Thank you for helping Transformers Resistance reach 3,000 followers! Join us as we explore the game, discover what makes this tactical adventure unique, and follow the Autobots’ fight to reclaim Cybertron.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13329/42ede766-ab25-4586-bdb1-ddf0990df7fb.jpg",
-    "publishedAt": "2026-10-23T14:00:00Z",
-    "url": "https://gamefound.com/en/projects/ocgames/transformers-resistance/updates/1",
-    "sequenceNumber": 1
-  },
-  {
     "id": 48330,
     "projectId": 4792,
     "projectName": "DMD: Forbidden Reaches",
@@ -466,19 +479,6 @@
     "publishedAt": "2026-10-21T21:56:18.9Z",
     "url": "https://gamefound.com/en/projects/zainmemon/trialsofmaya/updates/27",
     "sequenceNumber": 27
-  },
-  {
-    "id": 48042,
-    "projectId": 13438,
-    "projectName": "Diablo: Unbound",
-    "projectCreator": "glass-cannon-unplugged",
-    "projectSlug": "diablo-unbound",
-    "title": "Welcome to Diablo®: Unbound!",
-    "excerpt": "Announcing Diablo: Unbound, the first officially licensed Diablo board game, coming to Gamefound in Q1 2027. Discover why we call it a dungeon battler, meet the Rogue and Khazra, learn how to claim the Follower Gift, and try the game at SPIEL Essen.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13438/7a8361a5-745e-45b8-aaf5-fecb6232da00.png",
-    "publishedAt": "2026-10-21T20:07:44.597Z",
-    "url": "https://gamefound.com/en/projects/glass-cannon-unplugged/diablo-unbound/updates/1",
-    "sequenceNumber": 1
   },
   {
     "id": 48238,
