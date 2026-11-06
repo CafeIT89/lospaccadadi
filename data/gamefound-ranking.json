@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-11-05T19:54:32.964Z",
+  "updatedAt": "2026-11-06T06:34:55.388Z",
   "projects": [
     {
       "name": "Arkham Horror Remastered - Vault Series",
       "creator": "Fantasy Flight Games",
       "url": "https://gamefound.com/projects/asmodee/arkham-horror",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11582/f4df3d92-358e-48c9-88dd-cc34020a61fa.png",
-      "fundsGathered": 5289637.73,
+      "fundsGathered": 5380681.67,
       "currency": "USD",
-      "backerCount": 12779,
-      "campaignEndDate": "2026-11-05T20:02:48.303Z"
+      "backerCount": 12984,
+      "campaignEndDate": "2026-11-06T06:44:07.823Z"
     },
     {
       "name": "Satisfactory: The Board Game",
       "creator": "MOOD Publishing",
       "url": "https://gamefound.com/projects/mood-publishing/satisfactory-the-board-game",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11362/cbd459fe-aa2f-49a4-bb9a-57df2837b839.png",
-      "fundsGathered": 2308379.4,
+      "fundsGathered": 2327608.54,
       "currency": "EUR",
-      "backerCount": 9067,
+      "backerCount": 9143,
       "campaignEndDate": "2026-11-10T15:00:00Z"
     },
     {
@@ -26,19 +26,19 @@
       "creator": "Dragori Games",
       "url": "https://gamefound.com/projects/dragori-games/dungeon-of-tanares",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11765/d4ae2216-f863-44f7-b227-0e743ec5c03a.jpg",
-      "fundsGathered": 1647524.9,
+      "fundsGathered": 1735211.9,
       "currency": "USD",
-      "backerCount": 4001,
-      "campaignEndDate": "2026-11-05T21:00:00Z"
+      "backerCount": 4225,
+      "campaignEndDate": "2026-11-06T06:44:27.773Z"
     },
     {
       "name": "Too Little Time",
       "creator": "Chip Theory Games",
       "url": "https://gamefound.com/projects/chip-theory-games/too-little-time",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/12995/ee2ff19d-cb0b-4d7c-abb6-b38c9473b713.png",
-      "fundsGathered": 1628341.2,
+      "fundsGathered": 1645484.69,
       "currency": "USD",
-      "backerCount": 4706,
+      "backerCount": 4757,
       "campaignEndDate": "2026-11-13T22:00:00Z"
     },
     {
@@ -46,9 +46,9 @@
       "creator": "Dwarven Forge",
       "url": "https://gamefound.com/projects/dwarven-forge/perilous-frontiers",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8512/97917cca-81bb-4ed2-a8dd-640edbbd10a0.jpg",
-      "fundsGathered": 1293846.24,
+      "fundsGathered": 1309887.98,
       "currency": "USD",
-      "backerCount": 456,
+      "backerCount": 463,
       "campaignEndDate": "2026-11-19T00:00:00Z"
     }
   ]

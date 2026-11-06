@@ -1,16 +1,55 @@
 [
   {
-    "id": 50027,
+    "id": 48129,
+    "projectId": 12995,
+    "projectName": "Too Little Time",
+    "projectCreator": "chip-theory-games",
+    "projectSlug": "too-little-time",
+    "title": "Day 9: A (Ko)Bold Introduction",
+    "excerpt": "We're, like, so done talking about those mats... Now for some character deep dives!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/bfad3de0-bc02-4e2c-ab3e-e7ab5ad3bd0e.png",
+    "publishedAt": "2026-11-06T01:08:57.757Z",
+    "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/8",
+    "sequenceNumber": 8
+  },
+  {
+    "id": 50028,
     "projectId": 11582,
     "projectName": "Arkham Horror",
     "projectCreator": "asmodee",
     "projectSlug": "arkham-horror",
-    "title": "Endgame - 18 Hours Later – Open the 8th Gate",
-    "excerpt": "We’ve made it to the 18 hour mark. Time to cross a threshold!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/4e4ec924-5783-48c6-91e8-21d5f8eb55e8.png",
-    "publishedAt": "2026-11-05T19:00:00Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/76",
-    "sequenceNumber": 76
+    "title": "Endgame - 24 Hours Later – Tempt Madness in the Forbidden Lands",
+    "excerpt": "We’ve made it to the 24 hour mark. One day more!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/0f7c6af1-620e-4f81-88d8-7a1274be4ad1.png",
+    "publishedAt": "2026-11-06T01:00:00Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/77",
+    "sequenceNumber": 77
+  },
+  {
+    "id": 50074,
+    "projectId": 11765,
+    "projectName": "Dungeon of Tanares",
+    "projectCreator": "dragori-games",
+    "projectSlug": "dungeon-of-tanares",
+    "title": "The Endgame Begins: Join the Search for the Lost and Meet the Final Heroes",
+    "excerpt": "How we'll keep the search going: one pledge or upgrade every 10 minutes.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/fc8ef0c2-ee3b-4bd4-ac05-1fabc5133983.jpeg",
+    "publishedAt": "2026-11-05T20:49:23.503Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/19",
+    "sequenceNumber": 19
+  },
+  {
+    "id": 50071,
+    "projectId": 9823,
+    "projectName": "Fable Quest",
+    "projectCreator": "tabletop-tycoon",
+    "projectSlug": "fable-quest",
+    "title": "Designer Diary Showcase: Maulders, and Grobbles, and Webbies! Oh My!",
+    "excerpt": "Think you know what to expect from an Arcadia adventure? Well, think again!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9823/6f509cd2-093f-4b9f-b311-813a1ef24896.png",
+    "publishedAt": "2026-11-05T20:18:12.273Z",
+    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/8",
+    "sequenceNumber": 8
   },
   {
     "id": 50063,
@@ -78,32 +117,6 @@
     "sequenceNumber": 2
   },
   {
-    "id": 50006,
-    "projectId": 11765,
-    "projectName": "Dungeon of Tanares",
-    "projectCreator": "dragori-games",
-    "projectSlug": "dungeon-of-tanares",
-    "title": "Final Hours: In Search of the Lost, and a Truly Unique Stretch Goal",
-    "excerpt": "How we’ll find the lost monsters and items.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/e3b8450a-0c18-4620-91e3-11180295d1e8.jpeg",
-    "publishedAt": "2026-11-05T03:29:11.337Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/18",
-    "sequenceNumber": 18
-  },
-  {
-    "id": 49993,
-    "projectId": 9823,
-    "projectName": "Fable Quest",
-    "projectCreator": "tabletop-tycoon",
-    "projectSlug": "fable-quest",
-    "title": "Heroes of Epic Fantasy Join the Quest and Talking about Arcadia Quest Crossovers!",
-    "excerpt": "Well, Heroes, what a first 24 hours it's been!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9823/7e16e563-5930-4a5c-9ada-070d6210f75d.png",
-    "publishedAt": "2026-11-04T19:51:14.007Z",
-    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/7",
-    "sequenceNumber": 7
-  },
-  {
     "id": 49991,
     "projectId": 8524,
     "projectName": "Nemesis Legacy",
@@ -128,19 +141,6 @@
     "publishedAt": "2026-11-04T18:39:35.66Z",
     "url": "https://gamefound.com/en/projects/wearecgs/chronicles-of-drunagor-aftermath/updates/29",
     "sequenceNumber": 29
-  },
-  {
-    "id": 48128,
-    "projectId": 12995,
-    "projectName": "Too Little Time",
-    "projectCreator": "chip-theory-games",
-    "projectSlug": "too-little-time",
-    "title": "Day 8: Mastering Your Mat...series?",
-    "excerpt": "The one where tabletop wizards pore over the potent possibilities and salivate over the strategery!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/ab87c0c8-2ea3-42ae-a9e3-19ea4c3f068c.png",
-    "publishedAt": "2026-11-04T16:32:24.897Z",
-    "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/7",
-    "sequenceNumber": 7
   },
   {
     "id": 49934,
