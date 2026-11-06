@@ -1,5 +1,83 @@
 [
   {
+    "id": 50088,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "Endgame - 42 Hours Later – The Blob That Ate Everything!",
+    "excerpt": "Can we gobble up 2 days of Endgame?",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/5e9a1281-f741-4dec-aa43-0cf04c3792b3.png",
+    "publishedAt": "2026-11-06T19:00:00Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/81",
+    "sequenceNumber": 81
+  },
+  {
+    "id": 50122,
+    "projectId": 11645,
+    "projectName": "Grimdark Future: Jade Claw",
+    "projectCreator": "onepagerules",
+    "projectSlug": "grimdark-future-jade-claw",
+    "title": "Final Hours for Jade & Claw & More Ways to Play",
+    "excerpt": "As we reach the end of the campaign, we wanted to let you know about one more way to enjoy using the new Jade & Claw minis!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/4ca0d1d6-89dc-45c7-a632-962bfca0608c.jpg",
+    "publishedAt": "2026-11-06T18:26:23.767Z",
+    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/22",
+    "sequenceNumber": 22
+  },
+  {
+    "id": 50108,
+    "projectId": 10066,
+    "projectName": "Eldfall Chronicles: Apocrypha",
+    "projectCreator": "eldfall-chronicles",
+    "projectSlug": "eldfall-chronicles-apocrypha",
+    "title": "Adventurer's Guide to Pledges & 10,000 Followers Unlock",
+    "excerpt": "The day is almost here! Explore the pledge levels of Eldfall Chronicles: Apocrypha, find the one that's right for you, and celebrate 10,000 followers with the newly unlocked Guildsworn Witch miniature!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/869508ef-3f52-4f61-bb6c-0eb5fa389aa9.jpg",
+    "publishedAt": "2026-11-06T15:22:21.063Z",
+    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/6",
+    "sequenceNumber": 6
+  },
+  {
+    "id": 50109,
+    "projectId": 11765,
+    "projectName": "Dungeon of Tanares",
+    "projectCreator": "dragori-games",
+    "projectSlug": "dungeon-of-tanares",
+    "title": "The Lost Are Found. Now, Into the Sindile Forest",
+    "excerpt": "Hobgoblin, Worm, and Purple Witch Cauldron added to the game. Let’s continue the search.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/c9fd45a5-3f5c-48e6-a410-139409e57cce.jpeg",
+    "publishedAt": "2026-11-06T15:10:04.49Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/20",
+    "sequenceNumber": 20
+  },
+  {
+    "id": 50105,
+    "projectId": 8492,
+    "projectName": "Heroes of Might and Magic III: Factory, Bulwark & Forge Expansions",
+    "projectCreator": "archon-studio",
+    "projectSlug": "heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
+    "title": "Post-Campaign Survey",
+    "excerpt": "Leave your feedback to shape the future!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8492/3a9ecdc9-f5fd-487a-ba4b-13243a695556.png",
+    "publishedAt": "2026-11-06T15:00:00Z",
+    "url": "https://gamefound.com/en/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions/updates/19",
+    "sequenceNumber": 19
+  },
+  {
+    "id": 50087,
+    "projectId": 4792,
+    "projectName": "DMD: Forbidden Reaches",
+    "projectCreator": "asmodee",
+    "projectSlug": "dmd-forbidden-reaches",
+    "title": "Production Update",
+    "excerpt": "E-proof reviews complete! First new plastic samples! BigThulhu and Bigzilla progress!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4792/7471c270-4705-4442-b43f-d828a6bfaaab.png",
+    "publishedAt": "2026-11-06T13:00:00Z",
+    "url": "https://gamefound.com/en/projects/asmodee/dmd-forbidden-reaches/updates/100",
+    "sequenceNumber": 100
+  },
+  {
     "id": 48129,
     "projectId": 12995,
     "projectName": "Too Little Time",
@@ -13,32 +91,6 @@
     "sequenceNumber": 8
   },
   {
-    "id": 50028,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "Endgame - 24 Hours Later – Tempt Madness in the Forbidden Lands",
-    "excerpt": "We’ve made it to the 24 hour mark. One day more!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/0f7c6af1-620e-4f81-88d8-7a1274be4ad1.png",
-    "publishedAt": "2026-11-06T01:00:00Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/77",
-    "sequenceNumber": 77
-  },
-  {
-    "id": 50074,
-    "projectId": 11765,
-    "projectName": "Dungeon of Tanares",
-    "projectCreator": "dragori-games",
-    "projectSlug": "dungeon-of-tanares",
-    "title": "The Endgame Begins: Join the Search for the Lost and Meet the Final Heroes",
-    "excerpt": "How we'll keep the search going: one pledge or upgrade every 10 minutes.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/fc8ef0c2-ee3b-4bd4-ac05-1fabc5133983.jpeg",
-    "publishedAt": "2026-11-05T20:49:23.503Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/19",
-    "sequenceNumber": 19
-  },
-  {
     "id": 50071,
     "projectId": 9823,
     "projectName": "Fable Quest",
@@ -50,19 +102,6 @@
     "publishedAt": "2026-11-05T20:18:12.273Z",
     "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/8",
     "sequenceNumber": 8
-  },
-  {
-    "id": 50063,
-    "projectId": 11645,
-    "projectName": "Grimdark Future: Jade Claw",
-    "projectCreator": "onepagerules",
-    "projectSlug": "grimdark-future-jade-claw",
-    "title": "Final 24h - Last Chance To Get Your Bonuses Items",
-    "excerpt": "Just one more day to get our stretch goal miniatures and subscriber gifts!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/794b73ae-74c8-4946-bd76-3f6387e6351d.jpg",
-    "publishedAt": "2026-11-05T18:56:48.24Z",
-    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/21",
-    "sequenceNumber": 21
   },
   {
     "id": 47991,
@@ -180,19 +219,6 @@
     "publishedAt": "2026-11-02T21:22:45.367Z",
     "url": "https://gamefound.com/en/projects/devir/claustrophobia-1692/updates/24",
     "sequenceNumber": 24
-  },
-  {
-    "id": 49769,
-    "projectId": 10066,
-    "projectName": "Eldfall Chronicles: Apocrypha",
-    "projectCreator": "eldfall-chronicles",
-    "projectSlug": "eldfall-chronicles-apocrypha",
-    "title": "From Northern Wind to Apocrypha: What Changed?",
-    "excerpt": "From Northern Wind to Apocrypha! Discover how we've built on the foundations of our original dungeon crawler, refining familiar mechanics and introducing exciting new features to make the adventure even more dynamic, varied, and engaging!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/1f71071e-7ce9-4379-9336-24ecc6c5214b.jpg",
-    "publishedAt": "2026-11-02T09:26:43.377Z",
-    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/5",
-    "sequenceNumber": 5
   },
   {
     "id": 49768,
@@ -429,19 +455,6 @@
     "sequenceNumber": 120
   },
   {
-    "id": 48330,
-    "projectId": 4792,
-    "projectName": "DMD: Forbidden Reaches",
-    "projectCreator": "asmodee",
-    "projectSlug": "dmd-forbidden-reaches",
-    "title": "Production Update",
-    "excerpt": "The final files have been processed by the factory, and we have now received the first batch of Electronic Proofs (E-proofs) for checking. Meanwhile, vacuum tray development continues with another round of physical samples.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4792/8cf0b9a6-e4a2-46b1-aabc-1cfd78932b9b.png",
-    "publishedAt": "2026-10-23T12:17:41.707Z",
-    "url": "https://gamefound.com/en/projects/asmodee/dmd-forbidden-reaches/updates/99",
-    "sequenceNumber": 99
-  },
-  {
     "id": 48300,
     "projectId": 5354,
     "projectName": "Labyrinth",
@@ -622,19 +635,6 @@
     "publishedAt": "2026-10-15T09:24:17.937Z",
     "url": "https://gamefound.com/en/projects/dark-gate-games/echoes-of-arkham/updates/39",
     "sequenceNumber": 39
-  },
-  {
-    "id": 47763,
-    "projectId": 8492,
-    "projectName": "Heroes of Might and Magic III: Factory, Bulwark & Forge Expansions",
-    "projectCreator": "archon-studio",
-    "projectSlug": "heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions",
-    "title": "The Story Never Ends",
-    "excerpt": "Thank you for such an amazing campaign!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8492/e5c7d81e-8ce4-484d-840e-8970f686f28a.png",
-    "publishedAt": "2026-10-13T14:30:00Z",
-    "url": "https://gamefound.com/en/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions/updates/18",
-    "sequenceNumber": 18
   },
   {
     "id": 46348,
