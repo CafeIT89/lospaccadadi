@@ -1,29 +1,68 @@
 [
   {
-    "id": 50088,
+    "id": 50090,
     "projectId": 11582,
     "projectName": "Arkham Horror",
     "projectCreator": "asmodee",
     "projectSlug": "arkham-horror",
-    "title": "Endgame - 42 Hours Later – The Blob That Ate Everything!",
-    "excerpt": "Can we gobble up 2 days of Endgame?",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/5e9a1281-f741-4dec-aa43-0cf04c3792b3.png",
-    "publishedAt": "2026-11-06T19:00:00Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/81",
-    "sequenceNumber": 81
+    "title": "Endgame - 48 Hours Later – Set Sail to the Stars at Dylath Leen",
+    "excerpt": "We’ve made it to the 48 hour mark! One day more...",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/9cfbcaad-69ff-4148-9355-aeb010a11bd2.png",
+    "publishedAt": "2026-11-07T01:00:00Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/82",
+    "sequenceNumber": 82
   },
   {
-    "id": 50122,
+    "id": 50040,
+    "projectId": 8527,
+    "projectName": "Scoundrels",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "scoundrels",
+    "title": "Scoundrels launch on DECEMBER 1ST! | First Heists behind us: SPIEL Essen SUMMARY",
+    "excerpt": "The Heist is happening in less than a month, Scoundrels! So, grab your backpacks, lockpicks, all these sussy heisty tools, and dive into today's update.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8527/edc97e55-a650-4e9d-b40f-45e02d3f92fd.png",
+    "publishedAt": "2026-11-07T00:01:59.14Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/scoundrels/updates/5",
+    "sequenceNumber": 5
+  },
+  {
+    "id": 50127,
     "projectId": 11645,
     "projectName": "Grimdark Future: Jade Claw",
     "projectCreator": "onepagerules",
     "projectSlug": "grimdark-future-jade-claw",
-    "title": "Final Hours for Jade & Claw & More Ways to Play",
-    "excerpt": "As we reach the end of the campaign, we wanted to let you know about one more way to enjoy using the new Jade & Claw minis!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/4ca0d1d6-89dc-45c7-a632-962bfca0608c.jpg",
-    "publishedAt": "2026-11-06T18:26:23.767Z",
-    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/22",
-    "sequenceNumber": 22
+    "title": "Thank You Again, Everyone!",
+    "excerpt": "Grimdark Future: Jade & Claw has been a fantastic success! Time for us to get back to work making all these new minis!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11645/4af70351-c8ca-4f25-92b9-baf3864cdf6f.jpg",
+    "publishedAt": "2026-11-06T22:54:50.493Z",
+    "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/23",
+    "sequenceNumber": 23
+  },
+  {
+    "id": 50124,
+    "projectId": 9823,
+    "projectName": "Fable Quest",
+    "projectCreator": "tabletop-tycoon",
+    "projectSlug": "fable-quest",
+    "title": "Reveal 2 Unlocked! Straight from the Orhoop’s Workshop: Deluxe Wooden Tokens!",
+    "excerpt": "King David III wouldn’t play with punchboard components, so why should you?",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9823/ed57ed9f-7b07-4eea-974f-0d9e54b8a4e8.png",
+    "publishedAt": "2026-11-06T20:40:00.827Z",
+    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/9",
+    "sequenceNumber": 9
+  },
+  {
+    "id": 50041,
+    "projectId": 5385,
+    "projectName": "Dragon Eclipse: The Grand Quest",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "dragon-eclipse-the-grand-quest",
+    "title": "1st wave (OG Dragon Eclipse & MA) SHIPPING UPDATE #3 | Deeper look into the Mystling Packs",
+    "excerpt": "Welcome, Tamers! Check out today's update for the latest news on the 1st wave fulfillment progress. Also, learn more about the Mystling Pack expansions!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5385/1e87c13e-bda7-4087-b271-b92a4ca4cbc2.jpg",
+    "publishedAt": "2026-11-06T20:06:37.113Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/dragon-eclipse-the-grand-quest/updates/28",
+    "sequenceNumber": 28
   },
   {
     "id": 50108,
@@ -88,19 +127,6 @@
     "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/bfad3de0-bc02-4e2c-ab3e-e7ab5ad3bd0e.png",
     "publishedAt": "2026-11-06T01:08:57.757Z",
     "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/8",
-    "sequenceNumber": 8
-  },
-  {
-    "id": 50071,
-    "projectId": 9823,
-    "projectName": "Fable Quest",
-    "projectCreator": "tabletop-tycoon",
-    "projectSlug": "fable-quest",
-    "title": "Designer Diary Showcase: Maulders, and Grobbles, and Webbies! Oh My!",
-    "excerpt": "Think you know what to expect from an Arcadia adventure? Well, think again!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9823/6f509cd2-093f-4b9f-b311-813a1ef24896.png",
-    "publishedAt": "2026-11-05T20:18:12.273Z",
-    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/8",
     "sequenceNumber": 8
   },
   {
@@ -507,19 +533,6 @@
     "sequenceNumber": 20
   },
   {
-    "id": 48221,
-    "projectId": 5385,
-    "projectName": "Dragon Eclipse: The Grand Quest",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "dragon-eclipse-the-grand-quest",
-    "title": "1st wave (OG Dragon Eclipse & MA) SHIPPING UPDATE #2 | Mystlings attending SPIEL Essen 2026",
-    "excerpt": "Tamers, we're back with the latest 1st wave shipping report! Also, today we're sharing some pretty exciting news for those of you who are attending SPIEL Essen.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5385/89f1ffef-55dd-49fa-a10d-55632503a7aa.png",
-    "publishedAt": "2026-10-21T13:40:34.57Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/dragon-eclipse-the-grand-quest/updates/27",
-    "sequenceNumber": 27
-  },
-  {
     "id": 48117,
     "projectId": 4392,
     "projectName": "Blasphemous: The Board Game",
@@ -570,19 +583,6 @@
     "publishedAt": "2026-10-19T14:51:47.667Z",
     "url": "https://gamefound.com/en/projects/lms/blackrosewars-re/updates/45",
     "sequenceNumber": 45
-  },
-  {
-    "id": 47904,
-    "projectId": 8527,
-    "projectName": "Scoundrels",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "scoundrels",
-    "title": "Campaign LAUNCHES in Q4 2026! | Prototype demo at SPIEL Essen 2026",
-    "excerpt": "Scoundrels! This is official - the campaign launches by the end of this year. Check out today's update for more news on the current development status of the game, the very first public prototype dropping at SPIEL Essen 2026, and much more!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8527/3642792b-75a9-4492-b43e-6950079e8fd2.jpg",
-    "publishedAt": "2026-10-19T14:30:00Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/scoundrels/updates/4",
-    "sequenceNumber": 4
   },
   {
     "id": 48083,
