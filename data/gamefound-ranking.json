@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-11-07T12:55:17.517Z",
+  "updatedAt": "2026-11-07T21:46:23.995Z",
   "projects": [
     {
       "name": "Arkham Horror Remastered - Vault Series",
       "creator": "Fantasy Flight Games",
       "url": "https://gamefound.com/projects/asmodee/arkham-horror",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11582/f4df3d92-358e-48c9-88dd-cc34020a61fa.png",
-      "fundsGathered": 5544605.22,
+      "fundsGathered": 5598690.82,
       "currency": "USD",
-      "backerCount": 13423,
-      "campaignEndDate": "2026-11-07T13:02:51.15Z"
+      "backerCount": 13539,
+      "campaignEndDate": "2026-11-07T21:55:19.453Z"
     },
     {
       "name": "Satisfactory: The Board Game",
       "creator": "MOOD Publishing",
       "url": "https://gamefound.com/projects/mood-publishing/satisfactory-the-board-game",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11362/cbd459fe-aa2f-49a4-bb9a-57df2837b839.png",
-      "fundsGathered": 2425145.89,
+      "fundsGathered": 2458260.78,
       "currency": "EUR",
-      "backerCount": 9526,
+      "backerCount": 9668,
       "campaignEndDate": "2026-11-10T15:00:00Z"
     },
     {
@@ -26,9 +26,9 @@
       "creator": "Chip Theory Games",
       "url": "https://gamefound.com/projects/chip-theory-games/too-little-time",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/12995/ee2ff19d-cb0b-4d7c-abb6-b38c9473b713.png",
-      "fundsGathered": 1666450,
+      "fundsGathered": 1678203.22,
       "currency": "USD",
-      "backerCount": 4818,
+      "backerCount": 4854,
       "campaignEndDate": "2026-11-13T22:00:00Z"
     },
     {
@@ -36,9 +36,9 @@
       "creator": "Dwarven Forge",
       "url": "https://gamefound.com/projects/dwarven-forge/perilous-frontiers",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8512/97917cca-81bb-4ed2-a8dd-640edbbd10a0.jpg",
-      "fundsGathered": 1350647.96,
+      "fundsGathered": 1371681.16,
       "currency": "USD",
-      "backerCount": 483,
+      "backerCount": 489,
       "campaignEndDate": "2026-11-19T00:00:00Z"
     },
     {
@@ -46,9 +46,9 @@
       "creator": "Unstable Games",
       "url": "https://gamefound.com/projects/unstable-games/ordinary-magic",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11584/f974ae09-ca8f-4b3c-a282-e2f44a23c327.jpg",
-      "fundsGathered": 657238.12,
+      "fundsGathered": 666822.72,
       "currency": "USD",
-      "backerCount": 4636,
+      "backerCount": 4707,
       "campaignEndDate": "2026-11-10T18:00:00Z"
     }
   ]
