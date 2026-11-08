@@ -1,16 +1,42 @@
 [
   {
-    "id": 50133,
+    "id": 50176,
+    "projectId": 5386,
+    "projectName": "This War of Mine: Second Edition",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "this-war-of-mine-second-edition",
+    "title": "English edition's SHIPPING UPDATE #3 | LANG editions NEWS",
+    "excerpt": "Check out the latest news on the ongoing fulfillment of the English edition. Also, learn more about the recent localization progress!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5386/a23d3d18-dc4a-416a-8b29-061494039b7b.jpg",
+    "publishedAt": "2026-11-08T21:06:56.257Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/this-war-of-mine-second-edition/updates/36",
+    "sequenceNumber": 36
+  },
+  {
+    "id": 50140,
     "projectId": 11582,
     "projectName": "Arkham Horror",
     "projectCreator": "asmodee",
     "projectSlug": "arkham-horror",
-    "title": "Endgame - 84 Hours Later - Up All Night in Zulan Thek",
-    "excerpt": "We've made it to the 84 hours mark!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/f4e8681d-d1fb-41b7-a650-204e966a5518.png",
-    "publishedAt": "2026-11-08T13:00:00Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/89",
-    "sequenceNumber": 89
+    "title": "Endgame - 90 Hours Later – The Zealot",
+    "excerpt": "Going for 4 days of Endgame and still burning bright!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/995d1f04-be09-4538-8034-82d02cfa1c96.png",
+    "publishedAt": "2026-11-08T19:00:00Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/90",
+    "sequenceNumber": 90
+  },
+  {
+    "id": 50125,
+    "projectId": 9823,
+    "projectName": "Fable Quest",
+    "projectCreator": "tabletop-tycoon",
+    "projectSlug": "fable-quest",
+    "title": "Reveal 3 Unlocked! Creatures of Folklore Answer the Call!",
+    "excerpt": "Heroes and their companions have arrived at the Mushroom Taster’s Guild from ancient forests and jungles you’ve only seen in books.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9823/8c911039-d8f2-4b41-a0b2-1030a7b01f45.png",
+    "publishedAt": "2026-11-08T15:30:00Z",
+    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/10",
+    "sequenceNumber": 10
   },
   {
     "id": 50040,
@@ -37,19 +63,6 @@
     "publishedAt": "2026-11-06T22:54:50.493Z",
     "url": "https://gamefound.com/en/projects/onepagerules/grimdark-future-jade-claw/updates/23",
     "sequenceNumber": 23
-  },
-  {
-    "id": 50124,
-    "projectId": 9823,
-    "projectName": "Fable Quest",
-    "projectCreator": "tabletop-tycoon",
-    "projectSlug": "fable-quest",
-    "title": "Reveal 2 Unlocked! Straight from the Orhoop’s Workshop: Deluxe Wooden Tokens!",
-    "excerpt": "King David III wouldn’t play with punchboard components, so why should you?",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9823/ed57ed9f-7b07-4eea-974f-0d9e54b8a4e8.png",
-    "publishedAt": "2026-11-06T20:40:00.827Z",
-    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/9",
-    "sequenceNumber": 9
   },
   {
     "id": 50041,
@@ -336,19 +349,6 @@
     "publishedAt": "2026-10-30T17:00:00Z",
     "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/3",
     "sequenceNumber": 3
-  },
-  {
-    "id": 48608,
-    "projectId": 5386,
-    "projectName": "This War of Mine: Second Edition",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "this-war-of-mine-second-edition",
-    "title": "English edition's SHIPPING UPDATE #2",
-    "excerpt": "Check out today's fulfillment progress report for the English edition! Also, learn more about our very own recently opened Awaken Realms warehouse.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5386/e7158e7f-d1aa-43c7-843d-a5b50d40be94.jpg",
-    "publishedAt": "2026-10-30T16:23:26.66Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/this-war-of-mine-second-edition/updates/35",
-    "sequenceNumber": 35
   },
   {
     "id": 48634,
