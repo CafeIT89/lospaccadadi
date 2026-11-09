@@ -1,5 +1,18 @@
 [
   {
+    "id": 50156,
+    "projectId": 11582,
+    "projectName": "Arkham Horror",
+    "projectCreator": "asmodee",
+    "projectSlug": "arkham-horror",
+    "title": "Endgame - 96 Hours Later - Greetings from Arkham Train Station",
+    "excerpt": "We've made it to the 96 hours mark. Will this runaway train never stop?",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/0c4f50c6-a3bf-4213-a5bf-357c6882dee8.png",
+    "publishedAt": "2026-11-09T01:00:00Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/91",
+    "sequenceNumber": 91
+  },
+  {
     "id": 50176,
     "projectId": 5386,
     "projectName": "This War of Mine: Second Edition",
@@ -11,19 +24,6 @@
     "publishedAt": "2026-11-08T21:06:56.257Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/this-war-of-mine-second-edition/updates/36",
     "sequenceNumber": 36
-  },
-  {
-    "id": 50140,
-    "projectId": 11582,
-    "projectName": "Arkham Horror",
-    "projectCreator": "asmodee",
-    "projectSlug": "arkham-horror",
-    "title": "Endgame - 90 Hours Later – The Zealot",
-    "excerpt": "Going for 4 days of Endgame and still burning bright!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/995d1f04-be09-4538-8034-82d02cfa1c96.png",
-    "publishedAt": "2026-11-08T19:00:00Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/90",
-    "sequenceNumber": 90
   },
   {
     "id": 50125,
