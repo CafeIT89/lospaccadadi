@@ -1,16 +1,68 @@
 [
   {
-    "id": 50156,
+    "id": 50203,
     "projectId": 11582,
     "projectName": "Arkham Horror",
     "projectCreator": "asmodee",
     "projectSlug": "arkham-horror",
-    "title": "Endgame - 96 Hours Later - Greetings from Arkham Train Station",
-    "excerpt": "We've made it to the 96 hours mark. Will this runaway train never stop?",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/0c4f50c6-a3bf-4213-a5bf-357c6882dee8.png",
-    "publishedAt": "2026-11-09T01:00:00Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/91",
-    "sequenceNumber": 91
+    "title": "Endgame - 114 Hours Later - Master of Pain",
+    "excerpt": "Onwards to 5 days!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/2b25707f-fab2-456d-8cac-cc655d90e6cf.png",
+    "publishedAt": "2026-11-09T19:00:00Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/94",
+    "sequenceNumber": 94
+  },
+  {
+    "id": 50097,
+    "projectId": 13201,
+    "projectName": "Avalon: The Riven Veil (2nd Printing)",
+    "projectCreator": "Shadowborne-Games",
+    "projectSlug": "avalon-the-riven-veil-2nd-printing",
+    "title": "Update #8 - Pledge Manager Opens Soon, Panda Lights the Forges, Component Improvements and Games 4 Good",
+    "excerpt": "The pledge manager opens within the next week (and what to do when it does), the first stage of manufacturing has begun with our partner Panda, a fix for the warping holofoil tiles and our 1% match-fund for Games 4 Good.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13201/69a1b552-58f5-48bd-af08-8d471948e00c.png",
+    "publishedAt": "2026-11-09T18:31:57.777Z",
+    "url": "https://gamefound.com/en/projects/shadowborne-games/avalon-the-riven-veil-2nd-printing/updates/8",
+    "sequenceNumber": 8
+  },
+  {
+    "id": 50218,
+    "projectId": 13244,
+    "projectName": "Blade Runner 2049",
+    "projectCreator": "wearecgs",
+    "projectSlug": "blade-runner-2049",
+    "title": "Blade Runner 2049: The Investigation Begins",
+    "excerpt": "Discover more about Blade Runner 2049: The Board Game, investigate an exclusive case using ESPER, shape the game's future.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13244/3b7896d3-d09c-49f9-a604-fe481a2fa7dd.png",
+    "publishedAt": "2026-11-09T17:41:08.703Z",
+    "url": "https://gamefound.com/en/projects/wearecgs/blade-runner-2049/updates/1",
+    "sequenceNumber": 1
+  },
+  {
+    "id": 50202,
+    "projectId": 10066,
+    "projectName": "Eldfall Chronicles: Apocrypha",
+    "projectCreator": "eldfall-chronicles",
+    "projectSlug": "eldfall-chronicles-apocrypha",
+    "title": "Apocrypha Launches Tomorrow!",
+    "excerpt": "The wait is almost over! In less than 24 hours, Eldfall Chronicles: Apocrypha goes live on Gamefound. Join us tomorrow as we begin our next great adventure!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/24f21d19-1b94-41a6-b82b-9859f048320c.jpg",
+    "publishedAt": "2026-11-09T16:00:00Z",
+    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/7",
+    "sequenceNumber": 7
+  },
+  {
+    "id": 50198,
+    "projectId": 11765,
+    "projectName": "Dungeon of Tanares",
+    "projectCreator": "dragori-games",
+    "projectSlug": "dungeon-of-tanares",
+    "title": "A Personal Thank You",
+    "excerpt": "You unlocked every reward. Here’s what comes next.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/a03ff864-f3b4-4257-a46f-e576d5bb7db6.jpeg",
+    "publishedAt": "2026-11-09T13:16:22.537Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/21",
+    "sequenceNumber": 21
   },
   {
     "id": 50176,
@@ -78,32 +130,6 @@
     "sequenceNumber": 28
   },
   {
-    "id": 50108,
-    "projectId": 10066,
-    "projectName": "Eldfall Chronicles: Apocrypha",
-    "projectCreator": "eldfall-chronicles",
-    "projectSlug": "eldfall-chronicles-apocrypha",
-    "title": "Adventurer's Guide to Pledges & 10,000 Followers Unlock",
-    "excerpt": "The day is almost here! Explore the pledge levels of Eldfall Chronicles: Apocrypha, find the one that's right for you, and celebrate 10,000 followers with the newly unlocked Guildsworn Witch miniature!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/869508ef-3f52-4f61-bb6c-0eb5fa389aa9.jpg",
-    "publishedAt": "2026-11-06T15:22:21.063Z",
-    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/6",
-    "sequenceNumber": 6
-  },
-  {
-    "id": 50109,
-    "projectId": 11765,
-    "projectName": "Dungeon of Tanares",
-    "projectCreator": "dragori-games",
-    "projectSlug": "dungeon-of-tanares",
-    "title": "The Lost Are Found. Now, Into the Sindile Forest",
-    "excerpt": "Hobgoblin, Worm, and Purple Witch Cauldron added to the game. Let’s continue the search.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/c9fd45a5-3f5c-48e6-a410-139409e57cce.jpeg",
-    "publishedAt": "2026-11-06T15:10:04.49Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/20",
-    "sequenceNumber": 20
-  },
-  {
     "id": 50105,
     "projectId": 8492,
     "projectName": "Heroes of Might and Magic III: Factory, Bulwark & Forge Expansions",
@@ -135,7 +161,7 @@
     "projectName": "Too Little Time",
     "projectCreator": "chip-theory-games",
     "projectSlug": "too-little-time",
-    "title": "Day 9: A (Ko)Bold Introduction",
+    "title": "Day 10: A (Ko)Bold Introduction",
     "excerpt": "We're, like, so done talking about those mats... Now for some character deep dives!",
     "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/bfad3de0-bc02-4e2c-ab3e-e7ab5ad3bd0e.png",
     "publishedAt": "2026-11-06T01:08:57.757Z",
@@ -375,19 +401,6 @@
     "publishedAt": "2026-10-29T16:51:40.187Z",
     "url": "https://gamefound.com/en/projects/papertigers/miskatonic-expeditions/updates/26",
     "sequenceNumber": 26
-  },
-  {
-    "id": 47992,
-    "projectId": 13201,
-    "projectName": "Avalon: The Riven Veil (2nd Printing)",
-    "projectCreator": "Shadowborne-Games",
-    "projectSlug": "avalon-the-riven-veil-2nd-printing",
-    "title": "UPDATE #7 -Thank You All, Now What's Next?",
-    "excerpt": "Thank you for what's past and looking to what's next.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13201/b97a46f7-8571-4e16-8982-570201ac210e.png",
-    "publishedAt": "2026-10-28T21:01:25.97Z",
-    "url": "https://gamefound.com/en/projects/shadowborne-games/avalon-the-riven-veil-2nd-printing/updates/7",
-    "sequenceNumber": 7
   },
   {
     "id": 48582,
