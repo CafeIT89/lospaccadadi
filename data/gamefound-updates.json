@@ -1,16 +1,42 @@
 [
   {
-    "id": 50207,
+    "id": 50277,
+    "projectId": 10031,
+    "projectName": "The Thing: The Boardgame & The Cardgame",
+    "projectCreator": "pendragon-game-studio-srl",
+    "projectSlug": "the-thing-the-boardgame--the-cardgame",
+    "title": "WE ARE FUNDED!",
+    "excerpt": "Addition of Brazilian Portuguese and increase in the number of Stretch Pay installments.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/3f770746-3884-4101-896e-4dabe9831a30.png",
+    "publishedAt": "2026-11-10T17:11:44.67Z",
+    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/4",
+    "sequenceNumber": 4
+  },
+  {
+    "id": 46607,
+    "projectId": 8094,
+    "projectName": "Bloodwork: The Reckoning",
+    "projectCreator": "i-demo-games",
+    "projectSlug": "bloodwork-the-reckoning",
+    "title": "Deep Dive #1 - Hallbjorn the Warrior",
+    "excerpt": "Hallbjorn begins with a hammer. Somehow he ends up wearing a wizard's hat and wielding a wand. Join us for our first Deep Dive as we explore his story, skills, subclasses, and outrageous build possibilities!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8094/677f25f6-f2fe-43c4-a22a-e7e409f521ce.jpg",
+    "publishedAt": "2026-11-10T14:46:06.8Z",
+    "url": "https://gamefound.com/en/projects/i-demo-games/bloodwork-the-reckoning/updates/53",
+    "sequenceNumber": 53
+  },
+  {
+    "id": 50001,
     "projectId": 11582,
     "projectName": "Arkham Horror",
     "projectCreator": "asmodee",
     "projectSlug": "arkham-horror",
-    "title": "Endgame - 120 Hours Later - Try the Pie at Velma's Diner",
-    "excerpt": "We've made it to the 120 hours mark. How about a midnight snack?",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/e1134316-d451-4671-a685-80ca5abcfbec.png",
-    "publishedAt": "2026-11-10T01:00:00Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/96",
-    "sequenceNumber": 96
+    "title": "The Curtain Falls on the Endgame",
+    "excerpt": "You have answered the call!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/1f7e3648-26bf-4e16-a5b3-63b5ac8eb37e.png",
+    "publishedAt": "2026-11-10T11:35:31.94Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/98",
+    "sequenceNumber": 98
   },
   {
     "id": 48130,
@@ -364,19 +390,6 @@
     "sequenceNumber": 26
   },
   {
-    "id": 49684,
-    "projectId": 10031,
-    "projectName": "The Thing: The Boardgame & The Cardgame",
-    "projectCreator": "pendragon-game-studio-srl",
-    "projectSlug": "the-thing-the-boardgame--the-cardgame",
-    "title": "A quick sneak peek at the Pledge Levels!",
-    "excerpt": "A preview of the campaign's Pledge Levels.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/0d3e400c-0dfe-47d8-b6d1-de13c626afc9.png",
-    "publishedAt": "2026-10-30T17:00:00Z",
-    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/3",
-    "sequenceNumber": 3
-  },
-  {
     "id": 48634,
     "projectId": 6025,
     "projectName": "Here to Slay DUNGEONS",
@@ -648,19 +661,6 @@
     "publishedAt": "2026-10-15T09:24:17.937Z",
     "url": "https://gamefound.com/en/projects/dark-gate-games/echoes-of-arkham/updates/39",
     "sequenceNumber": 39
-  },
-  {
-    "id": 46348,
-    "projectId": 8094,
-    "projectName": "Bloodwork: The Reckoning",
-    "projectCreator": "i-demo-games",
-    "projectSlug": "bloodwork-the-reckoning",
-    "title": "Bloodwork: The Artobering Update - Igor Strikes Again + A Surprise For Mercenaries",
-    "excerpt": "Proof submission wraps next weekend as we aim to collect the first copy. Igor’s upgraded deluxe art drops today with a free wallpaper. Tell us your top five artwork picks for our community run Guild Awards.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8094/066507dc-d9ea-44c7-a1dd-d03955985f08.jpg",
-    "publishedAt": "2026-10-09T14:17:44.97Z",
-    "url": "https://gamefound.com/en/projects/i-demo-games/bloodwork-the-reckoning/updates/52",
-    "sequenceNumber": 52
   },
   {
     "id": 46537,
