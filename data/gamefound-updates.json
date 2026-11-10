@@ -1,16 +1,29 @@
 [
   {
-    "id": 50203,
+    "id": 50207,
     "projectId": 11582,
     "projectName": "Arkham Horror",
     "projectCreator": "asmodee",
     "projectSlug": "arkham-horror",
-    "title": "Endgame - 114 Hours Later - Master of Pain",
-    "excerpt": "Onwards to 5 days!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/2b25707f-fab2-456d-8cac-cc655d90e6cf.png",
-    "publishedAt": "2026-11-09T19:00:00Z",
-    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/94",
-    "sequenceNumber": 94
+    "title": "Endgame - 120 Hours Later - Try the Pie at Velma's Diner",
+    "excerpt": "We've made it to the 120 hours mark. How about a midnight snack?",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11582/e1134316-d451-4671-a685-80ca5abcfbec.png",
+    "publishedAt": "2026-11-10T01:00:00Z",
+    "url": "https://gamefound.com/en/projects/asmodee/arkham-horror/updates/96",
+    "sequenceNumber": 96
+  },
+  {
+    "id": 48130,
+    "projectId": 12995,
+    "projectName": "Too Little Time",
+    "projectCreator": "chip-theory-games",
+    "projectSlug": "too-little-time",
+    "title": "Day 14: A Double Locale All The Way",
+    "excerpt": "Whoa, that's so intense...",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/8dc8d0aa-25fe-412a-8950-f4126fff2fc9.png",
+    "publishedAt": "2026-11-09T22:38:28.167Z",
+    "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/9",
+    "sequenceNumber": 9
   },
   {
     "id": 50097,
@@ -154,19 +167,6 @@
     "publishedAt": "2026-11-06T13:00:00Z",
     "url": "https://gamefound.com/en/projects/asmodee/dmd-forbidden-reaches/updates/100",
     "sequenceNumber": 100
-  },
-  {
-    "id": 48129,
-    "projectId": 12995,
-    "projectName": "Too Little Time",
-    "projectCreator": "chip-theory-games",
-    "projectSlug": "too-little-time",
-    "title": "Day 10: A (Ko)Bold Introduction",
-    "excerpt": "We're, like, so done talking about those mats... Now for some character deep dives!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/bfad3de0-bc02-4e2c-ab3e-e7ab5ad3bd0e.png",
-    "publishedAt": "2026-11-06T01:08:57.757Z",
-    "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/8",
-    "sequenceNumber": 8
   },
   {
     "id": 47991,
