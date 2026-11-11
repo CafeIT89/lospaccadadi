@@ -1,5 +1,44 @@
 [
   {
+    "id": 50294,
+    "projectId": 10066,
+    "projectName": "Eldfall Chronicles: Apocrypha",
+    "projectCreator": "eldfall-chronicles",
+    "projectSlug": "eldfall-chronicles-apocrypha",
+    "title": "Thank You, Adventurers!",
+    "excerpt": "What a start to the campaign! We're incredibly grateful to everyone who has joined us on this expedition so far. We have a few words of thanks and some exciting things to share!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/9e46ba59-e3fd-4a9d-8f1e-5323270db1a2.jpg",
+    "publishedAt": "2026-11-10T22:16:16.063Z",
+    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/8",
+    "sequenceNumber": 8
+  },
+  {
+    "id": 50290,
+    "projectId": 9823,
+    "projectName": "Fable Quest",
+    "projectCreator": "tabletop-tycoon",
+    "projectSlug": "fable-quest",
+    "title": "Reveal 4 Unlocked: Hero Save Boxes",
+    "excerpt": "When the fate of Arcadia rests in your hands...",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9823/e38b645d-a354-494f-8734-75538299428c.png",
+    "publishedAt": "2026-11-10T21:38:34.37Z",
+    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/12",
+    "sequenceNumber": 12
+  },
+  {
+    "id": 48139,
+    "projectId": 12995,
+    "projectName": "Too Little Time",
+    "projectCreator": "chip-theory-games",
+    "projectSlug": "too-little-time",
+    "title": "Day 15: Expanding Your (Character) Horizons",
+    "excerpt": "A riverboat gambler, a lich of unknown origins, and a kobold-gearloc duo!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/fd00e6cd-f607-4d39-b684-687e61f1b799.png",
+    "publishedAt": "2026-11-10T20:14:37.717Z",
+    "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/10",
+    "sequenceNumber": 10
+  },
+  {
     "id": 50277,
     "projectId": 10031,
     "projectName": "The Thing: The Boardgame & The Cardgame",
@@ -39,19 +78,6 @@
     "sequenceNumber": 98
   },
   {
-    "id": 48130,
-    "projectId": 12995,
-    "projectName": "Too Little Time",
-    "projectCreator": "chip-theory-games",
-    "projectSlug": "too-little-time",
-    "title": "Day 14: A Double Locale All The Way",
-    "excerpt": "Whoa, that's so intense...",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/8dc8d0aa-25fe-412a-8950-f4126fff2fc9.png",
-    "publishedAt": "2026-11-09T22:38:28.167Z",
-    "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/9",
-    "sequenceNumber": 9
-  },
-  {
     "id": 50097,
     "projectId": 13201,
     "projectName": "Avalon: The Riven Veil (2nd Printing)",
@@ -78,19 +104,6 @@
     "sequenceNumber": 1
   },
   {
-    "id": 50202,
-    "projectId": 10066,
-    "projectName": "Eldfall Chronicles: Apocrypha",
-    "projectCreator": "eldfall-chronicles",
-    "projectSlug": "eldfall-chronicles-apocrypha",
-    "title": "Apocrypha Launches Tomorrow!",
-    "excerpt": "The wait is almost over! In less than 24 hours, Eldfall Chronicles: Apocrypha goes live on Gamefound. Join us tomorrow as we begin our next great adventure!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/24f21d19-1b94-41a6-b82b-9859f048320c.jpg",
-    "publishedAt": "2026-11-09T16:00:00Z",
-    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/7",
-    "sequenceNumber": 7
-  },
-  {
     "id": 50198,
     "projectId": 11765,
     "projectName": "Dungeon of Tanares",
@@ -115,19 +128,6 @@
     "publishedAt": "2026-11-08T21:06:56.257Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/this-war-of-mine-second-edition/updates/36",
     "sequenceNumber": 36
-  },
-  {
-    "id": 50125,
-    "projectId": 9823,
-    "projectName": "Fable Quest",
-    "projectCreator": "tabletop-tycoon",
-    "projectSlug": "fable-quest",
-    "title": "Reveal 3 Unlocked! Creatures of Folklore Answer the Call!",
-    "excerpt": "Heroes and their companions have arrived at the Mushroom Taster’s Guild from ancient forests and jungles you’ve only seen in books.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9823/8c911039-d8f2-4b41-a0b2-1030a7b01f45.png",
-    "publishedAt": "2026-11-08T15:30:00Z",
-    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/10",
-    "sequenceNumber": 10
   },
   {
     "id": 50040,
