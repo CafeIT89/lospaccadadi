@@ -1,5 +1,18 @@
 [
   {
+    "id": 49661,
+    "projectId": 5586,
+    "projectName": "Terrorscape 2",
+    "projectCreator": "ice-makes",
+    "projectSlug": "terrorscape-2",
+    "title": "[IMPORTANT] Season 1 Batch Fulfillment Complete - Redeem Missing Package",
+    "excerpt": "Season 1 fulfillment is complete. Please report any delivery problems by 27 November 2026.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5586/28eed9a1-48b6-45d7-b1a1-e99f74848a53.png",
+    "publishedAt": "2026-11-11T09:22:09.92Z",
+    "url": "https://gamefound.com/en/projects/ice-makes/terrorscape-2/updates/61",
+    "sequenceNumber": 61
+  },
+  {
     "id": 50294,
     "projectId": 10066,
     "projectName": "Eldfall Chronicles: Apocrypha",
@@ -700,19 +713,6 @@
     "publishedAt": "2026-10-02T22:00:00Z",
     "url": "https://gamefound.com/en/projects/rebellionunplugged/dino-battle/updates/7",
     "sequenceNumber": 7
-  },
-  {
-    "id": 45273,
-    "projectId": 5586,
-    "projectName": "Terrorscape 2",
-    "projectCreator": "ice-makes",
-    "projectSlug": "terrorscape-2",
-    "title": "[IMPORTANT] Terrorscape 2 Address Lock Deadline - October 16, 2026",
-    "excerpt": "Final call to update your shipping address for Season 2 before October 16, 2026.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5586/7cf2fa54-6d2d-417d-a489-07b98564299d.jpg",
-    "publishedAt": "2026-10-02T11:03:55.837Z",
-    "url": "https://gamefound.com/en/projects/ice-makes/terrorscape-2/updates/60",
-    "sequenceNumber": 60
   },
   {
     "id": 44892,
