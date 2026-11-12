@@ -1,5 +1,18 @@
 [
   {
+    "id": 50232,
+    "projectId": 13247,
+    "projectName": "The Waste of Parts: Siren Signals",
+    "projectCreator": "skykingdomgames",
+    "projectSlug": "the-waste-of-parts-siren-signals",
+    "title": "The Signals are calling!",
+    "excerpt": "Campaign preview and what to expect!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13247/8c790159-0c6f-44ab-96de-91e54b6a3d43.png",
+    "publishedAt": "2026-11-12T04:52:57.94Z",
+    "url": "https://gamefound.com/en/projects/skykingdomgames/the-waste-of-parts-siren-signals/updates/2",
+    "sequenceNumber": 2
+  },
+  {
     "id": 50345,
     "projectId": 12995,
     "projectName": "Too Little Time",
@@ -336,19 +349,6 @@
     "publishedAt": "2026-11-02T21:22:45.367Z",
     "url": "https://gamefound.com/en/projects/devir/claustrophobia-1692/updates/24",
     "sequenceNumber": 24
-  },
-  {
-    "id": 49768,
-    "projectId": 13247,
-    "projectName": "The Waste of Parts: Siren Signals",
-    "projectCreator": "skykingdomgames",
-    "projectSlug": "the-waste-of-parts-siren-signals",
-    "title": "Incoming Transmission — File Corrupted",
-    "excerpt": "Cryptic Message Received",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13247/7fcf402a-0d57-4d31-9b26-a0dd10cb89d6.jpg",
-    "publishedAt": "2026-11-01T20:56:33.833Z",
-    "url": "https://gamefound.com/en/projects/skykingdomgames/the-waste-of-parts-siren-signals/updates/1",
-    "sequenceNumber": 1
   },
   {
     "id": 49758,
