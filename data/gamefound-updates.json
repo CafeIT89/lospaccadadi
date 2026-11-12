@@ -1,5 +1,70 @@
 [
   {
+    "id": 48127,
+    "projectId": 12995,
+    "projectName": "Too Little Time",
+    "projectCreator": "chip-theory-games",
+    "projectSlug": "too-little-time",
+    "title": "FINAL 24 HOURS - Spotlight on Relic Dice!",
+    "excerpt": "It's the end of time, and time to talk about the fancy Relic Dice!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/1cd0ad2c-69ac-4733-b054-9c536d6ada12.webp",
+    "publishedAt": "2026-11-12T22:29:57.863Z",
+    "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/12",
+    "sequenceNumber": 12
+  },
+  {
+    "id": 50409,
+    "projectId": 9823,
+    "projectName": "Fable Quest",
+    "projectCreator": "tabletop-tycoon",
+    "projectSlug": "fable-quest",
+    "title": "Reveal 5 Unlocked: Gregor",
+    "excerpt": "There are two wolves inside all of us, except Gregor. Gregor just has one, and he’s hangry.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9823/51436c23-2cea-43dc-a73c-a12387293955.png",
+    "publishedAt": "2026-11-12T20:29:49.947Z",
+    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/13",
+    "sequenceNumber": 13
+  },
+  {
+    "id": 40209,
+    "projectId": 9719,
+    "projectName": "The Lord of the Rings: Ascension",
+    "projectCreator": "stoneblade",
+    "projectSlug": "the-lord-of-the-rings-ascension",
+    "title": "Design Diary: The Lord of the Rings: The Two Towers™ - Ascension™ (Part 1)",
+    "excerpt": "Learn how The Lord of the Rings: The Two Towers - Ascension was designed.\nBy Sam Travis",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9719/4e5b3918-bdee-4cff-ae81-e15e179bf5b9.png",
+    "publishedAt": "2026-11-12T18:23:16.433Z",
+    "url": "https://gamefound.com/en/projects/stoneblade/the-lord-of-the-rings-ascension/updates/49",
+    "sequenceNumber": 49
+  },
+  {
+    "id": 50390,
+    "projectId": 10066,
+    "projectName": "Eldfall Chronicles: Apocrypha",
+    "projectCreator": "eldfall-chronicles",
+    "projectSlug": "eldfall-chronicles-apocrypha",
+    "title": "Day 2 Unlocks | True Solo",
+    "excerpt": "Solo Play fan or just love to customize? You've unlocked Additional Upgrade Cards, giving you even more ways to customize your Heroes!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/01a0a53c-79f2-4254-8b73-3cebe6ea0bca.png",
+    "publishedAt": "2026-11-12T16:48:17.14Z",
+    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/10",
+    "sequenceNumber": 10
+  },
+  {
+    "id": 50396,
+    "projectId": 10031,
+    "projectName": "The Thing: The Boardgame & The Cardgame",
+    "projectCreator": "pendragon-game-studio-srl",
+    "projectSlug": "the-thing-the-boardgame--the-cardgame",
+    "title": "Protect your cards from alien infection!",
+    "excerpt": "Adding card sleeves as a new Add-on.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/da533ef7-da49-409b-9b46-3ecede1042cc.png",
+    "publishedAt": "2026-11-12T15:35:31.887Z",
+    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/6",
+    "sequenceNumber": 6
+  },
+  {
     "id": 50232,
     "projectId": 13247,
     "projectName": "The Waste of Parts: Siren Signals",
@@ -11,32 +76,6 @@
     "publishedAt": "2026-11-12T04:52:57.94Z",
     "url": "https://gamefound.com/en/projects/skykingdomgames/the-waste-of-parts-siren-signals/updates/2",
     "sequenceNumber": 2
-  },
-  {
-    "id": 50345,
-    "projectId": 12995,
-    "projectName": "Too Little Time",
-    "projectCreator": "chip-theory-games",
-    "projectSlug": "too-little-time",
-    "title": "48 HOUR COUNTDOWN! Too Little Time Left!",
-    "excerpt": "And an announcement of our end game product!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/62743dec-110a-4a97-aada-7b1adb0e36a1.webp",
-    "publishedAt": "2026-11-11T22:22:27.8Z",
-    "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/11",
-    "sequenceNumber": 11
-  },
-  {
-    "id": 50341,
-    "projectId": 10066,
-    "projectName": "Eldfall Chronicles: Apocrypha",
-    "projectCreator": "eldfall-chronicles",
-    "projectSlug": "eldfall-chronicles-apocrypha",
-    "title": "24 HOURS IN: 14 STRETCH GOALS & 2 SPECIAL UNLOCKS!",
-    "excerpt": "Over €386,000 raised, 14 Stretch Goals, and 2 special unlocks! Take a closer look at all the new Heroes, miniatures, and exciting additions you've unlocked in just 24 hours!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/dd4cf5b7-f5e7-494b-ad6d-b10743694177.jpg",
-    "publishedAt": "2026-11-11T20:13:13.663Z",
-    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/9",
-    "sequenceNumber": 9
   },
   {
     "id": 50311,
@@ -52,19 +91,6 @@
     "sequenceNumber": 27
   },
   {
-    "id": 50325,
-    "projectId": 10031,
-    "projectName": "The Thing: The Boardgame & The Cardgame",
-    "projectCreator": "pendragon-game-studio-srl",
-    "projectSlug": "the-thing-the-boardgame--the-cardgame",
-    "title": "24 HOURS DOWN – THANK YOU FOR AN AMAZING START!",
-    "excerpt": "Several campaign updates following the first 24 hours.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/86a8335d-90b2-4cf5-8333-f1e2edcb567e.png",
-    "publishedAt": "2026-11-11T15:25:57.83Z",
-    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/5",
-    "sequenceNumber": 5
-  },
-  {
     "id": 49661,
     "projectId": 5586,
     "projectName": "Terrorscape 2",
@@ -76,19 +102,6 @@
     "publishedAt": "2026-11-11T09:22:09.92Z",
     "url": "https://gamefound.com/en/projects/ice-makes/terrorscape-2/updates/61",
     "sequenceNumber": 61
-  },
-  {
-    "id": 50290,
-    "projectId": 9823,
-    "projectName": "Fable Quest",
-    "projectCreator": "tabletop-tycoon",
-    "projectSlug": "fable-quest",
-    "title": "Reveal 4 Unlocked: Hero Save Boxes",
-    "excerpt": "When the fate of Arcadia rests in your hands...",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9823/e38b645d-a354-494f-8734-75538299428c.png",
-    "publishedAt": "2026-11-10T21:38:34.37Z",
-    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/12",
-    "sequenceNumber": 12
   },
   {
     "id": 46607,
@@ -232,19 +245,6 @@
     "publishedAt": "2026-11-06T13:00:00Z",
     "url": "https://gamefound.com/en/projects/asmodee/dmd-forbidden-reaches/updates/100",
     "sequenceNumber": 100
-  },
-  {
-    "id": 47991,
-    "projectId": 9719,
-    "projectName": "The Lord of the Rings: Ascension",
-    "projectCreator": "stoneblade",
-    "projectSlug": "the-lord-of-the-rings-ascension",
-    "title": "The Art of Dwarven Constructs in The Lord of the Rings™: Ascension™",
-    "excerpt": "Discover the art of the Dwarven Constructs, where each new piece strengthens your strategy and brings an intricate Dwarven forge to life.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9719/2f424563-cfc7-4208-b86d-aafcabebc7cb.png",
-    "publishedAt": "2026-11-05T17:00:00Z",
-    "url": "https://gamefound.com/en/projects/stoneblade/the-lord-of-the-rings-ascension/updates/48",
-    "sequenceNumber": 48
   },
   {
     "id": 50062,
