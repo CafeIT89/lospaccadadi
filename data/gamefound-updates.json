@@ -1,5 +1,70 @@
 [
   {
+    "id": 50453,
+    "projectId": 9823,
+    "projectName": "Fable Quest",
+    "projectCreator": "tabletop-tycoon",
+    "projectSlug": "fable-quest",
+    "title": "Designer Diary 3: The Heroes of Fable Quest",
+    "excerpt": "Lets talk character design and deck building!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9823/f3ea71b7-e13d-4f67-bc2d-52944c102bbe.png",
+    "publishedAt": "2026-11-13T18:01:13.677Z",
+    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/14",
+    "sequenceNumber": 14
+  },
+  {
+    "id": 50449,
+    "projectId": 10066,
+    "projectName": "Eldfall Chronicles: Apocrypha",
+    "projectCreator": "eldfall-chronicles",
+    "projectSlug": "eldfall-chronicles-apocrypha",
+    "title": "Day 3 Unlocks | Gameplay Basics: Activation Sequence",
+    "excerpt": "Discover how Actions and Reactions work in Apocrypha! We're taking a closer look at the Activation Sequence, unveiling new Stretch Goals, and celebrating our special Day 3 Unlock!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/df0e946a-a106-4495-8a1a-82593b97cc9d.jpg",
+    "publishedAt": "2026-11-13T17:59:50.517Z",
+    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/11",
+    "sequenceNumber": 11
+  },
+  {
+    "id": 50436,
+    "projectId": 8534,
+    "projectName": "Call of Cthulhu: Old Ones Origins",
+    "projectCreator": "chaosium",
+    "projectSlug": "call-of-cthulhu-old-ones-origins",
+    "title": "Yithian Archives: Record #30. Late Pledge opens soon! Photos of the prototype! What’s coming?",
+    "excerpt": "The Old Ones Origins Late Pledge is opening soon! Find out when you can join, take a closer look at our prototype components, and discover what's ahead as we continue developing the game with your feedback and support.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/bf324540-7cd4-42f8-9970-44ca1197e964.png",
+    "publishedAt": "2026-11-13T15:09:05.457Z",
+    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/30",
+    "sequenceNumber": 30
+  },
+  {
+    "id": 50416,
+    "projectId": 8203,
+    "projectName": "Dead Men Tales",
+    "projectCreator": "asmodee",
+    "projectSlug": "dead-men-tales",
+    "title": "Plastic Color Samples and Print Proofs!",
+    "excerpt": "The plastic color samples for Dead Men Tales have arrived! We've also received the Ozzy Osbourne Character Pack print proofs to boot!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8203/ae71eadc-ecf5-499f-85f6-619c31cb282e.png",
+    "publishedAt": "2026-11-13T14:05:09.387Z",
+    "url": "https://gamefound.com/en/projects/asmodee/dead-men-tales/updates/121",
+    "sequenceNumber": 121
+  },
+  {
+    "id": 50404,
+    "projectId": 10031,
+    "projectName": "The Thing: The Boardgame & The Cardgame",
+    "projectCreator": "pendragon-game-studio-srl",
+    "projectSlug": "the-thing-the-boardgame--the-cardgame",
+    "title": "A new language added!",
+    "excerpt": "A new language is now available for Language-Dependent products!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/3dbecad0-2103-417a-ab7d-2c266561bb23.png",
+    "publishedAt": "2026-11-13T11:00:00Z",
+    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/7",
+    "sequenceNumber": 7
+  },
+  {
     "id": 48127,
     "projectId": 12995,
     "projectName": "Too Little Time",
@@ -13,19 +78,6 @@
     "sequenceNumber": 12
   },
   {
-    "id": 50409,
-    "projectId": 9823,
-    "projectName": "Fable Quest",
-    "projectCreator": "tabletop-tycoon",
-    "projectSlug": "fable-quest",
-    "title": "Reveal 5 Unlocked: Gregor",
-    "excerpt": "There are two wolves inside all of us, except Gregor. Gregor just has one, and he’s hangry.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9823/51436c23-2cea-43dc-a73c-a12387293955.png",
-    "publishedAt": "2026-11-12T20:29:49.947Z",
-    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/13",
-    "sequenceNumber": 13
-  },
-  {
     "id": 40209,
     "projectId": 9719,
     "projectName": "The Lord of the Rings: Ascension",
@@ -37,32 +89,6 @@
     "publishedAt": "2026-11-12T18:23:16.433Z",
     "url": "https://gamefound.com/en/projects/stoneblade/the-lord-of-the-rings-ascension/updates/49",
     "sequenceNumber": 49
-  },
-  {
-    "id": 50390,
-    "projectId": 10066,
-    "projectName": "Eldfall Chronicles: Apocrypha",
-    "projectCreator": "eldfall-chronicles",
-    "projectSlug": "eldfall-chronicles-apocrypha",
-    "title": "Day 2 Unlocks | True Solo",
-    "excerpt": "Solo Play fan or just love to customize? You've unlocked Additional Upgrade Cards, giving you even more ways to customize your Heroes!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/01a0a53c-79f2-4254-8b73-3cebe6ea0bca.png",
-    "publishedAt": "2026-11-12T16:48:17.14Z",
-    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/10",
-    "sequenceNumber": 10
-  },
-  {
-    "id": 50396,
-    "projectId": 10031,
-    "projectName": "The Thing: The Boardgame & The Cardgame",
-    "projectCreator": "pendragon-game-studio-srl",
-    "projectSlug": "the-thing-the-boardgame--the-cardgame",
-    "title": "Protect your cards from alien infection!",
-    "excerpt": "Adding card sleeves as a new Add-on.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/da533ef7-da49-409b-9b46-3ecede1042cc.png",
-    "publishedAt": "2026-11-12T15:35:31.887Z",
-    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/6",
-    "sequenceNumber": 6
   },
   {
     "id": 50232,
@@ -468,19 +494,6 @@
     "sequenceNumber": 54
   },
   {
-    "id": 48488,
-    "projectId": 8534,
-    "projectName": "Call of Cthulhu: Old Ones Origins",
-    "projectCreator": "chaosium",
-    "projectSlug": "call-of-cthulhu-old-ones-origins",
-    "title": "Yithian Archives: Record #29. Highlights from SPIEL Essen!",
-    "excerpt": "Old Ones Origins made an appearance at SPIEL Essen! We’re back with plenty of feedback, new ideas, and ongoing improvements as development continues. Plus, we have a new miniature to show you and more news coming soon!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8534/e9598f65-be83-4a21-a54f-e6c8958cd2c9.png",
-    "publishedAt": "2026-10-27T16:17:31.127Z",
-    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/29",
-    "sequenceNumber": 29
-  },
-  {
     "id": 48431,
     "projectId": 5249,
     "projectName": "Machina Arcana: Vivarium",
@@ -505,19 +518,6 @@
     "publishedAt": "2026-10-24T19:00:34.353Z",
     "url": "https://gamefound.com/en/projects/ply-games/six-sided-summoner/updates/9",
     "sequenceNumber": 9
-  },
-  {
-    "id": 48366,
-    "projectId": 8203,
-    "projectName": "Dead Men Tales",
-    "projectCreator": "asmodee",
-    "projectSlug": "dead-men-tales",
-    "title": "Come Try Dead Men Tales at Spiel Essen 2026!",
-    "excerpt": "We're at Hall 5, Booth M600. Play a demo and receive an enamel pin!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8203/579d7c23-e975-4a02-ac94-12f7a8842ee1.png",
-    "publishedAt": "2026-10-23T16:46:33.64Z",
-    "url": "https://gamefound.com/en/projects/asmodee/dead-men-tales/updates/120",
-    "sequenceNumber": 120
   },
   {
     "id": 48300,
