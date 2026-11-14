@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-11-14T13:29:57.634Z",
+  "updatedAt": "2026-11-14T22:19:54.588Z",
   "projects": [
     {
       "name": "Satisfactory: The Board Game",
       "creator": "MOOD Publishing",
       "url": "https://gamefound.com/projects/mood-publishing/satisfactory-the-board-game",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11362/cbd459fe-aa2f-49a4-bb9a-57df2837b839.png",
-      "fundsGathered": 3514850.12,
+      "fundsGathered": 3532281.56,
       "currency": "EUR",
-      "backerCount": 13776,
-      "campaignEndDate": "2026-11-14T13:38:42.62Z"
+      "backerCount": 13837,
+      "campaignEndDate": "2026-11-14T22:29:16.87Z"
     },
     {
       "name": "Too Little Time",
       "creator": "Chip Theory Games",
       "url": "https://gamefound.com/projects/chip-theory-games/too-little-time",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/12995/ee2ff19d-cb0b-4d7c-abb6-b38c9473b713.png",
-      "fundsGathered": 2257182.87,
+      "fundsGathered": 2293301.59,
       "currency": "USD",
-      "backerCount": 6590,
-      "campaignEndDate": "2026-11-14T13:36:53.483Z"
+      "backerCount": 6698,
+      "campaignEndDate": "2026-11-14T22:29:20.79Z"
     },
     {
       "name": "Perilous Frontiers - Hand Painted Modular Terrain",
       "creator": "Dwarven Forge",
       "url": "https://gamefound.com/projects/dwarven-forge/perilous-frontiers",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8512/97917cca-81bb-4ed2-a8dd-640edbbd10a0.jpg",
-      "fundsGathered": 1527483.26,
+      "fundsGathered": 1528897.73,
       "currency": "USD",
-      "backerCount": 595,
+      "backerCount": 600,
       "campaignEndDate": "2026-11-19T00:00:00Z"
-    },
-    {
-      "name": "Terry Pratchett's Discworld RPG Adventures in Lancre and Überwald",
-      "creator": "MODIPHIUS ENTERTAINMENT",
-      "url": "https://gamefound.com/projects/modiphius/terry-pratchetts-discworld-rpg-adventures-in-lancre-and-uberwald",
-      "image": "https://imgcdn.gamefound.com/projectimage/projects/11677/63916977-03fa-451f-af47-fe0392b17a16.png",
-      "fundsGathered": 437692.53,
-      "currency": "GBP",
-      "backerCount": 2296,
-      "campaignEndDate": "2026-11-25T20:00:00Z"
     },
     {
       "name": "Eldfall Chronicles: Apocrypha",
       "creator": "Freecompany",
       "url": "https://gamefound.com/projects/eldfall-chronicles/eldfall-chronicles-apocrypha",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/10066/472c624c-7229-40e3-a019-49e7569fa665.jpg",
-      "fundsGathered": 437284.58,
+      "fundsGathered": 450923.6,
       "currency": "EUR",
-      "backerCount": 1211,
+      "backerCount": 1245,
       "campaignEndDate": "2026-11-24T21:00:00Z"
+    },
+    {
+      "name": "Terry Pratchett's Discworld RPG Adventures in Lancre and Überwald",
+      "creator": "MODIPHIUS ENTERTAINMENT",
+      "url": "https://gamefound.com/projects/modiphius/terry-pratchetts-discworld-rpg-adventures-in-lancre-and-uberwald",
+      "image": "https://imgcdn.gamefound.com/projectimage/projects/11677/63916977-03fa-451f-af47-fe0392b17a16.png",
+      "fundsGathered": 442830.3,
+      "currency": "GBP",
+      "backerCount": 2320,
+      "campaignEndDate": "2026-11-25T20:00:00Z"
     }
   ]
 }
