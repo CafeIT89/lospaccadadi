@@ -1,34 +1,34 @@
 {
-  "updatedAt": "2026-11-13T19:38:14.199Z",
+  "updatedAt": "2026-11-14T06:13:34.806Z",
   "projects": [
     {
       "name": "Satisfactory: The Board Game",
       "creator": "MOOD Publishing",
       "url": "https://gamefound.com/projects/mood-publishing/satisfactory-the-board-game",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11362/cbd459fe-aa2f-49a4-bb9a-57df2837b839.png",
-      "fundsGathered": 3485656.28,
+      "fundsGathered": 3503566.13,
       "currency": "EUR",
-      "backerCount": 13664,
-      "campaignEndDate": "2026-11-13T19:46:10.44Z"
+      "backerCount": 13737,
+      "campaignEndDate": "2026-11-14T06:16:55.573Z"
     },
     {
       "name": "Too Little Time",
       "creator": "Chip Theory Games",
       "url": "https://gamefound.com/projects/chip-theory-games/too-little-time",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/12995/ee2ff19d-cb0b-4d7c-abb6-b38c9473b713.png",
-      "fundsGathered": 2113364.81,
+      "fundsGathered": 2232476.07,
       "currency": "USD",
-      "backerCount": 6177,
-      "campaignEndDate": "2026-11-13T22:00:00Z"
+      "backerCount": 6524,
+      "campaignEndDate": "2026-11-14T06:22:14.537Z"
     },
     {
       "name": "Perilous Frontiers - Hand Painted Modular Terrain",
       "creator": "Dwarven Forge",
       "url": "https://gamefound.com/projects/dwarven-forge/perilous-frontiers",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8512/97917cca-81bb-4ed2-a8dd-640edbbd10a0.jpg",
-      "fundsGathered": 1475207.02,
+      "fundsGathered": 1525462.64,
       "currency": "USD",
-      "backerCount": 568,
+      "backerCount": 594,
       "campaignEndDate": "2026-11-19T00:00:00Z"
     },
     {
@@ -36,9 +36,9 @@
       "creator": "MODIPHIUS ENTERTAINMENT",
       "url": "https://gamefound.com/projects/modiphius/terry-pratchetts-discworld-rpg-adventures-in-lancre-and-uberwald",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11677/63916977-03fa-451f-af47-fe0392b17a16.png",
-      "fundsGathered": 432010.47,
+      "fundsGathered": 435899.15,
       "currency": "GBP",
-      "backerCount": 2261,
+      "backerCount": 2284,
       "campaignEndDate": "2026-11-25T20:00:00Z"
     },
     {
@@ -46,9 +46,9 @@
       "creator": "Freecompany",
       "url": "https://gamefound.com/projects/eldfall-chronicles/eldfall-chronicles-apocrypha",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/10066/472c624c-7229-40e3-a019-49e7569fa665.jpg",
-      "fundsGathered": 424749.04,
+      "fundsGathered": 431591.83,
       "currency": "EUR",
-      "backerCount": 1179,
+      "backerCount": 1197,
       "campaignEndDate": "2026-11-24T21:00:00Z"
     }
   ]

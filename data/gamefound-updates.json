@@ -1,5 +1,18 @@
 [
   {
+    "id": 50459,
+    "projectId": 12995,
+    "projectName": "Too Little Time",
+    "projectCreator": "chip-theory-games",
+    "projectSlug": "too-little-time",
+    "title": "END GAME BEGINS - The Ultimate Time Loop!",
+    "excerpt": "Grab your prototype art chip pack and Games 4 Good Pin to reset the clock!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/f14f52d8-e41b-474c-9ef9-cdfdf1c492de.webp",
+    "publishedAt": "2026-11-13T21:49:29.453Z",
+    "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/13",
+    "sequenceNumber": 13
+  },
+  {
     "id": 50453,
     "projectId": 9823,
     "projectName": "Fable Quest",
@@ -63,19 +76,6 @@
     "publishedAt": "2026-11-13T11:00:00Z",
     "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/7",
     "sequenceNumber": 7
-  },
-  {
-    "id": 48127,
-    "projectId": 12995,
-    "projectName": "Too Little Time",
-    "projectCreator": "chip-theory-games",
-    "projectSlug": "too-little-time",
-    "title": "FINAL 24 HOURS - Spotlight on Relic Dice!",
-    "excerpt": "It's the end of time, and time to talk about the fancy Relic Dice!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/12995/1cd0ad2c-69ac-4733-b054-9c536d6ada12.webp",
-    "publishedAt": "2026-11-12T22:29:57.863Z",
-    "url": "https://gamefound.com/en/projects/chip-theory-games/too-little-time/updates/12",
-    "sequenceNumber": 12
   },
   {
     "id": 40209,
