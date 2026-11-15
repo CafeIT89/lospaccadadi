@@ -1,5 +1,18 @@
 [
   {
+    "id": 50451,
+    "projectId": 10031,
+    "projectName": "The Thing: The Boardgame & The Cardgame",
+    "projectCreator": "pendragon-game-studio-srl",
+    "projectSlug": "the-thing-the-boardgame--the-cardgame",
+    "title": "Community Feedback: We Want to Hear From You!",
+    "excerpt": "Community Feedback Collection",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/f0bb3bc4-92dc-4c6f-8483-a0a52725de84.png",
+    "publishedAt": "2026-11-15T16:00:00Z",
+    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/9",
+    "sequenceNumber": 9
+  },
+  {
     "id": 50479,
     "projectId": 12995,
     "projectName": "Too Little Time",
@@ -24,19 +37,6 @@
     "publishedAt": "2026-11-14T16:30:00Z",
     "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/12",
     "sequenceNumber": 12
-  },
-  {
-    "id": 50448,
-    "projectId": 10031,
-    "projectName": "The Thing: The Boardgame & The Cardgame",
-    "projectCreator": "pendragon-game-studio-srl",
-    "projectSlug": "the-thing-the-boardgame--the-cardgame",
-    "title": "Campaign Page Updates & Improvements",
-    "excerpt": "Campaign Page updates",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/dcc34ee7-6df8-4353-911f-5966120e3e80.png",
-    "publishedAt": "2026-11-14T16:00:00Z",
-    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/8",
-    "sequenceNumber": 8
   },
   {
     "id": 50474,
