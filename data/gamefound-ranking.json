@@ -1,34 +1,24 @@
 {
-  "updatedAt": "2026-11-14T22:19:54.588Z",
+  "updatedAt": "2026-11-15T06:21:35.965Z",
   "projects": [
     {
       "name": "Satisfactory: The Board Game",
       "creator": "MOOD Publishing",
       "url": "https://gamefound.com/projects/mood-publishing/satisfactory-the-board-game",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11362/cbd459fe-aa2f-49a4-bb9a-57df2837b839.png",
-      "fundsGathered": 3532281.56,
+      "fundsGathered": 3542819.56,
       "currency": "EUR",
-      "backerCount": 13837,
-      "campaignEndDate": "2026-11-14T22:29:16.87Z"
-    },
-    {
-      "name": "Too Little Time",
-      "creator": "Chip Theory Games",
-      "url": "https://gamefound.com/projects/chip-theory-games/too-little-time",
-      "image": "https://imgcdn.gamefound.com/projectimage/projects/12995/ee2ff19d-cb0b-4d7c-abb6-b38c9473b713.png",
-      "fundsGathered": 2293301.59,
-      "currency": "USD",
-      "backerCount": 6698,
-      "campaignEndDate": "2026-11-14T22:29:20.79Z"
+      "backerCount": 13886,
+      "campaignEndDate": "2026-11-15T06:26:19.113Z"
     },
     {
       "name": "Perilous Frontiers - Hand Painted Modular Terrain",
       "creator": "Dwarven Forge",
       "url": "https://gamefound.com/projects/dwarven-forge/perilous-frontiers",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8512/97917cca-81bb-4ed2-a8dd-640edbbd10a0.jpg",
-      "fundsGathered": 1528897.73,
+      "fundsGathered": 1604819.85,
       "currency": "USD",
-      "backerCount": 600,
+      "backerCount": 613,
       "campaignEndDate": "2026-11-19T00:00:00Z"
     },
     {
@@ -36,9 +26,9 @@
       "creator": "Freecompany",
       "url": "https://gamefound.com/projects/eldfall-chronicles/eldfall-chronicles-apocrypha",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/10066/472c624c-7229-40e3-a019-49e7569fa665.jpg",
-      "fundsGathered": 450923.6,
+      "fundsGathered": 459855.5,
       "currency": "EUR",
-      "backerCount": 1245,
+      "backerCount": 1261,
       "campaignEndDate": "2026-11-24T21:00:00Z"
     },
     {
@@ -46,10 +36,20 @@
       "creator": "MODIPHIUS ENTERTAINMENT",
       "url": "https://gamefound.com/projects/modiphius/terry-pratchetts-discworld-rpg-adventures-in-lancre-and-uberwald",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11677/63916977-03fa-451f-af47-fe0392b17a16.png",
-      "fundsGathered": 442830.3,
+      "fundsGathered": 444984.45,
       "currency": "GBP",
-      "backerCount": 2320,
+      "backerCount": 2333,
       "campaignEndDate": "2026-11-25T20:00:00Z"
+    },
+    {
+      "name": "The Thing: The Boardgame & The Cardgame",
+      "creator": "Pendragon Game Studio srl",
+      "url": "https://gamefound.com/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame",
+      "image": "https://imgcdn.gamefound.com/projectimage/projects/10031/00e83c7d-4dee-4785-9868-4d78733e5347.jpg",
+      "fundsGathered": 383803.95,
+      "currency": "EUR",
+      "backerCount": 2789,
+      "campaignEndDate": "2026-12-01T16:00:00Z"
     }
   ]
 }
