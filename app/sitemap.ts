@@ -1,53 +1,63 @@
-import type { MetadataRoute } from "next";
 
-export default function sitemap(): MetadataRoute.Sitemap {
+import type { MetadataRoute } from "next";
+import { getArchivedTgLudicoSlugs } from "@/lib/tg-ludico-archive";
+
+export const dynamic = "force-dynamic";
+export const revalidate = 1800;
+
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = (
     process.env.NEXT_PUBLIC_SITE_URL ||
     "https://www.lospaccadadi.it"
   ).replace(/\/$/, "");
 
-  return [
+  const staticPages: MetadataRoute.Sitemap = [
     {
       url: baseUrl,
-      lastModified: new Date(),
       changeFrequency: "daily",
       priority: 1,
     },
     {
       url: `${baseUrl}/tg-ludico`,
-      lastModified: new Date(),
       changeFrequency: "hourly",
       priority: 0.9,
     },
     {
       url: `${baseUrl}/gamefound`,
-      lastModified: new Date(),
       changeFrequency: "daily",
       priority: 0.9,
     },
     {
       url: `${baseUrl}/settimanale`,
-      lastModified: new Date(),
       changeFrequency: "weekly",
       priority: 0.8,
     },
     {
       url: `${baseUrl}/recensioni`,
-      lastModified: new Date(),
       changeFrequency: "weekly",
       priority: 0.8,
     },
     {
       url: `${baseUrl}/chi-sono`,
-      lastModified: new Date(),
       changeFrequency: "monthly",
       priority: 0.5,
     },
     {
-  url: `${baseUrl}/schede-regole`,
-  lastModified: new Date(),
-  changeFrequency: "monthly",
-  priority: 0.8,
-},
+      url: `${baseUrl}/schede-regole`,
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
   ];
+
+  const slugs = await getArchivedTgLudicoSlugs();
+
+  const articlePages: MetadataRoute.Sitemap = slugs.map(
+    (slug) => ({
+      url: `${baseUrl}/tg-ludico/notizia/${slug}`,
+      changeFrequency: "weekly",
+      priority: 0.7,
+    })
+  );
+
+  return [...staticPages, ...articlePages];
 }
