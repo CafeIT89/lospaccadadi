@@ -1,3 +1,4 @@
+
 "use client";
 
 import { useState } from "react";
@@ -11,16 +12,20 @@ export default function Navbar() {
   const links = [
     { href: "/tg-ludico", label: "TG Ludico" },
     { href: "/settimanale", label: "Il Settimanale" },
-    { href: "/gamefound", label: "Gamefound Updates" },
+    { href: "/gamefound", label: "Aggiornamenti Gamefound" },
+    { href: "/kickstarter", label: "Aggiornamenti Kickstarter" },
     { href: "/recensioni", label: "Recensioni" },
     { href: "/file-utili", label: "File Utili" },
   ];
 
   const mobileLinks = [
-  ...links,
-  { href: "/che-cosa-giochiamo", label: "Che cosa giochiamo?" },
-  { href: "/gamefound/piu-finanziati", label: "Gamefound - Più finanziati" },
-];
+    ...links,
+    { href: "/che-cosa-giochiamo", label: "Che cosa giochiamo?" },
+    {
+      href: "/gamefound/piu-finanziati",
+      label: "Gamefound - Più finanziati",
+    },
+  ];
 
   return (
     <header className="sticky top-0 z-50 border-b border-brand-border bg-background/90 backdrop-blur">
@@ -36,12 +41,12 @@ export default function Navbar() {
           />
         </Link>
 
-<nav className="hidden items-center gap-8 xl:flex">
-            {links.map((link) => (
+        <nav className="hidden items-center gap-6 xl:flex">
+          {links.map((link) => (
             <Link
-              key={link.label}
+              key={link.href}
               href={link.href}
-              className="transition hover:text-primary"
+              className="whitespace-nowrap text-sm transition hover:text-primary"
             >
               {link.label}
             </Link>
@@ -64,7 +69,7 @@ export default function Navbar() {
           <div className="flex flex-col p-6">
             {mobileLinks.map((link) => (
               <Link
-                key={link.label}
+                key={link.href}
                 href={link.href}
                 onClick={() => setOpen(false)}
                 className="py-3 transition hover:text-primary"

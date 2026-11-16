@@ -1,5 +1,7 @@
+
 import Hero from "@/components/Hero";
 import { GamefoundUpdatesSection } from "@/components/gamefound/GamefoundUpdatesSection";
+import { KickstarterUpdatesSection } from "@/components/kickstarter/KickstarterUpdatesSection";
 import { GamefoundRankingSidebar } from "@/components/gamefound/GamefoundRankingSidebar";
 import TgLudicoSidebar from "@/components/TgLudicoSidebar";
 import CheCosaGiochiamoSidebar from "@/components/CheCosaGiochiamoSidebar";
@@ -29,27 +31,34 @@ export default function Home() {
         <div className="grid items-start gap-8 xl:grid-cols-[280px_minmax(0,1fr)_280px]">
 
           {/* SIDEBAR SINISTRA */}
-        <div className="order-2 hidden space-y-6 py-8 xl:order-1 xl:block">
-  <TgLudicoSidebar />
-  <CheCosaGiochiamoSidebar />
-</div>
+          <div className="order-2 hidden space-y-6 py-8 xl:order-1 xl:block">
+            <TgLudicoSidebar />
+            <CheCosaGiochiamoSidebar />
+          </div>
 
-<div className="order-1 min-w-0 xl:order-2">
-  <Hero />
-  <GamefoundUpdatesSection />
-  <CrowdfundingRadar />
-  <Settimanale />
+          {/* CONTENUTO CENTRALE */}
+          <div className="order-1 min-w-0 xl:order-2">
+            <Hero />
 
-  <div className="px-4 py-8 sm:px-6 xl:hidden">
-    <TgLudicoSidebar />
-  </div>
+            <GamefoundUpdatesSection />
 
-  <Recensioni />
-</div>
+            <KickstarterUpdatesSection />
 
-<div className="order-3 hidden py-8 xl:block">
-  <GamefoundRankingSidebar />
-</div>
+            <CrowdfundingRadar />
+
+            <Settimanale />
+
+            <div className="px-4 py-8 sm:px-6 xl:hidden">
+              <TgLudicoSidebar />
+            </div>
+
+            <Recensioni />
+          </div>
+
+          {/* SIDEBAR DESTRA */}
+          <div className="order-3 hidden py-8 xl:block">
+            <GamefoundRankingSidebar />
+          </div>
 
         </div>
       </div>

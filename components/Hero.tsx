@@ -1,6 +1,7 @@
 
 import Image from "next/image";
-import { Play } from "lucide-react";
+import Link from "next/link";
+import { ArrowUpRight, Play } from "lucide-react";
 
 import { getCachedLatestYouTubeVideo } from "@/lib/youtube-service";
 import { after } from "next/server";
@@ -32,7 +33,8 @@ export default async function Hero() {
           </p>
         </div>
 
-        <div className="relative flex min-w-0 justify-center @min-[1100px]:justify-end">
+        {/* VIDEO E PULSANTI */}
+        <div className="relative flex min-w-0 flex-col items-center gap-5 @min-[1100px]:items-end">
           <div className="pointer-events-none absolute h-64 w-64 rounded-full bg-primary/20 blur-3xl @min-[600px]:h-80 @min-[600px]:w-80" />
 
           {latestVideo ? (
@@ -84,6 +86,39 @@ export default async function Hero() {
               </p>
             </div>
           )}
+
+          {/* PULSANTI AGGIORNAMENTI */}
+          <div className="relative grid w-full max-w-xl grid-cols-1 gap-3 @min-[500px]:grid-cols-2">
+            <Link
+              href="/gamefound"
+              className="group flex min-h-16 items-center justify-between gap-3 rounded-xl bg-[#FEEC00] px-4 py-3 text-black transition duration-300 hover:-translate-y-1 hover:bg-white"
+            >
+              <span className="text-sm font-bold leading-snug">
+                Leggi gli aggiornamenti Gamefound
+              </span>
+
+              <ArrowUpRight
+                size={22}
+                className="shrink-0 transition group-hover:translate-x-1 group-hover:-translate-y-1"
+                aria-hidden="true"
+              />
+            </Link>
+
+            <Link
+              href="/kickstarter"
+              className="group flex min-h-16 items-center justify-between gap-3 rounded-xl border border-[#FEEC00] bg-[#111111] px-4 py-3 text-[#FEEC00] transition duration-300 hover:-translate-y-1 hover:bg-[#FEEC00] hover:text-black"
+            >
+              <span className="text-sm font-bold leading-snug">
+                Leggi gli aggiornamenti Kickstarter
+              </span>
+
+              <ArrowUpRight
+                size={22}
+                className="shrink-0 transition group-hover:translate-x-1 group-hover:-translate-y-1"
+                aria-hidden="true"
+              />
+            </Link>
+          </div>
         </div>
       </div>
     </section>
