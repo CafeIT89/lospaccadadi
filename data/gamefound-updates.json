@@ -1,5 +1,83 @@
 [
   {
+    "id": 50535,
+    "projectId": 9823,
+    "projectName": "Fable Quest",
+    "projectCreator": "tabletop-tycoon",
+    "projectSlug": "fable-quest",
+    "title": "The Adventure Goes Both Ways! Fable Quest Crossover Cards Revealed!",
+    "excerpt": "This is it, Heroes! The final reveal of the campaign, and it's one many of you have been asking for!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9823/ba67be99-368b-4aea-b34b-3bbf9f9fdf7e.png",
+    "publishedAt": "2026-11-16T19:50:36.657Z",
+    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/16",
+    "sequenceNumber": 16
+  },
+  {
+    "id": 50460,
+    "projectId": 6025,
+    "projectName": "Here to Slay DUNGEONS",
+    "projectCreator": "unstable-games",
+    "projectSlug": "here-to-slay-dungeons",
+    "title": "The Party Leader Box looks epic 🤩 (+ Scenario Stream and Timeline)",
+    "excerpt": "Fulfillment begins in a couple of months! Learn more about the road ahead, get a preview of the Party Leader Box, and mark your calendar for our next live Scenario playthrough stream.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6025/612e7f5a-2364-46bb-b842-9d61cdcac97c.png",
+    "publishedAt": "2026-11-16T18:05:17.043Z",
+    "url": "https://gamefound.com/en/projects/unstable-games/here-to-slay-dungeons/updates/47",
+    "sequenceNumber": 47
+  },
+  {
+    "id": 50529,
+    "projectId": 10066,
+    "projectName": "Eldfall Chronicles: Apocrypha",
+    "projectCreator": "eldfall-chronicles",
+    "projectSlug": "eldfall-chronicles-apocrypha",
+    "title": "Exploring the Sealed Archives | Location Quests",
+    "excerpt": "What secrets lie within the Grand Library? Today, we're exploring the mysterious setting of Apocrypha and taking a closer look at Location Quests, where Sites, Challenges, and Side Quests combine to create new adventures with every playthrough!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/6da3a7a8-53f4-4f74-9274-f79dde66fc91.jpg",
+    "publishedAt": "2026-11-16T16:35:48.113Z",
+    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/13",
+    "sequenceNumber": 13
+  },
+  {
+    "id": 50513,
+    "projectId": 10031,
+    "projectName": "The Thing: The Boardgame & The Cardgame",
+    "projectCreator": "pendragon-game-studio-srl",
+    "projectSlug": "the-thing-the-boardgame--the-cardgame",
+    "title": "The Rulebook Draft for The Thing: The Cardgame is now available!",
+    "excerpt": "The Cardgame Rulebook Draft is now available for free download on Pendragon website.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/0c0b566f-5e30-48e6-b666-bbd4de16dfa2.png",
+    "publishedAt": "2026-11-16T16:12:57.103Z",
+    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/10",
+    "sequenceNumber": 10
+  },
+  {
+    "id": 50512,
+    "projectId": 5386,
+    "projectName": "This War of Mine: Second Edition",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "this-war-of-mine-second-edition",
+    "title": "English edition's SHIPPING UPDATE #4",
+    "excerpt": "Check out today's fulfillment progress report for the English edition!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5386/10d9f4d6-61bc-4fea-bfec-cdaf5e9056d6.jpg",
+    "publishedAt": "2026-11-16T15:55:57.217Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/this-war-of-mine-second-edition/updates/37",
+    "sequenceNumber": 37
+  },
+  {
+    "id": 50419,
+    "projectId": 13003,
+    "projectName": "Infestia",
+    "projectCreator": "greenstuffworld",
+    "projectSlug": "infestia",
+    "title": "Explore the Game Board & Terrain + German Edition Update!",
+    "excerpt": "We've updated the INFESTIA campaign page with new details on the modular game board and tactical terrain elements! Plus, a quick update on our ongoing efforts to bring the game to German-speaking backers.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13003/f002cc0c-8067-4ac6-b9c0-e70387e7a0b8.jpg",
+    "publishedAt": "2026-11-16T11:12:40.943Z",
+    "url": "https://gamefound.com/en/projects/greenstuffworld/infestia/updates/2",
+    "sequenceNumber": 2
+  },
+  {
     "id": 50499,
     "projectId": 8534,
     "projectName": "Call of Cthulhu: Old Ones Origins",
@@ -11,19 +89,6 @@
     "publishedAt": "2026-11-15T21:06:04.32Z",
     "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/31",
     "sequenceNumber": 31
-  },
-  {
-    "id": 50451,
-    "projectId": 10031,
-    "projectName": "The Thing: The Boardgame & The Cardgame",
-    "projectCreator": "pendragon-game-studio-srl",
-    "projectSlug": "the-thing-the-boardgame--the-cardgame",
-    "title": "Community Feedback: We Want to Hear From You!",
-    "excerpt": "Community Feedback Collection",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/f0bb3bc4-92dc-4c6f-8483-a0a52725de84.png",
-    "publishedAt": "2026-11-15T16:00:00Z",
-    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/9",
-    "sequenceNumber": 9
   },
   {
     "id": 50479,
@@ -39,30 +104,17 @@
     "sequenceNumber": 14
   },
   {
-    "id": 50473,
-    "projectId": 10066,
-    "projectName": "Eldfall Chronicles: Apocrypha",
-    "projectCreator": "eldfall-chronicles",
-    "projectSlug": "eldfall-chronicles-apocrypha",
-    "title": "A New Amazon Joins the Expedition! | Gameplay Basics: Combat",
-    "excerpt": "A new Amazon joins the expedition! Meet the Amazon Gladiatrix, now available as an Add-on, and discover how Combat, Confrontations, and Weak Points work in Apocrypha!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/1c78c1fd-bf9e-49a6-a9f7-22102a111db0.jpg",
-    "publishedAt": "2026-11-14T16:30:00Z",
-    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/12",
-    "sequenceNumber": 12
-  },
-  {
-    "id": 50474,
-    "projectId": 9823,
-    "projectName": "Fable Quest",
-    "projectCreator": "tabletop-tycoon",
-    "projectSlug": "fable-quest",
-    "title": "Reveal 6 Unlocked: The Dark Sorceress",
-    "excerpt": "There are many boss encounters in Fable Quest, but one stands among the rest as the absolute spookiest.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9823/af44ee06-e0eb-46f0-999c-82730ede9d44.png",
-    "publishedAt": "2026-11-14T13:54:42.373Z",
-    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/15",
-    "sequenceNumber": 15
+    "id": 50375,
+    "projectId": 6398,
+    "projectName": "Feed the Kraken: Sea of Shadows",
+    "projectCreator": "funtails-gmbh",
+    "projectSlug": "feed-the-kraken-sea-of-shadows",
+    "title": "Pledge Improvements",
+    "excerpt": "New single items available - and a free upgrade!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6398/5935bc6a-5974-4ca7-840f-87a8233a670d.png",
+    "publishedAt": "2026-11-13T14:18:28.3Z",
+    "url": "https://gamefound.com/en/projects/funtails-gmbh/feed-the-kraken-sea-of-shadows/updates/8",
+    "sequenceNumber": 8
   },
   {
     "id": 50416,
@@ -195,17 +247,17 @@
     "sequenceNumber": 21
   },
   {
-    "id": 50176,
-    "projectId": 5386,
-    "projectName": "This War of Mine: Second Edition",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "this-war-of-mine-second-edition",
-    "title": "English edition's SHIPPING UPDATE #3 | LANG editions NEWS",
-    "excerpt": "Check out the latest news on the ongoing fulfillment of the English edition. Also, learn more about the recent localization progress!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5386/a23d3d18-dc4a-416a-8b29-061494039b7b.jpg",
-    "publishedAt": "2026-11-08T21:06:56.257Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/this-war-of-mine-second-edition/updates/36",
-    "sequenceNumber": 36
+    "id": 50190,
+    "projectId": 13309,
+    "projectName": "Biozero: Tokyo",
+    "projectCreator": "giza-games",
+    "projectSlug": "biozero-tokyo",
+    "title": "New Launch Date for Biozero: Tokyo!",
+    "excerpt": "Here are a few things we'd love to share with you before the launch!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13309/73253021-6da3-42bc-a3b3-42fa5584f623.jpg",
+    "publishedAt": "2026-11-09T11:33:29.5Z",
+    "url": "https://gamefound.com/en/projects/giza-games/biozero-tokyo/updates/1",
+    "sequenceNumber": 1
   },
   {
     "id": 50040,
@@ -338,6 +390,19 @@
     "sequenceNumber": 29
   },
   {
+    "id": 49882,
+    "projectId": 11336,
+    "projectName": "Incarnation",
+    "projectCreator": "monolith-board-games-sarl",
+    "projectSlug": "incarnation",
+    "title": "15,000 Followers, 6 Heralds & 1 Nightmare from Dirz!",
+    "excerpt": "Our biggest Follower Gift yet, six factions ready for battle, news from Festival en Jeux, and a deeper look into the world of Aarklash.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11336/d59125ab-1a62-49e5-b1f3-12d43f505259.png",
+    "publishedAt": "2026-11-04T15:54:33.727Z",
+    "url": "https://gamefound.com/en/projects/monolith-board-games-sarl/incarnation/updates/6",
+    "sequenceNumber": 6
+  },
+  {
     "id": 49934,
     "projectId": 11418,
     "projectName": "Aberration: Oblivion's Embrace",
@@ -442,17 +507,17 @@
     "sequenceNumber": 26
   },
   {
-    "id": 48634,
-    "projectId": 6025,
-    "projectName": "Here to Slay DUNGEONS",
-    "projectCreator": "unstable-games",
-    "projectSlug": "here-to-slay-dungeons",
-    "title": "Dice Tower Update 🎲",
-    "excerpt": "To all backers who had a Dice Tower included in their pledge!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6025/afad995a-2601-4fe5-bb45-fe8537413803.png",
-    "publishedAt": "2026-10-29T21:45:31.817Z",
-    "url": "https://gamefound.com/en/projects/unstable-games/here-to-slay-dungeons/updates/46",
-    "sequenceNumber": 46
+    "id": 48626,
+    "projectId": 8199,
+    "projectName": "Dust in the Wind",
+    "projectCreator": "phalanx",
+    "projectSlug": "dust-in-the-wind",
+    "title": "Campaign Launch Date and News from SPIEL Essen!",
+    "excerpt": "Our crowdfunding campaign is planned for November 17! Discover the enthusiastic reception at SPIEL Essen and watch the first prototype unboxing video.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8199/9de5b479-10c8-4ab5-b09f-4940f74eb241.png",
+    "publishedAt": "2026-10-29T15:06:11.653Z",
+    "url": "https://gamefound.com/en/projects/phalanx/dust-in-the-wind/updates/1",
+    "sequenceNumber": 1
   },
   {
     "id": 48582,
@@ -778,5 +843,18 @@
     "publishedAt": "2026-09-01T21:50:02.677Z",
     "url": "https://gamefound.com/en/projects/chip-theory-games/20-strong-awaken-realms-nemesis/updates/17",
     "sequenceNumber": 17
+  },
+  {
+    "id": 40332,
+    "projectId": 8595,
+    "projectName": "Batman: Gotham City Chronicles - Season 4",
+    "projectCreator": "monolith-board-games-sarl",
+    "projectSlug": "batman-gotham-city-chronicles---season-4",
+    "title": "THE STORAGE BOX CHALLENGE!",
+    "excerpt": "In short: Over 2,000 Gothamites shared their thoughts on our Storage Box survey. Here's what we learned, why Kallax presents a challenge, and why we're leaning toward one Storage Box per Season. What do you think?",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8595/7e38b20b-a874-4c1f-830c-5f67babac1c0.jpg",
+    "publishedAt": "2026-07-22T14:07:51.573Z",
+    "url": "https://gamefound.com/en/projects/monolith-board-games-sarl/batman-gotham-city-chronicles---season-4/updates/8",
+    "sequenceNumber": 8
   }
 ]

@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-11-16T06:20:39.564Z",
+  "updatedAt": "2026-11-16T21:59:15.606Z",
   "projects": [
     {
       "name": "Satisfactory: The Board Game",
       "creator": "MOOD Publishing",
       "url": "https://gamefound.com/projects/mood-publishing/satisfactory-the-board-game",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11362/cbd459fe-aa2f-49a4-bb9a-57df2837b839.png",
-      "fundsGathered": 3615418.89,
+      "fundsGathered": 3606876.68,
       "currency": "EUR",
-      "backerCount": 14071,
-      "campaignEndDate": "2026-11-16T06:24:06.12Z"
+      "backerCount": 14158,
+      "campaignEndDate": "2026-11-16T22:05:21.26Z"
     },
     {
       "name": "Perilous Frontiers - Hand Painted Modular Terrain",
       "creator": "Dwarven Forge",
       "url": "https://gamefound.com/projects/dwarven-forge/perilous-frontiers",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8512/97917cca-81bb-4ed2-a8dd-640edbbd10a0.jpg",
-      "fundsGathered": 1716731.33,
+      "fundsGathered": 1787959.98,
       "currency": "USD",
-      "backerCount": 657,
+      "backerCount": 685,
       "campaignEndDate": "2026-11-19T00:00:00Z"
     },
     {
@@ -26,9 +26,9 @@
       "creator": "Freecompany",
       "url": "https://gamefound.com/projects/eldfall-chronicles/eldfall-chronicles-apocrypha",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/10066/472c624c-7229-40e3-a019-49e7569fa665.jpg",
-      "fundsGathered": 476115.51,
+      "fundsGathered": 487591.3,
       "currency": "EUR",
-      "backerCount": 1293,
+      "backerCount": 1321,
       "campaignEndDate": "2026-11-24T21:00:00Z"
     },
     {
@@ -36,20 +36,20 @@
       "creator": "MODIPHIUS ENTERTAINMENT",
       "url": "https://gamefound.com/projects/modiphius/terry-pratchetts-discworld-rpg-adventures-in-lancre-and-uberwald",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11677/63916977-03fa-451f-af47-fe0392b17a16.png",
-      "fundsGathered": 450938.83,
+      "fundsGathered": 456682.62,
       "currency": "GBP",
-      "backerCount": 2369,
+      "backerCount": 2397,
       "campaignEndDate": "2026-11-25T20:00:00Z"
     },
     {
-      "name": "The Thing: The Boardgame & The Cardgame",
-      "creator": "Pendragon Game Studio srl",
-      "url": "https://gamefound.com/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame",
-      "image": "https://imgcdn.gamefound.com/projectimage/projects/10031/00e83c7d-4dee-4785-9868-4d78733e5347.jpg",
-      "fundsGathered": 396889.77,
+      "name": "Marco Polo Deluxe Master Set",
+      "creator": "Board&Dice",
+      "url": "https://gamefound.com/projects/board-and-dice/marco-polo-deluxe-master-set",
+      "image": "https://imgcdn.gamefound.com/projectimage/projects/8165/7e1de4c8-ab5f-4784-aaeb-a533bf194393.png",
+      "fundsGathered": 407844.03,
       "currency": "EUR",
-      "backerCount": 2889,
-      "campaignEndDate": "2026-12-01T16:00:00Z"
+      "backerCount": 2541,
+      "campaignEndDate": "2026-11-26T20:30:00Z"
     }
   ]
 }
