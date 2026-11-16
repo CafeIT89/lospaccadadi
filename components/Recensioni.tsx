@@ -1,3 +1,4 @@
+
 import Image from "next/image";
 import Link from "next/link";
 
@@ -8,15 +9,15 @@ export default async function Recensioni() {
   const latestVideos = videos.slice(0, 4);
 
   return (
-    <section className="border-t border-brand-border bg-background">
-      <div className="mx-auto max-w-7xl px-6 py-20 lg:px-8">
-        <div className="flex flex-col gap-6 md:flex-row md:items-end md:justify-between">
-          <div>
+    <section className="@container min-w-0 border-t border-brand-border bg-background">
+      <div className="mx-auto max-w-7xl px-5 py-16 sm:px-6 @min-[900px]:px-8 @min-[900px]:py-20">
+        <div className="flex min-w-0 flex-col gap-6 @min-[700px]:flex-row @min-[700px]:items-end @min-[700px]:justify-between">
+          <div className="min-w-0">
             <p className="text-sm font-bold uppercase tracking-[0.2em] text-primary">
               I giochi sotto la lente
             </p>
 
-            <h2 className="mt-4 font-heading text-4xl uppercase md:text-6xl">
+            <h2 className="mt-4 font-heading text-4xl uppercase @min-[900px]:text-6xl">
               Recensioni
             </h2>
 
@@ -27,7 +28,7 @@ export default async function Recensioni() {
 
           <Link
             href="/recensioni"
-            className="inline-flex w-fit rounded-xl bg-primary px-6 py-3 font-bold text-black transition hover:bg-primary-hover"
+            className="inline-flex w-fit shrink-0 rounded-xl bg-primary px-6 py-3 font-bold text-black transition hover:bg-primary-hover"
           >
             Guarda tutte le recensioni
           </Link>
@@ -38,14 +39,14 @@ export default async function Recensioni() {
             Le recensioni non sono momentaneamente disponibili.
           </p>
         ) : (
-          <div className="mt-12 grid gap-6 sm:grid-cols-2 xl:grid-cols-4">
+          <div className="mt-12 grid min-w-0 grid-cols-1 gap-6 @min-[500px]:grid-cols-2 @min-[1100px]:grid-cols-4">
             {latestVideos.map((video) => (
               <a
                 key={video.videoId}
                 href={video.url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="group overflow-hidden rounded-3xl border border-brand-border bg-surface transition duration-300 hover:-translate-y-1 hover:border-primary"
+                className="group min-w-0 overflow-hidden rounded-3xl border border-brand-border bg-surface transition duration-300 hover:-translate-y-1 hover:border-primary"
               >
                 <div className="relative aspect-video overflow-hidden bg-black">
                   <Image

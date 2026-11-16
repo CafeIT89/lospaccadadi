@@ -1,3 +1,4 @@
+
 import { getGamefoundProjects } from "@/lib/gamefound";
 import {
   getCachedKickstarterProjects,
@@ -20,11 +21,9 @@ type CampaignCardProps = {
   campaign: CrowdfundingCampaign;
 };
 
-function CampaignCard({
-  campaign,
-}: CampaignCardProps) {
+function CampaignCard({ campaign }: CampaignCardProps) {
   return (
-    <article className="group flex h-full flex-col overflow-hidden rounded-3xl border border-brand-border bg-background transition hover:-translate-y-1 hover:border-primary">
+    <article className="group flex h-full min-w-0 flex-col overflow-hidden rounded-3xl border border-brand-border bg-background transition hover:-translate-y-1 hover:border-primary">
       <a
         href={campaign.url}
         target="_blank"
@@ -33,17 +32,17 @@ function CampaignCard({
       >
         {campaign.image ? (
           <img
-  src={campaign.image}
-  alt={campaign.title}
-  width={1200}
-  height={675}
-  loading="lazy"
-  className={`aspect-video w-full object-cover transition duration-300 group-hover:scale-105 ${
-    campaign.platform === "Kickstarter"
-      ? "brightness-110 contrast-105"
-      : ""
-  }`}
-/>
+            src={campaign.image}
+            alt={campaign.title}
+            width={1200}
+            height={675}
+            loading="lazy"
+            className={`aspect-video w-full object-cover transition duration-300 group-hover:scale-105 ${
+              campaign.platform === "Kickstarter"
+                ? "brightness-110 contrast-105"
+                : ""
+            }`}
+          />
         ) : (
           <div className="flex aspect-video items-center justify-center bg-surface px-6 text-center text-sm font-bold uppercase tracking-[0.15em] text-muted">
             Immagine non disponibile
@@ -51,7 +50,7 @@ function CampaignCard({
         )}
       </a>
 
-      <div className="flex flex-1 flex-col p-6">
+      <div className="flex min-w-0 flex-1 flex-col p-5 @min-[700px]:p-6">
         <span className="text-sm font-bold uppercase tracking-[0.15em] text-primary">
           {campaign.platform}
         </span>
@@ -68,13 +67,11 @@ function CampaignCard({
 
         <div className="mt-5 space-y-1 text-sm text-muted">
           {campaign.raised > 0 ? (
-            <p>
+            <p className="break-words">
               <strong className="text-white">
                 Raccolti:
               </strong>{" "}
-              {campaign.raised.toLocaleString(
-                "it-IT"
-              )}{" "}
+              {campaign.raised.toLocaleString("it-IT")}{" "}
               {campaign.currency}
             </p>
           ) : null}
@@ -84,9 +81,7 @@ function CampaignCard({
               <strong className="text-white">
                 Sostenitori:
               </strong>{" "}
-              {campaign.backers.toLocaleString(
-                "it-IT"
-              )}
+              {campaign.backers.toLocaleString("it-IT")}
             </p>
           ) : null}
         </div>
@@ -105,22 +100,18 @@ function CampaignCard({
 }
 
 export default async function CrowdfundingRadar() {
-  const [
-    gamefoundResult,
-    kickstarterResult,
-  ] = await Promise.allSettled([
-    getGamefoundProjects(),
-   getCachedKickstarterProjects(),
-  ]);
+  const [gamefoundResult, kickstarterResult] =
+    await Promise.allSettled([
+      getGamefoundProjects(),
+      getCachedKickstarterProjects(),
+    ]);
 
   const gamefoundCampaigns =
     gamefoundResult.status === "fulfilled"
       ? gamefoundResult.value
           .slice(0, 4)
           .map(
-            (
-              campaign
-            ): CrowdfundingCampaign => ({
+            (campaign): CrowdfundingCampaign => ({
               ...campaign,
               platform: "Gamefound",
             })
@@ -132,9 +123,7 @@ export default async function CrowdfundingRadar() {
       ? kickstarterResult.value
           .slice(0, 4)
           .map(
-            (
-              campaign
-            ): CrowdfundingCampaign => ({
+            (campaign): CrowdfundingCampaign => ({
               ...campaign,
               platform: "Kickstarter",
             })
@@ -148,9 +137,7 @@ export default async function CrowdfundingRadar() {
     );
   }
 
-  if (
-    kickstarterResult.status === "rejected"
-  ) {
+  if (kickstarterResult.status === "rejected") {
     console.error(
       "[Crowdfunding Radar] Errore Kickstarter:",
       kickstarterResult.reason
@@ -164,15 +151,15 @@ export default async function CrowdfundingRadar() {
   return (
     <section
       id="crowdfunding"
-      className="border-b border-brand-border bg-surface"
+      className="@container min-w-0 border-b border-brand-border bg-surface"
     >
-      <div className="mx-auto max-w-7xl px-6 py-20">
+      <div className="mx-auto max-w-7xl px-5 py-16 sm:px-6 @min-[900px]:py-20">
         <div className="max-w-3xl">
           <p className="text-sm font-bold uppercase tracking-[0.2em] text-primary">
             Crowdfunding Radar
           </p>
 
-          <h2 className="mt-4 font-heading text-4xl uppercase text-white md:text-6xl">
+          <h2 className="mt-4 font-heading text-4xl uppercase leading-tight text-white @min-[900px]:text-6xl">
             Le campagne da tenere d&apos;occhio
           </h2>
 
@@ -188,8 +175,8 @@ export default async function CrowdfundingRadar() {
           </p>
         ) : (
           <div className="mt-12 space-y-14">
-            <section>
-              <div className="flex items-center gap-4">
+            <section className="min-w-0">
+              <div className="flex flex-wrap items-center gap-4">
                 <h3 className="font-heading text-3xl uppercase text-white">
                   Gamefound
                 </h3>
@@ -199,28 +186,25 @@ export default async function CrowdfundingRadar() {
                 </span>
               </div>
 
-              {gamefoundCampaigns.length ===
-              0 ? (
+              {gamefoundCampaigns.length === 0 ? (
                 <p className="mt-6 text-muted">
                   Le campagne Gamefound non sono
                   momentaneamente disponibili.
                 </p>
               ) : (
-                <div className="mt-6 grid gap-6 md:grid-cols-2 xl:grid-cols-4">
-                  {gamefoundCampaigns.map(
-                    (campaign) => (
-                      <CampaignCard
-                        key={`gamefound-${campaign.url}`}
-                        campaign={campaign}
-                      />
-                    )
-                  )}
+                <div className="mt-6 grid min-w-0 grid-cols-1 gap-6 @min-[500px]:grid-cols-2 @min-[1100px]:grid-cols-4">
+                  {gamefoundCampaigns.map((campaign) => (
+                    <CampaignCard
+                      key={`gamefound-${campaign.url}`}
+                      campaign={campaign}
+                    />
+                  ))}
                 </div>
               )}
             </section>
 
-            <section>
-              <div className="flex items-center gap-4">
+            <section className="min-w-0">
+              <div className="flex flex-wrap items-center gap-4">
                 <h3 className="font-heading text-3xl uppercase text-white">
                   Kicktraq per Kickstarter
                 </h3>
@@ -230,22 +214,19 @@ export default async function CrowdfundingRadar() {
                 </span>
               </div>
 
-              {kickstarterCampaigns.length ===
-              0 ? (
+              {kickstarterCampaigns.length === 0 ? (
                 <p className="mt-6 text-muted">
                   Le campagne Kickstarter non sono
                   momentaneamente disponibili.
                 </p>
               ) : (
-                <div className="mt-6 grid gap-6 md:grid-cols-2 xl:grid-cols-4">
-                  {kickstarterCampaigns.map(
-                    (campaign) => (
-                      <CampaignCard
-                        key={`kickstarter-${campaign.url}`}
-                        campaign={campaign}
-                      />
-                    )
-                  )}
+                <div className="mt-6 grid min-w-0 grid-cols-1 gap-6 @min-[500px]:grid-cols-2 @min-[1100px]:grid-cols-4">
+                  {kickstarterCampaigns.map((campaign) => (
+                    <CampaignCard
+                      key={`kickstarter-${campaign.url}`}
+                      campaign={campaign}
+                    />
+                  ))}
                 </div>
               )}
             </section>

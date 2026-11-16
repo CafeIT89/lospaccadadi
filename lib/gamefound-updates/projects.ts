@@ -436,4 +436,61 @@ export const GAMEFOUND_PROJECTS: GamefoundProject[] = [
     projectId: 13438,
   },
 
+  // Nuove campagne - Novembre 2026
+
+  {
+    name: "Biozero: Tokyo",
+    creator: "giza-games",
+    slug: "biozero-tokyo",
+    projectId: 13309,
+  },
+  {
+    name: "Heroes vs Hordes",
+    creator: "luteloot",
+    slug: "heroesvshordes",
+    projectId: 11735,
+  },
+  {
+    name: "Gunner",
+    creator: "maxlock",
+    slug: "gunner",
+    projectId: 13417,
+  },
+  {
+    name: "Feed the Kraken: Sea of Shadows",
+    creator: "funtails-gmbh",
+    slug: "feed-the-kraken-sea-of-shadows",
+    projectId: 6398,
+  },
+  {
+    name: "Dust in the Wind",
+    creator: "phalanx",
+    slug: "dust-in-the-wind",
+    projectId: 8199,
+  },
+  {
+    name: "Dice Valley",
+    creator: "smart-flamingo",
+    slug: "dice-valley",
+    projectId: 13010,
+  },
+  {
+    name: "Incarnation",
+    creator: "monolith-board-games-sarl",
+    slug: "incarnation",
+    projectId: 11336,
+  },
+  {
+    name: "Infestia",
+    creator: "greenstuffworld",
+    slug: "infestia",
+    projectId: 13003,
+  },
+  {
+    name: "Batman: Gotham City Chronicles - Season 4",
+    creator: "monolith-board-games-sarl",
+    slug: "batman-gotham-city-chronicles---season-4",
+    projectId: 8595,
+  },
+
 ];
