@@ -1,16 +1,68 @@
 [
   {
-    "id": 50538,
+    "id": 50600,
     "projectId": 13010,
     "projectName": "Dice Valley",
     "projectCreator": "smart-flamingo",
     "projectSlug": "dice-valley",
-    "title": "Hey! Key Campaign Details and What to Expect",
-    "excerpt": "Here's a quick overview of what our campaign will look like and how we're approaching it!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13010/3566c4a5-a295-4004-bcb1-1e444dedfd5e.jpeg",
-    "publishedAt": "2026-11-16T22:39:07.41Z",
-    "url": "https://gamefound.com/en/projects/smart-flamingo/dice-valley/updates/1",
-    "sequenceNumber": 1
+    "title": "JUST FUNDED / LANGUAGE VERSIONS / STRETCH GOALS",
+    "excerpt": "Thank you!!! Available stats. Time for stretch goals!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13010/20e9e81f-4569-4076-b890-3addf9fc019b.png",
+    "publishedAt": "2026-11-17T19:29:52.587Z",
+    "url": "https://gamefound.com/en/projects/smart-flamingo/dice-valley/updates/3",
+    "sequenceNumber": 3
+  },
+  {
+    "id": 50588,
+    "projectId": 8199,
+    "projectName": "Dust in the Wind",
+    "projectCreator": "phalanx",
+    "projectSlug": "dust-in-the-wind",
+    "title": "We’re live, let’s get Dust in the Wind on the table",
+    "excerpt": "The campaign is underway!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8199/b2751949-1b80-4ad2-8e0e-dd4a859e4262.png",
+    "publishedAt": "2026-11-17T17:12:41.09Z",
+    "url": "https://gamefound.com/en/projects/phalanx/dust-in-the-wind/updates/3",
+    "sequenceNumber": 3
+  },
+  {
+    "id": 50586,
+    "projectId": 10031,
+    "projectName": "The Thing: The Boardgame & The Cardgame",
+    "projectCreator": "pendragon-game-studio-srl",
+    "projectSlug": "the-thing-the-boardgame--the-cardgame",
+    "title": "A new language is on the horizon!",
+    "excerpt": "A few warnings about recent scam attempts and a teaser for a new available language.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/3526eccb-9fc5-4c2f-b027-301c0532dc71.png",
+    "publishedAt": "2026-11-17T16:32:12.923Z",
+    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/11",
+    "sequenceNumber": 11
+  },
+  {
+    "id": 50556,
+    "projectId": 10066,
+    "projectName": "Eldfall Chronicles: Apocrypha",
+    "projectCreator": "eldfall-chronicles",
+    "projectSlug": "eldfall-chronicles-apocrypha",
+    "title": "Apocrypha Meets Skirmish! | Two New Factions Revealed",
+    "excerpt": "The monsters of Eldfall Chronicles: Apocrypha are coming to the Skirmish Wargame!\nDiscover how your new Heroes and characters will join the battlefield, and meet two brand-new factions!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/10a75390-41a7-4982-8880-eb3bc5810e39.jpg",
+    "publishedAt": "2026-11-17T15:28:54.01Z",
+    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/14",
+    "sequenceNumber": 14
+  },
+  {
+    "id": 50264,
+    "projectId": 5384,
+    "projectName": "B.E.L.O.W.: The Asylum",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "below-asylum",
+    "title": "Development insights: Berry Pomeroy DEEP DIVE!",
+    "excerpt": "Learn more about the Berry Pomeroy, Agents! Check out the latest developments, the new mechanics introduced in this gameplay expansion, and see what the box includes!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5384/51202465-2bdd-43f8-921f-8eebfa6c9126.jpg",
+    "publishedAt": "2026-11-17T14:24:30.903Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/below-asylum/updates/27",
+    "sequenceNumber": 27
   },
   {
     "id": 50537,
@@ -50,32 +102,6 @@
     "publishedAt": "2026-11-16T18:05:17.043Z",
     "url": "https://gamefound.com/en/projects/unstable-games/here-to-slay-dungeons/updates/47",
     "sequenceNumber": 47
-  },
-  {
-    "id": 50529,
-    "projectId": 10066,
-    "projectName": "Eldfall Chronicles: Apocrypha",
-    "projectCreator": "eldfall-chronicles",
-    "projectSlug": "eldfall-chronicles-apocrypha",
-    "title": "Exploring the Sealed Archives | Location Quests",
-    "excerpt": "What secrets lie within the Grand Library? Today, we're exploring the mysterious setting of Apocrypha and taking a closer look at Location Quests, where Sites, Challenges, and Side Quests combine to create new adventures with every playthrough!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/6da3a7a8-53f4-4f74-9274-f79dde66fc91.jpg",
-    "publishedAt": "2026-11-16T16:35:48.113Z",
-    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/13",
-    "sequenceNumber": 13
-  },
-  {
-    "id": 50513,
-    "projectId": 10031,
-    "projectName": "The Thing: The Boardgame & The Cardgame",
-    "projectCreator": "pendragon-game-studio-srl",
-    "projectSlug": "the-thing-the-boardgame--the-cardgame",
-    "title": "The Rulebook Draft for The Thing: The Cardgame is now available!",
-    "excerpt": "The Cardgame Rulebook Draft is now available for free download on Pendragon website.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/0c0b566f-5e30-48e6-b666-bbd4de16dfa2.png",
-    "publishedAt": "2026-11-16T16:12:57.103Z",
-    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/10",
-    "sequenceNumber": 10
   },
   {
     "id": 50512,
@@ -520,19 +546,6 @@
     "sequenceNumber": 26
   },
   {
-    "id": 48626,
-    "projectId": 8199,
-    "projectName": "Dust in the Wind",
-    "projectCreator": "phalanx",
-    "projectSlug": "dust-in-the-wind",
-    "title": "Campaign Launch Date and News from SPIEL Essen!",
-    "excerpt": "Our crowdfunding campaign is planned for November 17! Discover the enthusiastic reception at SPIEL Essen and watch the first prototype unboxing video.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8199/9de5b479-10c8-4ab5-b09f-4940f74eb241.png",
-    "publishedAt": "2026-10-29T15:06:11.653Z",
-    "url": "https://gamefound.com/en/projects/phalanx/dust-in-the-wind/updates/1",
-    "sequenceNumber": 1
-  },
-  {
     "id": 48582,
     "projectId": 5297,
     "projectName": "Dead by Daylight: The Board Game",
@@ -713,19 +726,6 @@
     "publishedAt": "2026-10-19T04:30:16.507Z",
     "url": "https://gamefound.com/en/projects/boiling-point-games/ready-set-fight/updates/3",
     "sequenceNumber": 3
-  },
-  {
-    "id": 47747,
-    "projectId": 5384,
-    "projectName": "B.E.L.O.W.: The Asylum",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "below-asylum",
-    "title": "Tabletop Simulator for B.E.L.O.W is LIVE! | WiP Rulebook REVEALED",
-    "excerpt": "It's finally time to dive BELOW, Agents! Check out today's update to learn more about the most recent prototype being available for download as the TTS version on Steam. Also, with this long-awaited reveal, we share the WiP version of the Rulebook!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5384/a311320a-77db-4f95-8724-38a331b60cff.png",
-    "publishedAt": "2026-10-16T15:00:00Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/below-asylum/updates/26",
-    "sequenceNumber": 26
   },
   {
     "id": 44767,
