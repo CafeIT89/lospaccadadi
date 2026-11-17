@@ -1,5 +1,31 @@
 [
   {
+    "id": 50538,
+    "projectId": 13010,
+    "projectName": "Dice Valley",
+    "projectCreator": "smart-flamingo",
+    "projectSlug": "dice-valley",
+    "title": "Hey! Key Campaign Details and What to Expect",
+    "excerpt": "Here's a quick overview of what our campaign will look like and how we're approaching it!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13010/3566c4a5-a295-4004-bcb1-1e444dedfd5e.jpeg",
+    "publishedAt": "2026-11-16T22:39:07.41Z",
+    "url": "https://gamefound.com/en/projects/smart-flamingo/dice-valley/updates/1",
+    "sequenceNumber": 1
+  },
+  {
+    "id": 50537,
+    "projectId": 13309,
+    "projectName": "Biozero: Tokyo",
+    "projectCreator": "giza-games",
+    "projectSlug": "biozero-tokyo",
+    "title": "THANK YOU, SURVIVORS! 2 Stretch Goals Unlocked!",
+    "excerpt": "Thanks to your support, we've already unlocked 2 Stretch Goals!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13309/a25b75f7-8de4-4e0c-b75d-69c477609f78.jpg",
+    "publishedAt": "2026-11-16T22:21:02.107Z",
+    "url": "https://gamefound.com/en/projects/giza-games/biozero-tokyo/updates/2",
+    "sequenceNumber": 2
+  },
+  {
     "id": 50535,
     "projectId": 9823,
     "projectName": "Fable Quest",
@@ -245,19 +271,6 @@
     "publishedAt": "2026-11-09T13:16:22.537Z",
     "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/21",
     "sequenceNumber": 21
-  },
-  {
-    "id": 50190,
-    "projectId": 13309,
-    "projectName": "Biozero: Tokyo",
-    "projectCreator": "giza-games",
-    "projectSlug": "biozero-tokyo",
-    "title": "New Launch Date for Biozero: Tokyo!",
-    "excerpt": "Here are a few things we'd love to share with you before the launch!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13309/73253021-6da3-42bc-a3b3-42fa5584f623.jpg",
-    "publishedAt": "2026-11-09T11:33:29.5Z",
-    "url": "https://gamefound.com/en/projects/giza-games/biozero-tokyo/updates/1",
-    "sequenceNumber": 1
   },
   {
     "id": 50040,
