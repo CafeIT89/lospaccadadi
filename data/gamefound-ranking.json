@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-17T20:52:02.950Z",
+  "updatedAt": "2026-11-18T07:21:17.120Z",
   "projects": [
     {
       "name": "Perilous Frontiers - Hand Painted Modular Terrain",
       "creator": "Dwarven Forge",
       "url": "https://gamefound.com/projects/dwarven-forge/perilous-frontiers",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8512/97917cca-81bb-4ed2-a8dd-640edbbd10a0.jpg",
-      "fundsGathered": 1966533.84,
+      "fundsGathered": 2084280.05,
       "currency": "USD",
-      "backerCount": 794,
+      "backerCount": 864,
       "campaignEndDate": "2026-11-19T00:00:00Z"
     },
     {
@@ -16,9 +16,9 @@
       "creator": "Freecompany",
       "url": "https://gamefound.com/projects/eldfall-chronicles/eldfall-chronicles-apocrypha",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/10066/472c624c-7229-40e3-a019-49e7569fa665.jpg",
-      "fundsGathered": 506625.12,
+      "fundsGathered": 515168.47,
       "currency": "EUR",
-      "backerCount": 1371,
+      "backerCount": 1388,
       "campaignEndDate": "2026-11-24T21:00:00Z"
     },
     {
@@ -26,9 +26,9 @@
       "creator": "MODIPHIUS ENTERTAINMENT",
       "url": "https://gamefound.com/projects/modiphius/terry-pratchetts-discworld-rpg-adventures-in-lancre-and-uberwald",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11677/63916977-03fa-451f-af47-fe0392b17a16.png",
-      "fundsGathered": 461341.29,
+      "fundsGathered": 463290.76,
       "currency": "GBP",
-      "backerCount": 2431,
+      "backerCount": 2442,
       "campaignEndDate": "2026-11-25T20:00:00Z"
     },
     {
@@ -36,9 +36,9 @@
       "creator": "Wonderbow",
       "url": "https://gamefound.com/projects/wonderbow-games/kelp-shark-vs-octopus-offshore-offspring-expansion",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11664/105d144d-0c00-493b-b114-bb5e1ec66fd1.png",
-      "fundsGathered": 439767.6,
+      "fundsGathered": 462239.6,
       "currency": "EUR",
-      "backerCount": 4213,
+      "backerCount": 4422,
       "campaignEndDate": "2026-11-18T15:00:00Z"
     },
     {
@@ -46,9 +46,9 @@
       "creator": "Board&Dice",
       "url": "https://gamefound.com/projects/board-and-dice/marco-polo-deluxe-master-set",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8165/7e1de4c8-ab5f-4784-aaeb-a533bf194393.png",
-      "fundsGathered": 423036.89,
+      "fundsGathered": 428633.53,
       "currency": "EUR",
-      "backerCount": 2632,
+      "backerCount": 2668,
       "campaignEndDate": "2026-11-26T20:30:00Z"
     }
   ]

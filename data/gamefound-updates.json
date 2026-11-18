@@ -1,5 +1,44 @@
 [
   {
+    "id": 50595,
+    "projectId": 9823,
+    "projectName": "Fable Quest",
+    "projectCreator": "tabletop-tycoon",
+    "projectSlug": "fable-quest",
+    "title": "48 Hours Remaining!",
+    "excerpt": "The Fable Quest Campaign closes Thursday, November 19th at 8:00 PM EST",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9823/440389e7-1d23-4bf5-b215-5cb0a21c412f.png",
+    "publishedAt": "2026-11-18T01:00:00Z",
+    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/17",
+    "sequenceNumber": 17
+  },
+  {
+    "id": 50608,
+    "projectId": 13309,
+    "projectName": "Biozero: Tokyo",
+    "projectCreator": "giza-games",
+    "projectSlug": "biozero-tokyo",
+    "title": "Another 2 Stretch Goals Unlocked!",
+    "excerpt": "New Survivor is ready to join the fight!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13309/206278b6-0af5-4732-825b-30051f382319.jpg",
+    "publishedAt": "2026-11-17T21:42:38.057Z",
+    "url": "https://gamefound.com/en/projects/giza-games/biozero-tokyo/updates/3",
+    "sequenceNumber": 3
+  },
+  {
+    "id": 50606,
+    "projectId": 8199,
+    "projectName": "Dust in the Wind",
+    "projectCreator": "phalanx",
+    "projectSlug": "dust-in-the-wind",
+    "title": "A Special Discount, a New Playing Mat, and a Production Update",
+    "excerpt": "Purple Haze backers receive 5% off Dust in the Wind, a new Playing Mat joins the collection, and we have news about Born to Kill and the upcoming language editions.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8199/2e0f0db2-833e-4878-9996-5cb76b9246b7.png",
+    "publishedAt": "2026-11-17T21:41:15.61Z",
+    "url": "https://gamefound.com/en/projects/phalanx/dust-in-the-wind/updates/4",
+    "sequenceNumber": 4
+  },
+  {
     "id": 50600,
     "projectId": 13010,
     "projectName": "Dice Valley",
@@ -10,19 +49,6 @@
     "image": "https://imgcdn.gamefound.com/projectupdate/projects/13010/20e9e81f-4569-4076-b890-3addf9fc019b.png",
     "publishedAt": "2026-11-17T19:29:52.587Z",
     "url": "https://gamefound.com/en/projects/smart-flamingo/dice-valley/updates/3",
-    "sequenceNumber": 3
-  },
-  {
-    "id": 50588,
-    "projectId": 8199,
-    "projectName": "Dust in the Wind",
-    "projectCreator": "phalanx",
-    "projectSlug": "dust-in-the-wind",
-    "title": "We’re live, let’s get Dust in the Wind on the table",
-    "excerpt": "The campaign is underway!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8199/b2751949-1b80-4ad2-8e0e-dd4a859e4262.png",
-    "publishedAt": "2026-11-17T17:12:41.09Z",
-    "url": "https://gamefound.com/en/projects/phalanx/dust-in-the-wind/updates/3",
     "sequenceNumber": 3
   },
   {
@@ -63,32 +89,6 @@
     "publishedAt": "2026-11-17T14:24:30.903Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/below-asylum/updates/27",
     "sequenceNumber": 27
-  },
-  {
-    "id": 50537,
-    "projectId": 13309,
-    "projectName": "Biozero: Tokyo",
-    "projectCreator": "giza-games",
-    "projectSlug": "biozero-tokyo",
-    "title": "THANK YOU, SURVIVORS! 2 Stretch Goals Unlocked!",
-    "excerpt": "Thanks to your support, we've already unlocked 2 Stretch Goals!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13309/a25b75f7-8de4-4e0c-b75d-69c477609f78.jpg",
-    "publishedAt": "2026-11-16T22:21:02.107Z",
-    "url": "https://gamefound.com/en/projects/giza-games/biozero-tokyo/updates/2",
-    "sequenceNumber": 2
-  },
-  {
-    "id": 50535,
-    "projectId": 9823,
-    "projectName": "Fable Quest",
-    "projectCreator": "tabletop-tycoon",
-    "projectSlug": "fable-quest",
-    "title": "The Adventure Goes Both Ways! Fable Quest Crossover Cards Revealed!",
-    "excerpt": "This is it, Heroes! The final reveal of the campaign, and it's one many of you have been asking for!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9823/ba67be99-368b-4aea-b34b-3bbf9f9fdf7e.png",
-    "publishedAt": "2026-11-16T19:50:36.657Z",
-    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/16",
-    "sequenceNumber": 16
   },
   {
     "id": 50460,
