@@ -1,5 +1,83 @@
 [
   {
+    "id": 50653,
+    "projectId": 8527,
+    "projectName": "Scoundrels",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "scoundrels",
+    "title": "What's hiding in the shadows? | Closer look at the Core Box",
+    "excerpt": "Welcome to the bizarre adventure! 13 days left for Scoundrels to launch, so it's time to reveal what's inside the Core Box, discuss the Campaign & Commissions mode, and... finally show you the Plan.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8527/e319463c-1f7e-4854-9e21-220dcfb584e7.jpg",
+    "publishedAt": "2026-11-18T19:30:16.117Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/scoundrels/updates/6",
+    "sequenceNumber": 6
+  },
+  {
+    "id": 50652,
+    "projectId": 10066,
+    "projectName": "Eldfall Chronicles: Apocrypha",
+    "projectCreator": "eldfall-chronicles",
+    "projectSlug": "eldfall-chronicles-apocrypha",
+    "title": "New Apocrypha Playthrough! | Exploring the Arc Map",
+    "excerpt": "Join us for the EC Team's first Apocrypha playthrough! We're also exploring the Arc Map and how you'll navigate the Sealed Archives, plus announcing an improvement to the Dungeon-Crawl All-In Pledge, thanks to your feedback!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/c35b9f22-3dcb-4e33-8639-19e18a119b6f.jpg",
+    "publishedAt": "2026-11-18T18:12:47.43Z",
+    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/15",
+    "sequenceNumber": 15
+  },
+  {
+    "id": 50650,
+    "projectId": 13010,
+    "projectName": "Dice Valley",
+    "projectCreator": "smart-flamingo",
+    "projectSlug": "dice-valley",
+    "title": "AFTER 24 HOURS!",
+    "excerpt": "Where we are & where we go!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13010/681957ed-cd4b-4655-ae41-c60d5051a675.png",
+    "publishedAt": "2026-11-18T17:35:39.05Z",
+    "url": "https://gamefound.com/en/projects/smart-flamingo/dice-valley/updates/4",
+    "sequenceNumber": 4
+  },
+  {
+    "id": 50643,
+    "projectId": 8199,
+    "projectName": "Dust in the Wind",
+    "projectCreator": "phalanx",
+    "projectSlug": "dust-in-the-wind",
+    "title": "6 Installments and 48 Hours to Claim Your Free Gift",
+    "excerpt": "Before we get into the gameplay, we have two important pieces of campaign news.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8199/e7540e45-5fa5-431b-ac46-8ffba8a604db.png",
+    "publishedAt": "2026-11-18T15:59:17.533Z",
+    "url": "https://gamefound.com/en/projects/phalanx/dust-in-the-wind/updates/5",
+    "sequenceNumber": 5
+  },
+  {
+    "id": 50506,
+    "projectId": 6517,
+    "projectName": "Quake: The Board Game",
+    "projectCreator": "archon-studio",
+    "projectSlug": "quake-the-board-game",
+    "title": "Some Important News",
+    "excerpt": "An update on the project as a whole",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6517/dffd1c5d-14e9-42aa-b826-9f4e822c5e17.png",
+    "publishedAt": "2026-11-18T15:00:00Z",
+    "url": "https://gamefound.com/en/projects/archon-studio/quake-the-board-game/updates/12",
+    "sequenceNumber": 12
+  },
+  {
+    "id": 50622,
+    "projectId": 10031,
+    "projectName": "The Thing: The Boardgame & The Cardgame",
+    "projectCreator": "pendragon-game-studio-srl",
+    "projectSlug": "the-thing-the-boardgame--the-cardgame",
+    "title": "A new language added!",
+    "excerpt": "A new language is now available for Language-Dependent products, but under specific conditions.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/f8143b41-68b9-41bb-acdf-2894f0ceda2a.png",
+    "publishedAt": "2026-11-18T13:54:38.507Z",
+    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/12",
+    "sequenceNumber": 12
+  },
+  {
     "id": 50595,
     "projectId": 9823,
     "projectName": "Fable Quest",
@@ -24,58 +102,6 @@
     "publishedAt": "2026-11-17T21:42:38.057Z",
     "url": "https://gamefound.com/en/projects/giza-games/biozero-tokyo/updates/3",
     "sequenceNumber": 3
-  },
-  {
-    "id": 50606,
-    "projectId": 8199,
-    "projectName": "Dust in the Wind",
-    "projectCreator": "phalanx",
-    "projectSlug": "dust-in-the-wind",
-    "title": "A Special Discount, a New Playing Mat, and a Production Update",
-    "excerpt": "Purple Haze backers receive 5% off Dust in the Wind, a new Playing Mat joins the collection, and we have news about Born to Kill and the upcoming language editions.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8199/2e0f0db2-833e-4878-9996-5cb76b9246b7.png",
-    "publishedAt": "2026-11-17T21:41:15.61Z",
-    "url": "https://gamefound.com/en/projects/phalanx/dust-in-the-wind/updates/4",
-    "sequenceNumber": 4
-  },
-  {
-    "id": 50600,
-    "projectId": 13010,
-    "projectName": "Dice Valley",
-    "projectCreator": "smart-flamingo",
-    "projectSlug": "dice-valley",
-    "title": "JUST FUNDED / LANGUAGE VERSIONS / STRETCH GOALS",
-    "excerpt": "Thank you!!! Available stats. Time for stretch goals!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13010/20e9e81f-4569-4076-b890-3addf9fc019b.png",
-    "publishedAt": "2026-11-17T19:29:52.587Z",
-    "url": "https://gamefound.com/en/projects/smart-flamingo/dice-valley/updates/3",
-    "sequenceNumber": 3
-  },
-  {
-    "id": 50586,
-    "projectId": 10031,
-    "projectName": "The Thing: The Boardgame & The Cardgame",
-    "projectCreator": "pendragon-game-studio-srl",
-    "projectSlug": "the-thing-the-boardgame--the-cardgame",
-    "title": "A new language is on the horizon!",
-    "excerpt": "A few warnings about recent scam attempts and a teaser for a new available language.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/3526eccb-9fc5-4c2f-b027-301c0532dc71.png",
-    "publishedAt": "2026-11-17T16:32:12.923Z",
-    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/11",
-    "sequenceNumber": 11
-  },
-  {
-    "id": 50556,
-    "projectId": 10066,
-    "projectName": "Eldfall Chronicles: Apocrypha",
-    "projectCreator": "eldfall-chronicles",
-    "projectSlug": "eldfall-chronicles-apocrypha",
-    "title": "Apocrypha Meets Skirmish! | Two New Factions Revealed",
-    "excerpt": "The monsters of Eldfall Chronicles: Apocrypha are coming to the Skirmish Wargame!\nDiscover how your new Heroes and characters will join the battlefield, and meet two brand-new factions!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/10a75390-41a7-4982-8880-eb3bc5810e39.jpg",
-    "publishedAt": "2026-11-17T15:28:54.01Z",
-    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/14",
-    "sequenceNumber": 14
   },
   {
     "id": 50264,
@@ -297,19 +323,6 @@
     "publishedAt": "2026-11-09T13:16:22.537Z",
     "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/21",
     "sequenceNumber": 21
-  },
-  {
-    "id": 50040,
-    "projectId": 8527,
-    "projectName": "Scoundrels",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "scoundrels",
-    "title": "Scoundrels launch on DECEMBER 1ST! | First Heists behind us: SPIEL Essen SUMMARY",
-    "excerpt": "The Heist is happening in less than a month, Scoundrels! So, grab your backpacks, lockpicks, all these sussy heisty tools, and dive into today's update.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8527/edc97e55-a650-4e9d-b40f-45e02d3f92fd.png",
-    "publishedAt": "2026-11-07T00:01:59.14Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/scoundrels/updates/5",
-    "sequenceNumber": 5
   },
   {
     "id": 50127,
@@ -726,19 +739,6 @@
     "publishedAt": "2026-10-19T04:30:16.507Z",
     "url": "https://gamefound.com/en/projects/boiling-point-games/ready-set-fight/updates/3",
     "sequenceNumber": 3
-  },
-  {
-    "id": 44767,
-    "projectId": 6517,
-    "projectName": "Quake: The Board Game",
-    "projectCreator": "archon-studio",
-    "projectSlug": "quake-the-board-game",
-    "title": "Monster Showcase",
-    "excerpt": "It wouldn't be quake without some target practice! But be careful, they bite back.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6517/45a62f89-d069-43ba-aaff-ee9a7b662989.png",
-    "publishedAt": "2026-10-15T14:00:00Z",
-    "url": "https://gamefound.com/en/projects/archon-studio/quake-the-board-game/updates/11",
-    "sequenceNumber": 11
   },
   {
     "id": 47887,

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-18T07:21:17.120Z",
+  "updatedAt": "2026-11-18T20:28:07.481Z",
   "projects": [
     {
       "name": "Perilous Frontiers - Hand Painted Modular Terrain",
       "creator": "Dwarven Forge",
       "url": "https://gamefound.com/projects/dwarven-forge/perilous-frontiers",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8512/97917cca-81bb-4ed2-a8dd-640edbbd10a0.jpg",
-      "fundsGathered": 2084280.05,
+      "fundsGathered": 2271137.65,
       "currency": "USD",
-      "backerCount": 864,
+      "backerCount": 971,
       "campaignEndDate": "2026-11-19T00:00:00Z"
     },
     {
@@ -16,39 +16,39 @@
       "creator": "Freecompany",
       "url": "https://gamefound.com/projects/eldfall-chronicles/eldfall-chronicles-apocrypha",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/10066/472c624c-7229-40e3-a019-49e7569fa665.jpg",
-      "fundsGathered": 515168.47,
+      "fundsGathered": 529450.05,
       "currency": "EUR",
-      "backerCount": 1388,
+      "backerCount": 1428,
       "campaignEndDate": "2026-11-24T21:00:00Z"
-    },
-    {
-      "name": "Terry Pratchett's Discworld RPG Adventures in Lancre and Überwald",
-      "creator": "MODIPHIUS ENTERTAINMENT",
-      "url": "https://gamefound.com/projects/modiphius/terry-pratchetts-discworld-rpg-adventures-in-lancre-and-uberwald",
-      "image": "https://imgcdn.gamefound.com/projectimage/projects/11677/63916977-03fa-451f-af47-fe0392b17a16.png",
-      "fundsGathered": 463290.76,
-      "currency": "GBP",
-      "backerCount": 2442,
-      "campaignEndDate": "2026-11-25T20:00:00Z"
     },
     {
       "name": "Kelp - Shark vs. Octopus: Offshore Offspring Expansion and reprint Deluxe Edition",
       "creator": "Wonderbow",
       "url": "https://gamefound.com/projects/wonderbow-games/kelp-shark-vs-octopus-offshore-offspring-expansion",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11664/105d144d-0c00-493b-b114-bb5e1ec66fd1.png",
-      "fundsGathered": 462239.6,
+      "fundsGathered": 509901.8,
       "currency": "EUR",
-      "backerCount": 4422,
-      "campaignEndDate": "2026-11-18T15:00:00Z"
+      "backerCount": 4839,
+      "campaignEndDate": "2026-11-18T20:37:29.07Z"
+    },
+    {
+      "name": "Terry Pratchett's Discworld RPG Adventures in Lancre and Überwald",
+      "creator": "MODIPHIUS ENTERTAINMENT",
+      "url": "https://gamefound.com/projects/modiphius/terry-pratchetts-discworld-rpg-adventures-in-lancre-and-uberwald",
+      "image": "https://imgcdn.gamefound.com/projectimage/projects/11677/63916977-03fa-451f-af47-fe0392b17a16.png",
+      "fundsGathered": 468160.25,
+      "currency": "GBP",
+      "backerCount": 2461,
+      "campaignEndDate": "2026-11-25T20:00:00Z"
     },
     {
       "name": "Marco Polo Deluxe Master Set",
       "creator": "Board&Dice",
       "url": "https://gamefound.com/projects/board-and-dice/marco-polo-deluxe-master-set",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8165/7e1de4c8-ab5f-4784-aaeb-a533bf194393.png",
-      "fundsGathered": 428633.53,
+      "fundsGathered": 436700.51,
       "currency": "EUR",
-      "backerCount": 2668,
+      "backerCount": 2719,
       "campaignEndDate": "2026-11-26T20:30:00Z"
     }
   ]
