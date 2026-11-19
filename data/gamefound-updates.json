@@ -1,5 +1,18 @@
 [
   {
+    "id": 50663,
+    "projectId": 8199,
+    "projectName": "Dust in the Wind",
+    "projectCreator": "phalanx",
+    "projectSlug": "dust-in-the-wind",
+    "title": "What Does a Session of Dust in the Wind Look Like?",
+    "excerpt": "From choosing your route and managing supplies to unexpected encounters, tactical gunfights, and decisions that follow you into the next scenario.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8199/e034f106-a43a-4341-92dd-41316d3d2720.png",
+    "publishedAt": "2026-11-18T20:32:57.753Z",
+    "url": "https://gamefound.com/en/projects/phalanx/dust-in-the-wind/updates/6",
+    "sequenceNumber": 6
+  },
+  {
     "id": 50653,
     "projectId": 8527,
     "projectName": "Scoundrels",
@@ -37,19 +50,6 @@
     "publishedAt": "2026-11-18T17:35:39.05Z",
     "url": "https://gamefound.com/en/projects/smart-flamingo/dice-valley/updates/4",
     "sequenceNumber": 4
-  },
-  {
-    "id": 50643,
-    "projectId": 8199,
-    "projectName": "Dust in the Wind",
-    "projectCreator": "phalanx",
-    "projectSlug": "dust-in-the-wind",
-    "title": "6 Installments and 48 Hours to Claim Your Free Gift",
-    "excerpt": "Before we get into the gameplay, we have two important pieces of campaign news.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8199/e7540e45-5fa5-431b-ac46-8ffba8a604db.png",
-    "publishedAt": "2026-11-18T15:59:17.533Z",
-    "url": "https://gamefound.com/en/projects/phalanx/dust-in-the-wind/updates/5",
-    "sequenceNumber": 5
   },
   {
     "id": 50506,

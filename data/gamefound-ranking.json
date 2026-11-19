@@ -1,44 +1,24 @@
 {
-  "updatedAt": "2026-11-18T20:28:07.481Z",
+  "updatedAt": "2026-11-19T07:18:16.717Z",
   "projects": [
-    {
-      "name": "Perilous Frontiers - Hand Painted Modular Terrain",
-      "creator": "Dwarven Forge",
-      "url": "https://gamefound.com/projects/dwarven-forge/perilous-frontiers",
-      "image": "https://imgcdn.gamefound.com/projectimage/projects/8512/97917cca-81bb-4ed2-a8dd-640edbbd10a0.jpg",
-      "fundsGathered": 2271137.65,
-      "currency": "USD",
-      "backerCount": 971,
-      "campaignEndDate": "2026-11-19T00:00:00Z"
-    },
     {
       "name": "Eldfall Chronicles: Apocrypha",
       "creator": "Freecompany",
       "url": "https://gamefound.com/projects/eldfall-chronicles/eldfall-chronicles-apocrypha",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/10066/472c624c-7229-40e3-a019-49e7569fa665.jpg",
-      "fundsGathered": 529450.05,
+      "fundsGathered": 536839.76,
       "currency": "EUR",
-      "backerCount": 1428,
+      "backerCount": 1451,
       "campaignEndDate": "2026-11-24T21:00:00Z"
-    },
-    {
-      "name": "Kelp - Shark vs. Octopus: Offshore Offspring Expansion and reprint Deluxe Edition",
-      "creator": "Wonderbow",
-      "url": "https://gamefound.com/projects/wonderbow-games/kelp-shark-vs-octopus-offshore-offspring-expansion",
-      "image": "https://imgcdn.gamefound.com/projectimage/projects/11664/105d144d-0c00-493b-b114-bb5e1ec66fd1.png",
-      "fundsGathered": 509901.8,
-      "currency": "EUR",
-      "backerCount": 4839,
-      "campaignEndDate": "2026-11-18T20:37:29.07Z"
     },
     {
       "name": "Terry Pratchett's Discworld RPG Adventures in Lancre and Überwald",
       "creator": "MODIPHIUS ENTERTAINMENT",
       "url": "https://gamefound.com/projects/modiphius/terry-pratchetts-discworld-rpg-adventures-in-lancre-and-uberwald",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11677/63916977-03fa-451f-af47-fe0392b17a16.png",
-      "fundsGathered": 468160.25,
+      "fundsGathered": 470019.53,
       "currency": "GBP",
-      "backerCount": 2461,
+      "backerCount": 2471,
       "campaignEndDate": "2026-11-25T20:00:00Z"
     },
     {
@@ -46,10 +26,30 @@
       "creator": "Board&Dice",
       "url": "https://gamefound.com/projects/board-and-dice/marco-polo-deluxe-master-set",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8165/7e1de4c8-ab5f-4784-aaeb-a533bf194393.png",
-      "fundsGathered": 436700.51,
+      "fundsGathered": 442421.49,
       "currency": "EUR",
-      "backerCount": 2719,
+      "backerCount": 2755,
       "campaignEndDate": "2026-11-26T20:30:00Z"
+    },
+    {
+      "name": "The Thing: The Boardgame & The Cardgame",
+      "creator": "Pendragon Game Studio srl",
+      "url": "https://gamefound.com/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame",
+      "image": "https://imgcdn.gamefound.com/projectimage/projects/10031/36d485cf-b4b2-4775-a82b-fe3b29d9e89d.jpg",
+      "fundsGathered": 432765.87,
+      "currency": "EUR",
+      "backerCount": 3182,
+      "campaignEndDate": "2026-12-01T16:00:00Z"
+    },
+    {
+      "name": "Feed the Kraken: Black Box & Sea of Shadows",
+      "creator": "Funtails GmbH",
+      "url": "https://gamefound.com/projects/funtails-gmbh/feed-the-kraken-sea-of-shadows",
+      "image": "https://imgcdn.gamefound.com/projectimage/projects/6398/8613d5c7-7d05-4a48-9f4b-aaf77406684a.png",
+      "fundsGathered": 250693.68,
+      "currency": "EUR",
+      "backerCount": 1640,
+      "campaignEndDate": "2026-12-01T17:00:00Z"
     }
   ]
 }
