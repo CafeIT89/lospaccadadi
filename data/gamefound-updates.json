@@ -1,16 +1,107 @@
 [
   {
-    "id": 50663,
+    "id": 50716,
+    "projectId": 8534,
+    "projectName": "Call of Cthulhu: Old Ones Origins",
+    "projectCreator": "chaosium",
+    "projectSlug": "call-of-cthulhu-old-ones-origins",
+    "title": "Old Ones Origins project status update",
+    "excerpt": "Old Ones Origins project status update",
+    "image": "https://imgcdn.gamefound.com/projectimage/projects/8534/836e992f-a1f0-4a32-9de6-4ad0c05f95dd.png",
+    "publishedAt": "2026-11-19T20:00:42.573Z",
+    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/32",
+    "sequenceNumber": 32
+  },
+  {
+    "id": 50701,
+    "projectId": 11178,
+    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
+    "projectCreator": "xplored",
+    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
+    "title": "Late Pledge and Teburu Store Update!",
+    "excerpt": "After a successful campaign, then next step will be the opening of the Late Pledge, which we plan to open on Tuesday, November 24th!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/a69b8957-65f7-4bdf-8677-b1955a6315c6.png",
+    "publishedAt": "2026-11-19T17:30:00Z",
+    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/19",
+    "sequenceNumber": 19
+  },
+  {
+    "id": 50706,
     "projectId": 8199,
     "projectName": "Dust in the Wind",
     "projectCreator": "phalanx",
     "projectSlug": "dust-in-the-wind",
-    "title": "What Does a Session of Dust in the Wind Look Like?",
-    "excerpt": "From choosing your route and managing supplies to unexpected encounters, tactical gunfights, and decisions that follow you into the next scenario.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8199/e034f106-a43a-4341-92dd-41316d3d2720.png",
-    "publishedAt": "2026-11-18T20:32:57.753Z",
-    "url": "https://gamefound.com/en/projects/phalanx/dust-in-the-wind/updates/6",
-    "sequenceNumber": 6
+    "title": "Meet your Characters",
+    "excerpt": "Meet the six core heroes, explore their abilities and starting gear, and choose who rides with you.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8199/f80bba33-1a90-462a-979a-2187b40d88ad.png",
+    "publishedAt": "2026-11-19T17:19:57.147Z",
+    "url": "https://gamefound.com/en/projects/phalanx/dust-in-the-wind/updates/8",
+    "sequenceNumber": 8
+  },
+  {
+    "id": 40210,
+    "projectId": 9719,
+    "projectName": "The Lord of the Rings: Ascension",
+    "projectCreator": "stoneblade",
+    "projectSlug": "the-lord-of-the-rings-ascension",
+    "title": "Design Diary: The Lord of the Rings: The Two Towers™ - Ascension™ (Part 2)",
+    "excerpt": "Learn how The Lord of the Rings: The Two Towers - Ascension was designed.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9719/b6bf7c2a-84ff-45b6-b1f8-a7573a57ced9.png",
+    "publishedAt": "2026-11-19T17:00:00Z",
+    "url": "https://gamefound.com/en/projects/stoneblade/the-lord-of-the-rings-ascension/updates/50",
+    "sequenceNumber": 50
+  },
+  {
+    "id": 50698,
+    "projectId": 10066,
+    "projectName": "Eldfall Chronicles: Apocrypha",
+    "projectCreator": "eldfall-chronicles",
+    "projectSlug": "eldfall-chronicles-apocrypha",
+    "title": "Meet the Characters | Their Stories & Abilities",
+    "excerpt": "From the transformations of the four starting Heroes to the mysterious pasts of Zhu-Yan and Titania, we're taking a closer look at the characters joining the expedition!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/c5603986-7e80-440f-bd62-dec32e705458.jpg",
+    "publishedAt": "2026-11-19T15:08:32.6Z",
+    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/16",
+    "sequenceNumber": 16
+  },
+  {
+    "id": 50490,
+    "projectId": 6398,
+    "projectName": "Feed the Kraken: Sea of Shadows",
+    "projectCreator": "funtails-gmbh",
+    "projectSlug": "feed-the-kraken-sea-of-shadows",
+    "title": "We are halfway there!",
+    "excerpt": "Check out the new Pledge Guide and watch an interview with Maikel",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6398/ea094bb5-62aa-4097-a61a-c7d2408e0545.png",
+    "publishedAt": "2026-11-19T14:37:35.657Z",
+    "url": "https://gamefound.com/en/projects/funtails-gmbh/feed-the-kraken-sea-of-shadows/updates/9",
+    "sequenceNumber": 9
+  },
+  {
+    "id": 50680,
+    "projectId": 10031,
+    "projectName": "The Thing: The Boardgame & The Cardgame",
+    "projectCreator": "pendragon-game-studio-srl",
+    "projectSlug": "the-thing-the-boardgame--the-cardgame",
+    "title": "Another new language added, once again!",
+    "excerpt": "German is now available for Language-Dependent products, but under specific conditions.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/671432b0-bd3f-4055-998f-2579a2c8b1c5.png",
+    "publishedAt": "2026-11-19T14:00:12.927Z",
+    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/13",
+    "sequenceNumber": 13
+  },
+  {
+    "id": 50688,
+    "projectId": 13329,
+    "projectName": "Transformers: Resistance",
+    "projectCreator": "ocgames",
+    "projectSlug": "transformers-resistance",
+    "title": "SOUNDWAVE: The Eyes and Ears of the Decepticons!",
+    "excerpt": "Silent. Relentless. Always listening. Soundwave doesn't need to lead the charge to control the battlefield. As Megatron's most trusted intelligence officer, he knows that information can be just as powerful as any weapon.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13329/8cf9a52e-2f28-40cc-82eb-2c08ccd949c9.jpg",
+    "publishedAt": "2026-11-19T12:14:53.98Z",
+    "url": "https://gamefound.com/en/projects/ocgames/transformers-resistance/updates/3",
+    "sequenceNumber": 3
   },
   {
     "id": 50653,
@@ -24,19 +115,6 @@
     "publishedAt": "2026-11-18T19:30:16.117Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/scoundrels/updates/6",
     "sequenceNumber": 6
-  },
-  {
-    "id": 50652,
-    "projectId": 10066,
-    "projectName": "Eldfall Chronicles: Apocrypha",
-    "projectCreator": "eldfall-chronicles",
-    "projectSlug": "eldfall-chronicles-apocrypha",
-    "title": "New Apocrypha Playthrough! | Exploring the Arc Map",
-    "excerpt": "Join us for the EC Team's first Apocrypha playthrough! We're also exploring the Arc Map and how you'll navigate the Sealed Archives, plus announcing an improvement to the Dungeon-Crawl All-In Pledge, thanks to your feedback!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/c35b9f22-3dcb-4e33-8639-19e18a119b6f.jpg",
-    "publishedAt": "2026-11-18T18:12:47.43Z",
-    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/15",
-    "sequenceNumber": 15
   },
   {
     "id": 50650,
@@ -62,19 +140,6 @@
     "image": "https://imgcdn.gamefound.com/projectupdate/projects/6517/dffd1c5d-14e9-42aa-b826-9f4e822c5e17.png",
     "publishedAt": "2026-11-18T15:00:00Z",
     "url": "https://gamefound.com/en/projects/archon-studio/quake-the-board-game/updates/12",
-    "sequenceNumber": 12
-  },
-  {
-    "id": 50622,
-    "projectId": 10031,
-    "projectName": "The Thing: The Boardgame & The Cardgame",
-    "projectCreator": "pendragon-game-studio-srl",
-    "projectSlug": "the-thing-the-boardgame--the-cardgame",
-    "title": "A new language added!",
-    "excerpt": "A new language is now available for Language-Dependent products, but under specific conditions.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/f8143b41-68b9-41bb-acdf-2894f0ceda2a.png",
-    "publishedAt": "2026-11-18T13:54:38.507Z",
-    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/12",
     "sequenceNumber": 12
   },
   {
@@ -156,19 +221,6 @@
     "sequenceNumber": 2
   },
   {
-    "id": 50499,
-    "projectId": 8534,
-    "projectName": "Call of Cthulhu: Old Ones Origins",
-    "projectCreator": "chaosium",
-    "projectSlug": "call-of-cthulhu-old-ones-origins",
-    "title": "An Update",
-    "excerpt": "An Update",
-    "image": "https://imgcdn.gamefound.com/projectimage/projects/8534/836e992f-a1f0-4a32-9de6-4ad0c05f95dd.png",
-    "publishedAt": "2026-11-15T21:06:04.32Z",
-    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/31",
-    "sequenceNumber": 31
-  },
-  {
     "id": 50479,
     "projectId": 12995,
     "projectName": "Too Little Time",
@@ -182,19 +234,6 @@
     "sequenceNumber": 14
   },
   {
-    "id": 50375,
-    "projectId": 6398,
-    "projectName": "Feed the Kraken: Sea of Shadows",
-    "projectCreator": "funtails-gmbh",
-    "projectSlug": "feed-the-kraken-sea-of-shadows",
-    "title": "Pledge Improvements",
-    "excerpt": "New single items available - and a free upgrade!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6398/5935bc6a-5974-4ca7-840f-87a8233a670d.png",
-    "publishedAt": "2026-11-13T14:18:28.3Z",
-    "url": "https://gamefound.com/en/projects/funtails-gmbh/feed-the-kraken-sea-of-shadows/updates/8",
-    "sequenceNumber": 8
-  },
-  {
     "id": 50416,
     "projectId": 8203,
     "projectName": "Dead Men Tales",
@@ -206,19 +245,6 @@
     "publishedAt": "2026-11-13T14:05:09.387Z",
     "url": "https://gamefound.com/en/projects/asmodee/dead-men-tales/updates/121",
     "sequenceNumber": 121
-  },
-  {
-    "id": 40209,
-    "projectId": 9719,
-    "projectName": "The Lord of the Rings: Ascension",
-    "projectCreator": "stoneblade",
-    "projectSlug": "the-lord-of-the-rings-ascension",
-    "title": "Design Diary: The Lord of the Rings: The Two Towers™ - Ascension™ (Part 1)",
-    "excerpt": "Learn how The Lord of the Rings: The Two Towers - Ascension was designed.\nBy Sam Travis",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9719/4e5b3918-bdee-4cff-ae81-e15e179bf5b9.png",
-    "publishedAt": "2026-11-12T18:23:16.433Z",
-    "url": "https://gamefound.com/en/projects/stoneblade/the-lord-of-the-rings-ascension/updates/49",
-    "sequenceNumber": 49
   },
   {
     "id": 50232,
@@ -375,32 +401,6 @@
     "publishedAt": "2026-11-06T13:00:00Z",
     "url": "https://gamefound.com/en/projects/asmodee/dmd-forbidden-reaches/updates/100",
     "sequenceNumber": 100
-  },
-  {
-    "id": 50062,
-    "projectId": 11178,
-    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
-    "projectCreator": "xplored",
-    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
-    "title": "Campaign Closed!",
-    "excerpt": "A brief update on the official close of the campaign!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/c554d344-fc70-42a2-a231-73ed4d6755c3.png",
-    "publishedAt": "2026-11-05T16:16:29.27Z",
-    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/18",
-    "sequenceNumber": 18
-  },
-  {
-    "id": 50036,
-    "projectId": 13329,
-    "projectName": "Transformers: Resistance",
-    "projectCreator": "ocgames",
-    "projectSlug": "transformers-resistance",
-    "title": "BUMBLEBEE: Small Hero, Big Impact!",
-    "excerpt": "Get a closer look at one of the CORE BOX's iconic heroes! Discover what makes Bumblebee a unique addition to the Autobot team and how his special role brings new possibilities to the battle for Cybertron.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13329/d31df94e-df35-4008-97e2-9691e0f2514e.jpg",
-    "publishedAt": "2026-11-05T15:00:00Z",
-    "url": "https://gamefound.com/en/projects/ocgames/transformers-resistance/updates/2",
-    "sequenceNumber": 2
   },
   {
     "id": 49853,
