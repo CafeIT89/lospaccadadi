@@ -1,5 +1,96 @@
 [
   {
+    "id": 50773,
+    "projectId": 10066,
+    "projectName": "Eldfall Chronicles: Apocrypha",
+    "projectCreator": "eldfall-chronicles",
+    "projectSlug": "eldfall-chronicles-apocrypha",
+    "title": "Journey Tracker | Behind the Expedition",
+    "excerpt": "Today, we're exploring the Journey Tracker and how Taint and rival parties affect your adventure! We'll also take a look behind the scenes of the expedition, how the Guild organizes its operations, and the mysterious Guildsworn Witch who oversees it all!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/0faa86f4-87a8-4bd8-b82a-f3ad4fe0c856.jpg",
+    "publishedAt": "2026-11-20T18:28:44.043Z",
+    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/17",
+    "sequenceNumber": 17
+  },
+  {
+    "id": 50776,
+    "projectId": 8333,
+    "projectName": "20 Strong: Awaken Realms – Nemesis",
+    "projectCreator": "chip-theory-games",
+    "projectSlug": "20-strong-awaken-realms-nemesis",
+    "title": "ALL CLEAR on fulfillment! One final thank you!",
+    "excerpt": "That's a wrap on 20 Strong Awaken Realms!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8333/e5819846-d466-450f-9879-ddc933a368fa.webp",
+    "publishedAt": "2026-11-20T17:47:30.16Z",
+    "url": "https://gamefound.com/en/projects/chip-theory-games/20-strong-awaken-realms-nemesis/updates/18",
+    "sequenceNumber": 18
+  },
+  {
+    "id": 50775,
+    "projectId": 8499,
+    "projectName": "Nemesis TTRPG",
+    "projectCreator": "studio-agate",
+    "projectSlug": "nemesis-ttrpg",
+    "title": "Dev Diary #8: Playtesting Begins!",
+    "excerpt": "In this eighth Dev Diary, we open the first NEMESIS TTRPG community playtest! We introduce the first scenario available for testing in both solo and multiplayer, explain how to take part, and share what comes next before the campaign.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8499/0f652b73-7d14-47e1-8880-cc65bf72c0c0.jpg",
+    "publishedAt": "2026-11-20T17:29:46.55Z",
+    "url": "https://gamefound.com/en/projects/studio-agate/nemesis-ttrpg/updates/8",
+    "sequenceNumber": 8
+  },
+  {
+    "id": 50756,
+    "projectId": 8199,
+    "projectName": "Dust in the Wind",
+    "projectCreator": "phalanx",
+    "projectSlug": "dust-in-the-wind",
+    "title": "Into the West, the Wild West",
+    "excerpt": "Find out everything there is to know about the first expansion to Dust in the Wind!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8199/0b49e847-bb98-47d0-8f9d-9fb0a5e132f3.png",
+    "publishedAt": "2026-11-20T17:29:00Z",
+    "url": "https://gamefound.com/en/projects/phalanx/dust-in-the-wind/updates/9",
+    "sequenceNumber": 9
+  },
+  {
+    "id": 50753,
+    "projectId": 10031,
+    "projectName": "The Thing: The Boardgame & The Cardgame",
+    "projectCreator": "pendragon-game-studio-srl",
+    "projectSlug": "the-thing-the-boardgame--the-cardgame",
+    "title": "Halfway Through the Campaign",
+    "excerpt": "Mid-Campaign recap and updates on Exclusive Characters Standees.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/070b10aa-9d42-4df8-a06a-73f7596f83c7.png",
+    "publishedAt": "2026-11-20T16:00:00Z",
+    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/14",
+    "sequenceNumber": 14
+  },
+  {
+    "id": 50616,
+    "projectId": 4792,
+    "projectName": "DMD: Forbidden Reaches",
+    "projectCreator": "asmodee",
+    "projectSlug": "dmd-forbidden-reaches",
+    "title": "Production Update",
+    "excerpt": "Print Proofs, Dream Dice, New Plastics, and a Fully Assembled Forbidden Reaches!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4792/3176d485-7c88-4794-8fd3-53464f7ef675.png",
+    "publishedAt": "2026-11-20T13:02:00Z",
+    "url": "https://gamefound.com/en/projects/asmodee/dmd-forbidden-reaches/updates/101",
+    "sequenceNumber": 101
+  },
+  {
+    "id": 50702,
+    "projectId": 5385,
+    "projectName": "Dragon Eclipse: The Grand Quest",
+    "projectCreator": "awaken-realms",
+    "projectSlug": "dragon-eclipse-the-grand-quest",
+    "title": "1st wave (OG Dragon Eclipse & MA) SHIPPING UPDATE #4",
+    "excerpt": "We're back with the latest 1st wave shipping report! Learn more about the current progress.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5385/f439cf10-f37f-4473-9a4f-38e1a6abb5be.png",
+    "publishedAt": "2026-11-20T12:50:00Z",
+    "url": "https://gamefound.com/en/projects/awaken-realms/dragon-eclipse-the-grand-quest/updates/29",
+    "sequenceNumber": 29
+  },
+  {
     "id": 50728,
     "projectId": 9823,
     "projectName": "Fable Quest",
@@ -39,19 +130,6 @@
     "sequenceNumber": 19
   },
   {
-    "id": 50706,
-    "projectId": 8199,
-    "projectName": "Dust in the Wind",
-    "projectCreator": "phalanx",
-    "projectSlug": "dust-in-the-wind",
-    "title": "Meet your Characters",
-    "excerpt": "Meet the six core heroes, explore their abilities and starting gear, and choose who rides with you.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8199/f80bba33-1a90-462a-979a-2187b40d88ad.png",
-    "publishedAt": "2026-11-19T17:19:57.147Z",
-    "url": "https://gamefound.com/en/projects/phalanx/dust-in-the-wind/updates/8",
-    "sequenceNumber": 8
-  },
-  {
     "id": 40210,
     "projectId": 9719,
     "projectName": "The Lord of the Rings: Ascension",
@@ -65,19 +143,6 @@
     "sequenceNumber": 50
   },
   {
-    "id": 50698,
-    "projectId": 10066,
-    "projectName": "Eldfall Chronicles: Apocrypha",
-    "projectCreator": "eldfall-chronicles",
-    "projectSlug": "eldfall-chronicles-apocrypha",
-    "title": "Meet the Characters | Their Stories & Abilities",
-    "excerpt": "From the transformations of the four starting Heroes to the mysterious pasts of Zhu-Yan and Titania, we're taking a closer look at the characters joining the expedition!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/c5603986-7e80-440f-bd62-dec32e705458.jpg",
-    "publishedAt": "2026-11-19T15:08:32.6Z",
-    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/16",
-    "sequenceNumber": 16
-  },
-  {
     "id": 50490,
     "projectId": 6398,
     "projectName": "Feed the Kraken: Sea of Shadows",
@@ -89,19 +154,6 @@
     "publishedAt": "2026-11-19T14:37:35.657Z",
     "url": "https://gamefound.com/en/projects/funtails-gmbh/feed-the-kraken-sea-of-shadows/updates/9",
     "sequenceNumber": 9
-  },
-  {
-    "id": 50680,
-    "projectId": 10031,
-    "projectName": "The Thing: The Boardgame & The Cardgame",
-    "projectCreator": "pendragon-game-studio-srl",
-    "projectSlug": "the-thing-the-boardgame--the-cardgame",
-    "title": "Another new language added, once again!",
-    "excerpt": "German is now available for Language-Dependent products, but under specific conditions.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/671432b0-bd3f-4055-998f-2579a2c8b1c5.png",
-    "publishedAt": "2026-11-19T14:00:12.927Z",
-    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/13",
-    "sequenceNumber": 13
   },
   {
     "id": 50688,
@@ -364,19 +416,6 @@
     "sequenceNumber": 23
   },
   {
-    "id": 50041,
-    "projectId": 5385,
-    "projectName": "Dragon Eclipse: The Grand Quest",
-    "projectCreator": "awaken-realms",
-    "projectSlug": "dragon-eclipse-the-grand-quest",
-    "title": "1st wave (OG Dragon Eclipse & MA) SHIPPING UPDATE #3 | Deeper look into the Mystling Packs",
-    "excerpt": "Welcome, Tamers! Check out today's update for the latest news on the 1st wave fulfillment progress. Also, learn more about the Mystling Pack expansions!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5385/1e87c13e-bda7-4087-b271-b92a4ca4cbc2.jpg",
-    "publishedAt": "2026-11-06T20:06:37.113Z",
-    "url": "https://gamefound.com/en/projects/awaken-realms/dragon-eclipse-the-grand-quest/updates/28",
-    "sequenceNumber": 28
-  },
-  {
     "id": 50105,
     "projectId": 8492,
     "projectName": "Heroes of Might and Magic III: Factory, Bulwark & Forge Expansions",
@@ -388,19 +427,6 @@
     "publishedAt": "2026-11-06T15:00:00Z",
     "url": "https://gamefound.com/en/projects/archon-studio/heroes-of-might-and-magic-iii-the-board-game-factory-bulwark-forge-expansions/updates/19",
     "sequenceNumber": 19
-  },
-  {
-    "id": 50087,
-    "projectId": 4792,
-    "projectName": "DMD: Forbidden Reaches",
-    "projectCreator": "asmodee",
-    "projectSlug": "dmd-forbidden-reaches",
-    "title": "Production Update",
-    "excerpt": "E-proof reviews complete! First new plastic samples! BigThulhu and Bigzilla progress!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4792/7471c270-4705-4442-b43f-d828a6bfaaab.png",
-    "publishedAt": "2026-11-06T13:00:00Z",
-    "url": "https://gamefound.com/en/projects/asmodee/dmd-forbidden-reaches/updates/100",
-    "sequenceNumber": 100
   },
   {
     "id": 49853,
@@ -830,32 +856,6 @@
     "publishedAt": "2026-09-09T12:00:34.93Z",
     "url": "https://gamefound.com/en/projects/go-on-board/tekken-the-board-game/updates/32",
     "sequenceNumber": 32
-  },
-  {
-    "id": 44061,
-    "projectId": 8499,
-    "projectName": "Nemesis TTRPG",
-    "projectCreator": "studio-agate",
-    "projectSlug": "nemesis-ttrpg",
-    "title": "Dev Diary #7: Project Update and New Launch Date",
-    "excerpt": "In this seventh Dev Diary, we share an important project update, including a new target launch window for January 2027. We also look at the latest progress on the TTRPG dev, what’s coming this autumn and a memory from this summer :)",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8499/ac04e08b-d72e-4d0c-98c1-671dddbd5a84.jpg",
-    "publishedAt": "2026-09-07T15:02:07.62Z",
-    "url": "https://gamefound.com/en/projects/studio-agate/nemesis-ttrpg/updates/7",
-    "sequenceNumber": 7
-  },
-  {
-    "id": 42866,
-    "projectId": 8333,
-    "projectName": "20 Strong: Awaken Realms – Nemesis",
-    "projectCreator": "chip-theory-games",
-    "projectSlug": "20-strong-awaken-realms-nemesis",
-    "title": "Fulfillment Update!",
-    "excerpt": "The end of fulfillment fast approaches!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8333/f2288364-8137-4e74-a00c-5e38716dea8f.webp",
-    "publishedAt": "2026-09-01T21:50:02.677Z",
-    "url": "https://gamefound.com/en/projects/chip-theory-games/20-strong-awaken-realms-nemesis/updates/17",
-    "sequenceNumber": 17
   },
   {
     "id": 40332,
