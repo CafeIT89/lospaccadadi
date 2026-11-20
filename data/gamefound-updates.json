@@ -1,5 +1,18 @@
 [
   {
+    "id": 50728,
+    "projectId": 9823,
+    "projectName": "Fable Quest",
+    "projectCreator": "tabletop-tycoon",
+    "projectSlug": "fable-quest",
+    "title": "Endgame is upon us, Heroes!",
+    "excerpt": "Over 1,000 heroes have answered the King's call! Thank you for making this quest such an incredible journey. Your support means everything to us.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9823/02fdbf4f-d8e9-41a0-924c-5a01064a8bec.png",
+    "publishedAt": "2026-11-20T01:18:48.817Z",
+    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/18",
+    "sequenceNumber": 18
+  },
+  {
     "id": 50716,
     "projectId": 8534,
     "projectName": "Call of Cthulhu: Old Ones Origins",
@@ -141,19 +154,6 @@
     "publishedAt": "2026-11-18T15:00:00Z",
     "url": "https://gamefound.com/en/projects/archon-studio/quake-the-board-game/updates/12",
     "sequenceNumber": 12
-  },
-  {
-    "id": 50595,
-    "projectId": 9823,
-    "projectName": "Fable Quest",
-    "projectCreator": "tabletop-tycoon",
-    "projectSlug": "fable-quest",
-    "title": "48 Hours Remaining!",
-    "excerpt": "The Fable Quest Campaign closes Thursday, November 19th at 8:00 PM EST",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9823/440389e7-1d23-4bf5-b215-5cb0a21c412f.png",
-    "publishedAt": "2026-11-18T01:00:00Z",
-    "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/17",
-    "sequenceNumber": 17
   },
   {
     "id": 50608,

@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-19T20:31:09.625Z",
+  "updatedAt": "2026-11-20T07:07:55.448Z",
   "projects": [
     {
       "name": "Eldfall Chronicles: Apocrypha",
       "creator": "Freecompany",
       "url": "https://gamefound.com/projects/eldfall-chronicles/eldfall-chronicles-apocrypha",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/10066/472c624c-7229-40e3-a019-49e7569fa665.jpg",
-      "fundsGathered": 547186.35,
+      "fundsGathered": 562332.7,
       "currency": "EUR",
-      "backerCount": 1477,
+      "backerCount": 1518,
       "campaignEndDate": "2026-11-24T21:00:00Z"
     },
     {
@@ -16,9 +16,9 @@
       "creator": "MODIPHIUS ENTERTAINMENT",
       "url": "https://gamefound.com/projects/modiphius/terry-pratchetts-discworld-rpg-adventures-in-lancre-and-uberwald",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11677/63916977-03fa-451f-af47-fe0392b17a16.png",
-      "fundsGathered": 472848.84,
+      "fundsGathered": 478188.84,
       "currency": "GBP",
-      "backerCount": 2489,
+      "backerCount": 2511,
       "campaignEndDate": "2026-11-25T20:00:00Z"
     },
     {
@@ -26,9 +26,9 @@
       "creator": "Board&Dice",
       "url": "https://gamefound.com/projects/board-and-dice/marco-polo-deluxe-master-set",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8165/7e1de4c8-ab5f-4784-aaeb-a533bf194393.png",
-      "fundsGathered": 451857.16,
+      "fundsGathered": 461144.34,
       "currency": "EUR",
-      "backerCount": 2806,
+      "backerCount": 2860,
       "campaignEndDate": "2026-11-26T20:30:00Z"
     },
     {
@@ -36,9 +36,9 @@
       "creator": "Pendragon Game Studio srl",
       "url": "https://gamefound.com/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/10031/70fed4be-3f15-4d8b-ba54-b6b719be76f5.png",
-      "fundsGathered": 447328.91,
+      "fundsGathered": 452686.27,
       "currency": "EUR",
-      "backerCount": 3284,
+      "backerCount": 3329,
       "campaignEndDate": "2026-12-01T16:00:00Z"
     },
     {
@@ -46,9 +46,9 @@
       "creator": "Funtails GmbH",
       "url": "https://gamefound.com/projects/funtails-gmbh/feed-the-kraken-sea-of-shadows",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/6398/8613d5c7-7d05-4a48-9f4b-aaf77406684a.png",
-      "fundsGathered": 259643.42,
+      "fundsGathered": 261874.82,
       "currency": "EUR",
-      "backerCount": 1689,
+      "backerCount": 1702,
       "campaignEndDate": "2026-12-01T17:00:00Z"
     }
   ]
