@@ -1,5 +1,18 @@
 [
   {
+    "id": 50785,
+    "projectId": 5640,
+    "projectName": "Ronin's Revenge",
+    "projectCreator": "dragori-games",
+    "projectSlug": "ronins-revenge",
+    "title": "Game Design Is Complete. Production Begins Next Month with the Miniatures.",
+    "excerpt": "I’ll personally review each sculpt, and we’re planning at least 120 playtests to fine-tune hero powers, balance Boss fights, and check the story’s branching paths.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5640/01d1964a-9709-4347-abe3-9773e6bcab8e.jpeg",
+    "publishedAt": "2026-11-21T05:23:39.6Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/ronins-revenge/updates/18",
+    "sequenceNumber": 18
+  },
+  {
     "id": 50773,
     "projectId": 10066,
     "projectName": "Eldfall Chronicles: Apocrypha",
@@ -518,19 +531,6 @@
     "publishedAt": "2026-11-02T21:22:45.367Z",
     "url": "https://gamefound.com/en/projects/devir/claustrophobia-1692/updates/24",
     "sequenceNumber": 24
-  },
-  {
-    "id": 49758,
-    "projectId": 5640,
-    "projectName": "Ronin's Revenge",
-    "projectCreator": "dragori-games",
-    "projectSlug": "ronins-revenge",
-    "title": "Two Bosses, Two Very Different Fights",
-    "excerpt": "Ryūkei's Heat and the Princess' Dancers.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5640/c7e88dd2-c630-4f8e-b66a-29ab31cee242.jpeg",
-    "publishedAt": "2026-11-01T01:05:52.073Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/ronins-revenge/updates/17",
-    "sequenceNumber": 17
   },
   {
     "id": 49751,
