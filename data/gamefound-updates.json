@@ -1,5 +1,31 @@
 [
   {
+    "id": 50787,
+    "projectId": 13010,
+    "projectName": "Dice Valley",
+    "projectCreator": "smart-flamingo",
+    "projectSlug": "dice-valley",
+    "title": "BOARD AND PLAYMAT",
+    "excerpt": "In this update we take a closer look at the both sides of the playing board and the BATTLEMAP playmat add-on.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13010/39c2dc06-2c59-4d59-a38d-bf8481ed3514.png",
+    "publishedAt": "2026-11-21T21:53:24.487Z",
+    "url": "https://gamefound.com/en/projects/smart-flamingo/dice-valley/updates/5",
+    "sequenceNumber": 5
+  },
+  {
+    "id": 50793,
+    "projectId": 10066,
+    "projectName": "Eldfall Chronicles: Apocrypha",
+    "projectCreator": "eldfall-chronicles",
+    "projectSlug": "eldfall-chronicles-apocrypha",
+    "title": "Queen of Cinders | Gravewyrm Unlocked!",
+    "excerpt": "Discover the tragic tale of the Queen of Cinders, the secrets of the Undying Flame, and what awaits your Heroes in this new expansion!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/bc76c7a2-b4ba-4cf1-83c0-e9b51df7c265.jpg",
+    "publishedAt": "2026-11-21T19:34:44.807Z",
+    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/18",
+    "sequenceNumber": 18
+  },
+  {
     "id": 50785,
     "projectId": 5640,
     "projectName": "Ronin's Revenge",
@@ -11,19 +37,6 @@
     "publishedAt": "2026-11-21T05:23:39.6Z",
     "url": "https://gamefound.com/en/projects/dragori-games/ronins-revenge/updates/18",
     "sequenceNumber": 18
-  },
-  {
-    "id": 50773,
-    "projectId": 10066,
-    "projectName": "Eldfall Chronicles: Apocrypha",
-    "projectCreator": "eldfall-chronicles",
-    "projectSlug": "eldfall-chronicles-apocrypha",
-    "title": "Journey Tracker | Behind the Expedition",
-    "excerpt": "Today, we're exploring the Journey Tracker and how Taint and rival parties affect your adventure! We'll also take a look behind the scenes of the expedition, how the Guild organizes its operations, and the mysterious Guildsworn Witch who oversees it all!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/0faa86f4-87a8-4bd8-b82a-f3ad4fe0c856.jpg",
-    "publishedAt": "2026-11-20T18:28:44.043Z",
-    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/17",
-    "sequenceNumber": 17
   },
   {
     "id": 50776,
@@ -193,19 +206,6 @@
     "publishedAt": "2026-11-18T19:30:16.117Z",
     "url": "https://gamefound.com/en/projects/awaken-realms/scoundrels/updates/6",
     "sequenceNumber": 6
-  },
-  {
-    "id": 50650,
-    "projectId": 13010,
-    "projectName": "Dice Valley",
-    "projectCreator": "smart-flamingo",
-    "projectSlug": "dice-valley",
-    "title": "AFTER 24 HOURS!",
-    "excerpt": "Where we are & where we go!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13010/681957ed-cd4b-4655-ae41-c60d5051a675.png",
-    "publishedAt": "2026-11-18T17:35:39.05Z",
-    "url": "https://gamefound.com/en/projects/smart-flamingo/dice-valley/updates/4",
-    "sequenceNumber": 4
   },
   {
     "id": 50506,
