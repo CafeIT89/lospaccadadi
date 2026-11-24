@@ -1,5 +1,83 @@
 [
   {
+    "id": 50883,
+    "projectId": 10066,
+    "projectName": "Eldfall Chronicles: Apocrypha",
+    "projectCreator": "eldfall-chronicles",
+    "projectSlug": "eldfall-chronicles-apocrypha",
+    "title": "ENDGAME IS LIVE! | New Add-Ons & Rewards!",
+    "excerpt": "One final quest awaits! Endgame begins, bringing new content and rewards!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/96f3c5f6-1b8f-4d28-9498-9a98da9e7670.jpg",
+    "publishedAt": "2026-11-24T20:50:00Z",
+    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/21",
+    "sequenceNumber": 21
+  },
+  {
+    "id": 50911,
+    "projectId": 8499,
+    "projectName": "Nemesis TTRPG",
+    "projectCreator": "studio-agate",
+    "projectSlug": "nemesis-ttrpg",
+    "title": "Dev Diary #9: Character Creation, Playtest & Nautiloids",
+    "excerpt": "In this ninth Dev Diary, we take a first look at character creation in NEMESIS TTRPG. We also share an update on the ongoing community playtest and open a new survey about the Nautiloid miniature for the Deluxe Edition!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8499/07a20e6d-ac84-47f4-bd32-819cb6bb52ad.jpg",
+    "publishedAt": "2026-11-24T20:31:21.453Z",
+    "url": "https://gamefound.com/en/projects/studio-agate/nemesis-ttrpg/updates/9",
+    "sequenceNumber": 9
+  },
+  {
+    "id": 50905,
+    "projectId": 11178,
+    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
+    "projectCreator": "xplored",
+    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
+    "title": "Late Pledge Now Open!",
+    "excerpt": "A post-campaign update on the launch of the Late Pledge.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/34ddbbac-81f9-4afb-8eb6-eec44887807b.png",
+    "publishedAt": "2026-11-24T17:00:00Z",
+    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/20",
+    "sequenceNumber": 20
+  },
+  {
+    "id": 50886,
+    "projectId": 13010,
+    "projectName": "Dice Valley",
+    "projectCreator": "smart-flamingo",
+    "projectSlug": "dice-valley",
+    "title": "SPANISH VERSION UNLOCKED / NEW ADD-ONS",
+    "excerpt": "We've done it! The Spanish version has been unlocked! We've also added new add-ons.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13010/fb2d6627-2986-4530-aadb-aa8f8fe110ce.png",
+    "publishedAt": "2026-11-24T15:38:14.83Z",
+    "url": "https://gamefound.com/en/projects/smart-flamingo/dice-valley/updates/7",
+    "sequenceNumber": 7
+  },
+  {
+    "id": 50892,
+    "projectId": 10031,
+    "projectName": "The Thing: The Boardgame & The Cardgame",
+    "projectCreator": "pendragon-game-studio-srl",
+    "projectSlug": "the-thing-the-boardgame--the-cardgame",
+    "title": "The Thing evolves: discover the Updated Rulebook!",
+    "excerpt": "The draft of the Updated Rules for The Thing: The Boardgame is now available for download!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/ded696b9-8a43-42b2-9db0-7d92620ac402.png",
+    "publishedAt": "2026-11-24T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/17",
+    "sequenceNumber": 17
+  },
+  {
+    "id": 50877,
+    "projectId": 13309,
+    "projectName": "Biozero: Tokyo",
+    "projectCreator": "giza-games",
+    "projectSlug": "biozero-tokyo",
+    "title": "[Surprise Gifts] New Zombies Are Joining The Horde!",
+    "excerpt": "We've prepared a couple of surprises for you!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13309/ae072be4-eeab-4659-9e55-4ebabca9833f.jpg",
+    "publishedAt": "2026-11-24T12:08:01.073Z",
+    "url": "https://gamefound.com/en/projects/giza-games/biozero-tokyo/updates/4",
+    "sequenceNumber": 4
+  },
+  {
     "id": 50870,
     "projectId": 10157,
     "projectName": "Aeon's End: System Overload",
@@ -52,45 +130,6 @@
     "sequenceNumber": 11
   },
   {
-    "id": 50839,
-    "projectId": 10066,
-    "projectName": "Eldfall Chronicles: Apocrypha",
-    "projectCreator": "eldfall-chronicles",
-    "projectSlug": "eldfall-chronicles-apocrypha",
-    "title": "The Final 24 Hours! | Endgame & New Unlocks!",
-    "excerpt": "The final 24 hours are here! Discover how Endgame works, unlock a growing Art & Lore Book, and grab some exclusive rewards as we keep the adventure going!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/bde18f07-ff05-40a1-a705-fe45f6c37920.jpg",
-    "publishedAt": "2026-11-23T16:15:49.643Z",
-    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/19",
-    "sequenceNumber": 19
-  },
-  {
-    "id": 50840,
-    "projectId": 10031,
-    "projectName": "The Thing: The Boardgame & The Cardgame",
-    "projectCreator": "pendragon-game-studio-srl",
-    "projectSlug": "the-thing-the-boardgame--the-cardgame",
-    "title": "A BIG Surprise",
-    "excerpt": "Something really Big is coming!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/cd1d1d74-418e-4e6c-a86c-68d660d5c408.png",
-    "publishedAt": "2026-11-23T15:48:38.967Z",
-    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/16",
-    "sequenceNumber": 16
-  },
-  {
-    "id": 50825,
-    "projectId": 13010,
-    "projectName": "Dice Valley",
-    "projectCreator": "smart-flamingo",
-    "projectSlug": "dice-valley",
-    "title": "LANGUAGE VERSION SELECTION",
-    "excerpt": "ONLY for backers who would like to receive the Spanish, French, or Italian version of the game.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13010/bb69569a-8192-4a3b-aad4-d300ca066c42.jpg",
-    "publishedAt": "2026-11-23T09:40:03.953Z",
-    "url": "https://gamefound.com/en/projects/smart-flamingo/dice-valley/updates/6",
-    "sequenceNumber": 6
-  },
-  {
     "id": 50785,
     "projectId": 5640,
     "projectName": "Ronin's Revenge",
@@ -115,19 +154,6 @@
     "publishedAt": "2026-11-20T17:47:30.16Z",
     "url": "https://gamefound.com/en/projects/chip-theory-games/20-strong-awaken-realms-nemesis/updates/18",
     "sequenceNumber": 18
-  },
-  {
-    "id": 50775,
-    "projectId": 8499,
-    "projectName": "Nemesis TTRPG",
-    "projectCreator": "studio-agate",
-    "projectSlug": "nemesis-ttrpg",
-    "title": "Dev Diary #8: Playtesting Begins!",
-    "excerpt": "In this eighth Dev Diary, we open the first NEMESIS TTRPG community playtest! We introduce the first scenario available for testing in both solo and multiplayer, explain how to take part, and share what comes next before the campaign.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8499/0f652b73-7d14-47e1-8880-cc65bf72c0c0.jpg",
-    "publishedAt": "2026-11-20T17:29:46.55Z",
-    "url": "https://gamefound.com/en/projects/studio-agate/nemesis-ttrpg/updates/8",
-    "sequenceNumber": 8
   },
   {
     "id": 50616,
@@ -167,19 +193,6 @@
     "publishedAt": "2026-11-20T01:18:48.817Z",
     "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/18",
     "sequenceNumber": 18
-  },
-  {
-    "id": 50701,
-    "projectId": 11178,
-    "projectName": "The Bad Karmas and the Curse of Cthulhu: Volume 6 + The Curse of Competition DLC",
-    "projectCreator": "xplored",
-    "projectSlug": "the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc",
-    "title": "Late Pledge and Teburu Store Update!",
-    "excerpt": "After a successful campaign, then next step will be the opening of the Late Pledge, which we plan to open on Tuesday, November 24th!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11178/a69b8957-65f7-4bdf-8677-b1955a6315c6.png",
-    "publishedAt": "2026-11-19T17:30:00Z",
-    "url": "https://gamefound.com/en/projects/xplored/the-bad-karmas-and-the-curse-of-cthulhu-volume-6--curse-of-competition-dlc/updates/19",
-    "sequenceNumber": 19
   },
   {
     "id": 40210,
@@ -245,19 +258,6 @@
     "publishedAt": "2026-11-18T15:00:00Z",
     "url": "https://gamefound.com/en/projects/archon-studio/quake-the-board-game/updates/12",
     "sequenceNumber": 12
-  },
-  {
-    "id": 50608,
-    "projectId": 13309,
-    "projectName": "Biozero: Tokyo",
-    "projectCreator": "giza-games",
-    "projectSlug": "biozero-tokyo",
-    "title": "Another 2 Stretch Goals Unlocked!",
-    "excerpt": "New Survivor is ready to join the fight!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13309/206278b6-0af5-4732-825b-30051f382319.jpg",
-    "publishedAt": "2026-11-17T21:42:38.057Z",
-    "url": "https://gamefound.com/en/projects/giza-games/biozero-tokyo/updates/3",
-    "sequenceNumber": 3
   },
   {
     "id": 50264,
