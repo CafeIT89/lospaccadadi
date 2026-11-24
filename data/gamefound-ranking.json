@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-23T23:50:09.310Z",
+  "updatedAt": "2026-11-24T09:48:42.137Z",
   "projects": [
     {
       "name": "Eldfall Chronicles: Apocrypha",
       "creator": "Freecompany",
       "url": "https://gamefound.com/projects/eldfall-chronicles/eldfall-chronicles-apocrypha",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/10066/472c624c-7229-40e3-a019-49e7569fa665.jpg",
-      "fundsGathered": 737027.88,
+      "fundsGathered": 764720.24,
       "currency": "EUR",
-      "backerCount": 1998,
+      "backerCount": 2081,
       "campaignEndDate": "2026-11-24T21:00:00Z"
     },
     {
@@ -16,9 +16,9 @@
       "creator": "MODIPHIUS ENTERTAINMENT",
       "url": "https://gamefound.com/projects/modiphius/terry-pratchetts-discworld-rpg-adventures-in-lancre-and-uberwald",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11677/63916977-03fa-451f-af47-fe0392b17a16.png",
-      "fundsGathered": 528882.91,
+      "fundsGathered": 539855.22,
       "currency": "GBP",
-      "backerCount": 2819,
+      "backerCount": 2889,
       "campaignEndDate": "2026-11-25T20:00:00Z"
     },
     {
@@ -26,9 +26,9 @@
       "creator": "Board&Dice",
       "url": "https://gamefound.com/projects/board-and-dice/marco-polo-deluxe-master-set",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8165/7e1de4c8-ab5f-4784-aaeb-a533bf194393.png",
-      "fundsGathered": 517499.05,
+      "fundsGathered": 527368.61,
       "currency": "EUR",
-      "backerCount": 3174,
+      "backerCount": 3209,
       "campaignEndDate": "2026-11-26T20:30:00Z"
     },
     {
@@ -36,20 +36,20 @@
       "creator": "Pendragon Game Studio srl",
       "url": "https://gamefound.com/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/10031/70fed4be-3f15-4d8b-ba54-b6b719be76f5.png",
-      "fundsGathered": 501931.39,
+      "fundsGathered": 506260.28,
       "currency": "EUR",
-      "backerCount": 3617,
+      "backerCount": 3637,
       "campaignEndDate": "2026-12-01T16:00:00Z"
     },
     {
-      "name": "Erune - Echoes of Hollow Woods",
-      "creator": "Arkada Studio",
-      "url": "https://gamefound.com/projects/arkada-studio/erune---echoes-of-hollow-woods",
-      "image": "https://imgcdn.gamefound.com/projectimage/projects/12950/3287ed71-b3a6-4a07-bf18-e390b123ba4a.jpg",
-      "fundsGathered": 323177.73,
+      "name": "Feed the Kraken: Black Box & Sea of Shadows",
+      "creator": "Funtails GmbH",
+      "url": "https://gamefound.com/projects/funtails-gmbh/feed-the-kraken-sea-of-shadows",
+      "image": "https://imgcdn.gamefound.com/projectimage/projects/6398/8613d5c7-7d05-4a48-9f4b-aaf77406684a.png",
+      "fundsGathered": 283723.53,
       "currency": "EUR",
-      "backerCount": 1695,
-      "campaignEndDate": "2026-11-23T23:56:51.297Z"
+      "backerCount": 1839,
+      "campaignEndDate": "2026-12-01T17:00:00Z"
     }
   ]
 }

@@ -1,5 +1,44 @@
 [
   {
+    "id": 50870,
+    "projectId": 10157,
+    "projectName": "Aeon's End: System Overload",
+    "projectCreator": "indie-boards-and-cards",
+    "projectSlug": "aeons-end-system-overload",
+    "title": "Production Complete.  Pledge Manager closes in 48 Hours.  Heroes of Gravehold project ends in under 24 hours.",
+    "excerpt": "One step closer to getting your games to you.",
+    "image": "https://imgcdn.gamefound.com/projectimage/projects/10157/13c19376-b49e-4de1-a0f4-386946f230ca.jpg",
+    "publishedAt": "2026-11-24T03:07:12.407Z",
+    "url": "https://gamefound.com/en/projects/indie-boards-and-cards/aeons-end-system-overload/updates/18",
+    "sequenceNumber": 18
+  },
+  {
+    "id": 50869,
+    "projectId": 8534,
+    "projectName": "Call of Cthulhu: Old Ones Origins",
+    "projectCreator": "chaosium",
+    "projectSlug": "call-of-cthulhu-old-ones-origins",
+    "title": "Update 33",
+    "excerpt": "Update 33",
+    "image": "https://imgcdn.gamefound.com/projectimage/projects/8534/836e992f-a1f0-4a32-9de6-4ad0c05f95dd.png",
+    "publishedAt": "2026-11-24T02:08:38.607Z",
+    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/33",
+    "sequenceNumber": 33
+  },
+  {
+    "id": 50868,
+    "projectId": 6096,
+    "projectName": "The Elder Scrolls: Heroes of Tamriel",
+    "projectCreator": "chip-theory-games",
+    "projectSlug": "the-elder-scrolls-heroes-of-tamriel",
+    "title": "The Guild Vault Is Back...",
+    "excerpt": "*Cue \"O Fortuna\" from Carmina Burana*",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6096/46100963-dc82-4827-b850-e51083e5ee78.png",
+    "publishedAt": "2026-11-24T02:01:37.663Z",
+    "url": "https://gamefound.com/en/projects/chip-theory-games/the-elder-scrolls-heroes-of-tamriel/updates/27",
+    "sequenceNumber": 27
+  },
+  {
     "id": 50861,
     "projectId": 8199,
     "projectName": "Dust in the Wind",
@@ -128,19 +167,6 @@
     "publishedAt": "2026-11-20T01:18:48.817Z",
     "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/18",
     "sequenceNumber": 18
-  },
-  {
-    "id": 50716,
-    "projectId": 8534,
-    "projectName": "Call of Cthulhu: Old Ones Origins",
-    "projectCreator": "chaosium",
-    "projectSlug": "call-of-cthulhu-old-ones-origins",
-    "title": "Old Ones Origins project status update",
-    "excerpt": "Old Ones Origins project status update",
-    "image": "https://imgcdn.gamefound.com/projectimage/projects/8534/836e992f-a1f0-4a32-9de6-4ad0c05f95dd.png",
-    "publishedAt": "2026-11-19T20:00:42.573Z",
-    "url": "https://gamefound.com/en/projects/chaosium/call-of-cthulhu-old-ones-origins/updates/32",
-    "sequenceNumber": 32
   },
   {
     "id": 50701,
@@ -572,19 +598,6 @@
     "sequenceNumber": 13
   },
   {
-    "id": 49712,
-    "projectId": 6096,
-    "projectName": "The Elder Scrolls: Heroes of Tamriel",
-    "projectCreator": "chip-theory-games",
-    "projectSlug": "the-elder-scrolls-heroes-of-tamriel",
-    "title": "October Update: Fulfillment Begins in Earnest!",
-    "excerpt": "USA fulfillment in full swing, ships on their way to all other regions.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6096/3584727e-eedc-4d05-9053-52c5ec7501dc.png",
-    "publishedAt": "2026-10-30T18:54:13.157Z",
-    "url": "https://gamefound.com/en/projects/chip-theory-games/the-elder-scrolls-heroes-of-tamriel/updates/26",
-    "sequenceNumber": 26
-  },
-  {
     "id": 48582,
     "projectId": 5297,
     "projectName": "Dead by Daylight: The Board Game",
@@ -830,19 +843,6 @@
     "publishedAt": "2026-09-25T10:00:00Z",
     "url": "https://gamefound.com/en/projects/ramezware/boardquest-blight-of-the-undead/updates/12",
     "sequenceNumber": 12
-  },
-  {
-    "id": 44813,
-    "projectId": 10157,
-    "projectName": "Aeon's End: System Overload",
-    "projectCreator": "indie-boards-and-cards",
-    "projectSlug": "aeons-end-system-overload",
-    "title": "Pledge Manager closing soon!",
-    "excerpt": "Last change to add items to your pledge.",
-    "image": "https://imgcdn.gamefound.com/projectimage/projects/10157/13c19376-b49e-4de1-a0f4-386946f230ca.jpg",
-    "publishedAt": "2026-09-23T21:13:00.513Z",
-    "url": "https://gamefound.com/en/projects/indie-boards-and-cards/aeons-end-system-overload/updates/17",
-    "sequenceNumber": 17
   },
   {
     "id": 42756,
