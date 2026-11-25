@@ -1,5 +1,18 @@
 [
   {
+    "id": 50927,
+    "projectId": 8199,
+    "projectName": "Dust in the Wind",
+    "projectCreator": "phalanx",
+    "projectSlug": "dust-in-the-wind",
+    "title": "From Purple Haze to Dust in the Wind + Gamefound Pararaph Game",
+    "excerpt": "The familiar foundations of Purple Haze meet new Character development, tougher travel decisions, and a different approach to combat. Plus, we have a PH-inspired paragraph game.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8199/8e25c0b5-70e7-4d2b-b855-17279be6b628.png",
+    "publishedAt": "2026-11-24T22:59:36.173Z",
+    "url": "https://gamefound.com/en/projects/phalanx/dust-in-the-wind/updates/12",
+    "sequenceNumber": 12
+  },
+  {
     "id": 50883,
     "projectId": 10066,
     "projectName": "Eldfall Chronicles: Apocrypha",
@@ -115,19 +128,6 @@
     "publishedAt": "2026-11-24T02:01:37.663Z",
     "url": "https://gamefound.com/en/projects/chip-theory-games/the-elder-scrolls-heroes-of-tamriel/updates/27",
     "sequenceNumber": 27
-  },
-  {
-    "id": 50861,
-    "projectId": 8199,
-    "projectName": "Dust in the Wind",
-    "projectCreator": "phalanx",
-    "projectSlug": "dust-in-the-wind",
-    "title": "What would the Old West be without Cowboys (and Gold)?",
-    "excerpt": "To answer that question, we invite you to take a look at our second big expansion!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8199/47a1efb6-e063-430a-9ef5-5008cb811184.png",
-    "publishedAt": "2026-11-23T20:03:23.117Z",
-    "url": "https://gamefound.com/en/projects/phalanx/dust-in-the-wind/updates/11",
-    "sequenceNumber": 11
   },
   {
     "id": 50785,
