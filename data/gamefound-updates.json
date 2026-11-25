@@ -1,29 +1,68 @@
 [
   {
-    "id": 50927,
-    "projectId": 8199,
-    "projectName": "Dust in the Wind",
-    "projectCreator": "phalanx",
-    "projectSlug": "dust-in-the-wind",
-    "title": "From Purple Haze to Dust in the Wind + Gamefound Pararaph Game",
-    "excerpt": "The familiar foundations of Purple Haze meet new Character development, tougher travel decisions, and a different approach to combat. Plus, we have a PH-inspired paragraph game.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8199/8e25c0b5-70e7-4d2b-b855-17279be6b628.png",
-    "publishedAt": "2026-11-24T22:59:36.173Z",
-    "url": "https://gamefound.com/en/projects/phalanx/dust-in-the-wind/updates/12",
-    "sequenceNumber": 12
-  },
-  {
-    "id": 50883,
+    "id": 50974,
     "projectId": 10066,
     "projectName": "Eldfall Chronicles: Apocrypha",
     "projectCreator": "eldfall-chronicles",
     "projectSlug": "eldfall-chronicles-apocrypha",
-    "title": "ENDGAME IS LIVE! | New Add-Ons & Rewards!",
-    "excerpt": "One final quest awaits! Endgame begins, bringing new content and rewards!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/96f3c5f6-1b8f-4d28-9498-9a98da9e7670.jpg",
-    "publishedAt": "2026-11-24T20:50:00Z",
-    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/21",
-    "sequenceNumber": 21
+    "title": "ENDGAME DAY 2! | New Rewards & One Incredible Milestone!",
+    "excerpt": "A full day of Endgame is complete! The Art & Lore Book is fully unlocked, and a new set of rewards awaits our Adventurers!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/6bdf60e6-a048-4c44-a56a-ba63c3f290ce.jpg",
+    "publishedAt": "2026-11-25T21:16:51.313Z",
+    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/24",
+    "sequenceNumber": 24
+  },
+  {
+    "id": 50957,
+    "projectId": 5249,
+    "projectName": "Machina Arcana: Vivarium",
+    "projectCreator": "adreama-games",
+    "projectSlug": "machina-arcana-vivarium",
+    "title": "Miniatures and Tray solution: Approved",
+    "excerpt": "With miniature boxes, miniatures, and the tray solution (for Core, Veteran, and Ultimate boxes) all Approved - Production moves to the next phase.\nI've recorded a full walkthrough so you can see exactly what will arrive at your table.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5249/b23eea3d-3e75-426d-8f50-d4a3412865f4.png",
+    "publishedAt": "2026-11-25T18:53:28.093Z",
+    "url": "https://gamefound.com/en/projects/adreama-games/machina-arcana-vivarium/updates/23",
+    "sequenceNumber": 23
+  },
+  {
+    "id": 50968,
+    "projectId": 4287,
+    "projectName": "Primal HEX",
+    "projectCreator": "smart-flamingo",
+    "projectSlug": "primal-hex",
+    "title": "MASS PRODUCTION SAMPLE ARRIVED! PRODUCTION STATUS",
+    "excerpt": "The MPS has arrived – lots of good news, but not all of it.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4287/6576a68b-84d1-4c5d-a2c8-ab8d65f4e576.jpg",
+    "publishedAt": "2026-11-25T18:46:28.373Z",
+    "url": "https://gamefound.com/en/projects/smart-flamingo/primal-hex/updates/26",
+    "sequenceNumber": 26
+  },
+  {
+    "id": 50966,
+    "projectId": 8199,
+    "projectName": "Dust in the Wind",
+    "projectCreator": "phalanx",
+    "projectSlug": "dust-in-the-wind",
+    "title": "Contracts: Someone Has a Job for You",
+    "excerpt": "We bring a new side-quest mechanic to Dust in the Wind with the Contracts expansion. Also, it’s time to start our Gamefound Paragraph Game!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8199/aee05b2a-8cc5-4159-b584-6994e49b699a.png",
+    "publishedAt": "2026-11-25T18:16:55.773Z",
+    "url": "https://gamefound.com/en/projects/phalanx/dust-in-the-wind/updates/13",
+    "sequenceNumber": 13
+  },
+  {
+    "id": 50950,
+    "projectId": 10031,
+    "projectName": "The Thing: The Boardgame & The Cardgame",
+    "projectCreator": "pendragon-game-studio-srl",
+    "projectSlug": "the-thing-the-boardgame--the-cardgame",
+    "title": "Standeein' Alive!",
+    "excerpt": "The Human Miniatures Set 2 characters are now available in Standee version.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/f0e2d3e0-d00c-40d0-b6ff-00a2f69c1478.png",
+    "publishedAt": "2026-11-25T15:30:00Z",
+    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/18",
+    "sequenceNumber": 18
   },
   {
     "id": 50911,
@@ -63,19 +102,6 @@
     "publishedAt": "2026-11-24T15:38:14.83Z",
     "url": "https://gamefound.com/en/projects/smart-flamingo/dice-valley/updates/7",
     "sequenceNumber": 7
-  },
-  {
-    "id": 50892,
-    "projectId": 10031,
-    "projectName": "The Thing: The Boardgame & The Cardgame",
-    "projectCreator": "pendragon-game-studio-srl",
-    "projectSlug": "the-thing-the-boardgame--the-cardgame",
-    "title": "The Thing evolves: discover the Updated Rulebook!",
-    "excerpt": "The draft of the Updated Rules for The Thing: The Boardgame is now available for download!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/ded696b9-8a43-42b2-9db0-7d92620ac402.png",
-    "publishedAt": "2026-11-24T14:00:00Z",
-    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/17",
-    "sequenceNumber": 17
   },
   {
     "id": 50877,
@@ -637,19 +663,6 @@
     "sequenceNumber": 54
   },
   {
-    "id": 48431,
-    "projectId": 5249,
-    "projectName": "Machina Arcana: Vivarium",
-    "projectCreator": "adreama-games",
-    "projectSlug": "machina-arcana-vivarium",
-    "title": "Good News: The Polish 4th Edition Is Happening",
-    "excerpt": "We will have the full Polish 4th edition of Machina Arcana for this campaign!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/5249/22c0de5b-09ca-40b5-a0f4-01b88a0ce27c.png",
-    "publishedAt": "2026-10-26T14:21:22.62Z",
-    "url": "https://gamefound.com/en/projects/adreama-games/machina-arcana-vivarium/updates/22",
-    "sequenceNumber": 22
-  },
-  {
     "id": 48389,
     "projectId": 8531,
     "projectName": "Six Sided Summoner",
@@ -726,19 +739,6 @@
     "publishedAt": "2026-10-20T12:14:53.727Z",
     "url": "https://gamefound.com/en/projects/lms/blasphemous-the-boardgame/updates/54",
     "sequenceNumber": 54
-  },
-  {
-    "id": 48134,
-    "projectId": 4287,
-    "projectName": "Primal HEX",
-    "projectCreator": "smart-flamingo",
-    "projectSlug": "primal-hex",
-    "title": "PRODUCTION UPDATE / PRIMAL HEX AT SPIEL / NEW CAMPAIGNS",
-    "excerpt": "We are waiting for the MPS, but will be presenting PPS at SPIEL.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/4287/dee988c7-58e7-4d21-bab3-5e67a4e3a300.jpg",
-    "publishedAt": "2026-10-19T19:23:05.39Z",
-    "url": "https://gamefound.com/en/projects/smart-flamingo/primal-hex/updates/25",
-    "sequenceNumber": 25
   },
   {
     "id": 48116,
