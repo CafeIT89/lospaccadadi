@@ -1,5 +1,83 @@
 [
   {
+    "id": 51017,
+    "projectId": 8199,
+    "projectName": "Dust in the Wind",
+    "projectCreator": "phalanx",
+    "projectSlug": "dust-in-the-wind",
+    "title": "Choices That Stay With You",
+    "excerpt": "Your decisions can change future encounters, your achievements shape the campaign's ending, and even an unsuccessful scenario doesn't have to end your adventure.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8199/cc211c60-285b-4096-abeb-e97165913a11.png",
+    "publishedAt": "2026-11-26T20:30:46.657Z",
+    "url": "https://gamefound.com/en/projects/phalanx/dust-in-the-wind/updates/14",
+    "sequenceNumber": 14
+  },
+  {
+    "id": 48192,
+    "projectId": 9719,
+    "projectName": "The Lord of the Rings: Ascension",
+    "projectCreator": "stoneblade",
+    "projectSlug": "the-lord-of-the-rings-ascension",
+    "title": "New Art: Watcher in the Water",
+    "excerpt": "We’re back with another look at a new piece of art from The Lord of the Rings™: Ascension™",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9719/8b31d160-e2dc-45a3-975b-2c8ce11c663e.png",
+    "publishedAt": "2026-11-26T17:00:00Z",
+    "url": "https://gamefound.com/en/projects/stoneblade/the-lord-of-the-rings-ascension/updates/51",
+    "sequenceNumber": 51
+  },
+  {
+    "id": 50916,
+    "projectId": 6883,
+    "projectName": "The Witcher: No Man's Land",
+    "projectCreator": "monster-fight-club",
+    "projectSlug": "the-witcher-no-mans-land",
+    "title": "Free Company Arbalist",
+    "excerpt": "Sometimes the best way to deal with trouble is from a comfortable distance!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/6883/6225a8b0-9d12-472c-bb1a-1f0680051b99.jpg",
+    "publishedAt": "2026-11-26T15:37:47.63Z",
+    "url": "https://gamefound.com/en/projects/monster-fight-club/the-witcher-no-mans-land/updates/10",
+    "sequenceNumber": 10
+  },
+  {
+    "id": 51002,
+    "projectId": 11735,
+    "projectName": "Heroes vs Hordes",
+    "projectCreator": "luteloot",
+    "projectSlug": "heroesvshordes",
+    "title": "Hello there!",
+    "excerpt": "Saying hi and thank you!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11735/6d93afad-b783-4c44-be84-304f3441f7c3.png",
+    "publishedAt": "2026-11-26T14:20:19.863Z",
+    "url": "https://gamefound.com/en/projects/luteloot/heroesvshordes/updates/1",
+    "sequenceNumber": 1
+  },
+  {
+    "id": 50986,
+    "projectId": 10031,
+    "projectName": "The Thing: The Boardgame & The Cardgame",
+    "projectCreator": "pendragon-game-studio-srl",
+    "projectSlug": "the-thing-the-boardgame--the-cardgame",
+    "title": "Standeein' Alive! Part 2",
+    "excerpt": "The exclusive Set 2 characters are now available in Standee version, as a separate and affordable add-on.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/ed96481c-43c0-4b4a-909c-16c1a0683ca6.png",
+    "publishedAt": "2026-11-26T14:00:00Z",
+    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/19",
+    "sequenceNumber": 19
+  },
+  {
+    "id": 50993,
+    "projectId": 3809,
+    "projectName": "Cyberpunk 2077: The Board Game",
+    "projectCreator": "go-on-board",
+    "projectSlug": "cyberpunk-2077-the-board-game",
+    "title": "Wounds from the last game healed, progress uploaded.",
+    "excerpt": "Factory Update / Community Q&A",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3809/f6e4249e-7b67-4378-b53a-b5b3975cc839.png",
+    "publishedAt": "2026-11-26T13:46:49.37Z",
+    "url": "https://gamefound.com/en/projects/go-on-board/cyberpunk-2077-the-board-game/updates/64",
+    "sequenceNumber": 64
+  },
+  {
     "id": 50982,
     "projectId": 11765,
     "projectName": "Dungeon of Tanares",
@@ -50,32 +128,6 @@
     "publishedAt": "2026-11-25T18:46:28.373Z",
     "url": "https://gamefound.com/en/projects/smart-flamingo/primal-hex/updates/26",
     "sequenceNumber": 26
-  },
-  {
-    "id": 50966,
-    "projectId": 8199,
-    "projectName": "Dust in the Wind",
-    "projectCreator": "phalanx",
-    "projectSlug": "dust-in-the-wind",
-    "title": "Contracts: Someone Has a Job for You",
-    "excerpt": "We bring a new side-quest mechanic to Dust in the Wind with the Contracts expansion. Also, it’s time to start our Gamefound Paragraph Game!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/8199/aee05b2a-8cc5-4159-b584-6994e49b699a.png",
-    "publishedAt": "2026-11-25T18:16:55.773Z",
-    "url": "https://gamefound.com/en/projects/phalanx/dust-in-the-wind/updates/13",
-    "sequenceNumber": 13
-  },
-  {
-    "id": 50950,
-    "projectId": 10031,
-    "projectName": "The Thing: The Boardgame & The Cardgame",
-    "projectCreator": "pendragon-game-studio-srl",
-    "projectSlug": "the-thing-the-boardgame--the-cardgame",
-    "title": "Standeein' Alive!",
-    "excerpt": "The Human Miniatures Set 2 characters are now available in Standee version.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10031/f0e2d3e0-d00c-40d0-b6ff-00a2f69c1478.png",
-    "publishedAt": "2026-11-25T15:30:00Z",
-    "url": "https://gamefound.com/en/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame/updates/18",
-    "sequenceNumber": 18
   },
   {
     "id": 50911,
@@ -221,6 +273,19 @@
     "sequenceNumber": 29
   },
   {
+    "id": 50729,
+    "projectId": 13513,
+    "projectName": "T-T-K",
+    "projectCreator": "tinek",
+    "projectSlug": "t-t-k",
+    "title": "Polish Localisation of the Project Page",
+    "excerpt": "Just updated the page with full Polish localisation. Enjoy the gibberish ;)\nPL: Strona projektu właśnie dostała pełne polskie tłumaczenie.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13513/5f273789-0db4-453c-bcb4-c4ae9c764bef.png",
+    "publishedAt": "2026-11-20T02:14:44.593Z",
+    "url": "https://gamefound.com/en/projects/tinek/t-t-k/updates/1",
+    "sequenceNumber": 1
+  },
+  {
     "id": 50728,
     "projectId": 9823,
     "projectName": "Fable Quest",
@@ -232,19 +297,6 @@
     "publishedAt": "2026-11-20T01:18:48.817Z",
     "url": "https://gamefound.com/en/projects/tabletop-tycoon/fable-quest/updates/18",
     "sequenceNumber": 18
-  },
-  {
-    "id": 40210,
-    "projectId": 9719,
-    "projectName": "The Lord of the Rings: Ascension",
-    "projectCreator": "stoneblade",
-    "projectSlug": "the-lord-of-the-rings-ascension",
-    "title": "Design Diary: The Lord of the Rings: The Two Towers™ - Ascension™ (Part 2)",
-    "excerpt": "Learn how The Lord of the Rings: The Two Towers - Ascension was designed.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/9719/b6bf7c2a-84ff-45b6-b1f8-a7573a57ced9.png",
-    "publishedAt": "2026-11-19T17:00:00Z",
-    "url": "https://gamefound.com/en/projects/stoneblade/the-lord-of-the-rings-ascension/updates/50",
-    "sequenceNumber": 50
   },
   {
     "id": 50490,
@@ -351,6 +403,19 @@
     "sequenceNumber": 2
   },
   {
+    "id": 50464,
+    "projectId": 13182,
+    "projectName": "Pirate Piggies",
+    "projectCreator": "pirate-piggies",
+    "projectSlug": "pirate_piggies",
+    "title": "Update #4 Take the Helm 🧭",
+    "excerpt": "Climb aboard the 3D ship in Pirate Piggies. Your pirate has a place on deck, and every turn your crew makes carries you all a little closer to trouble.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/13182/0870e0c7-52d9-4cd2-96a9-d172a84ff5dc.png",
+    "publishedAt": "2026-11-14T19:02:00Z",
+    "url": "https://gamefound.com/en/projects/pirate-piggies/pirate_piggies/updates/4",
+    "sequenceNumber": 4
+  },
+  {
     "id": 50479,
     "projectId": 12995,
     "projectName": "Too Little Time",
@@ -375,6 +440,19 @@
     "publishedAt": "2026-11-13T14:05:09.387Z",
     "url": "https://gamefound.com/en/projects/asmodee/dead-men-tales/updates/121",
     "sequenceNumber": 121
+  },
+  {
+    "id": 50370,
+    "projectId": 11311,
+    "projectName": "G.I. Joe: Operation Cobra - First Chapter",
+    "projectCreator": "ocgames",
+    "projectSlug": "gi-joe-operation-cobra---first-chapter",
+    "title": "G.I. JOE: Operation Cobra – First Chapter Is Manufactured and Ready for Pre-Order!",
+    "excerpt": "The game is already manufactured, and we're taking an important step to get it onto your tables as efficiently as possible.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11311/8afc9b59-63c0-4e7c-b925-27e44d0fdd61.jpg",
+    "publishedAt": "2026-11-12T12:35:07.643Z",
+    "url": "https://gamefound.com/en/projects/ocgames/gi-joe-operation-cobra---first-chapter/updates/6",
+    "sequenceNumber": 6
   },
   {
     "id": 50232,
@@ -635,19 +713,6 @@
     "publishedAt": "2026-10-28T18:43:17.25Z",
     "url": "https://gamefound.com/en/projects/level-99-games/dbd/updates/19",
     "sequenceNumber": 19
-  },
-  {
-    "id": 48556,
-    "projectId": 3809,
-    "projectName": "Cyberpunk 2077: The Board Game",
-    "projectCreator": "go-on-board",
-    "projectSlug": "cyberpunk-2077-the-board-game",
-    "title": "All Rulebooks Available & ICEBREAKER Gameplay!",
-    "excerpt": "Production Progress / All Rulebooks / ICEBREAKER Gameplay / Community Q&A",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/3809/2492a3a5-bf09-4023-b9d2-24bbf9724226.png",
-    "publishedAt": "2026-10-28T15:01:31.157Z",
-    "url": "https://gamefound.com/en/projects/go-on-board/cyberpunk-2077-the-board-game/updates/63",
-    "sequenceNumber": 63
   },
   {
     "id": 48169,

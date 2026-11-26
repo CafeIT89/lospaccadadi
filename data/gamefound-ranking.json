@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-11-26T08:09:51.920Z",
+  "updatedAt": "2026-11-26T21:27:14.230Z",
   "projects": [
     {
       "name": "Marco Polo Deluxe Master Set",
       "creator": "Board&Dice",
       "url": "https://gamefound.com/projects/board-and-dice/marco-polo-deluxe-master-set",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8165/7e1de4c8-ab5f-4784-aaeb-a533bf194393.png",
-      "fundsGathered": 631941.74,
+      "fundsGathered": 709634.35,
       "currency": "EUR",
-      "backerCount": 3814,
-      "campaignEndDate": "2026-11-26T20:30:00Z"
+      "backerCount": 4236,
+      "campaignEndDate": "2026-11-26T21:33:16.68Z"
     },
     {
       "name": "The Thing: The Boardgame & The Cardgame",
       "creator": "Pendragon Game Studio srl",
       "url": "https://gamefound.com/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/10031/70fed4be-3f15-4d8b-ba54-b6b719be76f5.png",
-      "fundsGathered": 535153.91,
+      "fundsGathered": 541408.82,
       "currency": "EUR",
-      "backerCount": 3815,
+      "backerCount": 3864,
       "campaignEndDate": "2026-12-01T16:00:00Z"
     },
     {
@@ -26,9 +26,9 @@
       "creator": "Funtails GmbH",
       "url": "https://gamefound.com/projects/funtails-gmbh/feed-the-kraken-sea-of-shadows",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/6398/8613d5c7-7d05-4a48-9f4b-aaf77406684a.png",
-      "fundsGathered": 298196.11,
+      "fundsGathered": 305186.26,
       "currency": "EUR",
-      "backerCount": 1920,
+      "backerCount": 1962,
       "campaignEndDate": "2026-12-01T17:00:00Z"
     },
     {
@@ -36,9 +36,9 @@
       "creator": "PHALANX",
       "url": "https://gamefound.com/projects/phalanx/dust-in-the-wind",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8199/01363ef0-2caa-4d97-aaab-9b860d8dda09.png",
-      "fundsGathered": 180162.37,
+      "fundsGathered": 182933.86,
       "currency": "EUR",
-      "backerCount": 908,
+      "backerCount": 921,
       "campaignEndDate": "2026-12-10T20:30:00Z"
     },
     {
@@ -46,9 +46,9 @@
       "creator": "Ludus Magnus Studio",
       "url": "https://gamefound.com/projects/lms/thebreach-reprint-hellcoreexpansion",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/9795/b9a31b4d-706f-4939-af4c-a6845d3d5f83.png",
-      "fundsGathered": 172063.59,
+      "fundsGathered": 175687.24,
       "currency": "EUR",
-      "backerCount": 1065,
+      "backerCount": 1079,
       "campaignEndDate": "2026-12-10T22:00:00Z"
     }
   ]
