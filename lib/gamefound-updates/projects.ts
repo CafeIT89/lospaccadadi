@@ -493,4 +493,36 @@ export const GAMEFOUND_PROJECTS: GamefoundProject[] = [
     projectId: 8595,
   },
 
+  // Nuove campagne - Novembre 2026 (secondo gruppo)
+
+  {
+    name: "Quests of Drakana",
+    creator: "boardvideogames",
+    slug: "quests-of-drakana",
+    projectId: 13462,
+  },
+  {
+    name: "T-T-K",
+    creator: "tinek",
+    slug: "t-t-k",
+    projectId: 13513,
+  },
+  {
+    name: "Pirate Piggies",
+    creator: "pirate-piggies",
+    slug: "pirate_piggies",
+    projectId: 13182,
+  },
+  {
+    name: "G.I. Joe: Operation Cobra - First Chapter",
+    creator: "ocgames",
+    slug: "gi-joe-operation-cobra---first-chapter",
+    projectId: 11311,
+  },
+  {
+    name: "The Witcher: No Man's Land",
+    creator: "monster-fight-club",
+    slug: "the-witcher-no-mans-land",
+    projectId: 6883,
+  },
 ];
