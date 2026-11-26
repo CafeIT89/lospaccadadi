@@ -1,16 +1,29 @@
 [
   {
-    "id": 50974,
+    "id": 50982,
+    "projectId": 11765,
+    "projectName": "Dungeon of Tanares",
+    "projectCreator": "dragori-games",
+    "projectSlug": "dungeon-of-tanares",
+    "title": "Late Pledge Is Open, Plus the Complete Miniature Guide",
+    "excerpt": "Our first monthly update: how the open world is taking shape, all 400+ miniatures, and the first vote to design our Heroes’ Caravan miniature.",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/a1b4df73-e680-4fc7-a884-f2eafcede65b.jpeg",
+    "publishedAt": "2026-11-26T04:45:31.12Z",
+    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/22",
+    "sequenceNumber": 22
+  },
+  {
+    "id": 50978,
     "projectId": 10066,
     "projectName": "Eldfall Chronicles: Apocrypha",
     "projectCreator": "eldfall-chronicles",
     "projectSlug": "eldfall-chronicles-apocrypha",
-    "title": "ENDGAME DAY 2! | New Rewards & One Incredible Milestone!",
-    "excerpt": "A full day of Endgame is complete! The Art & Lore Book is fully unlocked, and a new set of rewards awaits our Adventurers!",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/6bdf60e6-a048-4c44-a56a-ba63c3f290ce.jpg",
-    "publishedAt": "2026-11-25T21:16:51.313Z",
-    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/24",
-    "sequenceNumber": 24
+    "title": "€1,000,000 Reached! You did it, Adventurers!",
+    "excerpt": "Eldfall Chronicles: Apocrypha has officially surpassed €1,000,000 in funding, with over 2,600 Adventurers and 34 Stretch Goals and special Unlocks achieved!",
+    "image": "https://imgcdn.gamefound.com/projectupdate/projects/10066/bc1810b3-487b-4fe7-b90e-6ef028926c08.jpg",
+    "publishedAt": "2026-11-26T00:19:38.993Z",
+    "url": "https://gamefound.com/en/projects/eldfall-chronicles/eldfall-chronicles-apocrypha/updates/25",
+    "sequenceNumber": 25
   },
   {
     "id": 50957,
@@ -453,19 +466,6 @@
     "publishedAt": "2026-11-09T17:41:08.703Z",
     "url": "https://gamefound.com/en/projects/wearecgs/blade-runner-2049/updates/1",
     "sequenceNumber": 1
-  },
-  {
-    "id": 50198,
-    "projectId": 11765,
-    "projectName": "Dungeon of Tanares",
-    "projectCreator": "dragori-games",
-    "projectSlug": "dungeon-of-tanares",
-    "title": "A Personal Thank You",
-    "excerpt": "You unlocked every reward. Here’s what comes next.",
-    "image": "https://imgcdn.gamefound.com/projectupdate/projects/11765/a03ff864-f3b4-4257-a46f-e576d5bb7db6.jpeg",
-    "publishedAt": "2026-11-09T13:16:22.537Z",
-    "url": "https://gamefound.com/en/projects/dragori-games/dungeon-of-tanares/updates/21",
-    "sequenceNumber": 21
   },
   {
     "id": 50127,
