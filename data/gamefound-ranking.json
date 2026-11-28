@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-27T21:10:24.316Z",
+  "updatedAt": "2026-11-28T07:40:21.069Z",
   "projects": [
     {
       "name": "The Thing: The Boardgame & The Cardgame",
       "creator": "Pendragon Game Studio srl",
       "url": "https://gamefound.com/projects/pendragon-game-studio-srl/the-thing-the-boardgame--the-cardgame",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/10031/70fed4be-3f15-4d8b-ba54-b6b719be76f5.png",
-      "fundsGathered": 556798.49,
+      "fundsGathered": 562065.06,
       "currency": "EUR",
-      "backerCount": 3967,
+      "backerCount": 3995,
       "campaignEndDate": "2026-12-01T16:00:00Z"
     },
     {
@@ -16,9 +16,9 @@
       "creator": "Funtails GmbH",
       "url": "https://gamefound.com/projects/funtails-gmbh/feed-the-kraken-sea-of-shadows",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/6398/ed15fa6d-e04a-436b-84b6-3a3cefb9f2ca.png",
-      "fundsGathered": 311473.32,
+      "fundsGathered": 314232.27,
       "currency": "EUR",
-      "backerCount": 2013,
+      "backerCount": 2034,
       "campaignEndDate": "2026-12-01T17:00:00Z"
     },
     {
@@ -26,9 +26,9 @@
       "creator": "PHALANX",
       "url": "https://gamefound.com/projects/phalanx/dust-in-the-wind",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/8199/01363ef0-2caa-4d97-aaab-9b860d8dda09.png",
-      "fundsGathered": 185273.16,
+      "fundsGathered": 186026.46,
       "currency": "EUR",
-      "backerCount": 933,
+      "backerCount": 937,
       "campaignEndDate": "2026-12-10T20:30:00Z"
     },
     {
@@ -36,9 +36,9 @@
       "creator": "Ludus Magnus Studio",
       "url": "https://gamefound.com/projects/lms/thebreach-reprint-hellcoreexpansion",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/9795/b9a31b4d-706f-4939-af4c-a6845d3d5f83.png",
-      "fundsGathered": 181039.91,
+      "fundsGathered": 182185.19,
       "currency": "EUR",
-      "backerCount": 1103,
+      "backerCount": 1111,
       "campaignEndDate": "2026-12-10T22:00:00Z"
     },
     {
@@ -46,9 +46,9 @@
       "creator": "Yellow King",
       "url": "https://gamefound.com/projects/yellow-king/keyforge-online",
       "image": "https://imgcdn.gamefound.com/projectimage/projects/11690/f49eade6-1cff-4878-9a5f-f6834b4fc21e.png",
-      "fundsGathered": 156236.04,
+      "fundsGathered": 156588.53,
       "currency": "USD",
-      "backerCount": 937,
+      "backerCount": 942,
       "campaignEndDate": "2026-12-12T15:00:00Z"
     }
   ]
